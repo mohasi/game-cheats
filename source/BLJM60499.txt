@@ -1,0 +1,13 @@
+# Assassin's Creed I + II Welcome Pack
+
+name: Assassin's Creed 2: Infinite HP
+mode: once
+w32 00939404 60000000
+
+name: Assassin's Creed 2: Infinite Money + Items
+mode: once
+w32 0047F350 7C090378
+
+name: Assassin's Creed 2: AoB Infinite Money + Items
+mode: once
+aob 7D240050419C000C3960000191230010 7C090378419C000C3960000191230010

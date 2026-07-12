@@ -1,0 +1,36 @@
+# Generator Rex: Agent of Providence
+
+name: Memory Lot Of Nanite On Gain
+mode: once
+w32 32B93AFC 000000C8
+
+name: ASM Lot Of Nanite On Gain
+mode: once
+w32 000DE768 7D220214
+w32 000DE76C 905C0004
+
+name: Memory 1 Hit Kill + Health Bar Decreases But You Never Die
+mode: once
+w32 37641BC4 42C80000
+
+name: ASM 1 Hit Kill + Health Bar Decreases But You Never Die
+mode: once
+w32 00072DAC 60000000
+
+name: Memory Infinite Omega Power
+mode: once
+w32 37642FAC 43480000
+
+name: ASM Infinite Omega Power
+mode: once
+w32 000DFE04 60000000
+w32 000DFE08 60000000
+
+name: Memory Instant Omega Power
+mode: once
+w32 37642FAC 43480000
+
+name: ASM Instant Omega Power
+mode: once
+w32 00190DA4 EFFF67BA
+w32 00190DAC D2C60004

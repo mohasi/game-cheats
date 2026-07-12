@@ -1,0 +1,94 @@
+# Dishonored: Game of the Year Edition
+
+name: Dishonored: Max And Infinite Health
+mode: once
+w32 008AB00C 835B0348
+w32 008AB014 935B0344
+w32 008AB01C 48000008
+
+name: Dishonored: Max And Infinite Oxygen
+mode: once
+w32 00749C6C 60000000
+w32 00749C90 480000FC
+
+name: Dishonored: Max And Infinite Mana
+mode: once
+w32 007344D4 60000000
+
+name: Dishonored: Infinite Ammo In Inventory After Reloading
+mode: once
+w32 0092E420 7C6307B4
+
+name: Dishonored: Max Ammo On Gain
+mode: once
+w32 0092E4C0 48000008
+
+name: Dishonored: Infinite Ammo And Never Need To Reload
+mode: once
+w32 0095E9B8 7CA32B78
+
+name: Dishonored: Max Sokolov's Health Elixir And Piero's Spiritual Remedy On Gain
+mode: once
+w32 0092E150 48000008
+
+name: Dishonored: Infinite Sokolov's Health Elixir And Piero's Spiritual Remedy On Use
+mode: once
+w32 0092DF6C 60000000
+
+name: Dishonored: Max Coin, Rewire Tools, And Runes On Gain After Gaining 1
+mode: once
+w32 0092F2F8 3C800001
+w32 0092F2FC 608486A0
+
+name: Dishonored: Infinite Coins After Use
+mode: once
+w32 0092E9F0 7CA42B78
+
+name: Dishonored: Infinite Runes After Use
+mode: once
+w32 008D860C 7F5A07B4
+
+name: Dishonored: AoB Max And Infinite Health
+mode: once
+aob 835B0344807B05982C1A0000809B034841810008 835B0348807B0598935B0344809B034848000008
+
+name: Dishonored: AoB Max And Infinite Oxygen
+mode: once
+aob 41820028EC61F028 60000000EC61F028
+aob 418200FCEC21F828 480000FCEC21F828
+
+name: Dishonored: AoB Max And Infinite Mana
+mode: once
+aob 4181000860A4000060650000 6000000860A4000060650000
+
+name: Dishonored: AoB Infinite Ammo In Inventory After Reloading
+mode: once
+aob 7C7F18103BC00001 7C6307B43BC00001
+
+name: Dishonored: AoB Max Ammo On Gain
+mode: once
+aob 41810008609C0000 48000008609C0000
+
+name: Dishonored: AoB Infinite Ammo And Never Need To Reload
+mode: once
+aob 7C7F28102C030000 7CA32B782C030000
+
+name: Dishonored: AoB Max Sokolov's Health Elixir And Piero's Spiritual Remedy On Gain
+mode: once
+aob 40800008607A000063C30000 48000008607A000063C30000
+
+name: Dishonored: AoB Infinite Sokolov's Health Elixir And Piero's Spiritual Remedy On Use
+mode: once
+aob 3084FFFF90610074 6000000090610074
+
+name: Dishonored: AoB Max Coin, Rewire Tools, And Runes On Gain After Gaining 1
+mode: once
+aob 808300047C842814 3C800001608486A0
+
+name: Dishonored: AoB Infinite Coins After Use
+mode: once
+aob 7C8428102C04000041810008 7CA42B782C04000041810008
+
+name: Dishonored: AoB Infinite Runes After Use
+mode: once
+aob 7F57D0102C140000 7F5A07B42C140000

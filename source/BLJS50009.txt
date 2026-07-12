@@ -1,0 +1,9 @@
+# Samurai Dou 3 Plus
+
+name: Gold 99999
+mode: once
+w32 302D71A0 0001869F
+
+name: Points Accumulated 10000
+mode: once
+w32 302D7320 00002710

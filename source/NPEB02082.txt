@@ -1,0 +1,98 @@
+# Legend of Korra, The
+
+name: Avatar The Legend Of Korra: Max Spirit Energy Points
+mode: once
+w32 002B9894 906500E8
+
+name: Avatar The Legend Of Korra: Infinite HP (Korra)
+mode: once
+w32 007E0FC8 82030548
+w32 007E0FCC 92030544
+w32 007E0FD0 80630544
+w32 007E0FD4 4B91BB5C
+w32 000FCB2C 486E449C
+
+name: Avatar The Legend Of Korra: Infinite HP (Pro Bending Mode)
+mode: once
+w32 007E0FF8 82030548
+w32 007E0FFC 92030544
+w32 007E1000 80630544
+w32 007E1004 4B91BB18
+w32 000FCB18 486E44E0
+
+name: Avatar The Legend Of Korra: Infinite HP (Naga)
+mode: once
+w32 002C2078 83BE0548
+w32 002C2088 93BE0544
+
+name: Avatar The Legend Of Korra: Infinite Chi
+mode: once
+w32 000F1768 C07E0028
+w32 000F1780 FC201890
+
+name: Avatar The Legend Of Korra: Infinite Items
+mode: once
+w32 002665A8 30A40000
+
+name: Avatar The Legend Of Korra: Avatar Gauge Always Full
+mode: once
+w32 000F5DEC 60000000
+w32 000F652C D05F0014
+w32 000F6530 60000000
+w32 000F659C C07F001C
+w32 000F65A0 FC201890
+
+name: The Legend Of Korra: Korra Health Never Decreases + Invincibility From Melee Attacks
+mode: once
+w32 00107FDC 60000000
+
+name: The Legend Of Korra: 1 Hit Kills For Most Enemies
+mode: once
+w32 0018641C 3C800000
+
+name: The Legend Of Korra: 9,999,999 Spirit Energy Points On Gain
+mode: once
+w32 00270330 3CA005F5
+w32 00270334 60A5E0FF
+
+name: The Legend Of Korra: Max Spirit Energy Points
+mode: once
+w32 002B9894 906500E8
+
+name: The Legend Of Korra: Infinite HP (Korra)
+mode: once
+w32 007E0FC8 82030548
+w32 007E0FCC 92030544
+w32 007E0FD0 80630544
+w32 007E0FD4 4B91BB5C
+w32 000FCB2C 486E449C
+
+name: The Legend Of Korra: Infinite HP (Pro Bending Mode)
+mode: once
+w32 007E0FF8 82030548
+w32 007E0FFC 92030544
+w32 007E1000 80630544
+w32 007E1004 4B91BB18
+w32 000FCB18 486E44E0
+
+name: The Legend Of Korra: Infinite HP (Naga)
+mode: once
+w32 002C2078 83BE0548
+w32 002C2088 93BE0544
+
+name: The Legend Of Korra: Infinite Chi
+mode: once
+w32 000F1768 C07E0028
+w32 000F1780 FC201890
+
+name: The Legend Of Korra: Infinite Items
+mode: once
+w32 002665A8 30A40000
+
+name: The Legend Of Korra: Avatar Gauge Always Full
+mode: once
+w32 000F5DEC 60000000
+w32 000F652C D05F0014
+w32 000F6530 60000000
+w32 000F659C C07F001C
+w32 000F65A0 FC201890

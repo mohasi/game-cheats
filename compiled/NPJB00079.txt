@@ -1,0 +1,33 @@
+# Pac-Man Championship Edition DX
+
+name: Unlimited Lives
+mode: once
+w32 002CB9D4 60000000
+
+name: Time Never Decrease
+mode: once
+w32 00122960 30630000
+
+name: Bombs Never Decrease
+mode: once
+w32 002E7D5C 60000000
+
+name: Max Score On Increase
+mode: once
+w32 00121E1C 93E42C64
+
+name: AoB Unlimited Lives
+mode: once
+aob 3C80010E90642C807C6307B44E800020 3C80010E600000007C6307B44E800020
+
+name: AoB Time Never Decrease
+mode: once
+aob 80632C5C3063FFFF3C80010E90642C5C 80632C5C306300003C80010E90642C5C
+
+name: AoB Bombs Never Decrease
+mode: once
+aob 3C80010E90642C987C6307B44E800020 3C80010E600000007C6307B44E800020
+
+name: AoB Max Score On Increase
+mode: once
+aob 3C80010E90642C644818E59960000000 3C80010E93E42C644818E59960000000

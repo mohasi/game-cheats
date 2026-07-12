@@ -1,0 +1,20 @@
+# The Adventures of Tintin: The Secret of the Unicorn
+
+name: Les Aventures De Tintin Les Secrets De La Licorne: Memory Infinite Health For Tintin
+mode: once
+w32 40F9617C 00000003
+w32 418FA080 00000003
+
+name: Les Aventures De Tintin Les Secrets De La Licorne: Memory Infinite Health For Milou
+mode: once
+w32 40F9BA68 00000003
+
+name: Les Aventures De Tintin Les Secrets De La Licorne: ASM Infinite Health
+mode: once
+w32 014B7610 7C0E0050
+w32 014B7614 60000000
+
+name: Les Aventures De Tintin Les Secrets De La Licorne: Medkits Give Tintin Infinite Health
+mode: once
+w32 014B7438 7C020214
+w32 014B743C 904B0140

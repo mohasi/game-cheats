@@ -1,0 +1,19 @@
+# Prince of Persia Classic
+
+name: Memory Infinite Health
+mode: once
+w32 33B1C0E0 00000003
+
+name: ASM Infinite Health
+mode: once
+w32 0028A620 39290000
+
+name: Memory Infinite Time
+mode: once
+w32 332712F8 0001AFE1
+w32 33271558 0001B161
+
+name: ASM Infinite Time
+mode: once
+w32 002872A0 38090000
+w32 002872A4 60000000

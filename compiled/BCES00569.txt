@@ -1,0 +1,69 @@
+# Gran Turismo 5
+
+name: Money Max
+mode: once
+w32 42640004 3B9AC9FF
+
+name: Play Day 1
+mode: once
+w32 4264000C 00000001
+
+name: A-SPEC EXP Max
+mode: once
+w32 42645CFC 05F5E0FF
+
+name: B-SPEC EXP Max
+mode: once
+w32 42645D04 05F5E0FF
+
+name: Money Max
+mode: once
+w32 424FE004 3B9AC9FF
+
+name: Play Day 1
+mode: once
+w32 424FE00C 00000001
+
+name: A-SPEC EXP Max
+mode: once
+w32 42503CFC 05F5E0FF
+
+name: B-SPEC EXP Max
+mode: once
+w32 42503D04 05F5E0FF
+
+name: Win A Race To Reach Lv 40
+mode: once
+w32 00B548EC 3C807FFF
+
+name: Money Max
+mode: once
+w32 426B8004 3B9AC9FF
+
+name: Play Day 1
+mode: once
+w32 426B800C 00000001
+
+name: A-SPEC EXP Max
+mode: once
+w32 426BDCFC 05F5E0FF
+
+name: B-SPEC EXP Max
+mode: once
+w32 426BDD04 05F5E0FF
+
+name: Money Max
+mode: once
+w32 4257A004 3B9AC9FF
+
+name: Play Day 1
+mode: once
+w32 4257A00C 00000001
+
+name: A-SPEC EXP Max
+mode: once
+w32 4257FCFC 05F5E0FF
+
+name: B-SPEC EXP Max
+mode: once
+w32 4257FD04 05F5E0FF

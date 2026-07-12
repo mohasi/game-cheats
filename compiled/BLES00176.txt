@@ -1,0 +1,5 @@
+# Need for Speed: ProStreet
+
+name: Cash
+mode: once
+w32 513D71B0 05F5E0FF

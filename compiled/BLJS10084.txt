@@ -1,0 +1,21 @@
+# Naruto Shippuuden: Narutimate Storm 2
+
+name: Naruto Shippuden Narutimate Ninja Storm 2: 9,999,999 Ryo Once Win in Ultimate Adventure
+mode: once
+w32 00ED8240 0098967F
+
+name: Naruto Shippuden Narutimate Ninja Storm 2: 999,999 SP Once Win
+mode: once
+w32 00EED348 000F423F
+
+name: Naruto Shippuden Narutimate Ninja Storm 2: Play Time 999:59:59 in Ultimate Adventure
+mode: once
+w32 00EED344 0036EE80
+
+name: Naruto Shippuden Narutimate Ninja Storm 2: Naruto HP Max in Ultimate Adventure
+mode: once
+w32 00ED82EC 42C80000
+
+name: Naruto Shippuden Narutimate Ninja Storm 2: AoB 9,999,999 Ryo
+mode: once
+aob 7C0022147F804800409D0008 7C0022144800000448000004

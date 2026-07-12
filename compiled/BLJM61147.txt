@@ -1,0 +1,5 @@
+# Ultra Street Fighter IV
+
+name: Ultra Street Fighter 4: P1 hit anywhere
+mode: once
+w32 000B3068 4E800020

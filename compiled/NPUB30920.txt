@@ -1,0 +1,6 @@
+# Batman: Arkham Asylum
+
+name: Infinite Health
+mode: once
+w32 00731E88 38000080
+w32 00731E8C 900302A4

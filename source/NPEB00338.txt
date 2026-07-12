@@ -1,0 +1,65 @@
+# Dead Space - Ignition
+
+name: Route Tracing Unlimited Boosts
+mode: once
+w32 000ACDEC 60000000
+
+name: Route Tracing Unlimited Firewalls
+mode: once
+w32 000ACE4C 60000000
+
+name: Route Tracing Unlimited DDoS Attacks
+mode: once
+w32 000ACF24 60000000
+
+name: System Overriding Timer Never Decreases
+mode: once
+w32 000E6710 60000000
+
+name: System Overriding Bar Never Decreases
+mode: once
+w32 00090A74 60000000
+
+name: Hardware Cracking Can Always Delete Pieces
+mode: once
+w32 00076144 60000000
+
+name: Hardware Cracking Unlimited Projectors
+mode: once
+w32 00075BA4 60000000
+
+name: Hardware Cracking Unlimited Mirrors
+mode: once
+w32 000763E4 60000000
+
+name: Hardware Cracking Unlimited Time
+mode: once
+w32 00073D74 60000000
+
+name: AoB Route Tracing Unlimited Boosts
+mode: once
+aob 2F890000419E0264 2F89000060000000
+
+name: AoB Route Tracing Unlimited Firewalls
+mode: once
+aob 2F890000419E0224 2F89000060000000
+
+name: AoB Route Tracing Unlimited DDoS Attacks
+mode: once
+aob 2F890000419E013C 2F89000060000000
+
+name: AoB Hardware Cracking Can Always Delete Pieces
+mode: once
+aob 2F800000409D023C 2F80000060000000
+
+name: AoB Hardware Cracking Unlimited Projectors
+mode: once
+aob 3A7B04F0409D032C 3A7B04F060000000
+
+name: AoB Hardware Cracking Unlimited Mirrors
+mode: once
+aob 2F800000409DFE90 2F80000060000000
+
+name: AoB Hardware Cracking Unlimited Time
+mode: once
+aob C1A90000EC006828D01F0B6C C1A90000EC00682860000000

@@ -1,0 +1,46 @@
+# Ratchet &amp;amp; Clank: Nexus
+
+name: Ratchet And Clank Nexus: Infinite Health
+mode: once
+w32 001E6E04 D3BD0000
+
+name: Ratchet And Clank Nexus: Infinite Ammo
+mode: once
+w32 00495CC8 60000000
+
+name: Ratchet And Clank Nexus: Infinite Raritanium
+mode: once
+w32 004EFA8C 60000000
+
+name: Ratchet And Clank Nexus: AoB Infinite Health
+mode: once
+aob D3BF0038D3FF003CFC220072 D3BD0000D3FF003CFC220072
+
+name: Ratchet And Clank Nexus: AoB Infinite Ammo
+mode: once
+aob FC23106ED03F0010E80100A07C0803A6 60000000D03F0010E80100A07C0803A6
+
+name: Ratchet And Clank Nexus: AoB Infinite Raritanium
+mode: once
+aob 7C651810907E1050806400002C030013 60000000907E1050806400002C030013
+
+name: Ratchet And Clank Nexus: Infinite Health
+mode: once
+w32 001E7354 D3BD0000
+
+name: Ratchet And Clank Nexus: Infinite Ammo
+mode: once
+w32 00496EA8 60000000
+
+name: Ratchet And Clank Nexus: Infinite Raritanium
+mode: once
+w32 004F0D2C 60000000
+
+name: Ratchet And Clank Nexus: AoB Infinite Raritanium
+mode: once
+aob 7C651810907E1050806400002C030013 60000000D03F0010E80100A07C0803A6
+
+name: Ratchet And Clank Nexus: Unlock FPS (PSXPlace)
+mode: once
+w32 0069A550 38A00001
+w32 0069A564 38600001

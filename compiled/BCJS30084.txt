@@ -1,0 +1,33 @@
+# Ratchet &amp;amp; Clank 1, 2, 3: Ginga Saikyou Gorgeous Pack
+
+name: Ratchet And Clank 1: 1P Invincible Mode
+mode: once
+w32 0055044C 40860008
+
+name: Ratchet And Clank 1: AoB 1P Invincible Mode
+mode: once
+aob 41860008480000143C60005538630424C0430004 40860008480000143C60005538630424C0430004
+
+name: Ratchet And Clank 2 Going Commando: 1P Infinite Health
+mode: once
+w32 0003B91C 408100F8
+
+name: Ratchet And Clank 2 Going Commando: AoB 1P Infinite Health
+mode: once
+aob 418100F8C0AB0000FC802890FC602090FC011800 408100F8C0AB0000FC802890FC602090FC011800
+
+name: Ratchet And Clank 3 Totsugeki! Galactic Rangers: 1P Invincible Mode
+mode: once
+w32 000EF254 40820210
+
+name: Ratchet And Clank 3 Totsugeki! Galactic Rangers: AoB 1P Invincible Mode
+mode: once
+aob 418202103CE0000F3940001038E7F12039800020390000403BC00030 408202103CE0000F3940001038E7F12039800020390000403BC00030
+
+name: Ratchet And Clank 3 Up Your Arsenal: 1P Invincible Mode
+mode: once
+w32 000EF254 40820210
+
+name: Ratchet And Clank 3 Up Your Arsenal: AoB 1P Invincible Mode
+mode: once
+aob 418202103CE0000F3940001038E7F12039800020390000403BC00030 408202103CE0000F3940001038E7F12039800020390000403BC00030

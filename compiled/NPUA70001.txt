@@ -1,0 +1,93 @@
+# Folklore
+
+name: Ellen EXP
+mode: once
+w32 10146CB8 0000FDE8
+
+name: Ellen HP
+mode: once
+w16 10146C14 03E7
+w16 10146C16 03E7
+
+name: Ellen MP
+mode: once
+w16 10146C18 03E7
+w16 10146C1A 03E7
+
+name: Keats EXP
+mode: once
+w32 10146AB8 0000FDE8
+
+name: Keats HP
+mode: once
+w16 10146A14 03E7
+w16 10146A16 03E7
+
+name: Keats MP
+mode: once
+w16 10146A18 03E7
+w16 10146A1A 03E7
+
+name: Unlock FPS
+mode: once
+w8 001823C0 60
+
+name: Infinite HP
+mode: once
+w32 001448C0 60000000
+
+name: Infinite MP
+mode: once
+w32 0014490C 60000000
+
+name: Max Items On Gain
+mode: once
+w32 00171B54 60000000
+
+name: Max Item On Change
+mode: once
+w32 00171B6C 409E0054
+
+name: HP Amount
+mode: once
+w16 10146C1C 00AA
+
+name: Offset HP Area
+mode: once
+w32 001448C0 B1630000
+
+name: MP Amount
+mode: once
+w16 10146C20 0064
+
+name: Offset MP Area
+mode: once
+w32 0014490C B1630004
+
+name: Pulse Tree Nut
+mode: once
+w8 101477EB 63
+
+name: Appointed Item Area
+mode: once
+w32 00171BB0 7FEB492E
+
+name: Appointed Pouke ID
+mode: once
+w8 100F762F 01
+
+name: AoB Infinite HP
+mode: once
+aob 409D0008780B0420B16300004E800020 409D0008780B0420600000004E800020
+
+name: AoB Infinite MP
+mode: once
+aob 409D0008780B0420B16300044E800020 409D0008780B0420600000004E800020
+
+name: AoB Max Item On Gain
+mode: once
+aob 7C1F07B42F9F0063409D000C3BE000633B600000 7C1F07B42F9F0063600000003BE000633B600000
+
+name: AoB Max Item On Change
+mode: once
+aob 2F830005419E00548162D19C57C0402E 2F830005409E00548162D19C57C0402E

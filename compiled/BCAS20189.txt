@@ -1,0 +1,5 @@
+# No More Heroes: Red Zone Edition
+
+name: AoB If you defeat the enemy, replace it with 99999999 three places.
+mode: once
+aob 7C0428004180000860A400002C040000 2C0400004180000860A400002C040000

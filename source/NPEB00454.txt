@@ -1,0 +1,70 @@
+# Sine Mora
+
+name: Freeze Max Time
+mode: once
+w32 0003A63C 60000000
+w32 00034F34 60000000
+w32 0003E2B4 60000000
+
+name: Invincibility
+mode: once
+w32 000303F4 FC201090
+
+name: Infinite Sub-Weapon
+mode: once
+w32 0002FDA4 60000000
+
+name: Infinite Capsules
+mode: once
+w32 0006EABC 60000000
+
+name: Max Firepower On Gain Or Lose
+mode: once
+w32 0008A4A0 38800009
+w32 00035610 38C00009
+
+name: AoB Freeze Max Time
+mode: once
+aob EC2110287C361D2E 600000007C361D2E
+aob 418000183C800007 600000003C800007
+aob 419A00183C800007 600000003C800007
+
+name: AoB Invincibility
+mode: once
+aob EC220828FC01D800 FC201090FC01D800
+
+name: AoB Infinite Sub-Weapon
+mode: once
+aob 3084FFFF98830248 6000000098830248
+
+name: AoB Infinite Capsules
+mode: once
+aob EC21F0BCD0230000 EC21F0BC60000000
+
+name: AoB Max Firepower On Gain Or Lose
+mode: once
+aob 308400013CA00050 388000093CA00050
+aob 7CD1301098C50244 38C0000998C50244
+
+name: AoB Infinite Credits
+mode: once
+aob 408100243063FFFF 4081002430630000
+
+name: AoB Always Max Firepower
+mode: once
+aob 7C1B28004180000C 7C1B280060000000
+
+name: Freeze Max Time
+mode: once
+w32 0003A65C 60000000
+w32 00034F34 60000000
+w32 0003E2D4 60000000
+
+name: Infinite Capsules
+mode: once
+w32 0006EDBC 60000000
+
+name: Max Firepower On Gain Or Lose
+mode: once
+w32 0008A7A0 38800009
+w32 00035610 38C00009

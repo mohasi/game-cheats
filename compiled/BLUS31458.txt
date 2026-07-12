@@ -1,0 +1,53 @@
+# Pac-Man and the Ghostly Adventures 2
+
+name: Memory Infinite Life
+mode: once
+w32 361CBBBC 42C60000
+
+name: ASM Infinite Life
+mode: once
+w32 008711C4 D0630000
+
+name: Memory Infinite Health
+mode: once
+w32 36B1E1E4 42C60000
+w32 36B4439C 42C60000
+
+name: Pac-Man E As Aventuras Fantasmagorica 2: Memory Infinite Life
+mode: once
+w32 361CBBBC 42C60000
+
+name: Pac-Man E As Aventuras Fantasmagorica 2: ASM Infinite Life
+mode: once
+w32 008711C4 D0630000
+
+name: Pac-Man E As Aventuras Fantasmagorica 2: Memory Infinite Health
+mode: once
+w32 36B1E1E4 42C60000
+w32 36B4439C 42C60000
+
+name: Pac-Man Et Les Aventures De Fantômes 2: Memory Infinite Life
+mode: once
+w32 361CBBBC 42C60000
+
+name: Pac-Man Et Les Aventures De Fantômes 2: ASM Infinite Life
+mode: once
+w32 008711C4 D0630000
+
+name: Pac-Man Et Les Aventures De Fantômes 2: Memory Infinite Health
+mode: once
+w32 36B1E1E4 42C60000
+w32 36B4439C 42C60000
+
+name: Pac-Man Y Las Aventuras Fantasmales 2: Memory Infinite Life
+mode: once
+w32 361CBBBC 42C60000
+
+name: Pac-Man Y Las Aventuras Fantasmales 2: ASM Infinite Life
+mode: once
+w32 008711C4 D0630000
+
+name: Pac-Man Y Las Aventuras Fantasmales 2: Memory Infinite Health
+mode: once
+w32 36B1E1E4 42C60000
+w32 36B4439C 42C60000

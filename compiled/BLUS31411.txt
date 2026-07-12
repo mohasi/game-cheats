@@ -1,0 +1,35 @@
+# Bound by Flame
+
+name: Infinite HP
+mode: once
+w32 005DF7F8 3C0047C3
+w32 005DF7FC 901820A4
+w32 005DF80C C1B820A4
+
+name: Infinite MP
+mode: once
+w32 006D6D44 48000020
+w32 009474C4 D03D20A8
+
+name: Infinite Item Usage + Gold
+mode: once
+w32 00700254 60000000
+
+name: Infinite Lv. Up Points
+mode: once
+w32 006DB6D8 38090000
+w32 006DB7AC 3B600000
+
+name: Can Craft Any Item
+mode: once
+w32 006FE554 3800270E
+w32 006FE250 60000000
+
+name: Low Weight
+mode: once
+w32 006DAD70 39000000
+w32 006DAD74 910920B4
+w32 006DAD78 C00920B4
+w32 006FE21C 38000000
+w32 006FE224 901E0020
+w32 006FE228 C3FE0020

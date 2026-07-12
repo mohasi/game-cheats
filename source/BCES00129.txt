@@ -1,0 +1,13 @@
+# MotorStorm: Pacific Rift
+
+name: Infinite Boost
+mode: once
+w32 0003F8B4 4E800020
+w32 0003F8B0 D0240030
+w32 0003F8AC EC210828
+
+name: Infinite Boost
+mode: once
+w32 0003F8AC EC210828
+w32 0003F8B0 D0240030
+w32 0003F8B4 4E800020

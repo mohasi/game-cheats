@@ -1,0 +1,167 @@
+# Trinity Universe
+
+name: Money 99999
+mode: once
+w32 34C52CE8 05F5E0FF
+
+name: EXP X 999
+mode: once
+w32 002E5AE4 1C8403E7
+
+name: CHAR 1 HP
+mode: once
+w32 34C1D958 000F423F
+w32 34C1D97C 000F423F
+
+name: CHAR 2 HP
+mode: once
+w32 34C1E24C 000F423F
+w32 34C1E270 000F423F
+
+name: CHAR 3 HP
+mode: once
+w32 34C1EB40 000F423F
+w32 34C1EB64 000F423F
+
+name: CHAR 4 HP
+mode: once
+w32 34C1F434 000F423F
+w32 34C1F458 000F423F
+
+name: CHAR 1 EXP
+mode: once
+w32 34C1DA48 0B84ADD3
+
+name: CHAR 2 EXP
+mode: once
+w32 34C1E33C 0B84ADD3
+
+name: CHAR 3 EXP
+mode: once
+w32 34C1EC30 0B84ADD3
+
+name: CHAR 4 EXP
+mode: once
+w32 34C1F524 0B84ADD3
+
+name: CHAR 1 AP
+mode: once
+w32 34C1D95C 000F423F
+
+name: CHAR 2 AP
+mode: once
+w32 34C1E250 000F423F
+
+name: CHAR 3 AP
+mode: once
+w32 34C1EB44 000F423F
+
+name: CHAR 4 AP
+mode: once
+w32 34C1F438 000F423F
+
+name: Buy + Sell Item 99
+mode: once
+w32 0021B498 38800063
+w32 0022F5D8 38000063
+w32 00239548 38800063
+
+name: Sensation 99
+mode: once
+w32 34C5599C 00000063
+w32 001E7450 39200063
+
+name: Gallery
+mode: once
+w32 34C54CBC AAAAAAAA
+w32 34C54CC0 AAAAAAAA
+w32 34C54CC4 AAAAAAAA
+w32 34C54CC8 AAAAAAAA
+w32 34C54CCC AAAAAAAA
+w32 34C54CD0 AAAAAAAA
+w32 34C54CD4 AAAAAAAA
+w32 34C54CD8 AAAAAAAA
+
+name: Max Money
+mode: once
+w32 0022DB04 7F69DB78
+
+name: Max AP Out Of Battle
+mode: once
+w32 0023F244 7D244B78
+
+name: Infinite Ap In Battle (Press /\=Reset)
+mode: once
+w32 0024B150 3C000001
+w32 0024B154 6000869F
+w32 0024B190 3C000001
+w32 0024B194 6000869F
+
+name: Max Universe Rank On Change
+mode: once
+w32 0022538C 40800028
+
+name: Use Potions, Maps, Or Stat Boosters For Max
+mode: once
+w32 00215B8C 38800063
+
+name: Buy Or Sell Equipment For Max
+mode: once
+w32 00233F18 38800063
+
+name: Buy Or Sell Materials For Max
+mode: once
+w32 00229838 3BE00062
+
+name: Unlimited Search In Dungeons
+mode: once
+w32 001E278C 39270000
+
+name: Clear Soul ATK
+mode: once
+w8 3AF6EC4F 63
+
+name: Yatatsuna
+mode: once
+w8 3AF6A50F 63
+
+name: 580 Exp Per Battle
+mode: once
+w32 3B306AF8 00000244
+
+name: 200 Money Per Battle
+mode: once
+w32 3B306AFC 000000C8
+
+name: AoB Max Money
+mode: once
+aob 7D8900387C09D800 7F69DB787C09D800
+
+name: AoB Max AP Out Of Battle
+mode: once
+aob 7C044838419D000C 7D244B78419D000C
+
+name: AoB Infinite AP In Battle (Press /\=Reset)
+mode: once
+aob 2C8000FA41850024 3C0000016000869F
+aob 2C8000FA4085FFC44BFFFFE0 3C0000016000869F4BFFFFC0
+
+name: AoB Max Universe Rank on Change
+mode: once
+aob 2C00000041800028900301044E800020 2C00000040800028900301044E800020
+
+name: AoB Use Potions, Maps, Or Stat Boosters For Max
+mode: once
+aob 7C8520F87CA0FE707C8400389083000C 7C8520F87CA0FE70388000639083000C
+
+name: AoB Buy Or Sell Equipment For Max
+mode: once
+aob 7CA0FE703924FF9D7C840038409D0014 7CA0FE703924FF9D38800063409D0014
+
+name: AoB Buy Or Sell Materials For Max
+mode: once
+aob 7D07FE707FE03838E9410090901E000C 7D07FE703BE00062E9410090901E000C
+
+name: AoB Unlimited Search in Dungeons
+mode: once
+aob 80E3001C38C000273927FFFF39400001 80E3001C38C000273927000039400001

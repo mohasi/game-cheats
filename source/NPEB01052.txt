@@ -1,0 +1,26 @@
+# Defenders of Ardania
+
+name: Memory Infinite Money
+mode: once
+w32 322D1D8C 000001E0
+
+name: ASM Infinite Money
+mode: once
+w32 00071440 60000000
+
+name: Memory Infinite Fortress Health
+mode: once
+w32 33B1A49C 3EEEEEF6
+
+name: ASM Infinite Fortress Health
+mode: once
+w32 00061BDC 60000000
+
+name: Memory Unknown Code 1
+mode: once
+w32 00BD2A90 3458C0A0
+w32 00BD2A98 338C6720
+
+name: ASM Unknown Code 1
+mode: once
+w32 000147FC 60000000

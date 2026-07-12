@@ -1,0 +1,46 @@
+# Tekken 6
+
+name: P1 Energy
+mode: once
+w32 00B2C140 00B40000
+
+name: P2 Energy
+mode: once
+w32 00B2CD80 00B40000
+
+name: Money
+mode: once
+w32 1169D0D4 05F5E100
+
+name: Fight Money 765,000,000G
+mode: once
+w32 361FAB94 2D98F940
+w32 361FAB98 2D98F940
+
+name: 2P HP 0
+mode: once
+w32 00AA1D50 00000000
+
+name: Hit Anywhere [01.03]
+mode: once
+w32 001C27D8 419E0228
+
+name: Max Money After Battle
+mode: once
+w32 004654EC 7CC03378
+
+name: AoB Max Money After Battle
+mode: once
+aob 7C03221478C600207FA50000 7CC0337878C600207FA50000
+
+name: Hit Anywhere
+mode: once
+w32 001BE3C0 419E0228
+
+name: Fight Money 765,000,000G
+mode: once
+w32 1169D0D4 2D98F940
+
+name: Hit Anywhere
+mode: once
+w32 001C27D8 419E0228

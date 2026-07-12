@@ -1,0 +1,43 @@
+# Dark Sector
+
+name: Max Infinite Health
+mode: once
+w32 00734654 380003E8
+w32 0073465C 90090474
+w32 00734660 90090478
+
+name: Infinite Ammo
+mode: once
+w32 00DA3370 39490000
+w32 0097CB14 60000000
+
+name: Weapons Never Time Out
+mode: once
+w32 00D373A8 3D20447A
+w32 00D373AC 91370200
+w32 00D373B8 4BFFFEA8
+
+name: Max Rubles
+mode: once
+w32 0146B030 3D2005F5
+w32 0146B034 6129E0FF
+w32 0146B038 912301F4
+w32 0146B03C 806301F4
+w32 0146B040 4B50A4A4
+w32 009754E0 48AF5B50
+
+name: Shield Always Enabled (Only works if you have this power)
+mode: once
+w32 009FB9B0 C01F0130
+w32 009FB7A4 38000001
+w32 009FB7AC 981F0158
+
+name: Shift Always Enabled (Shoot one time to be invisible, does not work together with shield)
+mode: once
+w32 009F0160 38000001
+w32 009F0168 981C10B0
+w32 009F016C 48000008
+
+name: Infinite Glaive Time
+mode: once
+w32 00AB57CC 60000000

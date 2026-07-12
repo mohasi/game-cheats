@@ -1,0 +1,77 @@
+# Renegade Ops
+
+name: Memory Infinite Health
+mode: once
+w32 35FD654C 46960000
+w32 364830AC 46960000
+w32 36AF648C 46960000
+w32 364DBC3C 46040780
+
+name: ASM Infinite Health
+mode: once
+w32 004A0C68 D0C900DC
+
+name: Memory Big Scores On Gain
+mode: once
+w32 35B2815C 000001AA
+
+name: ASM Big Scores On Gain
+mode: once
+w32 0042583C 905F006C
+
+name: Memory Timer Never Decrease
+mode: once
+w32 31402DE4 426D172C
+
+name: Memory Infinite Life In Normal And Hard Mode
+mode: once
+w32 35C54FD0 00000005
+
+name: ASM Infinite Life In Normal And Hard Mode
+mode: once
+w32 0041A4AC 39290000
+w32 0041A4BC 60000000
+
+name: Memory Infinite Missiles
+mode: once
+w32 36051CE4 00000003
+
+name: ASM Infinite Missiles
+mode: once
+w32 0031D5DC 39290000
+w32 0031D5E4 60000000
+
+name: Memory Infinite Special + Flame Thrower
+mode: once
+w32 360C0D70 BC6AC984
+w32 361765BC BC6DE462
+w32 3651303C BBABA0F0
+w32 36651BF4 00000000
+w32 3671C50C 00000000
+w32 3689F7B0 BC827D9D
+w32 376830B4 BC432CE6
+w32 376A8168 00000000
+
+name: ASM Infinite Special + Flame Thrower
+mode: once
+w32 004A26A8 D07F065C
+w32 004A2918 D07F0654
+w32 004A6DB4 60000000
+w32 004AC37C D07E065C
+w32 004B27C0 D03F0658
+w32 004B29D0 60000000
+w32 004B8CA8 D07F064C
+w32 004BBEA0 60000000
+w32 004BC41C 60000000
+w32 004C5688 ED8CF028
+w32 004D0660 60000000
+w32 004D0A8C D03A0684
+w32 004D3BB8 60000000
+
+name: Memory Infinite Upgrade Points (Block At 32)
+mode: once
+w32 327D0DC0 00000064
+
+name: ASM Infinite Upgrade Points (Block At 32)
+mode: once
+w32 004137D0 904B0014

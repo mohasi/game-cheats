@@ -1,0 +1,17 @@
+# Tears To Tiara II: Haou no Matsuei
+
+name: Infinite MP
+mode: once
+w32 00083C04 7CBF2810
+
+name: Always Turn 1
+mode: once
+w32 000AE608 30840000
+
+name: AoB Infinite MP
+mode: once
+aob 7CBF28102C0500004180000860BE0000 600000002C0500004180000860BE0000
+
+name: AoB Always Turn 1
+mode: once
+aob 30840001B08300703C80000B30630050 30840000B08300703C80000B30630050

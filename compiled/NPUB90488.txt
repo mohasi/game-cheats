@@ -1,0 +1,69 @@
+# Need For Speed Hot Pursuit
+
+name: Infinite SCPT Point
+mode: once
+w32 3A2AC788 0098967F
+
+name: Infinite Driver Point
+mode: once
+w32 3A2AC78C 0098967F
+
+name: Memory Infinite Car Damage
+mode: once
+w32 35AE8620 00000000
+
+name: ASM Infinite Car Damage In Racer Mode
+mode: once
+w32 00344BBC 60000000
+
+name: Memory Max Wanted Rang On 1 Race
+mode: once
+w32 39183F9C 00006342
+w32 391C3FA0 00006342
+w32 3A2AE664 00006342
+
+name: ASM Max Wanted Rang On 1 Race
+mode: once
+w32 0019DE6C 905F001C
+
+name: Memory Infinite Devices
+mode: once
+w32 3819C7A4 00000004
+w32 3A388AA0 00000004
+
+name: ASM Infinite Devices
+mode: once
+w32 001CDC1C 396B0000
+
+name: Memory No Waiting Time For Use Devices
+mode: once
+w32 37876324 42300000
+w32 378766C4 42300000
+w32 378E15AC 3F800000
+w32 378E1B0C 3F800000
+w32 37979370 3F800000
+w32 3819C5C4 3F800000
+w32 3819C774 3F800000
+w32 3819DC38 BC888873
+
+name: ASM No Waiting Time For Use Devices
+mode: once
+w32 008D2E98 D0490000
+
+name: Memory Infinite Nitro
+mode: once
+w32 3A29E2A4 42C80000
+
+name: ASM Infinite Nitro
+mode: once
+w32 002736E8 60000000
+
+name: Memory Max SCPD Rang On 1 Race
+mode: once
+w32 39183FB4 00002FA3
+w32 391C3FB8 00002FA3
+w32 3A2AE660 00002FA3
+
+name: ASM Max SCPD Rang On 1 Race
+mode: once
+w32 0019E02C 905F0018

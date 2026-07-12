@@ -1,0 +1,26 @@
+# Armored Core: For Answer
+
+name: Total Assets At The Shop And Buy Max
+mode: once
+w32 00281DC0 3C003B9A
+w32 00281DC4 600039FF
+
+name: Shop Assets Max
+mode: once
+w32 00281DC8 60000000
+
+name: Infinite Weapon Ammo
+mode: once
+w32 008C9B80 60000000
+
+name: Max Total Assets To Sell Parts
+mode: once
+w32 00281C8C 60000000
+
+name: Shop Assets Max
+mode: once
+w32 0028A804 60000000
+
+name: Infinite Weapon Ammo
+mode: once
+w32 008F2F9C 60000000

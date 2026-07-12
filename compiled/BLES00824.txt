@@ -1,0 +1,33 @@
+# Dead to Rights: Retribution
+
+name: Infinite Ammo And Never Need To Reload
+mode: once
+w32 0065B8A4 38170000
+
+name: Infinite Concentration
+mode: once
+w32 00165014 60000000
+
+name: AoB Infinite Ammo And Never Need To Reload
+mode: once
+aob 419E000C3817FFFF901D0014796B0020 419E000C38170000901D0014796B0020
+
+name: AoB Infinite Concentration
+mode: once
+aob C0080318EC000828D0080318816A0004 C008031860000000D0080318816A0004
+
+name: Infinite Ammo And Never Need To Reload
+mode: once
+w32 006806C4 38170000
+
+name: Infinite Concentration
+mode: once
+w32 00168564 60000000
+
+name: Infinite Ammo And Never Need To Reload
+mode: once
+w32 00680428 38170000
+
+name: Infinite Concentration
+mode: once
+w32 00168544 60000000

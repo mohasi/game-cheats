@@ -1,0 +1,37 @@
+# Virtua Fighter 5 - Final Showdown
+
+name: Invincible Mode
+mode: once
+w32 002C0D7C 419EFEE8
+w32 002C6304 419E0264
+
+name: Disable Block
+mode: once
+w32 002C63D0 419D025C
+w32 002C63E4 419E0200
+
+name: Disable Defense
+mode: once
+w32 002C63D0 419D025C
+w32 002C63E4 419E0200
+
+name: Auto Guard Mode
+mode: once
+w32 002B4610 409E00F8
+
+name: Hit Anywhere
+mode: once
+w32 002C7204 409E0074
+
+name: 1P Invincible
+mode: once
+w32 002C6300 7F99C000
+w32 002C6304 409D0264
+
+name: P2 Stand Mode
+mode: once
+w32 002C711C 409E0074
+
+name: Aob Invincible
+mode: once
+aob 2F830000409E0264A17F057C38000001B07F057E7D69073480FE0550981F2CA5 7F99C000409D0264A17F057C38000001B07F057E7D69073480FE0550981F2CA5

@@ -1,0 +1,55 @@
+# Beyond Good and Evil HD
+
+name: Beyond Good And Evil: Memory Infinite Health
+mode: once
+w32 316ED3DC C0A053C0
+w32 31CC6424 42A00000
+
+name: Beyond Good And Evil: ASM Infinite Health
+mode: once
+w32 002B1338 60000000
+
+name: Beyond Good And Evil: Memory Max + Infinite Credits
+mode: once
+w32 31CC6434 000F423F
+
+name: Beyond Good And Evil: ASM Infinite Credits After Buying
+mode: once
+w32 0034D6F0 60000000
+w32 004BCF2C 60000000
+w32 00A2235C 81290000
+
+name: Beyond Good And Evil: ASM Infinite Items For Jade
+mode: once
+w32 00533690 39290000
+
+name: Beyond Good And Evil: ASM Infinite Items For Pey'j
+mode: once
+w32 006BF46C 38090000
+
+name: Beyond Good And Evil: Memory 99 Starkos
+mode: once
+w32 31CC6C0C 00000063
+
+name: Beyond Good And Evil: Memory Infinite Boost On Boat
+mode: once
+w32 31CC6C28 00000063
+w32 31CC6DB8 00000063
+
+name: Beyond Good And Evil: ASM Infinite Boost On Boat
+mode: once
+w32 00324230 39290000
+
+name: Beyond Good And Evil: Memory Infinite P.O.D. On Boat
+mode: once
+w32 31CC6BD0 00000063
+w32 31CC6D60 0000005F
+
+name: Beyond Good And Evil: ASM Infinite P.O.D. On Boat
+mode: once
+w32 003232A4 39290000
+
+name: Beyond Good And Evil: Memory 99 Blue Pearls
+mode: once
+w32 31CC6C48 00000063
+w32 31CCA7B0 00000063

@@ -1,0 +1,1101 @@
+# Ar nosurge: Ode to an Unborn Star
+
+name: Ar Nosurge An Ode To An Unborn Star: Delta 999,999 Exp
+mode: once
+w32 00ABCEA4 000F423F
+
+name: Ar Nosurge An Ode To An Unborn Star: Delta 10 AP + Turn Number
+mode: once
+w32 00ABD084 0000000A
+
+name: Ar Nosurge An Ode To An Unborn Star: Delta 999 Attack Power
+mode: once
+w32 00ABD088 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Delta 100 Defense Power
+mode: once
+w32 00ABD08C 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Delta 999 Burst Effect
+mode: once
+w32 00ABD094 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 999,999 Exp
+mode: once
+w32 00ABD07C 000F423F
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 9,999 HP + Endurance
+mode: once
+w32 00ABCEC0 0000270F
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 100 Defense Power
+mode: once
+w32 00ABCEC4 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 100 Power Effect
+mode: once
+w32 00ABCEC8 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 999 Fill Speed
+mode: once
+w32 00ABCECC 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Cass 999 Barrier Regen
+mode: once
+w32 00ABCED0 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 999,999 Exp
+mode: once
+w32 00ABCF90 000F423F
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 9,999 HP + Endurance
+mode: once
+w32 00ABCFAC 0000270F
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 100 Defense Power
+mode: once
+w32 00ABCFB0 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 100 Power Effect
+mode: once
+w32 00ABCFB4 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 999 Fill Speed
+mode: once
+w32 00ABCFB8 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Ion 999 Barrier Regen
+mode: once
+w32 00ABCFBC 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Earthes Exp
+mode: once
+w32 00ABD168 000F423F
+
+name: Ar Nosurge An Ode To An Unborn Star: Earthes 10 AP + Turn Number
+mode: once
+w32 00ABD170 0000000A
+
+name: Ar Nosurge An Ode To An Unborn Star: Earthes 999 Attack Power
+mode: once
+w32 00ABD174 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Earthes 100 Defense Power
+mode: once
+w32 00ABD178 00000064
+
+name: Ar Nosurge An Ode To An Unborn Star: Earthes 999 Burst Effect
+mode: once
+w32 00ABD180 000003E7
+
+name: Ar Nosurge An Ode To An Unborn Star: Have 99 Of All Food Items
+mode: once
+w8 00ABCBB8 63
+w32 00ABCBBB 63636363
+w32 00ABCBC0 63636363
+w8 00ABCBC6 63
+w16 00ABCBC8 6363
+w8 00ABCBCD 63
+w8 00ABCBD2 63
+w32 00ABCBD9 63636363
+w32 00ABCBDD 63636363
+w32 00ABCBE1 63636363
+w8 00ABCC25 63
+w8 00ABCC3E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: Have 99 Of All Plugin Items
+mode: once
+w32 00ABCC6C 63636363
+w32 00ABCC70 63636363
+w32 00ABCC74 63636363
+w32 00ABCC78 63636363
+w32 00ABCC7C 63636363
+w32 00ABCC80 63636363
+w32 00ABCC84 63636363
+w32 00ABCC88 63636363
+w32 00ABCC8C 63636363
+w32 00ABCC90 63636363
+w32 00ABCC94 63636363
+w32 00ABCC98 63636363
+w32 00ABCC9C 63636363
+w32 00ABCCA0 63636363
+w32 00ABCCA4 63636363
+w32 00ABCCA8 63636363
+w32 00ABCCAC 63636363
+w32 00ABCCB0 63636363
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Future Food
+mode: once
+w8 00ABCBB8 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sukiyucky
+mode: once
+w8 00ABCBBB 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Eggstreme Tart
+mode: once
+w8 00ABCBBC 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chicken & Egg! Bowl
+mode: once
+w8 00ABCBBD 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Irritating Ice
+mode: once
+w8 00ABCBBE 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 One Hit KO Parfait
+mode: once
+w8 00ABCBC0 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Woobly Glace
+mode: once
+w8 00ABCBC1 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Akiko Sarumi
+mode: once
+w8 00ABCBC2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Fruit Ponta
+mode: once
+w8 00ABCBC3 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Expanding Happy Soda
+mode: once
+w8 00ABCBC6 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Obstinate Bibimbap
+mode: once
+w8 00ABCBC8 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Nyurocky
+mode: once
+w8 00ABCBC9 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Catty Lunch
+mode: once
+w8 00ABCBCD 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Coffe Rice
+mode: once
+w8 00ABCBD2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pepotato
+mode: once
+w8 00ABCBD9 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Rocky
+mode: once
+w8 00ABCBDA 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sham Flour
+mode: once
+w8 00ABCBDB 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ponta Kalimantan
+mode: once
+w8 00ABCBDC 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sweet Stick
+mode: once
+w8 00ABCBDD 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Salty Frost
+mode: once
+w8 00ABCBDE 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Floral Milk
+mode: once
+w8 00ABCBDF 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ice Crystal
+mode: once
+w8 00ABCBE0 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Obonne Cake
+mode: once
+w8 00ABCBE1 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Meat
+mode: once
+w8 00ABCBE2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Garlicue
+mode: once
+w8 00ABCBE3 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Golden Pepper
+mode: once
+w8 00ABCBE4 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Twister Lunch
+mode: once
+w8 00ABCC25 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sharly Meat
+mode: once
+w8 00ABCC3E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Merciless Detergent
+mode: once
+w8 00ABCBE5 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Flap Chunpost
+mode: once
+w8 00ABCBE6 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Empress Garment
+mode: once
+w8 00ABCBE7 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chunpi
+mode: once
+w8 00ABCBE8 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Nyaroki
+mode: once
+w8 00ABCBE9 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chirping Clock
+mode: once
+w8 00ABCBEA 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chunpi Costume
+mode: once
+w8 00ABCBEB 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Arbitrator's Law Book
+mode: once
+w8 00ABCBEC 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Weak Magnetic Stud
+mode: once
+w8 00ABCBED 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sandals of Happiness
+mode: once
+w8 00ABCBEE 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Super Rare Bronze Statue
+mode: once
+w8 00ABCBEF 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 "That" Bronze Statue
+mode: once
+w8 00ABCBF0 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Unembarassing Panties
+mode: once
+w8 00ABCBF1 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Robot Bear
+mode: once
+w8 00ABCBF2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Red Cow of Promise
+mode: once
+w8 00ABCBF3 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Couple Bowl
+mode: once
+w8 00ABCBF4 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Bear
+mode: once
+w8 00ABCBF5 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Bezeliel Toothbrush
+mode: once
+w8 00ABCBF6 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Cannon de Kanon
+mode: once
+w8 00ABCBF7 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tokikagura's Magatama
+mode: once
+w8 00ABCBF8 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tentouki's Mirror
+mode: once
+w8 00ABCBF9 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Superalloy Avatar
+mode: once
+w8 00ABCBFA 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Great-Grandson Hand
+mode: once
+w8 00ABCBFB 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ripple Cream
+mode: once
+w8 00ABCBFC 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Hammer Charge
+mode: once
+w8 00ABCBFD 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Rupianes Crystal
+mode: once
+w8 00ABCBFE 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Smart Belt
+mode: once
+w8 00ABCBFF 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Infinity Glass
+mode: once
+w8 00ABCC00 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Dianthus Necklace
+mode: once
+w8 00ABCC01 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Genelotic Ticket
+mode: once
+w8 00ABCC02 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tenryo Nyuroki
+mode: once
+w8 00ABCC03 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 G.Falkes Mask
+mode: once
+w8 00ABCC04 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Manaf Crystal Ball
+mode: once
+w8 00ABCC05 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Felionyuroki
+mode: once
+w8 00ABCC06 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Quatanyuroki
+mode: once
+w8 00ABCC07 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pheynyuroki
+mode: once
+w8 00ABCC08 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pikari Ore
+mode: once
+w8 00ABCC09 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Formium Material
+mode: once
+w8 00ABCC0A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Jewelry Beads
+mode: once
+w8 00ABCC0B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Conductorium
+mode: once
+w8 00ABCC0C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Luxury Balm
+mode: once
+w8 00ABCC0D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Quantavia Fabric
+mode: once
+w8 00ABCC0E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Zenpretelecard
+mode: once
+w8 00ABCC0F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Monthly Teen Jewel
+mode: once
+w8 00ABCC10 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Passion Pulp
+mode: once
+w8 00ABCC11 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Honokano Nyuroki
+mode: once
+w8 00ABCC17 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Felion Garland
+mode: once
+w8 00ABCC2C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Weakness Sign
+mode: once
+w8 00ABCC31 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 TC21 58-Electrode Tube
+mode: once
+w8 00ABCC60 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Power Splitter
+mode: once
+w8 00ABCC61 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Flat Resin Board
+mode: once
+w8 00ABCC62 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Power Sonic 100
+mode: once
+w8 00ABCC63 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Power Sonic 500
+mode: once
+w8 00ABCC64 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Anti-Friction Gear
+mode: once
+w8 00ABCC65 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Disk Ram
+mode: once
+w8 00ABCC66 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Burst Hardening Gel
+mode: once
+w8 00ABCC67 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 DDW Density Sensor
+mode: once
+w8 00ABCC68 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Legendary Screw
+mode: once
+w8 00ABCC69 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Portable Cycloton
+mode: once
+w8 00ABCC6A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Marugame Brand Wire
+mode: once
+w8 00ABCC6B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Placenta Special
+mode: once
+w8 00ABCC12 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Lucky Outs
+mode: once
+w8 00ABCC13 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Furonaga's Ambition
+mode: once
+w8 00ABCC14 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Allyl Tear
+mode: once
+w8 00ABCC15 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Silent Green
+mode: once
+w8 00ABCC16 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Bezeliel Crystal
+mode: once
+w8 00ABCC18 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Honokano Dumplings
+mode: once
+w8 00ABCC19 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Distilline
+mode: once
+w8 00ABCC1A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tattorian Z
+mode: once
+w8 00ABCC1B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Thick Hotspring Powder
+mode: once
+w8 00ABCC1C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Star Emperor Gria
+mode: once
+w8 00ABCC1D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Freeze-Dried Powder
+mode: once
+w8 00ABCC1E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tatoriano ZZ
+mode: once
+w8 00ABCC1F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Basmoothie
+mode: once
+w8 00ABCC20 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Phage Predator Team
+mode: once
+w8 00ABCC21 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sharly Beans
+mode: once
+w8 00ABCC22 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Genius Red Soup
+mode: once
+w8 00ABCC23 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Stealth Relief Drink
+mode: once
+w8 00ABCC24 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 The Joy of Wounding
+mode: once
+w8 00ABCC26 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Singing Miracle of Love
+mode: once
+w8 00ABCC27 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Supreme Children's Energy Source
+mode: once
+w8 00ABCC28 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Creeping Sham Flour
+mode: once
+w8 00ABCC29 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Harmonian Aroma
+mode: once
+w8 00ABCC2A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 HUG me Honey!
+mode: once
+w8 00ABCC2B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Synapse Grass Seeds
+mode: once
+w8 00ABCC2D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Felie's Elixir
+mode: once
+w8 00ABCC2E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Snow of Amnesia
+mode: once
+w8 00ABCC2F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Amber Imprison
+mode: once
+w8 00ABCC30 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Lotus Tear
+mode: once
+w8 00ABCC32 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Honokano Spring Powder
+mode: once
+w8 00ABCC33 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ribden Dioxide
+mode: once
+w8 00ABCC34 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Particle Consolidation Spray
+mode: once
+w8 00ABCC35 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Song Stone Crystal
+mode: once
+w8 00ABCC36 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Time Grass
+mode: once
+w8 00ABCC37 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Multicolor Flower
+mode: once
+w8 00ABCC38 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pita-Ban
+mode: once
+w8 00ABCC39 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Yellow Supplement
+mode: once
+w8 00ABCC3A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Green Supplement
+mode: once
+w8 00ABCC3B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Red Supplement
+mode: once
+w8 00ABCC3C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Let's Fight V
+mode: once
+w8 00ABCC3D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Re-Bye-Bye Mask
+mode: once
+w8 00ABCC3F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Handmade Muffler
+mode: once
+w8 00ABCC40 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pepen @ Mark
+mode: once
+w8 00ABCC41 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ra Ziela
+mode: once
+w8 00ABCC42 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Quantum Satellite Spinner
+mode: once
+w8 00ABCC43 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Wave Dimension Converter
+mode: once
+w8 00ABCC44 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Decoherence Lottery
+mode: once
+w8 00ABCC45 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 IAQL Ionization Umbrella
+mode: once
+w8 00ABCC46 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Superconductor Dendrobium
+mode: once
+w8 00ABCC47 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Intrinsic Tube
+mode: once
+w8 00ABCC48 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Unopenable Nyurokey
+mode: once
+w8 00ABCC49 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Charming Chatter
+mode: once
+w8 00ABCC4A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Geno-Wave Gear
+mode: once
+w8 00ABCC4B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Satellite Launcher
+mode: once
+w8 00ABCC4C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ai & Sho Oracle
+mode: once
+w8 00ABCC4D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Memory Unlocker
+mode: once
+w8 00ABCC4E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Genetically Modified Wire
+mode: once
+w8 00ABCC4F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Mr. Registrar
+mode: once
+w8 00ABCC50 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Helicalusion
+mode: once
+w8 00ABCC51 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Shocking Cart
+mode: once
+w8 00ABCC52 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Trinity Burner
+mode: once
+w8 00ABCC53 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Michine Gun
+mode: once
+w8 00ABCC54 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Resetta Stone
+mode: once
+w8 00ABCC55 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 HD Compiler
+mode: once
+w8 00ABCC56 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 One of a Millionth Soreil
+mode: once
+w8 00ABCC57 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pendulum of Rupiah
+mode: once
+w8 00ABCC58 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 S2 Missile Fireworks
+mode: once
+w8 00ABCC59 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Gravitation Drive Communicator
+mode: once
+w8 00ABCC5A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Primnotron
+mode: once
+w8 00ABCC5B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ar noSurge Tube LE
+mode: once
+w8 00ABCC5C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Uukun Puppet
+mode: once
+w8 00ABCC5D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ra-Ciel Factor
+mode: once
+w8 00ABCC5E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Reincarnation
+mode: once
+w8 00ABCC5F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Cream Cathoda
+mode: once
+w8 00ABCC6C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Wrinkle Emperor Pipe
+mode: once
+w8 00ABCC6D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Lyrical Hitman
+mode: once
+w8 00ABCC6E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sham Croquette Device
+mode: once
+w8 00ABCC6F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Heavenly Bird Dance
+mode: once
+w8 00ABCC70 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chunpiece
+mode: once
+w8 00ABCC71 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Glass Change Pack
+mode: once
+w8 00ABCC72 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Woodpecker Chun
+mode: once
+w8 00ABCC73 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Celebrity Device
+mode: once
+w8 00ABCC74 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pile Drive Device
+mode: once
+w8 00ABCC75 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Radium Device
+mode: once
+w8 00ABCC76 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Seven Spice Device
+mode: once
+w8 00ABCC77 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Nitro Booster Device
+mode: once
+w8 00ABCC78 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Excalibur Device
+mode: once
+w8 00ABCC79 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Motoko Aino's Love Theory
+mode: once
+w8 00ABCC7A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 DIY Device
+mode: once
+w8 00ABCC7B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Super Painful Cathode
+mode: once
+w8 00ABCC7C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Brain Synapsis
+mode: once
+w8 00ABCC7D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Entanglement Device
+mode: once
+w8 00ABCC7E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Colonia Cathode
+mode: once
+w8 00ABCC7F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Machorino
+mode: once
+w8 00ABCC80 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Linking Mysterious Ice
+mode: once
+w8 00ABCC81 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Loving Liposome
+mode: once
+w8 00ABCC82 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Genonuman Bun
+mode: once
+w8 00ABCC83 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Felionia RNA
+mode: once
+w8 00ABCC84 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Cielnotronica
+mode: once
+w8 00ABCC85 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Sandalbird
+mode: once
+w8 00ABCC86 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Moisturizer
+mode: once
+w8 00ABCC87 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 MeasuRNA
+mode: once
+w8 00ABCC88 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Cuticlear
+mode: once
+w8 00ABCC89 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Giga Protein
+mode: once
+w8 00ABCC8A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Cell Protecta
+mode: once
+w8 00ABCC8B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Neregracos Scale
+mode: once
+w8 00ABCC8C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Mollusc Body
+mode: once
+w8 00ABCC8D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Zombiliambskin
+mode: once
+w8 00ABCC8E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Petier Cooler
+mode: once
+w8 00ABCC8F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 EMURNA
+mode: once
+w8 00ABCC90 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Iron Mask Super Transformer
+mode: once
+w8 00ABCC91 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Amoeva RNA
+mode: once
+w8 00ABCC92 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Ectoplasman
+mode: once
+w8 00ABCC93 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Jelly Type Class
+mode: once
+w8 00ABCC94 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Silent Picture Scrool
+mode: once
+w8 00ABCC95 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Underwater Ring-Toss Class
+mode: once
+w8 00ABCC96 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Aquarium Light
+mode: once
+w8 00ABCC97 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Nay's Charm
+mode: once
+w8 00ABCC98 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Carefree Class
+mode: once
+w8 00ABCC99 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Melancholy of the Genom King
+mode: once
+w8 00ABCC9A 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Arbitrator's Memorization Note
+mode: once
+w8 00ABCC9B 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Classy Dance Class
+mode: once
+w8 00ABCC9C 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Spherial Class
+mode: once
+w8 00ABCC9D 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Natural Herb Class
+mode: once
+w8 00ABCC9E 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Organic Brain
+mode: once
+w8 00ABCC9F 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Gigabolt Neuron
+mode: once
+w8 00ABCCA0 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Peace Marclass
+mode: once
+w8 00ABCCA1 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Heaven Sense Class
+mode: once
+w8 00ABCCA2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Memory Leap
+mode: once
+w8 00ABCCA3 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Tube of Strong Interaction
+mode: once
+w8 00ABCCA4 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Chikichiki Ponpon
+mode: once
+w8 00ABCCA5 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Loverator Class
+mode: once
+w8 00ABCCA6 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 DHW Drone
+mode: once
+w8 00ABCCA7 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Simple Cathode
+mode: once
+w8 00ABCCA8 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Powered Plug Device
+mode: once
+w8 00ABCCA9 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Hydro Flask Device
+mode: once
+w8 00ABCCAA 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Bezeliation Device
+mode: once
+w8 00ABCCAB 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Pure High Tech RNA
+mode: once
+w8 00ABCCAC 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Bioroid RNA
+mode: once
+w8 00ABCCAD 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Antiparticle Burst RNA
+mode: once
+w8 00ABCCAE 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Hymmnes RNA
+mode: once
+w8 00ABCCAF 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Inception Class
+mode: once
+w8 00ABCCB0 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Advanced Class
+mode: once
+w8 00ABCCB1 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Placentia Class
+mode: once
+w8 00ABCCB2 63
+
+name: Ar Nosurge An Ode To An Unborn Star: 99 Surge Link Class
+mode: once
+w8 00ABCCB3 63
+
+name: Ar Nosurge An Ode To An Unborn Star: Max Money (CT)
+mode: once
+w32 00B0B82C 3B9AC9FF
+
+name: Ar Nosurge An Ode To An Unborn Star: Max Dive Points
+mode: once
+w32 00B13EC8 3B9AC9FF
+w32 00B13ECC 3B9AC9FF
+
+name: Ar Nosurge An Ode To An Unborn Star: Max Money on Buy
+mode: once
+w32 002CF908 40810008
+
+name: Ar Nosurge An Ode To An Unborn Star: Max Items On Change
+mode: once
+w32 002C9370 40810014
+
+name: Ar Nosurge An Ode To An Unborn Star: Overpower Burst Charge (Max Power of Song Special)
+mode: once
+w32 0006E960 40810008
+
+name: Ar Nosurge An Ode To An Unborn Star: Infinite Strikes In Battles (All Attacks)
+mode: once
+w32 0006BF94 30630000
+w32 0006BFA4 30630000
+w32 0006BFB4 30630000
+w32 0006BFC4 30630000
+
+name: Ar Nosurge An Ode To An Unborn Star: AoB Max Money on Buy
+mode: once
+aob 80A3B82C7C0520004181000860A4000038A00000 80A3B82C7C0520004081000860A4000038A00000
+
+name: Ar Nosurge An Ode To An Unborn Star: AoB Max Items On Change
+mode: once
+aob 2C050063418100142C05000040800008 2C050063408100142C05000040800008
+
+name: Ar Nosurge An Ode To An Unborn Star: AoB Overpower Burst Charge (Max Power of Song Special)
+mode: once
+aob 7CC620147C0628004181000860C50000 7CC620147C0628004081000860C50000
+
+name: Ar Nosurge An Ode To An Unborn Star: AoB Infinite Strikes In Battles (All Attacks)
+mode: once
+aob 807E00103063FFFF907E001048000030807E00183063FFFF907E001848000020807E00283063FFFF907E002848000010807E00203063FFFF 807E001030630000907E001048000030807E001830630000907E001848000020807E002830630000907E002848000010807E002030630000

@@ -1,0 +1,9 @@
+# Naruto Shippuuden: Narutimate Storm Generation
+
+name: Naruto Shippuden Narutimate Ninja Storm Generations: Infinite Money
+mode: once
+w32 00452B2C 40990034
+
+name: Naruto Shippuden Narutimate Ninja Storm Generations: AoB Infinite Money
+mode: once
+aob 7F00580090091C68419C005441990034 7F00580090091C68419C005440990034

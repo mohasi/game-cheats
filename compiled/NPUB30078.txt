@@ -1,0 +1,17 @@
+# Gunstar Heroes
+
+name: Infinite Health
+mode: once
+w8 32E69E05 64
+
+name: Memory Infinite Health
+mode: once
+w8 32E69E05 64
+
+name: The Punisher No Mercy: Memory Infinite Ammo + No Reload
+mode: once
+w32 16B53FEC 00000020
+
+name: The Punisher No Mercy: ASM Infinite Ammo + No Reload
+mode: once
+w32 008233DC 3BC30000

@@ -1,0 +1,24 @@
+# Shin Hokuto Musou
+
+name: Enemies Can Not Move
+mode: once
+w32 000AE8E8 419E001C
+w32 000AE994 41860010
+
+name: Level Max 50 Enemy Kill
+mode: once
+w32 0003D4A8 4081003C
+
+name: Enemy Explode
+mode: once
+w32 009069C4 42C80000
+
+name: Physical Strength Soon Recovery
+mode: once
+w32 00344740 A13E00E4
+w32 00344748 B13E00E6
+
+name: Fighting Spirit Gauge Immediately Recovery
+mode: once
+w32 003448E4 A13E00E8
+w32 003448E8 B13E00EA

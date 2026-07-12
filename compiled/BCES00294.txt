@@ -1,0 +1,64 @@
+# Siren: Blood Curse
+
+name: Infinite Ammo Usage
+mode: once
+w32 0014A97C 93BE0374
+
+name: Enemies Can Not See You
+mode: once
+w32 00623C60 42C80000
+
+name: No Move Enemy Attack
+mode: once
+w32 00374B08 419E000C
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 002E8404 38600001
+w32 002FA99C 38600001
+w32 00022818 4E800020
+
+name: Infinite Health For You + Allies
+mode: once
+w32 00606C4C 886A049F
+w32 00606C50 2F830000
+w32 00606C54 409E0050
+w32 00606C58 48000020
+w32 00606C78 3C607F80
+w32 00606C7C 906A0004
+w32 00606C80 906A0008
+w32 00606C84 48000020
+w32 00606CA4 C00A0008
+w32 00606CA8 48414EE6
+w32 00414EE0 48606C4E
+
+name: Melee Attacks Do No Damage
+mode: once
+w32 0042519C 60000000
+
+name: Bullets Do No Damage
+mode: once
+w32 004270E4 60000000
+
+name: Some Attacks Do No Damage
+mode: once
+w32 00423D9C 60000000
+w32 00423DD8 60000000
+w32 0042459C 60000000
+w32 004261A0 60000000
+w32 004263A4 60000000
+w32 004265B4 60000000
+w32 004266F8 60000000
+w32 00426C58 60000000
+
+name: Flying Shibito Do Not Move
+mode: once
+w32 00445EDC 60000000
+
+name: Small Brightness Boost
+mode: once
+w32 00061190 60000000
+
+name: Black And White Visuals
+mode: once
+w32 00061188 60000000

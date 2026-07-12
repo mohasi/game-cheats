@@ -1,0 +1,25 @@
+# 3D Dot Game Heroes
+
+name: Unlimited Health
+mode: once
+w32 0011AA68 60000000
+
+name: Unlimited Magic
+mode: once
+w32 00106260 60000000
+
+name: Max Money When Decrease
+mode: once
+w32 00102B58 901E05C8
+
+name: AoB Unlimited Health
+mode: once
+aob 997F0555913F05B8409D0008917F05D4 997F055560000000409D0008917F05D4
+
+name: AoB Unlimited Magic
+mode: once
+aob 2F800000900305BC4D9D002038000000 2F800000600000004D9D002038000000
+
+name: AoB Max Money When Decrease
+mode: once
+aob E801009093FE05C87C0803A6EBC10070 E8010090901E05C87C0803A6EBC10070

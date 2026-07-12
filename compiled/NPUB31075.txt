@@ -1,0 +1,34 @@
+# GRID 2
+
+name: Memory Infinite Flashback
+mode: once
+w32 7F3D877C 00000003
+
+name: ASM Infinite Flashback
+mode: once
+w32 004F2AC4 39290000
+w32 004F2AC8 60000000
+
+name: Memory Lot Of Fans + Victory + Podium + Race Disputed + Unlock World Series Racing On 1 Race
+mode: once
+w32 7E6868E4 00001770
+
+name: ASM Lot Of Fans + Victory + Podium + Race Disputed + Unlock World Series Racing On 1 Race
+mode: once
+w32 0116E148 90490004
+
+name: Memory Always First
+mode: once
+w32 7E9F00D8 00000001
+w32 7F32EE3C 00000001
+w32 7F331D9C 00000006
+w32 7F3D6D00 00000006
+
+name: ASM Always First
+mode: once
+w32 003F503C 68630000
+w32 003F5044 60000000
+w32 00402D3C 60000000
+w32 00C3694C 68000000
+w32 00C36950 60000000
+w32 00CB95C4 60000000

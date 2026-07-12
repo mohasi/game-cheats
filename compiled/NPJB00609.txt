@@ -1,0 +1,24 @@
+# Bloodrayne - Crimson Slayer
+
+name: Infinite Ammo
+mode: once
+w32 0006D2AC 30840000
+w32 0006D44C 30630000
+
+name: Max Score On Gain
+mode: once
+w32 000BE8FC 60000000
+
+name: Invincibility
+mode: once
+w32 00067440 60000000
+
+name: Unlock All Chapters + Concept Arts
+mode: once
+w32 001326F8 60000000
+w32 0015B1F8 60000000
+
+name: Unlock All Weapons
+mode: once
+w32 000602D8 48000054
+w32 00071158 48000054

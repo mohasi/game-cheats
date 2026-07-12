@@ -1,0 +1,55 @@
+# Soldner-X 2 - Final Prototype
+
+name: Infinite Lives
+mode: once
+w32 00042178 30A60000
+
+name: Infinite Health
+mode: once
+w32 00042600 48000008
+
+name: Invincibility
+mode: once
+w32 00043E54 38600002
+
+name: Easy Chain
+mode: once
+w32 0004358C 60000000
+w32 00044818 48000008
+w32 000446B8 60A40000
+
+name: Infinite Limit Attack
+mode: once
+w32 0004134C 60000000
+w32 0005A594 3A800003
+
+name: Infinite Shockwave
+mode: once
+w32 0005A500 60000000
+
+name: AoB Infinite Lives
+mode: once
+aob 30A6FFFF7CC42014 30A600007CC42014
+
+name: AoB Infinite Health
+mode: once
+aob 4181000860680000 4800000860680000
+
+name: AoB Invincibility
+mode: once
+aob 4081000C3063FFFF907C01E0 386000023063FFFF907C01E0
+
+name: AoB Easy Chain
+mode: once
+aob 7C7F18102C832000 600000002C832000
+aob 4181000860640000909F01E4 4800000860640000909F01E4
+aob 7C8320145483502A 60A400005483502A
+
+name: AoB Infinite Limit Attack
+mode: once
+aob 4081000C38600003 6000000038600003
+aob 600000002C03007840810040 3A8000032C03007840810040
+
+name: AoB Infinite Shockwave
+mode: once
+aob 9A9C02E3907C0224 60000000907C0224

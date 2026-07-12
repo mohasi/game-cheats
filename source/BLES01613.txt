@@ -1,0 +1,33 @@
+# LEGO Batman 2: DC Super Heroes
+
+name: LEGO Batman 2 DC Super Heores: 9,223,372,036,854,725,800 Money
+mode: once
+w32 34B7DEC8 7FFFFFFF
+w32 34B7DECC FFFFFFF8
+
+name: LEGO Batman 2 DC Super Heores: 500,000 For Every Mission
+mode: once
+w32 00FCDDEC EE6B2800
+w32 00FD2424 EE6B2800
+
+name: LEGO Batman 2 DC Super Heores: 10 Minikits For Every Mission
+mode: once
+w32 00FD0238 0000000A
+w32 00FD023C 0000000A
+w32 00FD0240 0000000A
+w32 00FD31B4 0000000A
+w32 00FD31B8 0000000A
+
+name: LEGO Batman 2 DC Super Heores: 250 Gold Bricks
+mode: once
+w8 00E63910 FA
+w8 34B7DED2 FA
+w8 34DB4A82 FA
+
+name: LEGO Batman 2 DC Super Heores: Max Studs On Gain
+mode: once
+w32 001FB278 60000000
+
+name: LEGO Batman 2 DC Super Heores: AoB Max Studs On Gain
+mode: once
+aob 4081000860A4000054C5063E2C050000418200203CA0 6000000060A4000054C5063E2C050000418200203CA0

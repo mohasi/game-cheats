@@ -1,0 +1,140 @@
+# gate for community PRs. this job is the required status check on main: nothing merges
+# until it passes, including self-merges by the shipped console token.
+#
+# two automated lanes, classified by path:
+#   votes/**  — console feedback votes: empty files at strict paths, auto-merged
+#   source/** — cheat contributions: new files or pure appends, strict line grammar, auto-merged;
+#               edits to existing lines are held for Mohammed's review; alias files
+#               (same-as/DO-NOT-EDIT) can never be modified by automation
+# anything else fails the check for Mohammed's manual bypass-merge.
+#
+# pull_request_target (not pull_request) so the workflow definition that runs is ALWAYS
+# the copy on main, never a PR branch's copy. safe because validation only inspects the
+# PR through the API — it never checks out or executes anything from the PR.
+
+name: validate-votes
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write        # squash-merge + delete branch
+  pull-requests: write   # comment + close
+
+jobs:
+  validate-votes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: validate and merge
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // vote path shape: votes/<titleId>/<version>/<cheatHash>/<event>-<platform>-<nonce>
+            // cheatHash = hash of the cheat's op lines, computed by the plugin (no stored ids);
+            // nonce = random per vote, purely for path uniqueness — votes are anonymous
+            const MAX_FILES = 50;
+            const MAX_VOTE_LINES = 64;    // vote bodies are empty, except CHEAT_WORKED (one lineIdx=original per w32 line)
+            const MAX_CHEAT_LINES = 400;  // added lines per cheat-contribution file
+            const VOTE_PATH = new RegExp(
+              '^votes/'
+              + '[A-Z]{4}[0-9]{5}/'                                            // titleId, e.g. BCES01742
+              + '[0-9]{2}\\.[0-9]{2}/'                                         // version, e.g. 01.12
+              + '[0-9a-f]{8}/'                                                 // cheatHash (computed, not stored)
+              + '(AOB_FOUND|AOB_MISSING|CHEAT_WORKED|CHEAT_FAILED)'              // event
+              + '-[a-z0-9]{2,12}'                                              // platform, e.g. ps3
+              + '-[0-9a-f]{8,32}$'                                             // random nonce (hex)
+            );
+            const CHEAT_FILE = /^source\/[A-Z]{4}[0-9]{5}\.txt$/;              // one file per serial
+            // grammar for lines a cheat contribution may ADD. aliases (same-as) are allowed
+            // only in NEW files; no ids exist anywhere.
+            const CHEAT_LINE = new RegExp(
+              '^(# .{1,120}'                                                   // game-title / comment lines
+              + '|same-as: [A-Z]{4}[0-9]{5}'
+              + '|name: .{1,80}'
+              + '|mode: (once|constant)'
+              + '|w8 [0-9A-Fa-f]{8} [0-9A-Fa-f]{2}'
+              + '|w16 [0-9A-Fa-f]{8} [0-9A-Fa-f]{4}'
+              + '|w32 [0-9A-Fa-f]{8} [0-9A-Fa-f]{8}'
+              + '|aob [0-9A-Fa-f]{4,128} [0-9A-Fa-f]{4,128}'
+              + '|)$'                                                          // blank separator lines
+            );
+
+            const pr = context.payload.pull_request;
+            const repo = { owner: context.repo.owner, repo: context.repo.repo };
+            const files = await github.paginate(github.rest.pulls.listFiles, { ...repo, pull_number: pr.number, per_page: 100 });
+
+            const problems = [];
+            if (files.length === 0) problems.push('PR changes no files');
+            if (files.length > MAX_FILES) problems.push(`PR touches ${files.length} files (max ${MAX_FILES})`);
+
+            // classify the PR by path set — mixed or other paths are not automatable
+            const allVotes = files.every(f => f.filename.startsWith('votes/'));
+            const allCheats = files.every(f => f.filename.startsWith('source/'));
+            if (!allVotes && !allCheats) {
+               core.setFailed('curated/mixed content — awaiting manual review (auto-merge covers votes/** or source/** PRs only)');
+               return;
+            }
+
+            if (allVotes) {
+               // votes: new empty-ish files at strict paths
+               for (const file of files) {
+                  if (file.status !== 'added') problems.push(`${file.filename}: votes may only ADD files (got '${file.status}')`);
+                  if (!VOTE_PATH.test(file.filename)) problems.push(`${file.filename}: not a valid vote path`);
+                  if (file.additions > MAX_VOTE_LINES) problems.push(`${file.filename}: too large (${file.additions} lines)`);
+               }
+            } else {
+               // cheat contributions. alias files are untouchable; edits to existing cheats are
+               // legitimate but held for Mohammed's review; pure additions auto-merge.
+               for (const file of files) {
+                  if (!CHEAT_FILE.test(file.filename)) { problems.push(`${file.filename}: cheat files are source/<TITLEID>.txt`); continue; }
+                  if (file.status === 'modified') {
+                     // fetch the BASE version: alias files (same-as) must never be modified
+                     const base = await github.rest.repos.getContent({ ...repo, path: file.filename, ref: pr.base.sha });
+                     const baseText = Buffer.from(base.data.content, 'base64').toString('utf-8');
+                     const aliasMatch = baseText.match(/^same-as: (\w+)/m);
+                     if (aliasMatch) {
+                        const held = `${file.filename} is an alias file (DO NOT EDIT) — put your cheats in source/${aliasMatch[1]}.txt instead.`;
+                        await github.rest.issues.createComment({ ...repo, issue_number: pr.number, body: held });
+                        core.setFailed(held);
+                        return;
+                     }
+                  }
+               }
+               const edits = files.filter(f => f.deletions > 0 || (f.status !== 'added' && f.status !== 'modified'));
+               if (edits.length > 0) {
+                  const held = 'This PR edits existing cheats — held for manual review (only pure additions auto-merge). No action needed; Mohammed will review and merge.';
+                  await github.rest.issues.createComment({ ...repo, issue_number: pr.number, body: held });
+                  core.setFailed(held);
+                  return;
+               }
+               for (const file of files) {
+                  if (file.additions > MAX_CHEAT_LINES) { problems.push(`${file.filename}: too large (${file.additions} added lines)`); continue; }
+                  if (!file.patch) { problems.push(`${file.filename}: diff unavailable for inspection`); continue; }
+                  const added = file.patch.split('\n').filter(l => l.startsWith('+') && !l.startsWith('+++')).map(l => l.slice(1).replace(/\r$/, ''));
+                  const isNewAlias = file.status === 'added' && added.some(l => /^same-as: [A-Z]{4}[0-9]{5}$/.test(l));
+                  if (!isNewAlias && !added.some(l => l.startsWith('name: '))) problems.push(`${file.filename}: no cheat added (missing name: line)`);
+                  if (isNewAlias && added.some(l => l.startsWith('name: '))) problems.push(`${file.filename}: an alias file must not also contain cheats`);
+                  if (file.status === 'modified' && added.some(l => l.startsWith('same-as:'))) problems.push(`${file.filename}: same-as can only be introduced in a new file`);
+                  for (const line of added) {
+                     if (!CHEAT_LINE.test(line)) { problems.push(`${file.filename}: invalid line "${line.slice(0, 60)}"`); break; }
+                  }
+               }
+            }
+
+            // reject: explain and fail the required check. vote PRs (console-generated) also get closed;
+            // cheat PRs stay open so the human contributor can fix and push again.
+            if (problems.length > 0) {
+               const report = 'Validation failed:\n' + problems.slice(0, 20).map(p => `- ${p}`).join('\n');
+               await github.rest.issues.createComment({ ...repo, issue_number: pr.number, body: report });
+               if (allVotes) await github.rest.pulls.update({ ...repo, pull_number: pr.number, state: 'closed' });
+               core.setFailed(report);
+               return;
+            }
+
+            // accept: squash-merge and delete the scratch branch (branch may be gone already if re-run;
+            // fork PRs have no deletable branch here)
+            const kind = allVotes ? 'votes' : 'cheats';
+            await github.rest.pulls.merge({ ...repo, pull_number: pr.number, merge_method: 'squash', commit_title: `${kind}: ${pr.title}` });
+            try { await github.rest.git.deleteRef({ ...repo, ref: `heads/${pr.head.ref}` }); } catch (e) {}
+            core.info(`merged ${files.length} ${kind} file(s)`);

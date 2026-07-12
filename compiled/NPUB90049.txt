@@ -1,0 +1,97 @@
+# Stuntman: Ignition
+
+name: Stuntman: Memory Infinite X
+mode: once
+w32 820FAAB8 00000000
+
+name: Stuntman: ASM Infinite X
+mode: once
+w32 000730C4 39290000
+w32 000730C8 60000000
+
+name: Stuntman: Memory Instant Easy Points + 5 Stars Rank
+mode: once
+w32 820FAABC 0000000A
+
+name: Stuntman: ASM Instant Easy Points + 5 Stars Rank
+mode: once
+w32 00073EB0 905F002C
+
+name: Stuntman: Memory Infinite Time
+mode: once
+w32 821E9D60 41F33420
+
+name: Stuntman: ASM Infinite Time
+mode: once
+w32 0015AB60 60000000
+
+name: Stuntman: Memory Max Scores Points
+mode: once
+w32 820FAAC0 0000270F
+w32 820FAAC8 00000014
+
+name: Stuntman: ASM Max Scores Points
+mode: once
+w32 00073B58 7C02E214
+
+name: Stuntman: Memory Gain 5 Stars After All Race
+mode: once
+w32 820FAAC0 0000270F
+w32 820FAAC8 00000014
+
+name: Stuntman: ASM Gain 5 Stars After All Race
+mode: once
+w32 000731B0 EC1F682A
+w32 000731B4 EC1F682A
+
+name: Stuntman: ASM String Bonus x9999
+mode: once
+w32 00073BE0 3929270F
+
+name: Memory Infinite X
+mode: once
+w32 820FAAB8 00000000
+
+name: ASM Infinite X
+mode: once
+w32 000730C4 39290000
+w32 000730C8 60000000
+
+name: Memory Instant Easy Points + 5 Stars Rank
+mode: once
+w32 820FAABC 0000000A
+
+name: ASM Instant Easy Points + 5 Stars Rank
+mode: once
+w32 00073EB0 905F002C
+
+name: Memory Infinite Time
+mode: once
+w32 821E9D60 41F33420
+
+name: ASM Infinite Time
+mode: once
+w32 0015AB60 60000000
+
+name: Memory Max Scores Points
+mode: once
+w32 820FAAC0 0000270F
+w32 820FAAC8 00000014
+
+name: ASM Max Scores Points
+mode: once
+w32 00073B58 7C02E214
+
+name: Memory Gain 5 Stars After All Race
+mode: once
+w32 820FAAC0 0000270F
+w32 820FAAC8 00000014
+
+name: ASM Gain 5 Stars After All Race
+mode: once
+w32 000731B0 EC1F682A
+w32 000731B4 EC1F682A
+
+name: ASM String Bonus x9999
+mode: once
+w32 00073BE0 3929270F

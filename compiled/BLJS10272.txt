@@ -1,0 +1,20 @@
+# One Piece: Unlimited World R
+
+name: One Piece Unlimited World Red: Infinite Item Usage
+mode: once
+w32 002AAC1C 30A30000
+
+name: One Piece Unlimited World Red: Max Money After Buying Something
+mode: once
+w32 002AB63C 3D003B9A
+w32 002AB644 6108C9FF
+
+name: One Piece Unlimited World Red: Infinite HP + SP
+mode: once
+w32 008A9510 807F0498
+w32 008A9514 80830004
+w32 008A9518 90830000
+w32 008A951C 80830020
+w32 008A9520 9083001C
+w32 008A9524 4E800020
+w32 002BD8BC 485EBC55

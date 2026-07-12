@@ -1,0 +1,13 @@
+# Midnight Club: Los Angeles
+
+name: Memory Infinite Money
+mode: once
+w32 322E9ABC 3B9AC9FF
+
+name: ASM Easy Money On Win Race
+mode: once
+w32 003B3500 934301FC
+
+name: ASM Infinite Money
+mode: once
+w32 003B33A0 60000000

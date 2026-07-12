@@ -1,0 +1,10 @@
+# Enemy Front
+
+name: Infinite Health
+mode: once
+w32 0026EAE0 C02300AC
+w32 0026EAE4 D02300A4
+
+name: No Reload
+mode: once
+w32 00307C1C 60000000

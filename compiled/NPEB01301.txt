@@ -1,0 +1,49 @@
+# Mars - War Logs
+
+name: Memory Infinite Health
+mode: once
+w32 1895132C 42C80000
+
+name: ASM Infinite Health
+mode: once
+w32 0094ED3C EC080828
+
+name: Memory Infinite Items
+mode: once
+w32 1738D288 00000008
+
+name: ASM Infinite Items
+mode: once
+w32 0097CD24 7C100050
+
+name: Memory Easy Level Up + Points
+mode: once
+w32 17BD6F78 45593000
+
+name: ASM Easy Level Up + Points
+mode: once
+w32 00958550 D149132C
+
+name: Mars Wars Logs: Memory Infinite Health
+mode: once
+w32 1895132C 42C80000
+
+name: Mars Wars Logs: ASM Infinite Health
+mode: once
+w32 0094ED3C EC080828
+
+name: Mars Wars Logs: Memory Infinite Items
+mode: once
+w32 1738D288 00000008
+
+name: Mars Wars Logs: ASM Infinite Items
+mode: once
+w32 0097CD24 7C100050
+
+name: Mars Wars Logs: Memory Easy Level Up + Points
+mode: once
+w32 17BD6F78 45593000
+
+name: Mars Wars Logs: ASM Easy Level Up + Points
+mode: once
+w32 00958550 D149132C

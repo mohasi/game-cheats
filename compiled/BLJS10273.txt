@@ -1,0 +1,57 @@
+# Natsuiro High School: Seishun Hakusho
+
+name: Max Fri On Change
+mode: once
+w32 0010CB2C 60000000
+
+name: Max Favor On Change
+mode: once
+w32 001120E4 60000000
+
+name: Max Reputation
+mode: once
+w32 00111C9C 392000FF
+
+name: Instruction Number 0 When Taught
+mode: once
+w32 0010C7E0 38000000
+
+name: Instruction Number 0 If Guided
+mode: once
+w32 0010C758 38000000
+
+name: Item 99
+mode: once
+w32 0010D21C 38A00063
+
+name: Items Never Decrease
+mode: once
+w32 0010D264 60000000
+
+name: AoB Max Fri On Change
+mode: once
+aob 409D0038912A44442C0300003CC0000F 60000000912A44442C0300003CC0000F
+
+name: AoB Max Favor On Change
+mode: once
+aob 409900F438C34CD07CC407B47FE4EA14 6000000038C34CD07CC407B47FE4EA14
+
+name: AoB Max Reputation
+mode: once
+aob 7FC9F378993F00514BFFFEEC38A00001 392000FF993F00514BFFFEEC38A00001
+
+name: AoB Instruction Number 0 When Taught
+mode: once
+aob 380900014D9D0020980B00544E800020 380000004D9D0020980B00544E800020
+
+name: AoB Instruction Number 0 If Guided
+mode: once
+aob 380900014D9D0020980B00554E800020 380000004D9D0020980B00554E800020
+
+name: AoB Date And Time Specified
+mode: once
+aob 7C601B782F03006E4D9C00208122AE1C 380000002F03006E4D9C00208122AE1C
+
+name: AoB Items Never Decrease
+mode: once
+aob 98AB0011288300634185FFC44E800020 60000000288300634185FFC44E800020

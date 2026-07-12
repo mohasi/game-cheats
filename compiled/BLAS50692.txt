@@ -1,0 +1,33 @@
+# The LEGO Movie Videogame
+
+name: La Grande Aventure LEGO Le Jeu Vidéo: Max Studs On Gain
+mode: once
+w32 00D741EC 60000000
+
+name: La Grande Aventure LEGO Le Jeu Vidéo: AoB Max Studs On Gain
+mode: once
+aob 40810008609D00003C600146 60000000609D00003C600146
+
+name: La LEGO Película El Videojuego: Max Studs On Gain
+mode: once
+w32 00D741EC 60000000
+
+name: La LEGO Película El Videojuego: AoB Max Studs On Gain
+mode: once
+aob 40810008609D00003C600146 60000000609D00003C600146
+
+name: LEGO Przygoda Gra Wideo: Max Studs On Gain
+mode: once
+w32 00D741EC 60000000
+
+name: LEGO Przygoda Gra Wideo: AoB Max Studs On Gain
+mode: once
+aob 40810008609D00003C600146 60000000609D00003C600146
+
+name: Max Studs On Gain
+mode: once
+w32 00D741EC 60000000
+
+name: AoB Max Studs On Gain
+mode: once
+aob 40810008609D00003C600146 60000000609D00003C600146

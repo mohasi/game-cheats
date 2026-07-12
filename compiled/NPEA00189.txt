@@ -1,0 +1,9 @@
+# Gundemonium Recollection
+
+name: Memory Infinite Health
+mode: once
+w32 005CCA18 00000005
+
+name: Memory Infinite Special
+mode: once
+w32 005D8598 00000005

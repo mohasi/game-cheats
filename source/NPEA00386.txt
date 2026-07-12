@@ -1,0 +1,101 @@
+# Ratchet &amp; Clank 2 HD
+
+name: Ratchet And Clank 2 Going Commando: Memory Dobbo Moon Big Clank 99 Ammo
+mode: once
+w32 0145C160 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Dobbo Moon Enemy Has 0 Ammo
+mode: once
+w32 0145C150 00000000
+
+name: Ratchet And Clank 2 Going Commando: Memory Spiderbot Glove 99 Ammo
+mode: once
+w32 014818AC 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Spiderbot Glove Max XP
+mode: once
+w32 01481B70 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Lancer 99 Ammo
+mode: once
+w32 014818A4 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Lancer Max XP
+mode: once
+w32 01481B68 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Tesla Claw 99 Ammo
+mode: once
+w32 01481874 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Gravity Bomb 99 Ammo
+mode: once
+w32 014818D4 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Blitz Gun 99 Ammo
+mode: once
+w32 01481894 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Blitz Gun Max XP
+mode: once
+w32 01481B58 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Miniturret Glove 99 Ammo
+mode: once
+w32 014818D0 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Miniturret Glove Max XP
+mode: once
+w32 01481B94 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Synthenoid 99 Ammo
+mode: once
+w32 014818A8 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Synthenoid Max XP
+mode: once
+w32 01481B6C 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Chopper 99 Ammo
+mode: once
+w32 01481884 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Chopper Max XP
+mode: once
+w32 01481B48 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Decoy Glove 99 Ammo
+mode: once
+w32 01481870 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Pulse Rifle 99 Ammo
+mode: once
+w32 01481888 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Pulse Rifle Max XP
+mode: once
+w32 01481B4C 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Visibomb Gun 99 Ammo
+mode: once
+w32 01481864 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory RYNO 2 99 Ammo
+mode: once
+w32 014818DC 00000063
+
+name: Ratchet And Clank 2 Going Commando: Memory Max Health
+mode: once
+w32 014816AC 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Max Nanotech
+mode: once
+w32 01329AA4 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Max Raritanium
+mode: once
+w32 01329A94 7F7F7F7F
+
+name: Ratchet And Clank 2 Going Commando: Memory Max Crystals
+mode: once
+w32 01329AB0 7F7F7F7F

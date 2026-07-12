@@ -1,0 +1,9 @@
+# Ratchet &amp; Clank - Full Frontal Assault
+
+name: Ratchet And Clank Full Frontal Assault: 1P Invincible Mode
+mode: once
+w32 00050220 60000000
+
+name: Ratchet And Clank Full Frontal Assault: AoB 1P Invincible Mode
+mode: once
+aob 33BD8208C3C30010309C00F0FC20F09063A300007884002048751179337B0001 60000000C3C30010309C00F0FC20F09063A300007884002048751179337B0001

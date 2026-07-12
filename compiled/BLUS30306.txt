@@ -1,0 +1,57 @@
+# Dynasty Warriors 6: Empires
+
+name: Memory Max + Infinite Money
+mode: once
+w32 00878E20 0000270F
+
+name: ASM Max + Infinite Money
+mode: once
+w32 0037D350 917F0020
+w32 00382ECC 913E0020
+w32 00393EC4 916A0020
+w32 0039B7C0 917D0020
+
+name: Memory Max Level + High Stats
+mode: once
+w32 0087BCA8 0000270F
+
+name: ASM Max Level + High Stats
+mode: once
+w32 0008DAF0 913F00B4
+w32 0008E260 48000040
+
+name: Memory Max K.O. On 1 Kill
+mode: once
+w32 009E4530 0000270F
+
+name: ASM 9,999 K.O. On 1 Kill
+mode: once
+w32 0008DB78 60000000
+
+name: Instant Max + Infinite Musou
+mode: once
+w32 001A0EE4 D3830000
+w32 001E1430 EC0F033A
+w32 001E144C D18A0000
+
+name: ASM Max + Infinite Money
+mode: once
+w32 0037D2B0 917F0020
+w32 00382E2C 913E0020
+w32 00393E24 916A0020
+w32 0039B720 917D0020
+
+name: ASM Max Level + High Stats
+mode: once
+w32 0008DB08 913F00B4
+w32 0008E278 48000040
+
+name: ASM 9,999 K.O. On 1 Kill
+mode: once
+w32 0008DB90 60000000
+
+name: Instant Max + Infinite Musou
+mode: once
+w32 001A0EFC D3830000
+w32 001E1448 EC0F033A
+w32 001E1464 D18A0000

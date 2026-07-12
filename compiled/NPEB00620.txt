@@ -1,0 +1,19 @@
+# Beat Hazard Ultra
+
+name: Infinite Lives
+mode: once
+w32 0002D42C 397F0000
+
+name: Invincibility
+mode: once
+w32 000684F0 60000000
+
+name: Infinite Superbombs
+mode: once
+w32 0002AE6C 60000000
+
+name: Max Cash
+mode: once
+w32 0007D2D4 3C003B9A
+w32 0007D2D8 6000C9FF
+w32 0007D2DC 901F002C

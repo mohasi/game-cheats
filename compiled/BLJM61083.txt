@@ -1,0 +1,37 @@
+# Jikkyou Powerful Pro Yakyuu 2013
+
+name: Motivation
+mode: once
+w32 007F5E8C 38C00000
+
+name: Stength Does Not Decrease
+mode: once
+w32 007E2F3C 60000000
+
+name: Strength Sense Does Not Decrease
+mode: once
+w32 007E2F30 A0A301DC
+w32 007E2F34 38C00100
+w32 007E2F38 B0C301ED
+w32 007E2F3C 38C00101
+w32 007E2F40 B0C301EF
+
+name: Health Sense Does Not Decrease
+mode: once
+w32 007E2F30 A0A301DC
+w32 007E2F34 38C00100
+w32 007E2F38 B0C301ED
+w32 007E2F3C 38C00101
+w32 007E2F40 B0C301F0
+
+name: Strikes Do Not Increase
+mode: once
+w32 004AEE64 38800000
+
+name: Balls Do Not Increase
+mode: once
+w32 004AEE88 38800000
+
+name: Outs Do Not Increase
+mode: once
+w32 004AEEAC 38800000

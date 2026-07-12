@@ -1,0 +1,41 @@
+# Transformers: Devastation
+
+name: Infinite Health
+mode: once
+w32 0003A650 60A90000
+
+name: Infinite Ability Gauge
+mode: once
+w32 0009E3C0 48000008
+
+name: Instant Refill Ultimate Gauge
+mode: once
+w32 000B2E0C 48000008
+
+name: Infinite Ammo
+mode: once
+w32 000C888C 60000000
+
+name: Max Score
+mode: once
+w32 00048750 48000008
+
+name: AoB Infinite Health
+mode: once
+aob 7D29281060636667 60A9000060636667
+
+name: AoB Infinite Ability Gauge
+mode: once
+aob 418100084800000C3C604407 480000084800000C3C604407
+
+name: AoB Instant Refill Ultimate Gauge
+mode: once
+aob 41810008480000143C6046C3 48000008480000143C6046C3
+
+name: AoB Infinite Ammo
+mode: once
+aob 3063FFFF907F1EE8 60000000907F1EE8
+
+name: AoB Max Score
+mode: once
+aob 4181000860BF0000 4800000860BF0000

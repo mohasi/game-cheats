@@ -1,0 +1,5 @@
+# Winning Post 7 2010
+
+name: Money 99999999
+mode: once
+w32 339FFCC4 05F5E0FF

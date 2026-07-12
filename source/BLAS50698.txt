@@ -1,0 +1,33 @@
+# Nobunaga no Yabou: Souzou
+
+name: 100 Credits On Change
+mode: once
+w32 00333784 480000A8
+
+name: 999 Effort On Change
+mode: once
+w32 0034D2F0 48000010
+
+name: Do Not Advance
+mode: once
+w32 004E5F58 7FA8EB78
+
+name: 99,999 Population Whole Area On Change
+mode: once
+w32 002D34C4 48000010
+
+name: AoB 100 Credits On Change
+mode: once
+aob 419900A880C900007F83E378B0D80004 480000A880C900007F83E378B0D80004
+
+name: AoB 999 Effort On Change
+mode: once
+aob 4181001081490000B14300844E800020 4800001081490000B14300844E800020
+
+name: AoB Do Not Advance
+mode: once
+aob 391D0001398A00012C88000C39400001 7FA8EB78398A00012C88000C39400001
+
+name: AoB 99,999 Population Whole Area On Change
+mode: once
+aob 4181001080C9000090C300E84E800020 4800001080C9000090C300E84E800020

@@ -1,0 +1,25 @@
+# How to Survive
+
+name: No Reload
+mode: once
+w32 004E8960 30C60000
+
+name: Unlimited Ammo
+mode: once
+w32 004E8994 30840000
+
+name: AoB No Reload
+mode: once
+aob 809E000830C6FFFF2C06000041800008 809E000830C600002C06000041800008
+
+name: AoB Unlimited Ammo
+mode: once
+aob 808300043084FFFF2C04000090830004 80830004308400002C04000090830004
+
+name: No Reload
+mode: once
+w32 004EC7D8 30C60000
+
+name: Unlimited Ammo
+mode: once
+w32 004EC80C 30840000

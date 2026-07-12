@@ -1,0 +1,46 @@
+# Sacred Citadel
+
+name: Memory Lot + Infinite Money On Gain
+mode: once
+w32 32AEADC0 00000010
+
+name: ASM Lot + Infinite Money On Gain
+mode: once
+w32 001CBF54 90430000
+
+name: Memory Max Level + Lot HP On 2 Kills
+mode: once
+w32 36F7774C 00000007
+
+name: ASM Max Level + Lot HP On 2 Kills
+mode: once
+w32 000BC268 905B0000
+
+name: Memory Lot + Infinite Skills Points On Use + Gain
+mode: once
+w16 3166DD64 0046
+
+name: ASM Lot + Infinite Skills Points On Use + Gain
+mode: once
+w32 00086418 9B660000
+
+name: Memory Infinite Potion
+mode: once
+w16 35C26132 0003
+
+name: ASM Infinite Potion
+mode: once
+w32 001A5E20 30840000
+w32 001A5E2C 90850010
+
+name: Memory Instant Max + Infinite Special (Instant Max With Potion Only)
+mode: once
+w32 30E5FE98 42700000
+w32 31BA62C8 42700000
+
+name: ASM Instant Max + Infinite Special (Instant Max With Potion Only)
+mode: once
+w32 000B5FFC EC20107A
+w32 000B6018 EC5F317A
+w32 000B601C EC4020BA
+w32 004112C4 60000000

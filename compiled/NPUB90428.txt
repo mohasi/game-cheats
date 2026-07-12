@@ -1,0 +1,37 @@
+# Blur
+
+name: Always 1st + Max Fire
+mode: once
+w32 009618E0 92A90070
+
+name: Damage Never Decreases
+mode: once
+w32 00171154 907F047C
+
+name: Lot Of Fans On Start Race + Max Rank + Unlock All Vehicles
+mode: once
+w32 00181F3C 909F0004
+
+name: Max Points + Max Fires On 1 Hit (Destruction Race)
+mode: once
+w32 00AFF9EC 905F0104
+
+name: Points x11 + Easy Max Fires (Destruction Race)
+mode: once
+w32 00AFF9E8 7E86DA14
+
+name: Infinite Time On Checkpoint Race
+mode: once
+w32 00AFD438 60000000
+
+name: Infinite Fans Stunt Time
+mode: once
+w32 00193378 60000000
+
+name: Alway 1st/Max Fire
+mode: once
+w32 009618E0 92A90070
+
+name: Damage Never Decrease
+mode: once
+w32 00171154 907F047C

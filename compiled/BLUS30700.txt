@@ -1,0 +1,9 @@
+# Naughty Bear: Gold Edition
+
+name: Max Score Multiplier
+mode: once
+w32 30078B50 47C15C00
+
+name: Max Exp
+mode: once
+w32 30078BC4 4E6E6B28

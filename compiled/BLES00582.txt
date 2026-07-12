@@ -1,0 +1,53 @@
+# Rogue Warrior
+
+name: Memory Infinite Ammo + No Reload
+mode: once
+w32 3856F178 41400000
+
+name: ASM Infinite Ammo + No Reload
+mode: once
+w32 00445B30 60000000
+w32 00445B34 60000000
+
+name: Memory Infinite Grenade
+mode: once
+w32 3406B464 40A00000
+
+name: ASM Infinite Grenade
+mode: once
+w32 0043D990 60000000
+w32 0043D9A0 60000000
+
+name: Memory Unknown Code 1
+mode: once
+w32 381C5DBC 000003E7
+w32 381C2E2C 000003E7
+w32 384BD5FC 44FAFB63
+w32 384BD648 44FAFB63
+w32 3850C100 42C80000
+
+name: Rogue Warriors: Memory Infinite Ammo + No Reload
+mode: once
+w32 3856F178 41400000
+
+name: Rogue Warriors: ASM Infinite Ammo + No Reload
+mode: once
+w32 00445B30 60000000
+w32 00445B34 60000000
+
+name: Rogue Warriors: Memory Infinite Grenade
+mode: once
+w32 3406B464 40A00000
+
+name: Rogue Warriors: ASM Infinite Grenade
+mode: once
+w32 0043D990 60000000
+w32 0043D9A0 60000000
+
+name: Rogue Warriors: Memory Unknown Code 1
+mode: once
+w32 381C5DBC 000003E7
+w32 381C2E2C 000003E7
+w32 384BD5FC 44FAFB63
+w32 384BD648 44FAFB63
+w32 3850C100 42C80000

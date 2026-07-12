@@ -1,0 +1,115 @@
+# The Amazing Spider-Man 2
+
+name: Infinite Health
+mode: once
+w32 00B96A5C 60000000
+w32 00B96A60 60650000
+
+name: 1 Hit Kill
+mode: once
+w32 010E8EFC 38A00001
+
+name: Infinite Upgrade Points
+mode: once
+w32 00BE77AC 38604E20
+
+name: 99,999,999 Upgrade Points On Gain
+mode: once
+w32 00BFFAA8 6063E0FF
+
+name: Infinite Health
+mode: once
+w32 00B96A74 60000000
+
+name: Max Suit Level When Gaining XP Points
+mode: once
+w32 00BFF91C 937B0438
+
+name: Max Infinite Reputation To Heroic Level 3 On Change
+mode: once
+w32 00A49A28 93DF006C
+
+name: Max Upgrade Points On Gain
+mode: once
+w32 00BFFAAC 93A40088
+
+name: Infinite Missions Bar Timer (Fire, Bomb, Car Chase and Circle Of Threat)
+mode: once
+w32 00BCAB98 60000000
+w32 00BCB0D8 60000000
+w32 00BCB13C 60000000
+
+name: Infinite Police Truck Health
+mode: once
+w32 0103505C 4800000C
+
+name: Awareness Bar Never Increases
+mode: once
+w32 00BF9490 60000000
+
+name: Special Combo Always On
+mode: once
+w32 00BC3E58 4800000C
+
+name: No Hit Counter
+mode: once
+w32 00BCF28C 60000000
+w32 00CBD1EC 48000014
+
+name: AoB Infinite Health
+mode: once
+aob 90A6C9CC8067C9C8C8210018 600000008067C9C8C8210018
+
+name: AoB Max Suit Level When Gaining XP Points
+mode: once
+aob 90BB04388064033060630001 937B04388064033060630001
+
+name: AoB Max Infinite Reputation To Heroic Level 3 On Change
+mode: once
+aob 418100087CA320102C05000090BF006C 480000087CA320102C05000090BF006C
+aob 911F006C4080005C807F001C30A10070 93DF006C4080005C807F001C30A10070
+
+name: AoB Max Upgrade Points On Gain
+mode: once
+aob 90640088809D003C7C032000 93A40088809D003C7C032000
+
+name: AoB Infinite Upgrade Points On Spend
+mode: once
+aob 7C6328103CA0800078E80020 60A300003CA0800078E80020
+
+name: AoB Infinite Missions Bar Timer (Fire, Bomb, Car Chase and Circle Of Threat)
+mode: once
+aob D03E00203860000148000014 600000003860000148000014
+aob F8410028D3DF0020809EE174 F841002860000000809EE174
+aob FFC308AED3DF0020809EE174 FFC308AE60000000809EE174
+
+name: AoB Infinite Police Truck Health
+mode: once
+aob 4182000C809F00184BFFF895 4800000C809F00184BFFF895
+
+name: AoB Awareness Bar Never Increases
+mode: once
+aob 93FE04304BFFFCB5 600000004BFFFCB5
+
+name: AoB Special Combo Always On
+mode: once
+aob 807F0044808500007C0320004082000C 807F0044808500007C0320004800000C
+
+name: AoB No Hit Counter
+mode: once
+aob 90BF00304BFFFB51 600000004BFFFB51
+aob 4182001480A30030 4800001480A30030
+
+name: 99,999,999 Upgrade Points On Gain
+mode: once
+w32 00BFFAA4 3C6005F5
+w32 00BFFAA8 6063E0FF
+
+name: Max Infinite Reputation To Heroic Level 3 On Change
+mode: once
+w32 00A498C4 48000008
+w32 00A49A28 93DF006C
+
+name: Infinite Upgrade Points On Spend
+mode: once
+w32 00BE8BB8 60A30000

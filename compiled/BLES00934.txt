@@ -1,0 +1,9 @@
+# LEGO Star Wars III: The Clone Wars
+
+name: LEGO Star Wars 3 The Clone Wars: Max Studs On Gain
+mode: once
+w32 0073CB84 60000000
+
+name: LEGO Star Wars 3 The Clone Wars: AoB Max Studs On Gain
+mode: once
+aob 409D00603880FFFF 600000003880FFFF

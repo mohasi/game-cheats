@@ -1,0 +1,61 @@
+# The Idolmaster: One for All
+
+name: The Idolm@ster One For All: Max Manny On Win
+mode: once
+w32 000E9EF0 4800009C
+
+name: The Idolm@ster One For All: Max Voltage Gauge
+mode: once
+w32 0001727C C03A037C
+
+name: The Idolm@ster One For All: Idle Level Levels Down
+mode: once
+w32 000EF104 3BA0FFFF
+
+name: The Idolm@ster One For All: Lesson Effect Duration Never Decreases
+mode: once
+w32 00113170 38090000
+w32 00113190 38090000
+w32 001131B0 38090000
+
+name: The Idolm@ster One For All: Back 1 Week
+mode: once
+w32 000B3A58 3924FFFF
+
+name: The Idolm@ster One For All: Do Not Advance Weekly
+mode: once
+w32 000B3A58 39240000
+
+name: The Idolm@ster One For All: 999 SP After Exiting The Skill Acquisition Screen
+mode: once
+w32 000E5530 38C003E7
+
+name: The Idolm@ster One For All: AoB Max Manny On Win
+mode: once
+aob 4199009C4815630560000000809F0CC4 4800009C4815630560000000809F0CC4
+
+name: The Idolm@ster One For All: AoB Max Voltage Gauge
+mode: once
+aob C03A0378C01E019CFC810000408600A0 C03A037CC01E019CFC810000408600A0
+
+name: The Idolm@ster One For All: AoB Idle Level Levels Down
+mode: once
+aob 3BBC00017FA407B493BB001048144F65 3BA000017FA407B493BB001048144F65
+
+name: The Idolm@ster One For All: AoB Lesson Effect Duration Never Decreases
+mode: once
+aob 3809FFFF2C0000009003001C40820008 380900002C0000009003001C40820008
+aob 3809FFFF2C8000009003002040860008 380900002C8000009003002040860008
+aob 3809FFFF2F80000090030024409EFE48 380900002F80000090030024409EFE48
+
+name: The Idolm@ster One For All: AoB Back 1 Week
+mode: once
+aob 39240001816A000C91230038800B007C 3924FFFF816A000C91230038800B007C
+
+name: The Idolm@ster One For All: AoB Do Not Advance Weekly
+mode: once
+aob 39240001816A000C91230038800B007C 39240000816A000C91230038800B007C
+
+name: The Idolm@ster One For All: AoB 999 SP After Exiting The Skill Acquisition Screen
+mode: once
+aob 80DF012898FF00267C6803A6EBC10070 38C003E798FF00267C6803A6EBC10070

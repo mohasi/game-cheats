@@ -1,0 +1,33 @@
+# Doom 3
+
+name: Doom 3 BFG Edition: No Bullet Damage
+mode: once
+w32 004AD504 60000000
+
+name: Doom 3 BFG Edition: No Fall Damage
+mode: once
+w32 007E960C 60000000
+
+name: Doom 3 BFG Edition: No Death On Oxygen Depletion
+mode: once
+w32 007F2F60 60000000
+
+name: Doom 3 BFG Edition: Infinite Ammo
+mode: once
+w32 00855BD8 60000000
+
+name: Doom 3 BFG Edition: AoB No Bullet Damage
+mode: once
+aob 484F7EA9E84100287FE3FB784BFE58AD 60000000E84100287FE3FB784BFE58AD
+
+name: Doom 3 BFG Edition: AoB No Fall Damage
+mode: once
+aob 4BFF0F1DEB810140EB0100E87F8803A6 60000000EB810140EB0100E87F8803A6
+
+name: Doom 3 BFG Edition: AoB No Death On Oxygen Depletion
+mode: once
+aob 4BFFECA94BFFFE603F520001835A8228 600000004BFFFE603F520001835A8228
+
+name: Doom 3 BFG Edition: AoB Infinite Ammo
+mode: once
+aob 4BF8AAD960000000EBC100B0EB410070 6000000060000000EBC100B0EB410070

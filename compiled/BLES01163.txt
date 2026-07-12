@@ -1,0 +1,51 @@
+# El Shaddai: Ascension of the Metatron
+
+name: Infinite Health
+mode: once
+w32 001DFDEC 809D0008
+
+name: Memory Max Orbs On Gain
+mode: once
+w32 3206E2E8 0000001E
+w32 3206E324 0000001E
+w32 32F7FB1C 0000022E
+
+name: ASM Max Orbs On Gain
+mode: once
+w32 00399850 30A0270F
+w32 00399854 30C0270F
+w32 00399858 91440000
+
+name: Memory Infinite Magic
+mode: once
+w32 3207A240 00000000
+w32 3207A244 00000001
+w32 3207A248 00000000
+
+name: ASM Infinite Magic
+mode: once
+w32 001EEADC 30840000
+
+name: Max Life
+mode: once
+w16 32A86598 0006
+
+name: Max MP
+mode: once
+w16 32A8659C 0006
+
+name: Max Score
+mode: once
+w32 32A865B0 05F5E0FF
+
+name: ASM Max Orbs On Gain
+mode: once
+w32 003994D0 30A0270F
+w32 003994D4 30C0270F
+w32 003994D8 91440000
+
+name: ASM Max Orbs On Gain
+mode: once
+w32 003997F0 30A0270F
+w32 003997F4 30C0270F
+w32 003997F8 91440000

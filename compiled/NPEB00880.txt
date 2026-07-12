@@ -1,0 +1,61 @@
+# Assassin's Creed: Revelations
+
+name: Infinite Health
+mode: once
+w32 009A5B58 60000000
+
+name: Infinite Money
+mode: once
+w32 01037128 60000000
+
+name: AoB Infinite Health
+mode: once
+aob 801F00587FC3F378900900084BFFFDD52F9D0000419C0168801F006C 600000007FC3F378900900084BFFFDD52F9D0000419C0168801F006C
+
+name: AoB Infinite Money
+mode: once
+aob 7C1E005038600001901F000C4BFFFF903981FFD07C0802A6 6000000038600001901F000C4BFFFF903981FFD07C0802A6
+
+name: Infinite Health
+mode: once
+w32 009A7724 60000000
+
+name: Infinite Cash + Throwing Knives + Bullets
+mode: once
+w32 010347D4 60000000
+
+name: Max Money On Gain
+mode: once
+w32 01036F70 3880FFFF
+
+name: Max Moral
+mode: once
+w32 01483F10 38000063
+
+name: AoB Max Money On Gain
+mode: once
+aob 7C9E02147F841840 3880FFFF7F841840
+
+name: AoB Max Moral
+mode: once
+aob 7C0022147C9E2378 380000637C9E2378
+
+name: Max Money On Gain
+mode: once
+w32 01037700 3880FFFF
+
+name: Max Moral
+mode: once
+w32 01484718 38000063
+
+name: Infinite Health
+mode: once
+w32 009A6380 905F0058
+
+name: Infinite Health
+mode: once
+w32 009A6394 60000000
+
+name: Infinite Cash, Throwing Knives, Bullets
+mode: once
+w32 0103795C 60000000

@@ -1,0 +1,10 @@
+# Deadfall Adventures - Heart of Atlantis
+
+name: Memory Unknown Code 1
+mode: once
+w32 140D6304 00000009
+w32 14F76EA4 00000005
+
+name: ASM Unknown Code 1
+mode: once
+w32 000E24CC 60000000

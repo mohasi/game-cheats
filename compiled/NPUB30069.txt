@@ -1,0 +1,45 @@
+# Zombie Apocalypse
+
+name: Life 99
+mode: once
+w32 00BCFA18 00000064
+
+name: Zombie Grabs And Get 99 Lives
+mode: once
+w32 00176FB8 38840063
+
+name: Huge Score On Kill
+mode: once
+w32 00157588 60000000
+
+name: Combo Score Multiplier 999x
+mode: once
+w32 001533CC 419D000C
+
+name: Invincible After Dying
+mode: once
+w32 001E984C 905F077C
+
+name: Infinite Ammo Increase 999
+mode: once
+w32 002079E8 380903E7
+
+name: Invincibility
+mode: once
+w32 009AED74 3A000001
+w32 009AED78 9A0305A3
+w32 009AED7C 800305A0
+w32 009AED80 4804270E
+w32 00042708 489AED76
+
+name: AoB Zombie Grabs And Get 99 Lives
+mode: once
+aob 3884FFFF2F840000 388400632F840000
+
+name: AoB Huge Score On kill
+mode: once
+aob 409C000C7D0440F8 600000007D0440F8
+
+name: AoB Combo Score Multiplier 999x
+mode: once
+aob 7D244A142F8903E791230018409D000C 7D244A142F8903E791230018419D000C

@@ -1,0 +1,77 @@
+# Homefront
+
+name: Infinite Grenades + C4
+mode: once
+w32 00B73588 388000FF
+
+name: Infinite HP After Pickup Grenade
+mode: once
+w32 00010100 3CC07FFF
+w32 00010104 90C30418
+w32 00010108 90C30414
+w32 0001010C 88630A31
+w32 00010110 48B634E0
+w32 00B735EC 4B49CB14
+
+name: Infinite Ammo
+mode: once
+w32 00B8138C 3860000F
+
+name: AoB Infinite Ammo
+mode: once
+aob 418200589065028880 3860000F9065028880
+
+name: AoB Infinite Grenades + C4
+mode: once
+aob 54A4063E2C0600002C 388000FF2C0600002C
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 007EEAB8 28030001
+w32 007EEC08 38800001
+w32 007EEC60 28030001
+
+name: Infinite Grenades + C4
+mode: once
+w32 00B7ABA8 388000FF
+
+name: Infinite Ammo
+mode: once
+w32 00B87F3C 3860000F
+
+name: Infinite HP After Pick Up Grenade
+mode: once
+w32 00010100 3CC07FFF
+w32 00010104 90C30418
+w32 00010108 90C30414
+w32 0001010C 88630A31
+w32 00010110 48B634E0
+w32 00B7ADB4 4B49CB14
+
+name: Infinite Health
+mode: once
+w32 00996FA8 C33F0410
+w32 00996FAC 60000000
+w32 00996FB0 D33F0414
+
+name: Immunity Against Bullets
+mode: once
+w32 00B8C4D0 48000004
+
+name: No Recoil + Perfect Accuracy
+mode: once
+w32 0099C8A0 60000000
+w32 00B99E0C 60000000
+w32 00B9AB00 60000000
+
+name: Infinite Ammo Usage
+mode: once
+w32 00B87DF8 3B6003E7
+
+name: Infinite Ammo No Reload
+mode: once
+w32 00B909C8 60000000
+
+name: Infinite Grenades + Infinite C4
+mode: once
+w32 00B7AD5C 48000004

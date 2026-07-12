@@ -1,0 +1,118 @@
+# Saints Row IV
+
+name: Saints Row 4 tv01.05: Infinite Money On Gain Or Sell
+mode: once
+w32 0059AA00 60000000
+
+name: Saints Row 4 tv01.05: Max Power Points
+mode: once
+w32 10FF9B54 0001869F
+w32 10FFCBB4 0001869F
+
+name: Saints Row 4 tv01.05: Max Exp
+mode: once
+w32 10FF8F68 0002FFFF
+w32 10FF8F6C 0002FFFF
+w32 10FFBFC8 0002FFFF
+w32 10FFBFCC 0002FFFF
+w32 10FF8F6F 000003E7
+
+name: Saints Row 4: Max Money On Gain + Sell
+mode: once
+w32 00587AF0 60000000
+
+name: Saints Row 4: Max And Infinite Health
+mode: once
+w32 0077C440 C82100C0
+w32 0077C444 FC200E9C
+w32 0077C448 D03F1DE0
+w32 0077C44C C3BF1DE0
+
+name: Saints Row 4: Infinite Ammo And Never Need To Reload
+mode: once
+w32 00068F84 38C00000
+w32 00069004 38600000
+
+name: Saints Row 4: Infinite Ammo In Inventory After Reload
+mode: once
+w32 004B2278 807F0004
+
+name: Saints Row 4: Max And Infinite Money On Change
+mode: once
+w32 0054ED24 4800001C
+w32 00DCB834 4800001C
+
+name: Saints Row 4: Max Respect Points On Gain
+mode: once
+w32 001D2FB0 60000000
+
+name: Saints Row 4: Infinite Clusters (Powers) When Upgrading
+mode: once
+w32 001D303C 7CA42B78
+
+name: Saints Row 4: No Overheat For Weapons
+mode: once
+w32 00067B70 FC201090
+
+name: Saints Row 4: Max And Infinite Power Energy
+mode: once
+w32 001D5F28 3DE03F80
+w32 001D5F2C 91E32038
+
+name: Saints Row 4: AoB Max Money On Gain + Sell
+mode: once
+aob 408100143C8077356084940090830000480000583CA0FECE 600000003C8077356084940090830000480000583CA0FECE
+
+name: Saints Row 4: AoB Max And Infinite Health
+mode: once
+aob C3BF1DE0C82100C0FC200E9CFC200818 C82100C0FC200E9CD03F1DE0C3BF1DE0
+
+name: Saints Row 4: AoB Infinite Ammo And Never Need To Reload
+mode: once
+aob A0D700AA62E40000 38C0000062E40000
+aob A07700AA7CC33010 386000007CC33010
+
+name: Saints Row 4: AoB Infinite Ammo In Inventory After Reload
+mode: once
+aob 7C6540102C060000 807F00042C060000
+
+name: Saints Row 4: AoB Max And Infinite Money On Change
+mode: once
+aob 4181001C3CA088CA60A56C007C0428004080000860A400006085000090A30000 4800001C3CA088CA60A56C007C0428004080000860A400006085000090A30000
+
+name: Saints Row 4: AoB Max Respect Points On Gain
+mode: once
+aob 4180000C7C85F010 600000007C85F010
+
+name: Saints Row 4: AoB Infinite Clusters (Powers) When Upgrading
+mode: once
+aob 7C8520142C04000041800008 7CA42B782C04000041800008
+
+name: Saints Row 4: AoB No Overheat For Weapons
+mode: once
+aob EC22082AD03F02B0 FC201090D03F02B0
+
+name: Saints Row 4: AoB Max And Infinite Power Energy
+mode: once
+aob EC21F82AD0232038 3DE03F8091E32038
+
+name: Saints Row 4: Max Money On Gain + Sell
+mode: once
+w32 005880D0 60000000
+
+name: Saints Row 4: Infinite Money On Gain Or Sell
+mode: once
+w32 0059AA00 60000000
+
+name: Saints Row 4: Max Power Points
+mode: once
+w32 10FF9B54 0001869F
+w32 10FFCBB4 0001869F
+
+name: Saints Row 4: Max Exp
+mode: once
+w32 10FF8F68 0002FFFF
+w32 10FF8F6C 0002FFFF
+w32 10FFBFC8 0002FFFF
+w32 10FFBFCC 0002FFFF
+w32 10FF8F6F 000003E7

@@ -1,0 +1,42 @@
+# Conan
+
+name: Memory Infinite Health One Hit Kill
+mode: once
+w32 59F34D1C 42C80000
+w32 59F36F6C 42C80000
+
+name: ASM Infinite Health One Hit Kill
+mode: once
+w32 0014DF30 EC1D0828
+
+name: Instant Full Health On Green Orbs Gain
+mode: once
+w32 002337AC EFE0082A
+
+name: Memory Memory Max + Infinite Red Orbs On Gain
+mode: once
+w32 101995B0 43070000
+
+name: ASM Max + Infinite Red Orbs On Gain
+mode: once
+w32 002337F0 EC20002A
+
+name: Max Red Orbs After Buying Anything
+mode: once
+w32 001D6AC4 EC02582A
+
+name: ASM Infinite Health One Hit Kill
+mode: once
+w32 0014E104 EC1D0828
+
+name: Instant Full Health On Green Orbs Gain
+mode: once
+w32 00235DB4 EFE0082A
+
+name: ASM Max + Infinite Red Orbs On Gain
+mode: once
+w32 00235DF8 EC20002A
+
+name: Max Red Orbs After Buying Anything
+mode: once
+w32 001D6620 EC02582A

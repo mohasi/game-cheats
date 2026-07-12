@@ -1,0 +1,12 @@
+# Legendary
+
+name: Memory Unknown Code 1
+mode: once
+w32 13721478 3F800000
+w32 1446B378 3F800000
+w32 14521C58 00000064
+
+name: ASM Unknown Code 1
+mode: once
+w32 00465E30 91CB0000
+w32 00465E2C 80C50000

@@ -1,0 +1,13 @@
+# Winning Post 7 2013
+
+name: Infinite Money
+mode: once
+w32 000E291C 7C1E0378
+
+name: Infinite Money 2
+mode: once
+w32 000E2950 7C1E0378
+
+name: AoB Infinite Money
+mode: once
+aob 419D00084099001CE8010090EBC10070 7C1E03784099001CE8010090EBC10070

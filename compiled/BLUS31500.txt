@@ -1,0 +1,53 @@
+# The Awakened Fate Ultimatum
+
+name: HP Value Modifier
+mode: once
+w16 3126411A 270F
+
+name: Exp Modifier
+mode: once
+w32 3126413C 0001869F
+
+name: Divinity Mode + Awakened Form Mode (R3 Button in Dungeons) Always Full
+mode: once
+w32 31264308 000003E8
+
+name: Max Energy Crystals On Gain
+mode: once
+w32 000251F8 60000000
+
+name: Infinite SP
+mode: once
+w32 00027288 60000000
+
+name: Infinite AC
+mode: once
+w32 00026F74 60000000
+
+name: Infinite Angel CP (Deity Evolution Map)
+mode: once
+w32 0003EBB0 30630000
+
+name: Infinite Devil CP (Deity Evolution Map)
+mode: once
+w32 0003EB48 30630000
+
+name: AoB Max Energy Crystals On Gain
+mode: once
+aob 908300A0418000103C8000986084967F 908300A0600000003C8000986084967F
+
+name: AoB Infinite SP
+mode: once
+aob 60BF000093FE002CE80100907C0803A6 60BF000060000000E80100907C0803A6
+
+name: AoB Infinite AC
+mode: once
+aob 61070000911F003093DF00782C070000 610700006000000093DF00782C070000
+
+name: AoB Infinite Angel CP (Deity Evolution Map)
+mode: once
+aob 31070014788417643063FFFF7C84401478A51764 3107001478841764306300007C84401478A51764
+
+name: AoB Infinite Devil CP (Deity Evolution Map)
+mode: once
+aob 31070004788417643063FFFF7C84401478A51764 3107000478841764306300007C84401478A51764

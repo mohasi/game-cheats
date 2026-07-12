@@ -1,0 +1,13 @@
+# House of the Dead 4, The - PlayStation Plus
+
+name: The House Of The Dead 4: Infinite Health
+mode: once
+w32 000DBEB8 39290000
+
+name: The House Of The Dead 4: Infinite Ammo
+mode: once
+w32 000C7774 409E0028
+
+name: The House Of The Dead 4: Infinite Grenade
+mode: once
+w32 000DB974 39290000

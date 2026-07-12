@@ -1,0 +1,36 @@
+# Saint Seiya: Soldiers' Soul: Knights of the Zodiac
+
+name: Saint Seiya Soldiers' Soul: Max And Infinite Money On Buy
+mode: once
+w32 002BE1F8 60000000
+w32 002BE200 60000000
+
+name: Saint Seiya Soldiers' Soul: Infinite And Instant Charge Max Cosmos
+mode: once
+w32 000463B8 D023004C
+w32 00046500 D043004C
+
+name: Saint Seiya Soldiers' Soul: Instant Charge Max SS
+mode: once
+w32 000463E8 D0430054
+
+name: Saint Seiya Soldiers' Soul: AoB Max And Infinite Money On Buy
+mode: once
+aob 7C04F80041810008609F0000637E0000 600000004181000860000000637E0000
+
+name: Saint Seiya Soldiers' Soul: AoB Infinite And Instant Charge Max Cosmos
+mode: once
+aob FC020800D043004C4181000848000008 FC020800D043004C4181000848000008
+aob 388464E8D023004CC0440000FC011000 388464E8D043004CC0440000FC011000
+
+name: Saint Seiya Soldiers' Soul: AoB Instant Charge Max SS
+mode: once
+aob FC011000D02300544CC1138241860008 FC011000D04300544CC1138241860008
+
+name: Saint Seya Soldiers Soul: Memory Money 999,999,999 In Shop
+mode: once
+w32 023EAA58 3B9AC9FF
+
+name: Saint Seya Soldiers Soul: ASM Money 999,999,999 In Shop
+mode: once
+w32 002DB210 902408D0

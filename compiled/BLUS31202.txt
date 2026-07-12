@@ -1,0 +1,101 @@
+# The Elder Scrolls V: Skyrim: Legendary Edition
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Infinite HP, MP, And Stamina
+mode: once
+w32 0143C794 D3DF0188
+w32 0143C798 3DE00171
+w32 0143C79C 61EFA37C
+w32 0143C7A0 81EF0000
+w32 0143C7A4 2C0F0000
+w32 0143C7A8 41820014
+w32 0143C7AC 3AA00000
+w32 0143C7B0 92AF0178
+w32 0143C7B4 92AF016C
+w32 0143C7B8 92AF0160
+w32 0143C7BC 48198312
+w32 0019830C 4943C796
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Infinite Shout
+mode: once
+w32 0008EA00 60000000
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Infinite Powers
+mode: once
+w32 001976F8 48000008
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Quick Main Level Up
+mode: once
+w32 001D8E9C C0230004
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Quick Skill Level Up
+mode: once
+w32 001D8CC4 C03C0008
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Items on Deposit (Inventory)
+mode: once
+w32 0047C794 386003E7
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Items on Desposit (Chest)
+mode: once
+w32 004166A0 388003E7
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Items On Gain (Must have 1 in inventory)
+mode: once
+w32 00470F6C 38A003E7
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Perks
+mode: once
+w32 002DC7EC 38800063
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Gold In Shop
+mode: once
+w32 002F0B5C 38607FFF
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Can Always Level Up At Trainers
+mode: once
+w32 00308D30 60000000
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Max Gold On Spend
+mode: once
+w32 004739DC 3C6005F5
+w32 004739E0 6063E0FF
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Infinite Arrows
+mode: once
+w32 002AEE54 60000000
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Infinite Dragon Souls (Only use for Dragon Souls)
+mode: once
+w32 00E69F50 60000000
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Carry Weight Never Increases
+mode: once
+w32 00414FCC 60000000
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Can Craft Without Materials
+mode: once
+w32 00478894 3860000F
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Fly + No Clip (Jump Once)
+mode: once
+w32 009374D8 38600004
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: AoB Max Perks On Use
+mode: once
+aob 7884062098830755382100A048B79664 3880006398830755382100A048B79664
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: AoB Infinite Shout
+mode: once
+aob D02300104E8000203CA0012880630008C025F110 600000004E8000203CA0012880630008C025F110
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: AoB Max Gold In Shop
+mode: once
+aob 7C6307B43BA00000786400207C8407B4907E006038600003 38607FFF3BA00000786400207C8407B4907E006038600003
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: AoB Infinite Dragon Souls (Only use for Dragon Souls)
+mode: once
+aob 7C263D2E4B201F253C600128C023F110 600000004B201F253C600128C023F110
+
+name: The Elder Scrolls 5 Skyrim Legendary Edition: Unlock FPS
+mode: once
+w16 008EDB64 F805

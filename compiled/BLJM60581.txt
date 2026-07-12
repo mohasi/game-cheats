@@ -1,0 +1,56 @@
+# Pro Yakyuu Spirits 2013
+
+name: Strike Count Does Not Increase
+mode: once
+w32 002A2358 7CA42B78
+
+name: Ball Count Does Not Increase
+mode: once
+w32 002A237C 7CA42B78
+
+name: 9999 Total Points
+mode: once
+w32 005D1F30 38A0270F
+
+name: Outs Do Not Increase
+mode: once
+w32 002A23A0 7CA42B78
+
+name: 9999 Spirits
+mode: once
+w32 0067D258 3880270F
+
+name: 999,999 VP
+mode: once
+w32 0039B874 3C80000F
+w32 0039B878 6084423F
+w32 006A0F98 2C040000
+
+name: Money Management 999,999
+mode: once
+w32 006AF9B0 3C8005F5
+w32 006AF9BC 6084E0FF
+
+name: 255 Confidence
+mode: once
+w32 006ACDB0 388000FF
+
+name: 255 Human Resource Ability
+mode: once
+w32 006AC49C 388000FF
+
+name: 255 Dexterity
+mode: once
+w32 006AC3F4 388000FF
+
+name: 255 Strength
+mode: once
+w32 006AC95C 388000FF
+
+name: 255 Movement Power
+mode: once
+w32 006AC4F0 388000FF
+
+name: 255 Economic Strength
+mode: once
+w32 006AC448 388000FF

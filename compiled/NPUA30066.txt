@@ -1,0 +1,77 @@
+# Sideway - New York
+
+name: ASM Infinite Health
+mode: once
+w32 00075834 60000000
+w32 00075838 60000000
+
+name: ASM 33 Million Points On Gain
+mode: once
+w32 0001B630 90430028
+
+name: ASM Max Tags Scores
+mode: once
+w32 0001B810 91030044
+
+name: ASM Infinite Paint Grenades + Paint Shield
+mode: once
+w32 0005E9A4 90030004
+
+name: ASM Unknown Code 1
+mode: once
+w32 008FDAE8 39290005
+w32 008FDAEC 913F0004
+w32 008FE1C0 38090005
+w32 008FE1CC 901F0004
+w32 009A80BC 396B0005
+w32 00E60FE0 93890004
+w32 00E60FE4 93690008
+
+name: Memory Infinite Health
+mode: once
+w32 32697164 40400000
+w32 33599104 40000000
+w32 335FB754 40000000
+
+name: ASM Infinite Health
+mode: once
+w32 00075968 60000000
+w32 0007596C 60000000
+
+name: Memory 33 Million Points On Gain
+mode: once
+w32 301A7D58 00000EE7
+
+name: ASM 33 Million Points On Gain
+mode: once
+w32 0001B624 90430028
+
+name: Memory Max Tags Scores
+mode: once
+w32 301A7D74 00000008
+
+name: ASM Max Tags Scores
+mode: once
+w32 0001B804 91030044
+
+name: Memory Infinite Paint Grenades + Paint Shield
+mode: once
+w32 33EF352C 00000002
+
+name: ASM Infinite Paint Grenades + Paint Shield
+mode: once
+w32 0005EB2C 90030004
+
+name: Memory Unknown Code 1
+mode: once
+w32 31075034 3F800000
+
+name: ASM Unknown Code 1
+mode: once
+w32 008FD288 39290005
+w32 008FD28C 913F0004
+w32 008FD960 38090005
+w32 008FD96C 901F0004
+w32 009A785C 396B0005
+w32 00E607B0 93890004
+w32 00E607B4 93690008

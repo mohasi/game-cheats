@@ -1,0 +1,9 @@
+# PachiPara 15: Super Umi Monogatari in Okinawa 2
+
+name: Always Negative Victory Card Battle (Score 9999999)
+mode: once
+w32 00737610 0098967F
+
+name: Battle Ball Always Win (Jade 99999)
+mode: once
+w32 007AC940 0001869F

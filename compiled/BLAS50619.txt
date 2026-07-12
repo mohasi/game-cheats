@@ -1,0 +1,9 @@
+# World Soccer Winning Eleven 2014
+
+name: Points Do Not Decrease
+mode: once
+w32 002C756C 30840000
+
+name: Strength Points Do Not Decrease
+mode: once
+w32 004E7BAC 60000000

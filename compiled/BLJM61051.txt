@@ -1,0 +1,62 @@
+# Ayesha no Atelier: Tasogare no Daichi no Renkinjutsushi
+
+name: Synthesis Does Not Decrease Materials
+mode: once
+w32 0016C25C 60000000
+
+name: Infinite Item Usage ON (May Freeze game when using same item fast)
+mode: once
+w32 00173E94 60000000
+
+name: Infinite Item Usage OFF
+mode: once
+w32 00173E94 30A5FFFF
+
+name: Freeze Day ON (Use after getting your first workshop from Harry)
+mode: once
+w32 0024A4B8 7CC53378
+
+name: Freeze Day OFF
+mode: once
+w32 0024A4B8 7CA62814
+
+name: 5000 Memory Points On Game (may cause some freezes in game music)
+mode: once
+w32 00168E3C 38A51388
+w32 00168E40 38841388
+
+name: Infinite MP
+mode: once
+w32 000B8CA4 60000000
+
+name: Max Quality During Synthesis
+mode: once
+w32 0027D9EC 48000008
+
+name: AoB Synthesis Does Not Decrease Materials
+mode: once
+aob 7CC6F0142C0600004080000838C00000 600000002C0600004080000838C00000
+
+name: AoB Infinite Item Usage ON (May Freeze game when using same item fast)
+mode: once
+aob 30A5FFFF2C05000090A3001C41810048 600000002C05000090A3001C41810048
+
+name: AoB Infinite Item Usage OFF
+mode: once
+aob 600000002C05000090A3001C41810048 30A5FFFF2C05000090A3001C41810048
+
+name: AoB Freeze Day ON (Use after getting your first workshop from Harry)
+mode: once
+aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
+
+name: AoB Freeze Day OFF
+mode: once
+aob 7CC533782C0500004180000860A40000 7CA628142C0500004180000860A40000
+
+name: AoB Infinite MP
+mode: once
+aob 7C9F20102C0400004180000860830000 600000002C0400004180000860830000
+
+name: AoB Max Quality During Synthesis
+mode: once
+aob 4181000848000008FFE00890C03A0004 4800000848000008FFE00890C03A0004

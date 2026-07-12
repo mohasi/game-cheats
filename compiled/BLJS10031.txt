@@ -1,0 +1,23 @@
+# Call of Duty 4: Modern Warfare
+
+name: HP Max (Will be red)
+mode: once
+w32 107C1124 00007FFF
+w32 107C1128 00000000
+
+name: Ammo Of All 32767
+mode: once
+w32 1090EDD0 00007FFF
+w32 1090EDD4 00007FFF
+w32 1090EDD8 00007FFF
+w32 1090EDDC 00007FFF
+w32 1090EDE0 00007FFF
+w32 1090EDE4 00007FFF
+
+name: Grenade 999
+mode: once
+w32 1090EDE8 000007FF
+
+name: Flash Grenade 999
+mode: once
+w32 1090EFD8 000007FF

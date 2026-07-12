@@ -1,0 +1,17 @@
+# Utawarerumono Itsuwari no Kamen
+
+name: Max Power For All Character
+mode: once
+w32 000E46E4 48000010
+
+name: Strength Never Decreases For All Characters
+mode: once
+w32 000E4748 48000014
+
+name: BP 9999 (Assignment)
+mode: once
+w32 000EAEF8 3880270F
+
+name: AoB BP 9999 (Assignment)
+mode: once
+aob 7C86F0107C7C1814306300B0909C00A8 3880270F7C7C1814306300B0909C00A8

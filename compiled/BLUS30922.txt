@@ -1,0 +1,79 @@
+# MIB: Alien Crisis
+
+name: Men In Black Alien Crisis: Memory Infinite Health (Human Mode)
+mode: once
+w32 36BD5EDC 43960000
+w32 3774185C 43960000
+
+name: Men In Black Alien Crisis: Invincible
+mode: once
+w32 00C55DB4 C003017C
+w32 00C55DBC C1A30180
+
+name: Men In Black Alien Crisis: ASM Infinite Health (Human Mode)
+mode: once
+w32 003F5614 60000000
+w32 003F561C 60000000
+
+name: Men In Black Alien Crisis: Memory Infinite Shield (Human Mode)
+mode: once
+w32 3815A3B4 00000000
+w32 3815A3B8 00000000
+w32 381A42B4 3F800000
+
+name: Men In Black Alien Crisis: ASM Instant Max Shield
+mode: once
+w32 00656C20 EC030828
+
+name: Men In Black Alien Crisis: ASM Infinite Shield
+mode: once
+w32 00656E38 EC220072
+
+name: Men In Black Alien Crisis: Many Points
+mode: once
+w32 368AA20C 000044C1
+
+name: Men In Black Alien Crisis: Lot Of Points On Gain
+mode: once
+w32 006D324C 7C024A14
+w32 006D3254 905F0004
+
+name: Men In Black Alien Crisis: Memory Many + Infinite Points
+mode: once
+w32 35ABBAC4 00000008
+
+name: Men In Black Alien Crisis: ASM Many + Infinite Points
+mode: once
+w32 0047D80C 90491734
+
+name: Men In Black Alien Crisis: Memory Infinite Shock (Ship Mode)
+mode: once
+w32 36863494 00000005
+w32 37BAB054 40A00000
+w32 37C47B94 00000005
+
+name: Men In Black Alien Crisis: ASM Infinite Shock (Ship Mode)
+mode: once
+w32 00685344 39290000
+
+name: Men In Black Alien Crisis: No Waiting Time
+mode: once
+w32 0067C12C 60000000
+w32 0067C138 60000000
+w32 0067C13C 60000000
+w32 0067C144 60000000
+w32 0067C150 60000000
+w32 0067C154 60000000
+w32 0067C188 60000000
+w32 0067D610 60000000
+w32 0067D618 60000000
+w32 0067D61C 60000000
+w32 0067D620 60000000
+w32 0067D654 60000000
+w32 0067D658 60000000
+w32 0067D668 60000000
+w32 0067D66C 60000000
+
+name: Men In Black Alien Crisis: Infinite Missiles (Ship Mode) + Infinite Ammo + No Reload (Human Mode)
+mode: once
+w32 004280D4 396B0000

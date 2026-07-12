@@ -1,0 +1,39 @@
+# Wolf of the Battlefield - Commando 3
+
+name: Money 999999
+mode: once
+w32 00340448 000F423F
+
+name: Infinite Lives
+mode: once
+w8 00355B3B 08
+
+name: Infinite MK
+mode: once
+w8 0034044F 08
+w8 003405BB 08
+w8 00340727 08
+
+name: Infinite Bombs
+mode: once
+w32 0009C604 60000000
+
+name: Infinite Health
+mode: once
+w32 000A2D8C 60000000
+
+name: Infinite Bombs
+mode: once
+w16 0009C5FE 0000
+
+name: AoB Infinite Health
+mode: once
+aob EC1E07FC83C900007C00F0502B800003D00B0028 EC1E07FC83C900007C00F0502B80000360000000
+
+name: AoB Infinite Bombs
+mode: once
+aob 813E03703929FFFF 813E037039290000
+
+name: Infinite Bombs
+mode: once
+w32 0009C5FC 39290000

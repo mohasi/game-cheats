@@ -1,0 +1,9 @@
+# Battlefield 3
+
+name: Invincibility
+mode: once
+w32 003392D8 FFC0E890
+
+name: AoB Invincibility
+mode: once
+aob FC20F89039000020FC60E09038A000A0 FFC0E89039000020FC60E09038A000A0

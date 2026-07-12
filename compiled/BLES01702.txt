@@ -1,0 +1,61 @@
+# Tekken Tag Tournament 2
+
+name: Max Money On Buy (May Give Max On Gain)
+mode: once
+w32 00658B14 409D004C
+w32 00658B60 3C007FFF
+
+name: Max Combot Money On Buy
+mode: once
+w32 00175D2C 3C007FFF
+
+name: Max Wins P2
+mode: once
+w32 00319A0C 60000000
+
+name: Max Loss P2
+mode: once
+w32 00319A3C 60000000
+
+name: CPU Do Not Attack
+mode: once
+w32 000BD88C 409E0110
+w32 000BD9C8 409D0048
+w32 000BDA24 409E0010
+
+name: Disable CPU Block
+mode: once
+w32 000DC6E8 419D008C
+
+name: 1P Invincible + Hitanywhere Solo Mode
+mode: once
+w32 000D6998 7F95B800
+w32 000D699C 409DFD04
+
+name: 1P Invincible + Hitanywhere Tag Mode
+mode: once
+w32 000C1670 70800010
+w32 000C1818 4BFFFEAC
+
+name: CPU Do Not Attack [01.01]
+mode: once
+w32 000BDAD8 409E010C
+w32 000BDC10 409D0048
+w32 000BDC6C 409E0010
+
+name: Disable CPU Block [01.01]
+mode: once
+w32 000DC6E8 419D008C
+
+name: Multi Hit 1P [01.03]
+mode: once
+w32 000D58DC 409EFFEC
+
+name: Player 1 Invincible And Can Hit From Anywhere
+mode: once
+w32 000C2FD4 70800010
+w32 000C217C 4BFFFEAC
+
+name: Disable Block
+mode: once
+w32 000DD888 419D008C

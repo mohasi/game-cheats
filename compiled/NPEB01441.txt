@@ -1,0 +1,25 @@
+# Castlevania - Lords of Shadow - Mirror of Fate HD
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: Infinite Health
+mode: once
+w32 0024D00C C0230070
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: Infinite Magic
+mode: once
+w32 001FBC4C C05F0040
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: Infinite Secondary Weapon
+mode: once
+w32 002363CC 38600064
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: AoB Infinite Health
+mode: once
+aob FB61007838A00001 FB610078C0230070
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: AoB Infinite Magic
+mode: once
+aob FC4408AEFC021800 C05F0040FC021800
+
+name: Castlevania Lords Of Shadow - Mirror Of Fate: AoB Infinite Secondary Weapon
+mode: once
+aob 60000000607F0000480000183C6000968084002C3063BF2C 38600064607F0000480000183C6000968084002C3063BF2C

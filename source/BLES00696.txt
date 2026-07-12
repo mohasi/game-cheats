@@ -1,0 +1,22 @@
+# Fairytale Fights
+
+name: Memory Infinite Health
+mode: once
+w32 146903C8 00000064
+w32 15320CC8 00000064
+
+name: ASM Infinite Health
+mode: once
+w32 00065504 7FE54850
+w32 00065508 60000000
+
+name: Memory Max + Infinite Money On Gain + Special Always Full
+mode: once
+w32 13F7CB58 000005DC
+w32 1722E7F0 000005DC
+w32 1722E7F4 000005DC
+
+name: ASM Max + Infinite Money On Gain + Special Always Full
+mode: once
+w32 00065208 91880000
+w32 00134BEC 90CB0000

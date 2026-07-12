@@ -1,0 +1,56 @@
+# Duke Nukem 3D - Megaton Edition
+
+name: Duke Nukem Megaton: Infinite Health + Armor
+mode: once
+w32 0016DC64 7C1F1B2E
+
+name: Duke Nukem Megaton: Memory Infinite Armor
+mode: once
+w16 023B6CE6 0064
+
+name: Duke Nukem Megaton: Infinite Ammo Semi Auto
+mode: once
+w32 00178C28 B23D029C
+
+name: Duke Nukem Megaton: Infinite Ammo Shotgun
+mode: once
+w32 001795BC 30A40000
+
+name: Duke Nukem Megaton: Infinite Ammo Rifle
+mode: once
+w32 00179704 30840000
+
+name: Duke Nukem Megaton: Infinite Ammo Rocket Launcher
+mode: once
+w32 00179CF0 30E70000
+
+name: Duke Nukem Megaton: Infinite Grenade
+mode: once
+w32 0017911C 30630000
+
+name: Duke Nukem Megaton: Memory Have All Keys
+mode: once
+w16 023B6C8C 0007
+
+name: Duke Nukem Megaton: Memory Have All Items + Infinite Items
+mode: once
+w16 023B6D22 0001
+w16 023B6D22 0002
+w16 023B6D22 0003
+w16 023B6D22 0004
+w16 023B6D22 0005
+w16 023B6D22 0006
+w16 023B6D22 0007
+w16 023B6D22 0008
+w16 023B6C90 0064
+w16 023B6CE0 1900
+w16 023B6CE2 0640
+w16 023B6CF6 00C8
+
+name: Duke Nukem Megaton: Infinite Jet Pack
+mode: once
+w32 001758E4 30640000
+
+name: Duke Nukem Megaton: Infinite Swim Suit
+mode: once
+w32 00175C28 30640000

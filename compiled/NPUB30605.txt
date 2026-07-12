@@ -1,0 +1,13 @@
+# Real Steel
+
+name: Max Money On Buy
+mode: once
+w32 0038967C 60000000
+
+name: AoB Max Money On Buy
+mode: once
+aob 7C0328004081000C3C603B9A6063C99C 7C032800600000003C603B9A6063C99C
+
+name: Max Money On Buy
+mode: once
+w32 00396E8C 60000000

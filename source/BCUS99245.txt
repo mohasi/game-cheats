@@ -1,0 +1,92 @@
+# Ratchet &amp;amp; Clank: Into the Nexus
+
+name: Ratchet And Clank Into The Nexus: 999,999,999 Bolts
+mode: once
+w32 001E46A0 3C603B9A
+w32 001E46A4 6063C9FF
+w32 001E46A8 33BD0001
+w32 001E46AC 7F9C1814
+w32 001E46B0 33FF0028
+w32 001E46B4 60000000
+
+name: Ratchet And Clank Into The Nexus: Ammo Does Not Decrease
+mode: once
+w32 00495C88 60000000
+
+name: Ratchet And Clank Into The Nexus: 9,999 Raritanium After Use
+mode: once
+w32 004EFA4C 3860270F
+
+name: Ratchet And Clank Into The Nexus: Infinite Health
+mode: once
+w32 001E6DC4 D3BD0000
+
+name: Ratchet And Clank Into The Nexus: Kill An Enemy To Instantly Max Out Health Cap
+mode: once
+w32 001D9A28 4800000C
+
+name: Ratchet And Clank Into The Nexus: Hit An Enemy With A Weapon To Instantly Fully Level It
+mode: once
+w32 00495F94 D03F000C
+
+name: Ratchet And Clank Into The Nexus: Jetpack Fuel Never Decreases
+mode: once
+w32 001468CC 38600001
+w32 00153C40 C03F6230
+w32 0017BA64 C0256230
+w32 0017C48C C3C46230
+
+name: Ratchet And Clank Into The Nexus: Clank Netherverse 0 Moves
+mode: once
+w32 00368B80 38600000
+
+name: Ratchet And Clank Into The Nexus: Clank Netherverse Never Took Damage
+mode: once
+w32 00133890 38800000
+
+name: Ratchet And Clank Into The Nexus: AoB 999,999,999 Bolts
+mode: once
+aob 4831F33533BD00017F9C181433FF0028281D00044180FFE4 3C6000986063967F33BD00017F9C181433FF002860000000
+
+name: Ratchet And Clank Into The Nexus: AoB Ammo Does Not Decrease
+mode: once
+aob 4BFFFCB1FC60F890C85E0000FC4310EEFC401018FC601090FC630828FC601818FC23106E 4BFFFCB1FC60F890C85E0000FC4310EEFC401018FC601090FC630828FC60181860000000
+
+name: Ratchet And Clank Into The Nexus: AoB 9,999 Raritanium After Use
+mode: once
+aob 80A4000C7C651810 80A4000C3860270F
+
+name: Ratchet And Clank Into The Nexus: AoB Infinite Health
+mode: once
+aob FC40169CD3BF0038 FC40169CD3BD0000
+
+name: Ratchet And Clank Into The Nexus: AoB Kill An Enemy To Instantly Max Out Health Cap
+mode: once
+aob 7C241C2EFC1F08004CC113824186000C 7C241C2EFC1F08004CC113824800000C
+
+name: Ratchet And Clank Into The Nexus: AoB Hit An Enemy With A Weapon To Instantly Fully Level It
+mode: once
+aob C0280000FC1F080041800010 C0280000FC1F080060000000
+
+name: Ratchet And Clank Into The Nexus: AoB Jetpack Fuel Never Decreases
+mode: once
+aob 3C600015C03F6234 3C600015C03F6230
+aob 41860118C0256234 41860118C0256230
+aob 3860003FC3C46234 3860003FC3C46230
+
+name: Ratchet And Clank Into The Nexus: AoB Clank Netherverse 0 Moves
+mode: once
+aob 4080000C30660001 4080000C38600000
+
+name: Ratchet And Clank Into The Nexus: AoB Clank Netherverse Never Took Damage
+mode: once
+aob 3880000198830049 3880000098830049
+
+name: Ratchet And Clank Into The Nexus: Unlock FPS (PSXPlace) [Tested]
+mode: once
+w32 0069A550 38A00001
+
+name: Ratchet And Clank Into The Nexus: Unlock FPS v01.01 (RPCS3)
+mode: once
+w16 0032FF02 3A83
+w16 0032FF0E 126F

@@ -1,0 +1,17 @@
+# R.I.P.D. - Rest in Peace Department - The Game
+
+name: R.I.P.D. The Game: Memory Lot + Infinite Money On Buy
+mode: once
+w32 3091DB48 000009C4
+
+name: R.I.P.D. The Game: ASM Lot + Infinite Money On Buy
+mode: once
+w32 005B94E8 927F0038
+
+name: R.I.P.D. The Game: Memory Infinite Retries + Time
+mode: once
+w32 30E3602C 0000000A
+
+name: R.I.P.D. The Game: ASM Infinite Retries + Time
+mode: once
+w32 00D03EE4 60000000

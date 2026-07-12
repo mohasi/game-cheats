@@ -1,0 +1,30 @@
+# Dragon Fantasy Book I
+
+name: Memory Infinite HP
+mode: once
+w32 343E0528 00000032
+
+name: ASM Infinite HP
+mode: once
+w32 0008135C 60000000
+w32 0008142C 60000000
+w32 00081340 60000000
+w32 000814B0 60000000
+w32 00082460 60000000
+w32 00082488 60000000
+
+name: Memory Infinite Gold On Start
+mode: once
+w32 300FE588 0000270F
+
+name: ASM Infinite Gold On Start
+mode: once
+w32 000BD2F0 90440018
+
+name: Infinite Items
+mode: once
+w32 000A8B30 30630000
+w32 000A8B40 60000000
+w32 002CBA0C 60000000
+w32 002CBA10 396B0000
+w32 002CBA08 38840000

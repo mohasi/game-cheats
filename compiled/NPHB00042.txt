@@ -1,0 +1,43 @@
+# 1942 - Joint Strike
+
+name: Score
+mode: once
+w32 0032F7C8 3B9AC9FF
+w32 0032F934 3B9AC9FF
+w32 0032FAA0 3B9AC9FF
+
+name: Life 99
+mode: once
+w32 0032F7F8 00000063
+w32 0032F964 00000063
+w32 0032FAD0 00000063
+
+name: Max Bomb
+mode: once
+w32 0032F7FC 00000009
+w32 0032FAD4 00000009
+w32 0032F968 00000009
+
+name: Infinite Strike
+mode: once
+w16 0009A32E 0000
+
+name: Infinite Health
+mode: once
+w32 0009A838 60000000
+
+name: Add Charged Attack To Firepower
+mode: once
+w32 0009DF50 D13F0D8C
+
+name: AoB Infinite Strike
+mode: once
+aob 809F00043809FFFF 809F000438090000
+
+name: AoB Infinite Health
+mode: once
+aob 7C00F0502B800003D00B0028 7C00F0502B80000360000000
+
+name: AoB Add Charged Attack To Firepower
+mode: once
+aob FF8D6000D19F0D8C FF8D6000D13F0D8C

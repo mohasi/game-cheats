@@ -1,0 +1,9 @@
+# Adventure Time: Explore the Dungeon Because I Don't Know!
+
+name: 999 Total Treasures
+mode: once
+w32 30336CF8 000003E7
+
+name: 99 Total Dungeon Keys
+mode: once
+w32 30336D08 00000063

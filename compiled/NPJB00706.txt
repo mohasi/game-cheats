@@ -1,0 +1,9 @@
+# Sengoku Musou 4-II
+
+name: Sengoku Musou 4-2: Hit Anywhere
+mode: once
+w32 0006C820 4E800020
+
+name: Sengoku Musou 4-2: Invincible
+mode: once
+w32 000ACD60 60000000

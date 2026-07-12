@@ -1,0 +1,5 @@
+# Vandal Hearts: Flames of Judgement
+
+name: Infinite GP
+mode: once
+w32 004BEB00 00989680

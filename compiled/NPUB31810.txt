@@ -1,0 +1,9 @@
+# Amplitude
+
+name: Infinite Energy
+mode: once
+w32 0076B394 60000000
+
+name: Big Scores On Gain
+mode: once
+w32 007388D8 901F002C

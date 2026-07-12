@@ -1,0 +1,90 @@
+# Ni no Kuni: Shiroki Seihai no Joou
+
+name: Level Up on Every Battle
+mode: once
+w32 3121B7A4 007FFF3C
+
+name: Infinite Health
+mode: once
+w32 3121B7A8 007FFF3C
+
+name: Infinite Magic
+mode: once
+w32 3121B7AC 007FFF3C
+
+name: Max Health
+mode: once
+w32 3121B7B8 007FFF3C
+
+name: Max Magic
+mode: once
+w32 3121B7BC 007FFF3C
+
+name: Damage Player + Enemy
+mode: once
+w32 005FC3C4 4086EC98
+
+name: Max HP + MP Summon
+mode: once
+w32 3121B7D8 000003E7
+w32 3121B7DC 000003E7
+
+name: AoB Max Money On Gain
+mode: once
+aob 4BFF3AD160000000837F089863A9E0FF7F9B4840409D0008 4BFF3AD160000000837F089863A9E0FF7F9B484060000000
+
+name: AoB Max Casino Coins
+mode: once
+aob 7C9E23787C7F1B78419C005C800308987D60F2147D60F214 7C9E23787C7F1B7848000008800308987D60F2147D60F214
+
+name: AoB Max Stats All Characters + Imajin (Summoning Monster)
+mode: once
+aob 2F800000409D011C2C0003E7386003E74181FDA07C030378 2F800000409D011C2C0003E7386003E74081FDA07C030378
+
+name: AoB 100% Auto Guard Rate
+mode: once
+aob 63BD20002F9E0000419E000863BD1000 63BD20002F9E00006000000063BD1000
+
+name: Max Money
+mode: once
+w32 00754AF4 60000000
+
+name: Fast Level Update
+mode: once
+w32 3121B7A4 00007FFF
+
+name: Infinite HP
+mode: once
+w32 3121B7A8 00007FFF
+
+name: Infinite MP
+mode: once
+w32 3121B7AC 00007FFF
+
+name: Max HP
+mode: once
+w32 3121B7B8 00007FFF
+
+name: Max MP
+mode: once
+w32 3121B7BC 00007FFF
+
+name: Damager 0
+mode: once
+w32 005FC3C4 4086EC98
+
+name: 100% Critical Hit Rate
+mode: once
+w32 005EB644 60000000
+
+name: 100% Auto Guard Rate
+mode: once
+w32 005EB580 60000000
+
+name: AoB Max Money On Gain
+mode: once
+aob 4BFF3CA560000000837F089863A9E0FF7F9B4840409D0008 4BFF3AD160000000837F089863A9E0FF7F9B484060000000
+
+name: AoB 100% Critical Hit Rate
+mode: once
+aob 67BD00802F9C0000419E0008 67BD00802F9C000060000000

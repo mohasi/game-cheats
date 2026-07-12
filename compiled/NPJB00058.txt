@@ -1,0 +1,31 @@
+# Trine
+
+name: Infinite Health
+mode: once
+w32 0023ACD0 80760258
+w32 0023ACD4 90760254
+
+name: Infinite Energy
+mode: once
+w32 0023AC98 3BA000C8
+w32 0023AC9C 93B60790
+w32 0023ACA0 4800001C
+
+name: AoB Infinite Health
+mode: once
+aob 807F00044BFC042D 8076025890760254
+
+name: AoB Infinite Energy
+mode: once
+aob 801F001C7C00E8004182001C 3BA000C893B607904800001C
+
+name: Infinite Health
+mode: once
+w32 00239B18 80760258
+w32 00239B1C 90760254
+
+name: Infinite Energy
+mode: once
+w32 00239AE0 3BA000C8
+w32 00239AE4 93B60790
+w32 00239AE8 4800001C

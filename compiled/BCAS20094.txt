@@ -1,0 +1,5 @@
+# Tears to Tiara Gaiden : Avalon no Nazo
+
+name: Tears To Tiara Kakan No Daichi: Max HP + MP + LV + SKL [01.02]
+mode: once
+w32 30340360 3B9AC9FF

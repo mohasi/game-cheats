@@ -1,0 +1,18 @@
+# Batman: Arkham Asylum: Game of the Year Edition
+
+name: Batman Arkham Asylum GOTY: Infinite Health
+mode: once
+w32 00731E88 38000080
+w32 00731E8C 900302A4
+
+name: Batman Arkham Asylum GOTY: AoB Infinite Health
+mode: once
+aob 800302A47C0007B4 38000080900302A4
+
+name: Batman Arkham Asylum GOTY: Debug Menu (R1 + Start)
+mode: once
+w32 0121DBAC 38600000
+
+name: Batman Arkham Asylum GOTY: Debug Menu (PSXPlace)
+mode: once
+w32 0121DBAC 38600000

@@ -1,0 +1,52 @@
+# keeps compiled/ up to date after any merge: re-materializes it from source (picking up merged
+# cheat contributions, preserving the existing tally) and folds any new votes into the tally.
+#
+# triggered AFTER validate-votes finishes (workflow_run fires even when the merge was done by
+# GITHUB_TOKEN - a plain push:paths trigger would NOT, because GITHUB_TOKEN pushes don't start new
+# workflow runs). Hourly cron is a backstop; workflow_dispatch is the manual button.
+#
+# only compiled/ is written here (the tally is machine-owned; source is never touched by CI).
+# no recursion: this pushes compiled/, and GITHUB_TOKEN pushes don't trigger workflows anyway.
+# votes are pruned by reconcile after folding (git history keeps them); the tally in compiled is
+# the running state, so votes never accumulate.
+
+name: reconcile
+
+on:
+  workflow_run:
+    workflows: [validate-votes]
+    types: [completed]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: reconcile
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: re-materialize compiled from source (preserving tally)
+        run: python tools/compile.py
+      - name: fold new votes into the tally
+        run: python tools/reconcile.py
+      - name: commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add compiled votes
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "reconcile: refresh compiled tally"
+            git push
+          fi

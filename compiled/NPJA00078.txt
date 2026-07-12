@@ -1,0 +1,17 @@
+# ICO
+
+name: Enemy 1 Hit Kill
+mode: once
+w32 0012CF5C 60000000
+
+name: Enemy Low AI
+mode: once
+w32 001328FC 60000000
+
+name: Zoom Out
+mode: once
+w32 0052F770 3F000000
+
+name: Normal Zoom
+mode: once
+w32 0052F770 3F800000

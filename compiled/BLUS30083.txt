@@ -1,0 +1,5 @@
+# The Golden Compass
+
+name: Infinite Power
+mode: once
+w32 52FFDDB4 00000006

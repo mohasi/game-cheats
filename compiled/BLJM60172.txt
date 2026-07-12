@@ -1,0 +1,57 @@
+# Shin Sangoku Musou: Multi Raid Special
+
+name: Dynasty Warriors Strikeforce: 1P Multi Jump
+mode: once
+w16 008A0D62 0001
+
+name: Dynasty Warriors Strikeforce: 1P Musou Max
+mode: once
+w16 008A0D50 FFFF
+
+name: Shin Sangoku Muou MultiRaid Special: Gold 9999999
+mode: once
+w32 00820928 0098967F
+
+name: Shin Sangoku Muou MultiRaid Special: Infinite Force Gauge
+mode: once
+w16 008A0DCA FFFF
+
+name: Shin Sangoku Muou MultiRaid Special: Gold 9999999
+mode: once
+w32 008208A8 0098967F
+
+name: Shin Sangoku Muou MultiRaid Special: Infinite Force Gauge
+mode: once
+w16 008A0D4A FFFF
+
+name: Shin Sangoku Muou MultiRaid Special: 1P Multi Jump
+mode: once
+w16 008A0D62 0001
+
+name: Shin Sangoku Muou MultiRaid Special: 1P Musou Max
+mode: once
+w16 008A0D50 FFFF
+
+name: Gold 9999999
+mode: once
+w32 00820928 0098967F
+
+name: Infinite Force Gauge
+mode: once
+w16 008A0DCA FFFF
+
+name: Gold 9999999
+mode: once
+w32 008208A8 0098967F
+
+name: Infinite Force Gauge
+mode: once
+w16 008A0D4A FFFF
+
+name: 1P Multi Jump
+mode: once
+w16 008A0D62 0001
+
+name: 1P Musou Max
+mode: once
+w16 008A0D50 FFFF

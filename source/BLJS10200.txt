@@ -1,0 +1,58 @@
+# Naruto Shippuuden: Narutimate Storm 3
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Ryo on Buy
+mode: once
+w32 00BA06EC 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Infinite Health + Chakra + Decoy
+mode: once
+w32 010F6F20 39630008
+w32 010F6F24 816B0004
+w32 010F6F28 816B0000
+w32 010F6F2C 820B0014
+w32 010F6F30 920B0010
+w32 010F6F34 820B001C
+w32 010F6F38 920B0018
+w32 010F6F3C 820B002C
+w32 010F6F40 920B0028
+w32 010F6F44 4E800020
+w32 008690BC 4888DE65
+w32 008690C0 4BFFA0E5
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Fast Partner Recharge
+mode: once
+w32 008641A0 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Infinite Item Usage
+mode: once
+w32 00984338 3B7B0000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Item Level After Battle
+mode: once
+w32 000AA09C 60000000
+w32 000AA054 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Infinite Items
+mode: once
+w32 00864EC0 3B600009
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Substitution Jutsu
+mode: once
+w32 009801CC 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Chakra
+mode: once
+w32 00866500 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Money
+mode: once
+w32 00BA069C 60000000
+w32 00BA1718 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Level Hero On Gain
+mode: once
+w32 000AA054 60000000
+
+name: Naruto Shippuden Narutimate Ninja Storm 3: Max Level Legend On Gain
+mode: once
+w32 000AA09C 60000000

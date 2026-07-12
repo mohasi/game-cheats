@@ -1,0 +1,14 @@
+# Super Street Fighter IV
+
+name: Ultra Street Fighter 4: P1 Infinite Super Meter
+mode: once
+w8 00C63F73 07
+
+name: Ultra Street Fighter 4: P1 Infinite Ultra Meter
+mode: once
+w8 00C63F7F 07
+
+name: Ultra Street Fighter 4: P1 Infinite Health
+mode: once
+w8 00C63F63 07
+w8 00C63F6E 07

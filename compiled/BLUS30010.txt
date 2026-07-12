@@ -1,0 +1,59 @@
+# Marvel: Ultimate Alliance
+
+name: Marvel La Grande Alleanza: Memory Lot + Infinite Gold On Gain
+mode: once
+w32 63465250 00000365
+
+name: Marvel La Grande Alleanza: ASM Lot + Infinite Gold On Gain
+mode: once
+w32 00138E2C 90490000
+
+name: Marvel La Grande Alleanza: Memory Infinite Health
+mode: once
+w32 635507D0 3F800000
+w32 635590A4 426C0000
+
+name: Marvel La Grande Alleanza: ASM Infinite Health
+mode: once
+w32 0006CB00 60000000
+w32 0006CB0C 60000000
+w32 0006CB14 C3E30264
+w32 0006CB18 60000000
+w32 0006CB20 60000000
+
+name: Marvel La Grande Alleanza: Memory Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+mode: once
+w32 632F0F9C 000001D1
+
+name: Marvel La Grande Alleanza: ASM Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+mode: once
+w32 002278A8 9123003C
+
+name: Memory Lot + Infinite Gold On Gain
+mode: once
+w32 63465250 00000365
+
+name: ASM Lot + Infinite Gold On Gain
+mode: once
+w32 00138E2C 90490000
+
+name: Memory Infinite Health
+mode: once
+w32 635507D0 3F800000
+w32 635590A4 426C0000
+
+name: ASM Infinite Health
+mode: once
+w32 0006CB00 60000000
+w32 0006CB0C 60000000
+w32 0006CB14 C3E30264
+w32 0006CB18 60000000
+w32 0006CB20 60000000
+
+name: Memory Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+mode: once
+w32 632F0F9C 000001D1
+
+name: ASM Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+mode: once
+w32 002278A8 9123003C

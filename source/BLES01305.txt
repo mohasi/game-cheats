@@ -1,0 +1,10 @@
+# Agarest: Generations of War Zero
+
+name: SP 500
+mode: once
+w32 0028688C 396001F4
+
+name: AP 999
+mode: once
+w32 0029A608 394003E7
+w32 002A48D8 394003E7

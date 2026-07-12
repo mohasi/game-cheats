@@ -1,0 +1,23 @@
+# Strength of the Sword 3
+
+name: Memory Infinite Health
+mode: once
+w32 322DE6F0 00000000
+w32 322DE6F4 00000000
+w32 322DE700 00000000
+w32 322DE704 00000000
+w32 33D8F7E4 451C4000
+
+name: ASM Infinite Health At The Beginning
+mode: once
+w32 0002FD78 60000000
+w32 0002FD8C 60000000
+
+name: ASM Infinite Health
+mode: once
+w32 0001A7A0 60000000
+w32 0001A7A8 60000000
+
+name: Memory Unknown Code 1
+mode: once
+w32 33D8F7E4 451C4000

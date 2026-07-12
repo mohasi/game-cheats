@@ -1,0 +1,13 @@
+# The Bureau: XCOM Declassified
+
+name: The Bereau XCOM Declassified: Infinite Ammo + Grenades
+mode: once
+w32 0073F874 60000000
+
+name: The Bereau XCOM Declassified: AoB Infinite Ammo + Grenades
+mode: once
+aob 90BF0D4063E300004BFFFEAD807F0D407C6307B4E80100907C0803A6 6000000063E300004BFFFEAD807F0D407C6307B4E80100907C0803A6
+
+name: The Bereau XCOM Declassified: Unlock FPS (PSXPlace)
+mode: once
+w32 01FB8D14 00000000

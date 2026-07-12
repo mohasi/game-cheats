@@ -1,0 +1,5 @@
+# The Club
+
+name: Infinite Ammo
+mode: once
+w32 00223A54 3800270F

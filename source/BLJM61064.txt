@@ -1,0 +1,19 @@
+# Saka Tsuku: Pro Soccer Club o Tsukurou!
+
+name: Soccer Tsuku Pro Soccer Club O Tsukurou!: Infinite Money
+mode: once
+w32 0053F854 48000008
+
+name: Soccer Tsuku Pro Soccer Club O Tsukurou!: Instructions Do Not Decrease
+mode: once
+w32 002DD83C 30660000
+w32 0023A2BC 30840000
+
+name: Soccer Tsuku Pro Soccer Club O Tsukurou!: Max Director Style Experience
+mode: once
+w32 00507A4C 7CA4F014
+
+name: Soccer Tsuku Pro Soccer Club O Tsukurou!: Infinite Player Editor Bonus Points
+mode: once
+w32 003CDFD4 30670000
+w32 003CFA38 30A50000

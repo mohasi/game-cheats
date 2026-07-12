@@ -1,0 +1,55 @@
+# Sengoku Musou 4 Empires
+
+name: Hit From Anywhere
+mode: once
+w32 000E2570 4E800020
+
+name: Invincible
+mode: once
+w32 00123CB0 60000000
+
+name: Infinite Health
+mode: once
+w32 0006E860 80830030
+w32 0006E864 90830034
+w32 0006E86C 7C8307B4
+
+name: Infinite Musou
+mode: once
+w32 00060EF4 C3E30038
+w32 00060EFC D3E3003C
+
+name: Gold Never Decreases
+mode: once
+w32 000A736C 61240000
+
+name: Tactics Never Decrease
+mode: once
+w32 000A73D8 61240000
+
+name: Unlimited Turns
+mode: once
+w32 000C3C28 30C60000
+
+name: Fame Never Decreases
+mode: once
+w32 000A7468 61030000
+
+name: Hit From Anywhere
+mode: once
+w32 000E2B90 4E800020
+
+name: Invincible
+mode: once
+w32 00124570 60000000
+
+name: Infinite Health
+mode: once
+w32 0006EB70 80830030
+w32 0006EB74 90830034
+w32 0006EB7C 7C8307B4
+
+name: Infinite Musou
+mode: once
+w32 00061254 C3E30038
+w32 0006125C D3E3003C

@@ -1,0 +1,168 @@
+# Eiyuu Densetsu: Sen no Kiseki
+
+name: Max Mira On Sell (Money)
+mode: once
+w32 001A2A30 40810008
+
+name: Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+mode: once
+w32 001A29F0 60000000
+
+name: Infinite EP
+mode: once
+w32 0005AB94 B0BE01F8
+
+name: Infinite CP + Ultimate Specials
+mode: once
+w32 00055184 B0BE01FC
+
+name: Increase Item Counts By 1 By Using Them
+mode: once
+w32 001A0814 60000000
+
+name: Infinite Fishing Bait
+mode: once
+w32 001B2A58 30A60000
+
+name: Permanent Buffs
+mode: once
+w32 000723C4 30630000
+
+name: AoB Max Mira On Sell (Money)
+mode: once
+aob 7C6340147C0338404181000860670000 7C6340147C0338404081000860670000
+
+name: AoB Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+mode: once
+aob 906600004800000C7C65181090660000 906600004800000C6000000090660000
+
+name: AoB Infinite EP
+mode: once
+aob B07E01F8E80100907C0803A6EBC10070 B0BE01F8E80100907C0803A6EBC10070
+
+name: AoB Infinite CP + Ultimate Specials
+mode: once
+aob B07E01FCE80100907C0803A6EBC10070 B0BE01FCE80100907C0803A6EBC10070
+
+name: AoB Increase Item Counts By 1 By Using Them
+mode: once
+aob 7C8520107CA400D07CA5FE767CA42038 600000007CA400D07CA5FE767CA42038
+
+name: AoB Infinite Fishing Bait
+mode: once
+aob 30A6FFFFB0A4000038600000987D01B1 30A60000B0A4000038600000987D01B1
+
+name: AoB Permanent Buffs
+mode: once
+aob 3063FFFF78640020F881007090650008 3063000078640020F881007090650008
+
+name: Max EP
+mode: once
+w32 0005F664 B0BE01F8
+
+name: Max CP
+mode: once
+w32 00059C64 B0BE01FC
+
+name: Infinite Tools
+mode: once
+w32 001A87D4 60000000
+
+name: Infinite Fishing
+mode: once
+w32 001BABE8 30A60000
+
+name: State Change Forever Continue
+mode: once
+w32 0007927C 30630000
+
+name: AoB Max EP
+mode: once
+aob B07E01F8E80100907C0803A6EBC10070 B0BE01F8E80100907C0803A6EBC10070
+
+name: AoB Max CP
+mode: once
+aob B07E01FCE80100907C0803A6EBC10070 B0BE01FCE80100907C0803A6EBC10070
+
+name: AoB Infinite Tools
+mode: once
+aob 7C8520107CA400D07CA5FE767CA42038 600000007CA400D07CA5FE767CA42038
+
+name: AoB Infinite Fishing
+mode: once
+aob 30A6FFFFB0A4000038600000987D01B1 30A60000B0A4000038600000987D01B1
+
+name: AoB State Change Forever Continue
+mode: once
+aob 3063FFFF78640020F881007090650008 3063000078640020F881007090650008
+
+name: Max All Sepith
+mode: once
+w32 0082C468 000F423F
+w32 0082C46C 000F423F
+w32 0082C470 000F423F
+w32 0082C474 000F423F
+w32 0082C478 000F423F
+w32 0082C47C 000F423F
+w32 0082C480 000F423F
+w32 0082C484 000F423F
+
+name: Max Friendship Action Points
+mode: once
+w8 006F44AF 02
+
+name: Rean Scharzer Exp Modifier
+mode: once
+w32 0082ABCC 00000003
+
+name: Emma Milestone Exp Modifier
+mode: once
+w32 0082AD5C 00000003
+
+name: Fie Claussell Exp Modifier
+mode: once
+w32 0082ADFC 00000003
+
+name: Jusis Albarea Exp Modifier
+mode: once
+w32 0082ADAC 00000003
+
+name: Machias Regnitz Exp Modifier
+mode: once
+w32 0082AD0C 00000003
+
+name: Max Mira On Sell (Money)
+mode: once
+w32 001AAEF0 40810008
+
+name: Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+mode: once
+w32 001AAEB0 60000000
+
+name: Infinite Friendship Action Points
+mode: once
+w32 0018DCF4 60000000
+
+name: Infinite EP
+mode: once
+w32 0005FB14 B0BE01F8
+
+name: Infinite CP + Ultimate Specials
+mode: once
+w32 0005A114 B0BE01FC
+
+name: Increase Item Counts By 1 By Using Them
+mode: once
+w32 001A8CD4 60000000
+
+name: Infinite Fishing Bait
+mode: once
+w32 001BB0E8 30A60000
+
+name: Permanent Buffs
+mode: once
+w32 0007972C 30630000
+
+name: AoB Infinite Friendship Action Points
+mode: once
+aob 306312687863002090A300004E800020 3063126878630020600000004E800020

@@ -1,0 +1,13 @@
+# Enchant Arm
+
+name: Money
+mode: once
+w32 002C9A30 2B090000
+
+name: CP
+mode: once
+w32 002C5E84 60000000
+
+name: SP
+mode: once
+w32 0029A5F0 60000000

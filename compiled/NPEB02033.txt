@@ -1,0 +1,37 @@
+# GRID Autosport
+
+name: ASM Always First
+mode: once
+w32 0052EDB0 60000000
+w32 0052EDBC 60000000
+
+name: ASM Infinite Flashback
+mode: once
+w32 000D0E24 39290000
+w32 000D0E28 60000000
+
+name: ASM Max XP + Max Level + Unlock All Rewards Level 10-11-12 + Need 1 Race Of All Event Category To Unclock GRID CHAMPIONSHIP After 1 Event
+mode: once
+w32 012C1958 90430010
+
+name: Memory Always First
+mode: once
+w32 80690FFC 0000000E
+w32 806A07FC 00000009
+
+name: ASM Always First
+mode: once
+w32 0052ED60 60000000
+w32 0052ED6C 60000000
+
+name: Memory Infinite Flashback
+mode: once
+w32 80727398 00000005
+
+name: Memory Max XP + Max Level + Unlock All Rewards Level 10-11-12 + Need 1 Race Of All Event Category To Unclock GRID CHAMPIONSHIP After 1 Event
+mode: once
+w32 7F873150 00005934
+
+name: ASM Max XP + Max Level + Unlock All Rewards Level 10-11-12 + Need 1 Race Of All Event Category To Unclock GRID CHAMPIONSHIP After 1 Event
+mode: once
+w32 012C18F8 90430010

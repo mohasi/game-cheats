@@ -1,0 +1,9 @@
+# Spec Ops: The Line
+
+name: Infinite Ammo + Bottomless Clip
+mode: once
+w32 00C0FBC4 60000000
+
+name: AoB Infinite Ammo + Bottomless Clip
+mode: once
+aob 90830760609E00004082004480BF0000 60000000609E00004082004480BF0000

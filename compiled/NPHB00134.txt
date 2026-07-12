@@ -1,0 +1,25 @@
+# Teenage Mutant Ninja Turtles - Turtles in Time Re-Shelled
+
+name: Infinite Lives
+mode: once
+w32 0125B684 60000000
+
+name: Infinite Health
+mode: once
+w32 013D14E0 60000000
+
+name: AoB Infinite Lives
+mode: once
+aob 7C00CA1490090010 6000000090090010
+
+name: AoB Infinite Health
+mode: once
+aob EC00F828FF806800 60000000FF806800
+
+name: Infinite Lives
+mode: once
+w32 0125B1A4 60000000
+
+name: Infinite Health
+mode: once
+w32 013CFD80 60000000

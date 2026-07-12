@@ -1,0 +1,18 @@
+# SEGA Rally Online Arcade
+
+name: Memory Always First
+mode: once
+w32 006E549C 00000001
+
+name: ASM Always First
+mode: once
+w32 0017E2CC 9203000C
+w32 0017E4E4 9203000C
+
+name: Memory Infinite Time
+mode: once
+w32 006E57FC 0000F770
+
+name: ASM Infinite Time
+mode: once
+w32 00182184 60000000

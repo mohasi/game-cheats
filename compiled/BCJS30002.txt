@@ -1,0 +1,21 @@
+# Genji: Kamui Souran
+
+name: Vitatity  9999
+mode: once
+w32 10F6368C 270F270F
+
+name: Kamui 9999
+mode: once
+w32 10435902 270F270F
+
+name: Infinite Mashogane
+mode: once
+w32 10CA7B80 000F423F
+
+name: Infinite Amahagane
+mode: once
+w16 10CA7B84 03E7
+
+name: Infinite Items
+mode: once
+w32 00266674 60000000

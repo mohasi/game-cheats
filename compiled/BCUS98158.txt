@@ -1,0 +1,9 @@
+# Gran Turismo 5: Prologue
+
+name: Money 99999999900
+mode: once
+w32 40A6A874 3B9AC9FF
+
+name: Money 99999999900
+mode: once
+w32 3066A1F4 3B9AC9FF

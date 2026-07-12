@@ -1,0 +1,3 @@
+# tools write LF and the console fetches raw bytes; keep everything LF on all platforms so the
+# content-compare in compile.py stays stable and consoles never receive CRLF.
+* text eol=lf

@@ -1,0 +1,34 @@
+# Red Dead Redemption: Undead Nightmare
+
+name: Infinite Ammo
+mode: once
+w8 001DB80F 2A
+
+name: Infinite Dead Eye
+mode: once
+w32 00054EDC C0240394
+
+name: Infinite Health
+mode: once
+w32 00058B3C 3C6047C3
+w32 00058B40 907C0010
+w32 00058B44 907C0014
+w32 00058B48 4800004C
+
+name: Infinite Dead Eye
+mode: once
+w32 00059454 C0260394
+w32 00059458 D0260390
+
+name: Infinite Items
+mode: once
+w32 000E9884 30630000
+
+name: Infinite Ammo
+mode: once
+w32 001E419C 60000000
+
+name: Infinite Horse Stamina
+mode: once
+w32 0094EB28 C3DF0014
+w32 0094EB2C D3DF0010

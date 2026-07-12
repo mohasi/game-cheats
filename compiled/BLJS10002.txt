@@ -1,0 +1,59 @@
+# Gundam: Target In Sight
+
+name: Kidou Senshi Gundam Target In Sight: Point 99999
+mode: once
+w32 51825358 000F423F
+
+name: Kidou Senshi Gundam Target In Sight: Player Rank Senior General
+mode: once
+w16 51827676 0010
+
+name: Kidou Senshi Gundam Target In Sight: Player EXP Max
+mode: once
+w32 5182767C 0001869F
+
+name: Kidou Senshi Gundam Target In Sight: Player LV 99
+mode: once
+w16 5182767A 0063
+
+name: Kidou Senshi Gundam Target In Sight: Player Status 999
+mode: once
+w16 51827682 03E7
+w16 51827686 03E7
+w16 5182768A 03E7
+
+name: Kidou Senshi Gundam Target In Sight: First Partner Rank Senior General
+mode: once
+w16 518276A6 0010
+
+name: Kidou Senshi Gundam Target In Sight: First Partner EXP Max
+mode: once
+w32 518276AC 0001869F
+
+name: Kidou Senshi Gundam Target In Sight: First Partner LV99
+mode: once
+w16 518276AA 0063
+
+name: Kidou Senshi Gundam Target In Sight: First Partner Status 999
+mode: once
+w16 518276B2 03E7
+w16 518276B6 03E7
+w16 518276BA 03E7
+
+name: Kidou Senshi Gundam Target In Sight: Second Partner Rank Senior General
+mode: once
+w16 518276D6 0010
+
+name: Kidou Senshi Gundam Target In Sight: Second Partner EXP Max
+mode: once
+w32 518276DC 0001869F
+
+name: Kidou Senshi Gundam Target In Sight: Second Partner LV99
+mode: once
+w16 518276DA 0063
+
+name: Kidou Senshi Gundam Target In Sight: Second Partner Status 999
+mode: once
+w16 518276E2 03E7
+w16 518276E6 03E7
+w16 518276EA 03E7

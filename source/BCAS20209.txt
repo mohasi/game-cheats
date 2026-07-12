@@ -1,0 +1,30 @@
+# Atelier Totori: The Adventurer of Arland
+
+name: Max Money
+mode: once
+w32 00297A34 4800001C
+w32 00297A78 4800001C
+
+name: 999 HP
+mode: once
+w32 0028451C 409D01A0
+
+name: 999 MP
+mode: once
+w32 00284530 409D0180
+
+name: 999 LP
+mode: once
+w32 00284544 409D0160
+
+name: 999 Attack
+mode: once
+w32 00284558 409D0140
+
+name: 999 Def
+mode: once
+w32 0028456C 409D007C
+
+name: 999 Speed
+mode: once
+w32 002845F4 409DFF8C

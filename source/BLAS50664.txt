@@ -1,0 +1,21 @@
+# Shin Rorona no Atelier: Hajimari no Monogatari: Arland no Renkinjutsushi
+
+name: Shin Rorona No Atelier Majimari No Monogatari - Arland No Renkinjutsushi: Infinite Money
+mode: once
+w32 001B4D00 7C832378
+
+name: Shin Rorona No Atelier Majimari No Monogatari - Arland No Renkinjutsushi: Infinite MP
+mode: once
+w32 000F84AC 60000000
+
+name: Shin Rorona No Atelier Majimari No Monogatari - Arland No Renkinjutsushi: AoB Infinite Money
+mode: once
+aob 7C6418143C8000986084967F7C032000 7C8323783C8000986084967F7C032000
+
+name: Shin Rorona No Atelier Majimari No Monogatari - Arland No Renkinjutsushi: AoB Infinite MP
+mode: once
+aob 7CDF30102C0600004180000860C50000 600000002C0600004180000860C50000
+
+name: Shin Rorona No Atelier Majimari No Monogatari - Arland No Renkinjutsushi: Infinite Money
+mode: once
+w32 001B4E30 7C832378

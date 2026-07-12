@@ -1,0 +1,6 @@
+# Batman - Arkham Origins - Blackgate
+
+name: Infinite Health
+mode: once
+w32 00346448 C1A90060
+w32 0034644C D1A9005C

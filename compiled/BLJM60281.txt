@@ -1,0 +1,17 @@
+# Pro Yakyuu Spirits 2011
+
+name: Infinite VP 999999
+mode: once
+w32 02426A50 000F423F
+w32 001295B8 60000000
+w32 001295DC 90A30080
+
+name: S.C.9999999 In Grandprix Mode
+mode: once
+w32 0094B298 60000000
+
+name: Infinite Update EXP 999999 In Starplayer Mode
+mode: once
+w32 0079FA20 907F0904
+w32 0079FA24 60000000
+w32 007CC7C8 60000000

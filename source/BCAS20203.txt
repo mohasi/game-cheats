@@ -1,0 +1,9 @@
+# Wander to Kyozou
+
+name: Unlock Hard Mode after Saving
+mode: once
+w32 014DBB6C 00000001
+
+name: Attack Max
+mode: once
+w32 014DF9E0 43C80000

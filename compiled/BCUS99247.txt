@@ -1,0 +1,11 @@
+# Gran Turismo 6
+
+name: Memory Unknown Code 1
+mode: once
+w32 425EA02C 004C4B40
+w32 425F0034 004C4B41
+
+name: ASM Unknown Code 1
+mode: once
+w32 00A1BA44 FBE90000
+w32 00A1B7BC E8490000

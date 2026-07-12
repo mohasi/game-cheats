@@ -1,0 +1,38 @@
+# Red Faction: Armageddon
+
+name: Unlimited Rifle Ammo
+mode: once
+w32 0191BA90 00000063
+
+name: No Reload
+mode: once
+w32 00480F64 60000000
+
+name: Infinite Ammo
+mode: once
+w32 00451D94 60000000
+
+name: Infinite Health
+mode: once
+w32 001786A8 3D60457A
+w32 001786AC 91630F24
+
+name: Max Salvage on Gain + Spend
+mode: once
+w32 006DA3C0 60000000
+
+name: AoB No Reload
+mode: once
+aob 7C1C00507FA3EB78 600000007FA3EB78
+
+name: AoB Infinite Ammo
+mode: once
+aob 7C060050900A0004 60000000900A0004
+
+name: AoB Infinite Health
+mode: once
+aob FF806000409D0098 3D60457A91630F24
+
+name: AoB Max Salvage on Gain + Spend
+mode: once
+aob 419C002C40990028 6000000040990028

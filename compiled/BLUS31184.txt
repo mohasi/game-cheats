@@ -1,0 +1,167 @@
+# Metro: Last Light
+
+name: Invincibility
+mode: once
+w32 00450208 48000014
+w32 00450248 60000000
+
+name: Infinite Oxygen Timer
+mode: once
+w32 002C78F4 480002FC
+
+name: Max Infinite Pneumatic Pump
+mode: once
+w32 00273FE8 FC402090
+w32 0029B004 408600A4
+w32 0029C2F4 60000000
+
+name: Max Infinite Universal Charger
+mode: once
+w32 002C348C FC201890
+
+name: Max Money On Buy
+mode: once
+w32 004DE188 7EA3AB78
+
+name: Max Money On Spend
+mode: once
+w32 00261184 7CA32B78
+
+name: Ammo Never Decreases And No Reload
+mode: once
+w32 00288E98 4082002C
+w32 0028E348 4800002C
+
+name: Infinite Ammo In Inventory After Reloading
+mode: once
+w32 00288B0C 4800005C
+
+name: Helsing Ammo Never Decreases And No Reload
+mode: once
+w32 00276370 30830000
+
+name: Helsing Infinite Ammo In Inventory After Reloading
+mode: once
+w32 00275DF8 60000000
+w32 00275E20 60000000
+
+name: AoB Invincibility
+mode: once
+aob 4182001463A3000063C400004BFFD885 4800001463A3000063C400004BFFD885
+aob 4082000C63830000480002F0A07E0036 6000000063830000480002F0A07E0036
+
+name: AoB Infinite Oxygen Timer
+mode: once
+aob 418202FC887F042E 480002FC887F042E
+
+name: AoB Max Infinite Pneumatic Pump
+mode: once
+aob EC42082878A40020 FC40209078A40020
+aob 418600A42C050038 408600A42C050038
+aob 418200403880000080BE0154 600000003880000080BE0154
+
+name: AoB Max Infinite Universal Charger
+mode: once
+aob FC200818D03E02F4 FC201890D03E02F4
+
+name: AoB Max Money On Buy
+mode: once
+aob 7C7518108084D264 7EA3AB788084D264
+
+name: AoB Max Money On Spend
+mode: once
+aob 7C6418107C8530107CA53010 7CA32B787C8530107CA53010
+
+name: AoB Ammo Never Decreases And No Reload
+mode: once
+aob 4182002C3081007063A30000 4082002C3081007063A30000
+aob 4082002C2C1F0000 4800002C2C1F0000
+
+name: AoB Infinite Ammo In Inventory After Reloading
+mode: once
+aob 4082005C80DE06D4 4800005C80DE06D4
+
+name: AoB Helsing Ammo Never Decreases And No Reload
+mode: once
+aob 3083FFFF6383000078840020 308300006383000078840020
+
+name: AoB Helsing Infinite Ammo In Inventory After Reloading
+mode: once
+aob 40820024887E045A2C03000041820018307E044038800000786300204808319980BE04442C05000040820038 60000000887E045A2C03000041820018307E044038800000786300204808319980BE04442C05000060000000
+
+name: Invincibility
+mode: once
+w32 0044EE10 48000014
+w32 0044EE50 60000000
+
+name: Infinite Oxygen Timer
+mode: once
+w32 002C6144 480002FC
+
+name: Max Infinite Pneumatic Pump
+mode: once
+w32 00272918 FC402090
+w32 002998A4 408600A4
+w32 0029AB6C 60000000
+
+name: Max Infinite Universal Charger
+mode: once
+w32 002C1CE4 FC201890
+
+name: Max Money On Buy
+mode: once
+w32 004DCCA8 7EA3AB78
+
+name: Max Money On Spend
+mode: once
+w32 0025FDC4 7CA32B78
+
+name: Ammo Never Decreases And No Reload
+mode: once
+w32 00287798 4082002C
+w32 0028CC38 4800002C
+
+name: Infinite Ammo In Inventory After Reloading
+mode: once
+w32 0028740C 4800005C
+
+name: Helsing Infinite Ammo In Inventory After Reloading
+mode: once
+w32 00274728 60000000
+w32 00274750 60000000
+
+name: AoB Invincibility
+mode: once
+aob 4182001463A3000063C400004BFFD7AD 4800001463A3000063C400004BFFD7AD
+aob 4082000C63830000480002F0A07E0036 6000000063830000480002F0A07E0036
+
+name: AoB Max Money On Buy
+mode: once
+aob 7C7518108084D02C 7EA3AB788084D02C
+
+name: AoB Helsing Infinite Ammo In Inventory After Reloading
+mode: once
+aob 40820024887E045A2C03000041820018307E04403880000078630020480832D180BE04442C05000040820038 60000000887E045A2C03000041820018307E04403880000078630020480832D180BE04442C05000060000000
+
+name: Infinite Ammo
+mode: once
+w32 00260E58 60000000
+
+name: Bottomless Clip
+mode: once
+w32 0028FD2C 60000000
+
+name: Infinite Gas Mask
+mode: once
+w32 002C7324 C02302C8
+w32 002C7328 D02302C0
+
+name: Alternative Infinite Gas Mask
+mode: once
+w32 002C7324 3E004396
+w32 002C7328 920302C0
+
+name: Max Gas Mask (Equip Mask Once, Remove It, Put On Again For Max.)
+mode: once
+w32 002C7E84 3DE04461
+w32 002C7EC4 91FF0428

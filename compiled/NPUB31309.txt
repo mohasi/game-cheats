@@ -1,0 +1,64 @@
+# Cabela's African Adventures
+
+name: Health Does Not Decrease
+mode: once
+w32 007280E8 C01F0158
+w32 007280EC EC00F82A
+w32 007280F0 D01F015C
+
+name: Ammo Never Decreases
+mode: once
+w32 0075D248 60000000
+
+name: No Cooldown + Infinite Secondary Ammo (Abilities)
+mode: once
+w32 003B6D10 60000000
+w32 003B6D14 D1BD002C
+w32 003B6D18 4800000C
+
+name: Stamina Does Not Decrease
+mode: once
+w32 0072B5E4 60000000
+w32 00732970 60000000
+
+name: Unlimited Carrying Capacity
+mode: once
+w32 00442258 38600000
+
+name: Max XP + Ability Points
+mode: once
+w32 003B7160 3C000002
+w32 003B7164 6000AB98
+
+name: Most Predators Will Play With You (Mowgli)
+mode: once
+w32 00640D10 60000000
+
+name: Most Predators Will Play With You Alternative (Mowgli)
+mode: once
+w32 0064A378 60000000
+
+name: AoB Health Does Not Decrease
+mode: once
+aob EC00F828D01F01544BFFFD3C C01F0158EC00F82AD01F015C
+
+name: AoB Ammo Never Decreases
+mode: once
+aob 91230004409C001038000000 60000000409C001038000000
+
+name: AoB No Cooldown + Infinite Secondary Ammo (Abilities)
+mode: once
+aob D01D0030D1BD002C409D000C 60000000D1BD002C4800000C
+
+name: AoB Stamina Does Not Decrease
+mode: once
+aob EFFEF82AD3FF0468 EFFEF82A60000000
+aob 7FA3EB78D01C0468 7FA3EB7860000000
+
+name: AoB Unlimited Carrying Capacity
+mode: once
+aob 806B267C7C6307B44E800020 386000007C6307B44E800020
+
+name: AoB Max XP + Ability Points
+mode: once
+aob 7C0902147F805000901600FC 3C0000026000AB98901600FC

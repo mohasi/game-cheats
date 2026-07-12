@@ -1,0 +1,54 @@
+# The Darkness II
+
+name: The Darkness 2 PW: Max Essences On Gain
+mode: once
+w32 00346EFC 3C607FFF
+
+name: The Darkness 2 PW: Invincible Mode
+mode: once
+w32 000B2F38 40800000
+
+name: The Darkness 2: Max Essences On Gain
+mode: once
+w32 00346F2C 3C607FFF
+
+name: The Darkness 2: Max Essences On Gain v2
+mode: once
+w32 00346EFC 3C607FFF
+
+name: The Darkness 2: Invincible Mode
+mode: once
+w32 000B2F38 40800000
+
+name: The Darkness 2: Ammo In Clip Never Decreases
+mode: once
+w32 0078CD44 41810028
+
+name: The Darkness 2: Reserve Ammo Never Decreases
+mode: once
+w32 0074A004 41810028
+
+name: The Darkness 2: Health Never Decreases
+mode: once
+w32 014DBD60 3C8001C2
+w32 014DBD64 9064F000
+w32 014DBD68 80830000
+w32 014DBD6C 4E800020
+w32 014DBD70 3CA001C2
+w32 014DBD74 80A5F000
+w32 014DBD78 7F85F800
+w32 014DBD7C 409E000C
+w32 014DBD80 41800008
+w32 014DBD84 488EF356
+w32 014DBD88 80BF04C4
+w32 014DBD8C 4E800020
+w32 00636FB8 494DBD63
+w32 008EF320 494DBD73
+
+name: The Darkness 2: AoB Max Essences On Gain
+mode: once
+aob 7C63383890BD00042C0600007C641814907D0008 7C63383890BD00042C0600003C607FFF907D0008
+
+name: The Darkness 2: Max Essences On Gain
+mode: once
+w32 00346EFC 3C607FFF

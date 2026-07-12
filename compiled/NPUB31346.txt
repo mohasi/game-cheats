@@ -1,0 +1,39 @@
+# R-Type Dimensions
+
+name: Memory Infinite Lives (Classic Mode)
+mode: once
+w32 38183218 00000002
+
+name: ASM Infinite Lives (Classic Mode)
+mode: once
+w32 001DEEB4 30630000
+
+name: Memory Invincible (All Enemies)
+mode: once
+w32 38181BFC 00000008
+w32 381831DC 40000008
+
+name: ASM Invincible (All Enemies)
+mode: once
+w32 001DD098 60000000
+
+name: Memory Invincible (Wall + Boss)
+mode: once
+w32 381B3A9C 60000000
+
+name: ASM Invincible (Wall + Boss)
+mode: once
+w32 001E43A4 60000000
+
+name: Memory High Scores + Lives +1 On 1 Hit
+mode: once
+w32 38180C14 00000064
+
+name: ASM High Scores + Lives +1 On 1 Hit
+mode: once
+w32 001DC564 7C832014
+w32 001DC568 901F0038
+
+name: Memory Infinite Lives (Classic Mode)
+mode: once
+w32 381B3AD8 00000002

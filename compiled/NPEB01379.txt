@@ -1,0 +1,148 @@
+# Tom Clancy's Splinter Cell: Blacklist
+
+name: Dead Island Riptide: Infinite Health
+mode: once
+w32 00C067E0 00000000
+
+name: Dead Island Riptide: Invincibility
+mode: once
+w32 00C06868 408221D0
+
+name: Infinite Ammo
+mode: once
+w32 0054F740 907C0004
+
+name: Invisibility OFF (Disabler)
+mode: once
+w32 008B05D8 546337FE
+w32 008B05DC 2C030000
+w32 008B05E0 408200A8
+
+name: Invisibility ON
+mode: once
+w32 008B05D8 64630400
+w32 008B05DC 906404E4
+w32 008B05E0 480000A8
+
+name: Infinite Health OFF (Disabler)
+mode: once
+w32 007564A8 FFE00890
+w32 007564AC 807C04E0
+
+name: Infinite Health ON
+mode: once
+w32 007564A8 C3E30068
+w32 007564AC D3E3006C
+
+name: God Mode OFF (Disabler)
+mode: once
+w32 00755868 5086E884
+
+name: God Mode ON
+mode: once
+w32 00755868 64C62000
+
+name: Max Money on Buy
+mode: once
+w32 005E08B8 3CA03B9A
+w32 005E08BC 60A5C9FF
+
+name: Infinite Ammo
+mode: once
+w32 0054CF50 907C0004
+
+name: Invisibility OFF (Disabler)
+mode: once
+w32 008AADD0 546337FE
+w32 008AADD4 2C030000
+w32 008AADD8 408200A8
+
+name: Invisibility ON
+mode: once
+w32 008AADD0 64630400
+w32 008AADD4 906404E4
+w32 008AADD8 480000A8
+
+name: Infinite Health OFF (Disabler)
+mode: once
+w32 00751138 FFE00890
+w32 0075113C 807C04E0
+
+name: Infinite Health ON
+mode: once
+w32 00751138 C3E30068
+w32 0075113C D3E3006C
+
+name: God Mode OFF (Disabler)
+mode: once
+w32 007504F8 5086E884
+
+name: God Mode ON
+mode: once
+w32 007504F8 64C62000
+
+name: Max Money on Buy
+mode: once
+w32 005DD9C8 3CA03B9A
+w32 005DD9CC 60A5C9FF
+
+name: Infinite Ammo
+mode: once
+w32 0054C830 907C0004
+
+name: Invisibility OFF (Disabler)
+mode: once
+w32 008AA6B0 546337FE
+w32 008AA6B4 2C030000
+w32 008AA6B8 408200A8
+
+name: Invisibility ON
+mode: once
+w32 008AA6B0 64630400
+w32 008AA6B4 906404E4
+w32 008AA6B8 480000A8
+
+name: Infinite Health OFF (Disabler)
+mode: once
+w32 00750A18 FFE00890
+w32 00750A1C 807C04E0
+
+name: Infinite Health ON
+mode: once
+w32 00750A18 C3E30068
+w32 00750A1C D3E3006C
+
+name: God Mode OFF (Disabler)
+mode: once
+w32 0074FDD8 5086E884
+
+name: God Mode ON
+mode: once
+w32 0074FDD8 64C62000
+
+name: Max Money on Buy
+mode: once
+w32 005DD2A8 3CA03B9A
+w32 005DD2AC 60A5C9FF
+
+name: Infinite Health
+mode: once
+aob FFE00890807C04E0 C3E30068D3E3006C
+
+name: No Reload
+mode: once
+aob 93BC00042C1E0000 907C00042C1E0000
+
+name: Invisibility
+mode: once
+aob 546337FE2C030000408200A8 64630400906404E4480000A8
+
+name: Max Money on Buy
+mode: once
+aob 7CA428147CA407B490BD0028 3CA03B9A60A5C9FF90BD0028
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 00210450 38600001
+w32 00BB2080 38800000
+w32 00BB2090 38800000

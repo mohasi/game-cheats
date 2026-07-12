@@ -1,0 +1,28 @@
+# Heavy Fire: Afghanistan
+
+name: Memory Infinite Ammo + No Reload
+mode: once
+w32 305B6418 0000001F
+
+name: ASM Infinite Ammo + No Reload
+mode: once
+w32 000E071C 30840000
+w32 000E0720 60000000
+
+name: Memory Infinite Health
+mode: once
+w32 305EE6C0 00000000
+
+name: ASM Infinite Health
+mode: once
+w32 000CADE8 60000000
+w32 000CADEC 60000000
+
+name: Memory High Scores On 1 Hit
+mode: once
+w32 305EEA34 00000064
+
+name: ASM High Scores On 1 Hit
+mode: once
+w32 000DD6F8 7C791814
+w32 000DD6FC 901A0000

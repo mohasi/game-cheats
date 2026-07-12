@@ -1,0 +1,67 @@
+# Double Dragon Neon
+
+name: Life 99999
+mode: once
+w32 00BBF5D4 0001869F
+
+name: P2 Infinite Lives
+mode: once
+w32 00BBF5D8 00000003
+
+name: Infinite Super Meter
+mode: once
+w8 00101CA1 23
+
+name: Infinite Lives
+mode: once
+w32 001AABF0 38E00000
+
+name: Infinite Health (Bosses too)
+mode: once
+w32 00705818 D0230264
+
+name: Invincible
+mode: once
+w32 00105D2C 4E800020
+
+name: Weapons Do Not Break
+mode: once
+w32 00107B48 4E800020
+
+name: 1 Hit Kills
+mode: once
+w32 00105818 60000000
+
+name: Max Cash On Gain
+mode: once
+w32 001A9F20 48000008
+
+name: Infinite Health + Super Meter
+mode: once
+w32 00101CA8 C0430268
+w32 00101CAC D0430264
+w32 00101CB0 60000000
+
+name: AoB Infinite Lives
+mode: once
+aob 546415BA54E7063E 546415BA38E00000
+
+name: AoB Invincible
+mode: once
+aob F821FF817C0802A6F8010090FBC10070FBE10078 4E8000207C0802A6F8010090FBC10070FBE10078
+
+name: AoB Weapons Do Not Break
+mode: once
+aob F821FF017C0802A6F8010110DB8100E0DBA100E8DBC100F0 4E8000207C0802A6F8010110DB8100E0DBA100E8DBC100F0
+
+name: AoB 1 Hit Kills
+mode: once
+aob A0C40000FBE100D089040002607F000078C70020B0C10070 60000000FBE100D089040002607F000078C70020B0C10070
+
+name: AoB Max Cash On Gain
+mode: once
+aob 60C3869F7C05184040800008 60C3869F7C05184048000008
+
+name: AoB Infinite Health and Super Meter
+mode: once
+aob FC0208004181000848000008D0231F70 C0430268D043026460000000D0231F70

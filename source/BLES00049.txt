@@ -1,0 +1,25 @@
+# Enchanted Arms
+
+name: Money
+mode: once
+w32 002C5430 2B090000
+
+name: CP
+mode: once
+w32 002C1B40 60000000
+
+name: SP
+mode: once
+w32 0029750C 60000000
+
+name: Max Money On Buy Or Sell
+mode: once
+w32 002C5430 2B090000
+
+name: Max CP On Buy Or Exchange
+mode: once
+w32 002C1B40 60000000
+
+name: Max SP On Use
+mode: once
+w32 0029750C 60000000

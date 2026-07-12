@@ -1,0 +1,65 @@
+# Atelier Ayesha: The Alchemist of Dusk
+
+name: Atelier Ayesha Alchemist Of Dusk: Synthesis Does Not Decrease Materials
+mode: once
+w32 0016CDDC 60000000
+
+name: Atelier Ayesha Alchemist Of Dusk: Infinite Item Usage ON (May Freeze game when using same item fast)
+mode: once
+w32 00174A14 60000000
+
+name: Atelier Ayesha Alchemist Of Dusk: Infinite Item Usage OFF
+mode: once
+w32 00174A14 30A5FFFF
+
+name: Atelier Ayesha Alchemist Of Dusk: Infinite MP
+mode: once
+w32 000B9784 60000000
+
+name: Atelier Ayesha Alchemist Of Dusk: Max Quality During Synthesis
+mode: once
+w32 0027E54C 48000008
+
+name: Atelier Ayesha Alchemist Of Dusk: Freeze Day ON (Use after getting your first workshop from Harry)
+mode: once
+w32 0024B018 7CC53378
+
+name: Atelier Ayesha Alchemist Of Dusk: Freeze Day OFF
+mode: once
+w32 0024B018 7CA62814
+
+name: Atelier Ayesha Alchemist Of Dusk: Max Cole or Money
+mode: once
+w32 01528D0C 0098967F
+
+name: Atelier Ayesha Alchemist Of Dusk: Max Points
+mode: once
+w32 015B8384 000F423F
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Synthesis Does Not Decrease Materials
+mode: once
+aob 7CC6F0142C0600004080000838C00000 600000002C0600004080000838C00000
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Infinite Item Usage ON (May Freeze game when using same item fast)
+mode: once
+aob 30A5FFFF2C05000090A3001C41810048 600000002C05000090A3001C41810048
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Infinite Item Usage OFF
+mode: once
+aob 600000002C05000090A3001C41810048 30A5FFFF2C05000090A3001C41810048
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Infinite MP
+mode: once
+aob 7CA518147C8418147C8307B460640000 38A51388388413887C8307B460640000
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Max Quality During Synthesis
+mode: once
+aob 4181000848000008FFE00890C03A0004 4800000848000008FFE00890C03A0004
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Freeze Day ON (Use after getting your first workshop from Harry)
+mode: once
+aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
+
+name: Atelier Ayesha Alchemist Of Dusk: AoB Freeze Day OFF (Use after getting your first workshop from Harry)
+mode: once
+aob 7CC533782C0500004180000860A40000 7CA628142C0500004180000860A40000

@@ -1,0 +1,15 @@
+# Tom Clancy's Ghost Recon: Future Soldier
+
+name: Items Never Decrease
+mode: once
+w32 018FD860 60000000
+
+name: Ammo Never Decreases
+mode: once
+w32 018F4744 60000000
+
+name: Health Never Decreases
+mode: once
+w32 017F8260 801D0010
+w32 017F8264 2F800000
+w32 017F8268 409E000C

@@ -1,0 +1,10 @@
+# Labyrinth Legends
+
+name: Memory Unknown Code 1
+mode: once
+w32 3111C5B8 41A00000
+
+name: ASM Unknown Code 1
+mode: once
+w32 001E90E8 901E0000
+w32 001E90F0 60000000

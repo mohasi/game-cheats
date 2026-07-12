@@ -1,0 +1,254 @@
+# Grand Theft Auto V
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 0107B8F0 3C605000
+w32 0107B8F4 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 0107B8F0 38603FA0
+w32 0107B8F4 B07F00B4
+
+name: Infinite Ammo
+mode: once
+w32 00EE1620 3BA003E7
+
+name: No Reload
+mode: once
+w32 00EED018 38E00063
+
+name: Infinite Special Ability
+mode: once
+w32 0101D2A4 C03F0034
+
+name: No Wanted Level
+mode: once
+w32 00F47AFC 39600000
+
+name: Crashproof Player Vehicle Engine
+mode: once
+w32 016799D8 54E49F7E
+w32 016799DC 2C040000
+w32 016799E0 38803000
+w32 016799E4 40820008
+w32 016799E8 38803FA0
+w32 016799EC B08300B4
+w32 016799F0 C06300C0
+w32 016799F4 4B71E700
+w32 00D980F0 488E18E8
+
+name: Max Money After Tossing A Dollar In The Strip Club
+mode: once
+w32 016799B4 2C0800B8
+w32 016799B8 40820018
+w32 016799BC 2C0A0003
+w32 016799C0 40820010
+w32 016799C4 3FE03B9B
+w32 016799C8 3BFFCA00
+w32 016799CC 93FEFFFC
+w32 016799D0 607F0000
+w32 016799D4 4BDBBEDC
+w32 014358AC 48244108
+
+name: No Wanted Level
+mode: once
+w32 00F8E7AC 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00F260E0 3BA003E7
+
+name: No Reload
+mode: once
+w32 00F31C98 38E00063
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 010C89B0 3C605000
+w32 010C89B4 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 010C89B0 38603FA0
+w32 010C89B4 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 0106709C C03F0034
+
+name: No Wanted Level
+mode: once
+w32 00F8EC0C 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00F26540 3BA003E7
+
+name: No Reload
+mode: once
+w32 00F320F8 38E00063
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 010C8E10 3C605000
+w32 010C8E14 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 010C8E10 38603FA0
+w32 010C8E14 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 010674FC C03F0034
+
+name: No Wanted Level
+mode: once
+w32 00F8F21C 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00F26B50 3BA003E7
+
+name: No Reload
+mode: once
+w32 00F32708 38E00063
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 010C9420 38603FA0
+w32 010C9424 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 01067B0C C03F0034
+
+name: No Wanted Level
+mode: once
+w32 00F9520C 39600000
+
+name: Unlimited Ammo With Bigger Clip
+mode: once
+w32 00F2C910 3BA07FFF
+
+name: Real God Mode
+mode: once
+w32 010CF260 38607FFF
+w32 010CF264 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 0106CF2C C03F0034
+
+name: Infinite Ammo
+mode: once
+w32 00EE1574 907E0010
+w32 00EECF6C B0BE0052
+
+name: No Wanted Level
+mode: once
+w32 00F47A4C 7D6B5A78
+
+name: No Wanted Level
+mode: once
+w32 00F5879C 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00EF1C90 3BA003E7
+
+name: No Reload
+mode: once
+w32 00EFD688 38E00063
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 0108E2E0 3C605000
+w32 0108E2E4 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 0108E2E0 38603FA0
+w32 0108E2E4 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 0102FC94 C03F0034
+
+name: Max Money After Tossing A Dollar In A Strip Club
+mode: once
+w32 0169133C 2C0800B8
+w32 01691340 40820018
+w32 01691344 2C0A0003
+w32 01691348 40820010
+w32 0169134C 3FE03B9B
+w32 01691350 3BFFCA00
+w32 01691354 93FEFFFC
+w32 01691358 607F0000
+w32 0169135C 4BDBB614
+w32 0144C96C 482449D0
+
+name: Crashproof Player Vehicle Engine
+mode: once
+w32 01691360 54E49F7E
+w32 01691364 2C040000
+w32 01691368 38803000
+w32 0169136C 40820008
+w32 01691370 38803FA0
+w32 01691374 B08300B4
+w32 01691378 C06300C0
+w32 0169137C 4B715F28
+w32 00DA72A0 488EA0C0
+
+name: No Wanted Level
+mode: once
+w32 00FA01CC 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00F37530 3BA003E7
+
+name: No Reload
+mode: once
+w32 00F430E8 38E00063
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 010DC120 3C605000
+w32 010DC124 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 010DC120 38603FA0
+w32 010DC124 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 0107A80C C03F0034
+
+name: No Wanted Level
+mode: once
+w32 00FA0BAC 39600000
+
+name: Infinite Ammo
+mode: once
+w32 00F37F10 3BA003E7
+
+name: No Reload
+mode: once
+w32 00F43AC8 38E00063
+
+name: Infinite Health (Disable Invincibility)
+mode: once
+w32 010DCB00 3C605000
+w32 010DCB04 907F00C0
+
+name: Invincibility (Disable Infinite Health)
+mode: once
+w32 010DCB00 38603FA0
+w32 010DCB04 B07F00B4
+
+name: Infinite Special Ability
+mode: once
+w32 0107B1EC C03F0034

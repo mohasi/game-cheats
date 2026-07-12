@@ -1,0 +1,6 @@
+# downloaded source snapshots for catalog.py; catalog.csv (the derived authority) is committed
+tools/cache/
+
+# python bytecode
+__pycache__/
+*.pyc

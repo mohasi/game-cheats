@@ -1,0 +1,88 @@
+# Bladestorm: Hyakunen Sensou
+
+name: Money
+mode: once
+w32 1A34F5FC 0098967F
+
+name: Infinite Money
+mode: once
+w32 00072A18 409D0008
+
+name: Reputation
+mode: once
+w32 1A34F600 000007D0
+
+name: Point
+mode: once
+w32 000F05F8 409D0134
+
+name: Exp
+mode: once
+w32 001D8348 409D007C
+
+name: Infinite SP
+mode: once
+w32 0036409C 60000000
+
+name: Combo
+mode: once
+w32 000FC334 3940270F
+
+name: Unit 1
+mode: once
+w8 1A34F8B2 1E
+w8 1A34F8B3 09
+
+name: Unit 2
+mode: once
+w8 1A34F8B6 1E
+w8 1A34F8B7 09
+
+name: Unit 3
+mode: once
+w8 1A34F8BA 1E
+w8 1A34F8BB 09
+
+name: Battle Book SP Max
+mode: once
+w16 1A34F90E 270F
+w16 1A34F962 270F
+w16 1A34F9B6 270F
+w16 1A34FA0A 270F
+w16 1A34FA5E 270F
+w16 1A34FAB2 270F
+w16 1A34FB06 270F
+w16 1A34FB5A 270F
+w16 1A34FBAE 270F
+w16 1A34FC02 270F
+w16 1A34FC56 270F
+
+name: Battle Book LV 99
+mode: once
+w8 1A34F907 63
+w8 1A34F95B 63
+w8 1A34F9AF 63
+w8 1A34FA03 63
+w8 1A34FA57 63
+w8 1A34FAAB 63
+w8 1A34FAFF 63
+w8 1A34FB53 63
+w8 1A34FBA7 63
+w8 1A34FBFB 63
+w8 1A34FC4F 63
+
+name: 99,999,999 Money
+mode: once
+w32 1A34F5FC 05F5E0FF
+
+name: AoB Infinite SP
+mode: once
+aob 7FBEE8504BCC131D60000000801F0004540B2036 600000004BCC131D60000000801F0004540B2036
+
+name: No Move Enemy
+mode: once
+w32 002978E4 409D007C
+
+name: AoB No Move Enemy
+mode: once
+aob 2B800033419D007CA17F008038000000 2B800033409D007CA17F008038000000

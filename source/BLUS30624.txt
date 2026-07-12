@@ -1,0 +1,12 @@
+# Dead Space 2 Limited Edition
+
+name: Dead Space 2: Infinite Credits
+mode: once
+w32 001D38E8 7D204B78
+w32 00226AC4 7D234B78
+
+name: Dead Space 2: Max Nodes + Money 999999
+mode: once
+w32 0022708C 6129423C
+w32 00227098 386BF430
+w32 0022709C 91230424

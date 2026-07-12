@@ -1,0 +1,108 @@
+# Shirokishi Monogatari: Hikari to Yami no Kakusei
+
+name: Gold Max
+mode: once
+w32 003E500C 60000000
+
+name: Exp Max
+mode: once
+w16 00380638 4800
+
+name: Exp*100
+mode: once
+w32 003A66A4 78636420
+w32 005385B4 78006420
+w32 005385BC 90010070
+w32 005385C0 4BDDE75D
+w32 0053886C 78006420
+w32 00538870 90010070
+w32 00538874 4BDDE4A9
+
+name: Infinite CP
+mode: once
+w32 0037A72C 60000000
+
+name: DP*32
+mode: once
+w32 00537D9C 1C000032
+w32 00537DA0 90010074
+w32 00537DA4 4BDE27D5
+
+name: DP Get Max
+mode: once
+w16 003E7520 4800
+
+name: GP*50
+mode: once
+w32 003A57CC 1F640032
+
+name: Item Change Max
+mode: once
+w32 003D42E8 38000063
+
+name: Item Drop Rate 100%
+mode: once
+w32 003AA594 3B400008
+w16 003AA60C 4800
+w16 003AA7A0 7F9E
+w16 003AA7A4 419D
+
+name: Item Drop*10
+mode: once
+w8 003AA7CF 0A
+
+name: Synthesis Without The Materials
+mode: once
+w32 007D2BB8 60000000
+w32 007E9358 60000000
+w16 007C1E18 4BFF
+
+name: HP + MP Recover When Holding Weapon
+mode: once
+w32 005654B0 8009005C
+w32 005654B4 2F800001
+
+name: AC Max After Attack
+mode: once
+w32 00572FE8 3C0042C8
+w32 00572FEC 90091560
+
+name: AoB Max Exp
+mode: once
+aob 7C7C22146000C9FF7F830000419D0164 7C7C22146000C9FF7F8300007C030378
+
+name: AoB 2x Exp
+mode: once
+aob 7C7C22146000C9FF 5484083C7C7C2214
+
+name: AoB 4x Exp
+mode: once
+aob 7C7C22146000C9FF 5484103A7C7C2214
+
+name: AoB 8x Exp
+mode: once
+aob 7C7C22146000C9FF 548418387C7C2214
+
+name: AoB 16x Exp
+mode: once
+aob 7C7C22146000C9FF 548420367C7C2214
+
+name: AoB 32x Exp
+mode: once
+aob 7C7C22146000C9FF 548428347C7C2214
+
+name: AoB 64x Exp
+mode: once
+aob 7C7C22146000C9FF 548430327C7C2214
+
+name: AoB Max Money On Change
+mode: once
+aob 419C005041990044 7C04037841990044
+
+name: AoB AC Max When Attacking Enemies
+mode: once
+aob EC0D002AD0091560 3C0042C890091560
+
+name: AoB HP + MP Recovery After Withdrawing Weapon
+mode: once
+aob C009005CFF80E800 8009005C2F800001

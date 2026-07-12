@@ -1,0 +1,5 @@
+# The Incredible Hulk
+
+name: Score 999,999,999
+mode: once
+w32 3B425860 3B9AC9FF

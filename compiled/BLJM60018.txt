@@ -1,0 +1,10 @@
+# Gundam Musou
+
+name: Pilot Points 999999
+mode: once
+w32 10506630 000F423F
+
+name: Unlock Skills
+mode: once
+w32 10506678 FFFFFFFF
+w32 1050667C FFFF0000

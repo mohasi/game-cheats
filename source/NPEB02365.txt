@@ -1,0 +1,217 @@
+# Attack on Titan - Wings of Freedom
+
+name: Infinite Health For Player
+mode: once
+w32 0007B414 FC403090
+
+name: Infinite Health For Titan
+mode: once
+w32 0007B284 60000000
+w32 0007B2C8 FC404090
+
+name: Max And Infinite Special Power After 1 Hit For Players And Titans
+mode: once
+w32 0005A8E8 FC202090
+w32 0007B5B8 60000000
+w32 0007B660 60000000
+w32 0007B800 FC201090
+w32 0007BE30 60000000
+w32 0007BF8C 60000000
+
+name: Max And Infinite Super Punch After 1 Hit For Titans
+mode: once
+w32 000A9094 60000000
+w32 00696734 60000000
+
+name: Infinite Horse Stamina
+mode: once
+w32 0007CF64 4800004C
+
+name: Freeze Timer To Get Grade S
+mode: once
+w32 0020C82C 48000024
+w32 0020C850 48000034
+
+name: Max Slaughtered After Slaughtering 1 To Get Grade S
+mode: once
+w32 0013D018 48000008
+
+name: Max Rescued After Rescuing 1 To Get Grade S
+mode: once
+w32 001E5F14 60000000
+
+name: Max And Infinite Gas
+mode: once
+w32 0007CCD4 60000000
+w32 0007CD88 C0231914
+
+name: Max And Infinite Wire Length
+mode: once
+w32 0007D300 C03E178C
+
+name: Max And Infinite Blade Solidity
+mode: once
+w32 0069685C C02301BC
+
+name: Max And Infinite Dash And Smash After Gaining Skills
+mode: once
+w32 000A9B60 60000000
+
+name: Max And Infinite Items On Gain Or Use
+mode: once
+w32 00139550 60000000
+
+name: Infinite Cannonballs
+mode: once
+w32 0023F648 48000018
+
+name: Max Money On Gain (999,999,999)
+mode: once
+w32 002A214C 48000008
+
+name: Max Money After Selling Gears (999,999,999)
+mode: once
+w32 00282E28 48000008
+
+name: Max Materials When Offered After Each Battle (999)
+mode: once
+w32 002A0468 48000008
+w32 002A0588 48000008
+w32 002A0A24 48000008
+w32 002A0AD0 48000008
+w32 002A0B24 48000008
+
+name: Max Materials (999) And Max Money (999,999,999) After Selling Materials
+mode: once
+w32 00276D0C 60000000
+w32 00276D1C 48000008
+w32 00276E28 48000008
+
+name: Max Materials (999) And Max Money (999,999,999) After Buying Materials
+mode: once
+w32 002AA68C 7CA52B78
+w32 002AA6D4 48000008
+
+name: Max Materials (999) And Max Money (999,999,999) After Buying Gears
+mode: once
+w32 002A901C 60000000
+w32 002A902C 48000008
+w32 002A9074 7CA52B78
+w32 002A9198 60000000
+w32 002A91A8 48000008
+w32 002A91F0 7CA52B78
+w32 002A9314 60000000
+w32 002A9324 48000008
+w32 002A936C 7CA52B78
+
+name: Max Materials (999) And Max Money (999,999,999) After Upgrading Gears
+mode: once
+w32 002AB840 60000000
+w32 002AB850 48000008
+w32 002AB898 7CA52B78
+w32 002ABA6C 60000000
+w32 002ABA7C 48000008
+w32 002ABAC4 7CA52B78
+w32 002ABC98 60000000
+w32 002ABCA8 48000008
+w32 002ABCF0 7CA52B78
+
+name: Max Materials (999) And Max Money (999,999,999) After Unknown Trigger
+mode: once
+w32 002A9610 60000000
+w32 002A9620 48000008
+w32 002A9668 7CA52B78
+
+name: Reinforcement 255 Blade (Reinforcing)
+mode: once
+w32 002AD828 3B6000FF
+
+name: Reinforcement 255 Sheath, Cylinder (Reinforcing)
+mode: once
+w32 002AD954 3B6000FF
+
+name: Reinforcement 255 Device (Reinforcing)
+mode: once
+w32 002ADA80 3B6000FF
+
+name: Max Money On Buy
+mode: once
+w32 002A9AE4 91860014
+
+name: Body Funds Max On Material Gain
+mode: once
+w32 00276E28 48000008
+
+name: Materials Max On Material Gain
+mode: once
+w32 00276D00 60000000
+
+name: Max Combat Items
+mode: once
+w32 00139550 60000000
+
+name: Gas Never Decreases
+mode: once
+w32 0007CCD4 60000000
+w32 0007CD8C 60000000
+
+name: Blade Durability Never Decreases
+mode: once
+w32 00696860 60000000
+
+name: Max Fire Gauge
+mode: once
+w32 0005A8E0 FC21202A
+
+name: Reinforcement 255 Blade (Reinforcing)
+mode: once
+w32 0046FCB4 3CA000FF
+
+name: Reinforcement 255 Sheath, Cylinder (Reinforcing)
+mode: once
+w32 00464A08 60000000
+
+name: Reinforcement 255 Device (Reinforcing)
+mode: once
+w32 004CAC78 60000000
+
+name: AoB Max Money On Buy
+mode: once
+aob 306369A078630020806300007CA3F9D680647AF878A4002030630004608500007863002080C300147C2620404180000860C50000606600007CA4281090A60014 306369A078630020806300007CA3F9D680647AF878A4002030630004608500007863002080C300147C2620404180000860C50000606600007CA4281091860014
+
+name: AoB Body Funds Max On Material Gain
+mode: once
+aob 41810008614700007C7D401490E90014 48000008614700007C7D401490E90014
+
+name: AoB Materials Max On Material Gain
+mode: once
+aob 408100207CC41810386003E7280603E741810008 600000007CC41810386003E7280603E748000008
+
+name: AoB Max Combat Items
+mode: once
+aob 418100086065000057E3083C7C7E1814 600000006065000057E3083C7C7E1814
+
+name: AoB Gas Never Decreases
+mode: once
+aob D0431910C0431910C0A50010FCC01210 60000000C0431910C0A50010FCC01210
+aob D02319104800006CFC200850C0431918 600000004800006CFC200850C0431918
+
+name: AoB Blade Durability Never Decreases
+mode: once
+aob D02301B84E8000203083480038600000 600000004E8000203083480038600000
+
+name: AoB Max Fire Gauge
+mode: once
+aob FC212028FC21112EEC41182AD03518E0 FC21202AFC21112EEC41182AD03518E0
+
+name: AoB Reinforcement 255 Blade (Reinforcing)
+mode: once
+aob 4181000862E400007CE621D67C082000 3AC000FF62E400007CE621D67C082000
+
+name: AoB Reinforcement 255 Sheath, Cylinder (Reinforcing)
+mode: once
+aob 4181000862E400002C05000041820380548418387C632014809B09CC 3AC000FF62E400002C05000041820380548418387C632014809B09CC
+
+name: AoB Reinforcement 255 Device (Reinforcing)
+mode: once
+aob 4181000862E400002C05000041820380548418387C632014809A09CC 3AC000FF62E400002C05000041820380548418387C632014809A09CC

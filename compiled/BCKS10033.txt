@@ -1,0 +1,9 @@
+# Ryu ga Gotoku Kenzan!
+
+name: Money Max
+mode: once
+w32 10355298 05F5E0FF
+
+name: Experience Max
+mode: once
+w32 103529A0 0098967F

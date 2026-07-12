@@ -1,0 +1,9 @@
+# Saints Row IV: Game of the Century Edition
+
+name: Saints Row 4: AoB Infinite Health
+mode: once
+aob C3BF1DF0C82100C0FC200E9CFC200818 C82100C0FC200E9CD03F1DF0C3BF1DF0
+
+name: Saints Row 4: AoB Infinite Power Energy
+mode: once
+aob EC21F82AD0232048 3DE03F8091E32048

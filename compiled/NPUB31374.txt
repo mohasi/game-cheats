@@ -1,0 +1,17 @@
+# Dead Island: Riptide: Complete Edition
+
+name: Dead Island Riptide: Player Damage 0
+mode: once
+w32 00C0CF10 00000000
+
+name: Dead Island Riptide: Player 1 Invincible
+mode: once
+w32 00C0CF98 408221D0
+
+name: Dead Island Riptide: Speed Punch Or Knock
+mode: once
+w32 00CE3820 4E800020
+
+name: Dead Island Riptide: Zombies Do Not Grab
+mode: once
+w32 0077F698 4E800020

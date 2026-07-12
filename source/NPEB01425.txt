@@ -1,0 +1,89 @@
+# Teenage Mutant Ninja Turtles - Out of the Shadows
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: Memory Infinite Shurikens
+mode: once
+w32 155E87AC 0000000A
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: ASM Infinite Shurikens
+mode: once
+w32 00057538 30830000
+w32 0005753C 60000000
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: Memory Max Level On Exp Gain (Finish One Level)
+mode: once
+w32 12D93DF4 00000064
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: ASM Max Level On Exp Gain (Finish One Level)
+mode: once
+w32 009D63F0 7C852014
+w32 009D63F8 920308D4
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: Memory Infinite Health
+mode: once
+w32 151C02EC 00000064
+w32 1537902C 00000096
+
+name: Teenage Mutant Ninja Turtles Depuis les Ombres: ASM Infinite Health
+mode: once
+w32 000570A4 30630000
+w32 000570B0 7C701810
+w32 000570B4 60000000
+w32 000578E8 60000000
+w32 000570A8 60000000
+w32 00A3508C EC0C002A
+w32 00A350F8 EC0C5038
+w32 00A35150 EC0C0028
+w32 00A35028 EC0C0028
+w32 00A35014 EC0A5838
+
+name: Alternative Names
+mode: once
+w32 00932590 60000000
+
+name: Infinite Special Attack
+mode: once
+w32 00934940 48000010
+
+name: AoB Infinite Health
+mode: once
+aob 80BC02DC2C85000140850014 80BC02E090BC02DC60000000
+
+name: AoB Infinite Special Attack
+mode: once
+aob 2C06012C41810010 2C06012C48000010
+
+name: TMNT Depuis les Ombres: Memory Infinite Shurikens
+mode: once
+w32 155E87AC 0000000A
+
+name: TMNT Depuis les Ombres: ASM Infinite Shurikens
+mode: once
+w32 00057538 30830000
+w32 0005753C 60000000
+
+name: TMNT Depuis les Ombres: Memory Max Level On Exp Gain (Finish One Level)
+mode: once
+w32 12D93DF4 00000064
+
+name: TMNT Depuis les Ombres: ASM Max Level On Exp Gain (Finish One Level)
+mode: once
+w32 009D63F0 7C852014
+w32 009D63F8 920308D4
+
+name: TMNT Depuis les Ombres: Memory Infinite Health
+mode: once
+w32 151C02EC 00000064
+w32 1537902C 00000096
+
+name: TMNT Depuis les Ombres: ASM Infinite Health
+mode: once
+w32 000570A4 30630000
+w32 000570B0 7C701810
+w32 000570B4 60000000
+w32 000578E8 60000000
+w32 000570A8 60000000
+w32 00A3508C EC0C002A
+w32 00A350F8 EC0C5038
+w32 00A35150 EC0C0028
+w32 00A35028 EC0C0028
+w32 00A35014 EC0A5838

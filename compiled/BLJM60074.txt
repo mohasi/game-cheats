@@ -1,0 +1,9 @@
+# Tom Clancy's Rainbow Six: Vegas 2
+
+name: Infinite Ammo
+mode: once
+w32 003DD674 60000000
+
+name: Infinite Grenades
+mode: once
+w32 002D6744 60000000

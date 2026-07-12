@@ -1,0 +1,667 @@
+# Prototype
+
+name: Memory Lot + Infinite PE On Gain
+mode: once
+w32 300B6A30 0001869F
+w32 300B79C0 00000050
+w32 300B7A90 00000050
+w32 307E43C0 00000050
+w32 307E43CC 00000050
+w32 35A896C0 00000050
+
+name: ASM Lot + Infinite PE On Gain
+mode: once
+w32 00C049F8 90490000
+w32 005D5818 905F0360
+w32 005D5834 905F0364
+w32 005D6074 905F0368
+w32 005D6090 905F036C
+
+name: Health Never Reduces To 0, Infinite Devastators While Health Is Low
+mode: once
+w32 0028DE80 3C000000
+w32 0028DE88 901F0200
+w32 0028DE8C 419E0084
+
+name: Tank And Helicopter Health Never Decrease (Player Only)
+mode: once
+w32 0028F758 60000000
+
+name: Health Never Decreases
+mode: once
+w32 002923AC 60000000
+
+name: Unlimited Devastators While Health Is Low
+mode: once
+w32 00292720 60000000
+
+name: Using Devastator Attacks Does Not Decrease Health
+mode: once
+w32 002927D4 60000000
+
+name: Everything Dies From Any Damage (Turn On Health Never Decreases)
+mode: once
+w32 00BF7038 38000000
+w32 00BF7040 901F000C
+
+name: Infinite Air Dashes, Rapid Jump Kicks
+mode: once
+w32 004D07B4 38600001
+
+name: Military Always Ignores You
+mode: once
+w32 00305430 4E800020
+
+name: Walk On Air
+mode: once
+w32 00B3BE10 4E800020
+
+name: Press L3 To Toggle Walking In Air
+mode: once
+w32 01021D6C 3D203593
+w32 01021D70 8009540C
+w32 01021D74 3D20018D
+w32 01021D78 48000020
+w32 01021D98 89690280
+w32 01021D9C 7F8B0040
+w32 01021DA0 98090280
+w32 01021DA4 48000020
+w32 01021DC4 419E0058
+w32 01021DC8 2F800002
+w32 01021DCC 409E0050
+w32 01021DD0 48000020
+w32 01021DF0 88090281
+w32 01021DF4 68000001
+w32 01021DF8 98090281
+w32 01021DFC 48000020
+w32 01021E1C 88090281
+w32 01021E20 2F800000
+w32 01021E24 419E0024
+w32 01021E28 4E800020
+w32 01021E48 F821FD01
+w32 01021E4C 48B3BE16
+w32 00B3BE10 49021D6E
+
+name: Black And White Mode
+mode: once
+w32 002925F4 60000000
+
+name: Enemy Tanks Do Not Fire Cannons
+mode: once
+w32 001F9078 60000000
+
+name: Only Military Bases And Infected Buildings Are Not Deserted
+mode: once
+w32 0025F648 60000000
+
+name: Ammo Never Decreases
+mode: once
+w32 0042B978 60000000
+
+name: Helicopters And Tanks Do Not Overheat
+mode: once
+w32 0042B9CC 60000000
+
+name: Artillery Strikes Never Decrease
+mode: once
+w32 00305C04 80030378
+
+name: Get A Military Or Police Unit's Attention To Acquire All Upgrades + 999,999,999 EP Points, And They Will Ignore You
+mode: once
+w32 00305434 F86100C0
+w32 00305438 F8810120
+w32 0030543C 3C80300D
+w32 00305440 3C600F0F
+w32 00305444 60630F0F
+w32 00305448 906483C0
+w32 0030544C 906483C4
+w32 00305450 E86483C0
+w32 00305454 F86483C8
+w32 00305458 F86483D0
+w32 0030545C F86483D8
+w32 00305460 F86483E0
+w32 00305464 F86483E8
+w32 00305468 F86483F0
+w32 0030546C F86483F8
+w32 00305470 F8648400
+w32 00305474 F8648408
+w32 00305478 F8648410
+w32 0030547C F8648418
+w32 00305480 F8648420
+w32 00305484 F8648428
+w32 00305488 F8648430
+w32 0030548C F8648438
+w32 00305490 90648440
+w32 00305494 3C80300B
+w32 00305498 3C603B9A
+w32 0030549C 6063C9FF
+w32 003054A0 90646A30
+w32 003054A4 E86100C0
+w32 003054A8 E8810120
+w32 003054AC 38210110
+w32 003054B0 4E800020
+
+name: Musclemass Power Acquired
+mode: once
+w8 300C83C0 0F
+
+name: Claws Power Acquired
+mode: once
+w8 300C83C1 0F
+
+name: Shield Power Acquired
+mode: once
+w8 300C83C4 0F
+
+name: Blade Power Acquired
+mode: once
+w8 300C83C5 0F
+
+name: Whipfist Power Acquired
+mode: once
+w8 300C83C6 0F
+
+name: Hammerfist Power Acquired
+mode: once
+w8 300C83C7 0F
+
+name: Infected Vision Power Acquired
+mode: once
+w8 300C83C8 0F
+
+name: Thermal Vision Power Acquired
+mode: once
+w8 300C83C9 0F
+
+name: Armor Power Acquired
+mode: once
+w8 300C83CB 0F
+
+name: Health Boost 1 Acquired
+mode: once
+w8 300C83CC 0F
+
+name: Disguise Power Acquired
+mode: once
+w8 300C83CF 0F
+
+name: Critical Mass Boost 1 Acquired
+mode: once
+w8 300C83D0 0F
+
+name: Critical Mass Ability Acquired
+mode: once
+w8 300C83D1 0F
+
+name: Health Boost Max Acquired
+mode: once
+w8 300C83D2 0F
+
+name: Health Boost 2 Acquired
+mode: once
+w8 300C83D3 0F
+
+name: Jump Upgrade 2 Acquired
+mode: once
+w8 300C83D4 0F
+
+name: Jump Upgrade 1 Acquired
+mode: once
+w8 300C83D5 0F
+
+name: Adrenaline Surge Acquired
+mode: once
+w8 300C83D6 0F
+
+name: Critical Mass Boost Max Acquired
+mode: once
+w8 300C83D7 0F
+
+name: Sprint Speed 2 Acquired
+mode: once
+w8 300C83D8 0F
+
+name: Sprint Speed 1 Acquired
+mode: once
+w8 300C83D9 0F
+
+name: Jump Upgrade Max Acquired
+mode: once
+w8 300C83DA 0F
+
+name: Jump Upgrade 3 Acquired
+mode: once
+w8 300C83DB 0F
+
+name: Consume Boost 1 Acquired
+mode: once
+w8 300C83DC 0F
+
+name: Stealth Consume Boost Acquired
+mode: once
+w8 300C83DD 0F
+
+name: Stealth Consume Acquired
+mode: once
+w8 300C83DE 0F
+
+name: Sprint Speed Max Acquired
+mode: once
+w8 300C83DF 0F
+
+name: Regen Delay 1 Acquired
+mode: once
+w8 300C83E0 0F
+
+name: Regen Rate Boost Max Acquired
+mode: once
+w8 300C83E1 0F
+
+name: Regen Rate Boost 1 Acquired
+mode: once
+w8 300C83E2 0F
+
+name: Consume Boost Max Acquired
+mode: once
+w8 300C83E3 0F
+
+name: Diveroll Acquired
+mode: once
+w8 300C83E5 0F
+
+name: Wall Jump Latch Acquired
+mode: once
+w8 300C83E6 0F
+
+name: Regen Delay Max Acquired
+mode: once
+w8 300C83E7 0F
+
+name: Armored Vehicle 1 Acquired
+mode: once
+w8 300C83E8 0F
+
+name: Skyjack Helicopter Acquired
+mode: once
+w8 300C83E9 0F
+
+name: Hijack Armored Vehicle Acquired
+mode: once
+w8 300C83EA 0F
+
+name: Helicopter 2 Acquired
+mode: once
+w8 300C83EC 0F
+
+name: Helicopter 1 Acquired
+mode: once
+w8 300C83ED 0F
+
+name: Armored Vehicle Max Acquired
+mode: once
+w8 300C83EE 0F
+
+name: Armored Vehicle 2 Acquired
+mode: once
+w8 300C83EF 0F
+
+name: Artillery Strike Upgrade 2 Acquired
+mode: once
+w8 300C83F0 0F
+
+name: Artillery Strike Upgrade 1 Acquired
+mode: once
+w8 300C83F1 0F
+
+name: Artillery Strike Acquired
+mode: once
+w8 300C83F2 0F
+
+name: Helicopter Max Acquired
+mode: once
+w8 300C83F3 0F
+
+name: Missile Launcher 1 Acquired
+mode: once
+w8 300C83F4 0F
+
+name: Artillery Strike Upgrade Max Acquired
+mode: once
+w8 300C83F5 0F
+
+name: Artillery Strike Upgrade 4 Acquired
+mode: once
+w8 300C83F6 0F
+
+name: Artillery Strike Upgrade 3 Acquired
+mode: once
+w8 300C83F7 0F
+
+name: Grenade Launcher 2 Acquired
+mode: once
+w8 300C83F8 0F
+
+name: Grenade Launcher 1 Acquired
+mode: once
+w8 300C83F9 0F
+
+name: Missile Launcher Max Acquired
+mode: once
+w8 300C83FA 0F
+
+name: Missile Launcher 2 Acquired
+mode: once
+w8 300C83FB 0F
+
+name: Machine Gun Max Acquired
+mode: once
+w8 300C83FC 0F
+
+name: Machine Gun 2 Acquired
+mode: once
+w8 300C83FD 0F
+
+name: Machine Gun 1 Acquired
+mode: once
+w8 300C83FE 0F
+
+name: Grenade Launcher Max Acquired
+mode: once
+w8 300C83FF 0F
+
+name: Assault Rifle Max Acquired
+mode: once
+w8 300C8401 0F
+
+name: Assault Rifle 2 Acquired
+mode: once
+w8 300C8402 0F
+
+name: Assault Rifle 1 Acquired
+mode: once
+w8 300C8403 0F
+
+name: Groundspike Graveyard Devastator Acquired
+mode: once
+w8 300C8404 0F
+
+name: Groundshatter Drop Acquired
+mode: once
+w8 300C8405 0F
+
+name: Groundshatter Acquired
+mode: once
+w8 300C8406 0F
+
+name: Tendril Barrage Devastator Acquired
+mode: once
+w8 300C8408 0F
+
+name: Air Knuckle Shockwave Acquired
+mode: once
+w8 300C8409 0F
+
+name: Knuckle Shockwave Acquired
+mode: once
+w8 300C840A 0F
+
+name: Air Groundspike Graveyard Devastator Acquired
+mode: once
+w8 300C840B 0F
+
+name: Critical Pain Devastator Acquired
+mode: once
+w8 300C840C 0F
+
+name: Cannonball Acquired
+mode: once
+w8 300C840D 0F
+
+name: Palm Slam Acquired
+mode: once
+w8 300C840E 0F
+
+name: Air Tendril Barrage Devastator Acquired
+mode: once
+w8 300C840F 0F
+
+name: Flying Kick Boost Acquired
+mode: once
+w8 300C8410 0F
+
+name: Air Stomp Acquired
+mode: once
+w8 300C8411 0F
+
+name: Flying Elbow Drop Acquired
+mode: once
+w8 300C8412 0F
+
+name: Air Critical Pain Devastator Acquired
+mode: once
+w8 300C8413 0F
+
+name: Snapkick Launcher Acquired
+mode: once
+w8 300C8414 0F
+
+name: Uppercut Launcher Acquired
+mode: once
+w8 300C8415 0F
+
+name: Flipkick Launcher Acquired
+mode: once
+w8 300C8416 0F
+
+name: Airdash Acquired
+mode: once
+w8 300C8418 0F
+
+name: Powerbomb Acquired
+mode: once
+w8 300C8419 0F
+
+name: Spike Driver Acquired
+mode: once
+w8 300C841A 0F
+
+name: Air Combo Acquired
+mode: once
+w8 300C841B 0F
+
+name: Air Recovery Acquired
+mode: once
+w8 300C841C 0F
+
+name: Airdash Double Boost Acquired
+mode: once
+w8 300C841D 0F
+
+name: Airdash Double Acquired
+mode: once
+w8 300C841E 0F
+
+name: Airdash Boost Acquired
+mode: once
+w8 300C841F 0F
+
+name: Sprinting Throw Acquired
+mode: once
+w8 300C8420 0F
+
+name: Sprinting Grab Acquired
+mode: once
+w8 300C8421 0F
+
+name: Bulletdive Drop Acquired
+mode: once
+w8 300C8422 0F
+
+name: Glide Acquired
+mode: once
+w8 300C8423 0F
+
+name: Body Surf Acquired
+mode: once
+w8 300C8424 0F
+
+name: Grapple Slam Acquired
+mode: once
+w8 300C8425 0F
+
+name: Long Range Throw Acquired
+mode: once
+w8 300C8426 0F
+
+name: Charged Throw Acquired
+mode: once
+w8 300C8427 0F
+
+name: Curb Stomp Acquired
+mode: once
+w8 300C842A 0F
+
+name: Groundspike Upgrade Max Acquired
+mode: once
+w8 300C842C 0F
+
+name: Groundspike Upgrade 1 Acquired
+mode: once
+w8 300C842D 0F
+
+name: Groundspike Acquired
+mode: once
+w8 300C842E 0F
+
+name: Dashing Slice Acquired
+mode: once
+w8 300C842F 0F
+
+name: Blade Frenzy Acquired
+mode: once
+w8 300C8430 0F
+
+name: Blade Sprint Frenzy Acquired
+mode: once
+w8 300C8431 0F
+
+name: Hunter Dirtnap Acquired
+mode: once
+w8 300C8434 0F
+
+name: Musclemass Throw Acquired
+mode: once
+w8 300C8435 0F
+
+name: Musclemass Boost Acquired
+mode: once
+w8 300C8436 0F
+
+name: Blade Air Slice Acquired
+mode: once
+w8 300C8437 0F
+
+name: Street Sweeper Acquired
+mode: once
+w8 300C8438 0F
+
+name: Hammerfist Elbow Slam Acquired
+mode: once
+w8 300C8439 0F
+
+name: Hammertoss Acquired
+mode: once
+w8 300C843A 0F
+
+name: Hammerfist Smackdown Acquired
+mode: once
+w8 300C843B 0F
+
+name: Patsy Range Boost Acquired
+mode: once
+w8 300C843C 0F
+
+name: Patsy Acquired
+mode: once
+w8 300C843D 0F
+
+name: Longshot Grab Acquired
+mode: once
+w8 300C843F 0F
+
+name: Breakdown Smash Acquired
+mode: once
+w8 300C8443 0F
+
+name: AoB Health Never Reduces To 0, Infinite Devastators While Health Is Low
+mode: once
+aob D1BF01FC4FDCF382419E008860000000 3C0000004FDCF382901F0200419E0084
+
+name: AoB Tank And Helicopter Health Never Decrease (Player Only)
+mode: once
+aob FF806800D0030010 FF80680060000000
+
+name: AoB Health Never Decreases
+mode: once
+aob 7F64DB784BFFFBD5 7F64DB7860000000
+
+name: AoB Unlimited Devastators While Health Is Low
+mode: once
+aob C0030204D0030200 C003020460000000
+
+name: AoB Everything Dies From Any Damage (Turn On Health Never Decreases)
+mode: once
+aob FC006B2EED6B0028D01F000C 38000000ED6B0028901F000C
+
+name: AoB Infinite Air Dashes, Rapid Jump Kicks
+mode: once
+aob 386000005463063E4BFFFF707D005278 386000015463063E4BFFFF707D005278
+
+name: AoB Military Always Ignores You
+mode: once
+aob 4BFFFE8060000000F821FEF1 4BFFFE80600000004E800020
+
+name: AoB Walk On Air
+mode: once
+aob 4BFFFF84F821FD01 4BFFFF844E800020
+
+name: AoB Press L3 To Toggle Walking In Air
+mode: once
+aob 000000000000000000000000000000002C0000010009000B000000000000000001021A2C01021B54013C2FD8000000000000000000000000000000002C00000100090003000000000000000001021A3C01021B80013C3068000000000000000000000000000000002C0000010009000F000000000000000001021A4801021B8C013C31D8000000000000000000000000000000002C00000100090006000000000000000001021A5401021BC8013C3214000000000000000000000000000000002C0000010009001B000000000000000001021A6001021BE0013C30B40000000000000000 3D2035938009540C3D20018D480000202C0000010009000B000000000000000001021A2C01021B54013C2FD8896902807F8B004098090280480000202C00000100090003000000000000000001021A3C01021B80013C3068419E00582F800002409E0050480000202C0000010009000F000000000000000001021A4801021B8C013C31D8880902816800000198090281480000202C00000100090006000000000000000001021A5401021BC8013C3214880902812F800000419E00244E8000202C0000010009001B000000000000000001021A6001021BE0013C30B4F821FD0148B3BE16
+aob F821FD017C0802A6FA2102487C711B78DB2102C839230040DB4102D039630050 49021D6E7C0802A6FA2102487C711B78DB2102C839230040DB4102D039630050
+
+name: AoB Black And White Mode
+mode: once
+aob C1A3000CD1A40010 C1A3000C60000000
+
+name: AoB Enemy Tanks Do Not Fire Cannons
+mode: once
+aob C0090004D1A100B4D00100B8D18100BC C0090004D1A100B4D00100B860000000
+
+name: AoB Only Military Bases And Infected Buildings Are Not Deserted
+mode: once
+aob D589045CD1A9000C D589045C60000000
+
+name: AoB Ammo Never Decreases
+mode: once
+aob 409E0010813F001C3929FFFF913F001C 409E0010813F001C3929FFFF60000000
+
+name: AoB Helicopters And Tanks Do Not Overheat
+mode: once
+aob EBC100C0D01F005C EBC100C060000000
+
+name: AoB Artillery Strikes Never Decrease
+mode: once
+aob 813E838480030364 813E838480030378
+
+name: AoB Get A Military Or Police Unit's Attention To Acquire All Upgrades + 999,999,999 EP Points, And They Will Ignore You
+mode: once
+aob 7C0802A6FB0100C0F8010120800400047C982378FB6100D82B800039DBC10100FB8100E0FBC100F0FBE100F8DBE101087C9C2378FB2100C8FB4100D0FBA100E883C284447C7B1B787C7F1B78419D0108817E995C780917887C09582E7C0007B47C005A147C0903A64E800420000000E8000000E800000130000000E8000000E8 F86100C0F88101203C80300D3C600F0F60630F0F906483C0906483C4E86483C0F86483C8F86483D0F86483D8F86483E0F86483E8F86483F0F86483F8F8648400F8648408F8648410F8648418F8648420F8648428F8648430F8648438906484403C80300B3C603B9A6063C9FF90646A30E86100C0E8810120382101104E800020
+
+name: Infinite EP
+mode: once
+w32 300B6A30 7FFFFFFF
+
+name: AoB DEV MENU (In Main Menu) + Debug Menu (Press SELECT In Pause Menu)
+mode: once
+aob 5241445F46494E414C0000000000000070 5241445F52454C45415345000000000070

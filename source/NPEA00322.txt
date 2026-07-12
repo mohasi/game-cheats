@@ -1,0 +1,10 @@
+# inFamous - Festival of Blood
+
+name: inFamous 2 Festival Of Blood: Infinite Electricity
+mode: once
+w32 0015D190 EDAD002A
+
+name: inFamous 2 Festival Of Blood: Infinite Teleport + Fly
+mode: once
+w32 00AB43F0 4A000000
+w32 00AB43EC 4A000000

@@ -1,0 +1,28 @@
+# Thief
+
+name: Infinite Arrows + Money + Focus Points
+mode: once
+w32 00CB9D34 7CC73378
+
+name: Infinite Arrows + Focus Points + Gold
+mode: once
+w32 00CD0414 7CC73378
+w32 00CD0418 7CC507B4
+w32 00CD041C 7CFC07B4
+w32 00CD0420 63A30000
+
+name: Invisibility
+mode: once
+w32 00971204 38600001
+
+name: No Hit
+mode: once
+w32 0096EFA0 38600001
+
+name: AoB Invisibility
+mode: once
+aob 5463D7FE4E80002080630AA4 386000014E80002080630AA4
+
+name: AoB No Hit
+mode: once
+aob 54632FFE2C03000040820A78 386000012C03000040820A78

@@ -1,0 +1,14 @@
+# Psycho Break
+
+name: Max Bullets
+mode: once
+w32 004A1E40 80BF0010
+
+name: Ammo Never Decreases
+mode: once
+w32 004A1E48 7CA42B78
+
+name: Bolt Item Skill Point Max
+mode: once
+w32 0049EBE4 907F0008
+w32 004A1E74 907F0008

@@ -1,0 +1,15 @@
+# Puppeteer
+
+name: Pupeteer: Max Lives
+mode: once
+w32 30F8420B 63000000
+
+name: Pupeteer: Invincible On Collision
+mode: once
+w32 001F4C80 2C030003
+w32 001F4C84 41820120
+
+name: Pupeteer: Invincible On Collision
+mode: once
+w32 001E74E0 2C030003
+w32 001E74E4 41820120

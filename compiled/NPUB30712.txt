@@ -1,0 +1,29 @@
+# Mad Riders
+
+name: Memory Max + Infinite Boost On Start
+mode: once
+w32 14CF2744 40000000
+
+name: ASM Max + Infinite Boost On Start
+mode: once
+w32 00DDF220 ED81602A
+w32 00DDF22C 60000000
+
+name: Memory Max Level On 1 Race (Level 15)
+mode: once
+w32 10583160 000007C1
+
+name: ASM Max Level On 1 Race (Level 15)
+mode: once
+w32 0093227C 7D620214
+w32 00932280 7D3E1050
+w32 0093228C 905F00A0
+w32 009322A4 905F00A0
+
+name: Memory 1st At Rank Position
+mode: once
+w32 0285F91C 0000005D
+
+name: ASM 1st At Rank Position
+mode: once
+w32 00B8BB20 916E0120

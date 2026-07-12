@@ -1,0 +1,11 @@
+# Uncharted: Ougontou to Kieta Sendan
+
+name: Max Money
+mode: once
+w32 00E9BD88 3B9AC9FF
+w32 00E9BD8C 00000000
+
+name: Max Money
+mode: once
+w32 00E9C988 3B9AC9FF
+w32 00E9C98C 00000000

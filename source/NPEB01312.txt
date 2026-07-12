@@ -1,0 +1,11 @@
+# Cloudberry Kingdom
+
+name: Memory Infinite Health
+mode: once
+w32 38BAB150 00000000
+w32 38BAB154 00000000
+w32 38BAB1CC 0000003D
+
+name: ASM Infinite Health
+mode: once
+w32 002E3FEC 9ABE01B0

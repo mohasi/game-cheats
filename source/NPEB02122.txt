@@ -1,0 +1,35 @@
+# Bluecoats, The - North vs. South
+
+name: The Bluecoats North Vs South: Memory Lot + Infinite Money On Gain
+mode: once
+w32 600FFE40 00000004
+
+name: The Bluecoats North Vs South: ASM Lot Of Money On Gain
+mode: once
+w32 020B658C 92430040
+
+name: The Bluecoats North Vs South: ASM Infinite Money
+mode: once
+w32 020B6588 60000000
+
+name: The Bluecoats North Vs South: Memory Infinite Drag
+mode: once
+w32 4C92BA50 00000008
+
+name: The Bluecoats North Vs South: ASM Infinite Drag
+mode: once
+w32 020E267C 38630000
+
+name: The Bluecoats North Vs South: Memory Unknown Code 1
+mode: once
+w32 6019A52C 0000000C
+w32 6019A530 0000001E
+w32 6019A534 00000014
+w32 60BC5F8C 0000000C
+
+name: The Bluecoats North Vs South: ASM Unknown Code 1
+mode: once
+w32 021178EC 91430000
+w32 021178E4 60000000
+w32 021178F8 92430004
+w32 02117904 92430008

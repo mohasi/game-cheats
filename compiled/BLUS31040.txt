@@ -1,0 +1,258 @@
+# Fuse
+
+name: Infinite Ammo
+mode: once
+w32 004938AC 60000000
+
+name: AoB Infinite Ammo
+mode: once
+aob EC632028EC212028D063000CEC220828 60000000EC212028D063000CEC220828
+
+name: Infinite Health For Whole Team v1
+mode: once
+w32 01132350 899F04DD
+w32 01132354 2B8C0080
+w32 01132358 409E001C
+w32 0113235C 899F04E1
+w32 01132360 2B8C0080
+w32 01132364 409E0010
+w32 01132368 899F0531
+w32 0113236C 2B8C0080
+w32 01132370 419E0008
+w32 01132374 D3FF0498
+w32 01132378 48785092
+w32 0077508C 49142352
+
+name: Infinite Health v2
+mode: once
+w32 01131ED8 807F0490
+w32 01131EDC 907F0498
+w32 01131EE0 C05F0498
+w32 01131EE4 48787AB2
+w32 00777AAC 49141EDA
+
+name: Ammo And Grenades Never Decrease
+mode: once
+w32 004838B4 60000000
+
+name: Reserve Ammo Never Decreases
+mode: once
+w32 00483C90 60000000
+
+name: Max Fuse Credits Upon Gain
+mode: once
+w32 00EC32DC 3FBD7FFF
+
+name: Max XP Upon Gain
+mode: once
+w32 01131F04 1E730080
+w32 01131F08 7FDE9814
+w32 01131F0C 48ED1F6E
+w32 00EC1F68 49141F06
+
+name: Naya's Warp Rifle Never Overheats But Has Max Fire Rate
+mode: once
+w32 004A1D68 3C003F7F
+w32 004A1D70 6000FFFF
+w32 004A1DA4 901F0268
+
+name: Naya's Cloak Lasts Forever
+mode: once
+w32 00227434 60000000
+
+name: Crystallized Or Stunned Enemies Remain Crystallized Or Stunned Forever
+mode: once
+w32 007730B8 60000000
+
+name: Isabelle's Med Beacon Stays Active Forever
+mode: once
+w32 0045B320 60000000
+
+name: Isabelle's Med Beacon Disappears Instantly
+mode: once
+w32 0045B320 D3DF0090
+
+name: Dalton's Magshield Instantly Recharges
+mode: once
+w32 0045FAF0 60000000
+
+name: Deployed Shields Last Forever
+mode: once
+w32 0045828C 60000000
+w32 00458380 60000000
+
+name: Fuse Lasts Forever
+mode: once
+w32 0035A3CC 60000000
+
+name: Can Always Activate Fuse
+mode: once
+w32 00359ED0 60000000
+
+name: Any XP Fully Fills The Fuse Meter
+mode: once
+w32 0035AB58 3C604640
+w32 0035AB5C 907F0030
+
+name: Turrets Never Overheat
+mode: once
+w32 004A0B24 60000000
+
+name: Always Have 1 Turret Missile
+mode: once
+w32 004A0B60 60000000
+
+name: Rapid Fire
+mode: once
+w32 0048AF68 60000000
+
+name: Fuse Cell Stability Never Decreases
+mode: once
+w32 01131F30 807F0490
+w32 01131F34 907F0498
+w32 01131F38 C03F0498
+w32 01131F3C 48244326
+w32 00234320 49141F32
+
+name: Echelon Mode Fuse Cell Stabilities And Weapon Cache Healths Never Decrease
+mode: once
+w32 01131F5C 80830490
+w32 01131F60 90830498
+w32 01131F64 C0430498
+w32 01131F68 4873BBB6
+w32 0072BBB0 49141F5E
+
+name: Timers Never End
+mode: once
+w32 0025AD68 60000000
+w32 00EC292C 4800003C
+w32 00F173A0 48000024
+
+name: Dropped Items Never Disappear
+mode: once
+w32 007B99C0 60000000
+
+name: Enemies Can Not See You
+mode: once
+w32 00228634 38600002
+
+name: Fuse Is Currently Active
+mode: once
+w32 0035AF38 38600001
+
+name: Can Use Skins In Campaign
+mode: once
+w32 004308DC 38800001
+
+name: AoB Infinite Health For Whole Team v1
+mode: once
+aob 014D32BC0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 014D32BC899F04DD2B8C0080409E001C899F04E12B8C0080409E0010899F05312B8C0080419E0008D3FF049848785092
+aob 807F04B8D3FF0498 807F04B849142352
+
+name: AoB Infinite Health v2
+mode: once
+aob 014D36C400000000000000000000000000000000 014D36C4807F0490907F0498C05F049848787AB2
+aob EC6418BAC05F0498 EC6418BA49141EDA
+
+name: AoB Ammo And Grenades Never Decrease
+mode: once
+aob EC212028D063000C EC21202860000000
+
+name: AoB Reserve Ammo Never Decreases
+mode: once
+aob EC431028D03F000CD05F0010 EC431028D03F000C60000000
+
+name: AoB Max Fuse Credits Upon Gain
+mode: once
+aob EBBC00007FBDB814 EBBC00003FBD7FFF
+
+name: AoB Max XP Upon Gain
+mode: once
+aob 014D37B8000000000000000000000000 014D37B81E7300807FDE981448ED1F6E
+aob EBDD00007FDE9814 EBDD000049141F06
+
+name: AoB Naya's Warp Rifle Never Overheats But Has Max Fire Rate
+mode: once
+aob FC2008182C040000FC800890 3C003F7F2C0400006000FFFF
+aob 63E30000D09F0268 63E30000901F0268
+
+name: AoB Naya's Cloak Lasts Forever
+mode: once
+aob 2C050000D03F005C 2C05000060000000
+
+name: AoB Crystallized Or Stunned Enemies Remain Crystallized Or Stunned Forever
+mode: once
+aob 2C040000D05C009C 2C04000060000000
+
+name: AoB Isabelle's Med Beacon Stays Active Forever
+mode: once
+aob 2C1E0000D05F0090 2C1E000060000000
+
+name: AoB Isabelle's Med Beacon Disappears Instantly
+mode: once
+aob 2C1E0000D05F0090 2C1E0000D3DF0090
+
+name: AoB Dalton's Magshield Instantly Recharges
+mode: once
+aob 63C30000909F00EC 63C3000060000000
+
+name: AoB Deployed Shields Last Forever
+mode: once
+aob FC21F0AED03F0034 FC21F0AE60000000
+aob 38638190C04300002C040000D05F0034 38638190C04300002C04000060000000
+
+name: AoB Fuse Lasts Forever
+mode: once
+aob 2C040000D3FD004C 2C04000060000000
+
+name: AoB Can Always Activate Fuse
+mode: once
+aob FC200818FC01180041800008 FC200818FC01180060000000
+
+name: AoB Any XP Fully Fills The Fuse Meter
+mode: once
+aob EC23107AD03F0030A07D0034 3C604640907F0030A07D0034
+
+name: AoB Turrets Never Overheat
+mode: once
+aob FC200818D03E0270 FC20081860000000
+
+name: AoB Always Have 1 Turret Missile
+mode: once
+aob D03E028063C30000 6000000063C30000
+
+name: AoB Rapid Fire
+mode: once
+aob 4834A3313C80000080A3000060848000D3E3002C 4834A3313C80000080A300006084800060000000
+
+name: AoB Fuse Cell Stability Never Decreases
+mode: once
+aob 014D373400000000000000000000000000000000 014D3734807F0490907F0498C03F049848244326
+aob 41820094C03F0498 4182009449141F32
+
+name: AoB Echelon Mode Fuse Cell Stabilities And Weapon Cache Healths Never Decrease
+mode: once
+aob 014D376C00000000000000000000000000000000 014D376C8083049090830498C04304984873BBB6
+aob 90BE0098C0430498 90BE009849141F5E
+
+name: AoB Timers Never End
+mode: once
+aob FC21192ED03C0008 FC21192E60000000
+aob D02101804181003C D02101804800003C
+aob D021007041810024 D021007048000024
+
+name: AoB Dropped Items Never Disappear
+mode: once
+aob 2C040000D03E0078 2C04000060000000
+
+name: AoB Enemies Can Not See You
+mode: once
+aob 4800001888630030 4800001838600002
+
+name: AoB Fuse Is Currently Active
+mode: once
+aob 41820014887E0054 4182001438600001
+
+name: AoB Can Use Skins In Campaign
+mode: once
+aob 38600001809F009C 3860000138800001

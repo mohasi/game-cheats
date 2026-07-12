@@ -1,0 +1,9 @@
+# Pure
+
+name: Memory Infinite Boost
+mode: once
+w32 39B8AD40 3F800000
+
+name: ASM Infinite Boost
+mode: once
+w32 001E7954 60000000

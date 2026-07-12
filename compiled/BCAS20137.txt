@@ -1,0 +1,36 @@
+# Front Mission Evolved
+
+name: Infinite Ammo + Missiles
+mode: once
+w32 00222F58 7CD00050
+w32 00222F60 900A000C
+
+name: Max + Infinite Money On Gain
+mode: once
+w32 0038CCAC 905D0028
+
+name: No Overheat
+mode: once
+w32 002242CC 60000000
+
+name: Ammo Infinite
+mode: once
+w32 002104D8 60000000
+w32 00210488 60000000
+
+name: Boost Infinite
+mode: once
+w32 000DEAB0 60000000
+w32 000DEA38 60000000
+w32 002706E0 60000000
+
+name: E.D.G.E. Meter Infinite
+mode: once
+w32 000E95FC 60000000
+w32 000E860C 60000000
+w32 000E7E28 60000000
+
+name: Max Money
+mode: once
+w32 33715D14 3B9AC9FF
+w32 33715D28 3B9AC9FF

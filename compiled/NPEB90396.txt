@@ -1,0 +1,9 @@
+# Naruto Shippuden: Ultimate Ninja Storm Generations
+
+name: Infinite Money
+mode: once
+w32 00454524 40990034
+
+name: AoB Infinite Money
+mode: once
+aob 7F00580090091C68419C005441990034 7F00580090091C68419C005440990034

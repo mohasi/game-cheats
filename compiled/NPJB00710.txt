@@ -1,0 +1,17 @@
+# Winning Post 8 2015
+
+name: Money Never Decreases
+mode: once
+w32 0014F6D8 60000000
+
+name: AoB Money Never Decreases
+mode: once
+aob 7FC3012EE8010090EBC1007038210080 60000000E8010090EBC1007038210080
+
+name: 99 Amulets After Gain
+mode: once
+w32 0014F8A0 3BC00063
+
+name: AoB 99 Amulets After Gain
+mode: once
+aob 7C9E23782B040063419D00084099001C 3BC000632B040063419D00084099001C

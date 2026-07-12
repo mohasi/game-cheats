@@ -1,0 +1,47 @@
+# Darksiders II
+
+name: Darksiders 2: Max Coins on Gain
+mode: once
+w32 0027EDF0 3C007FFF
+w32 0027EDF4 90090028
+
+name: Darksiders 2: Infinite Skill Points (Must have at least 1)
+mode: once
+w32 0027D324 60000000
+
+name: Darksiders 2: Max + Infinite Wrath
+mode: once
+w32 002213A8 C3E90008
+w32 002213AC EC0CF82A
+w32 002213B0 D0090004
+
+name: Darksiders 2: Max Stats After 1 Fight (9999)
+mode: once
+w32 00353F7C 3920270F
+w32 00353F80 913D0000
+
+name: Darksiders 2: Max Reaper Gauge + Infinite Reaper Mode
+mode: once
+w32 002214A4 60000000
+w32 002214A8 80090000
+w32 002214AC 7C0007B4
+w32 002214B0 F80100A0
+w32 002214B4 C98100A0
+w32 002214B8 38000000
+w32 002214BC FD80669C
+w32 002214C0 FC006018
+w32 002214C4 EC006FBA
+w32 002214C8 D00B0008
+
+name: Darksiders 2: Max Yellow Coins After Save
+mode: once
+w32 0027F50C 3C007FFF
+
+name: Darksiders 2: Max Blue Coins After Save
+mode: once
+w32 002A06D4 3C007FFF
+w32 002A06D8 900B002C
+
+name: Darksiders 2: Max Coins On Load
+mode: once
+w32 0027D7E4 3C607FFF

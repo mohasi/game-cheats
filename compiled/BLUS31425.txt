@@ -1,0 +1,85 @@
+# Akiba's Trip: Undead &amp;amp; Undressed
+
+name: Akiba's Trip 2 Undead And Undressed: Max Gold in Change
+mode: once
+w32 000DBC84 60000000
+
+name: Akiba's Trip 2 Undead And Undressed: Hero Shirt Immune to Normal Attack
+mode: once
+w32 00107810 60000000
+
+name: Akiba's Trip 2 Undead And Undressed: Hero Bottoms Immune to Normal Attack
+mode: once
+w32 00107A04 60000000
+
+name: Akiba's Trip 2 Undead And Undressed: Infinite Item Usage
+mode: once
+w32 000E8A34 60000000
+
+name: Akiba's Trip 2 Undead And Undressed: Equipped Weapon has High Attack (900.000)
+mode: once
+w32 000E6700 3C80000F
+
+name: Akiba's Trip 2 Undead And Undressed: 999 Hit Combo
+mode: once
+w32 0012A3A4 388003E7
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Experience
+mode: once
+w32 0061D40C 05F5E0FF
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Base Attack
+mode: once
+w32 0061D408 000F423F
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Base Defense
+mode: once
+w32 0061D404 000F423F
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Max Gold in Change
+mode: once
+aob 4081000860830000606400003FE00061 6000000060830000606400003FE00061
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Max Gold in Change
+mode: once
+aob 4081000860830000606400003FE00063 6000000060830000606400003FE00063
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Hero Shirt Immune Against Normal Attacks
+mode: once
+aob 4802FD256000000038800001907E0990 4802FD25600000003880000160000000
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Hero Bottoms Immune Against Normal Attacks
+mode: once
+aob 38800002907E0994579CDFFE80DE0990 3880000260000000579CDFFE80DE0990
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Exit Use Item Screen for Does Not Consume any Item
+mode: once
+aob 408100147C8438107C83312E38600001 600000007CE43B787C83312E38600001
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Equipped Weapon High ATK (900.000+)
+mode: once
+aob 8081011C80A101203BC0000180C10124 3C80000F80A101203BC0000180C10124
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Equipped Weapon High ATK (900.000+)
+mode: once
+aob 808100B480A100B83BA0000180C100BC 3C80000F80A100B83BA0000180C100BC
+
+name: Akiba's Trip 2 Undead And Undressed: AoB 999 Hit-Combo
+mode: once
+aob 38800001907F00003CA03F80909F0004 388003E7907F00003CA03F80909F0004
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Transparent Clothes
+mode: once
+aob 4082000C386000014800000838600000 60000000386000014800000838600000
+
+name: Akiba's Trip 2 Undead And Undressed: Memory Max Character Experience
+mode: once
+w32 0061D40C 05F5E0FF
+
+name: Akiba's Trip 2 Undead And Undressed: Memory Max Character Base Attack
+mode: once
+w32 0061D408 000F423F
+
+name: Akiba's Trip 2 Undead And Undressed: Memory Max Character Base Defense
+mode: once
+w32 0061D404 000F423F

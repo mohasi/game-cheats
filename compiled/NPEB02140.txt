@@ -1,0 +1,428 @@
+# Metal Gear Solid V: The Phantom Pain
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Camo
+mode: once
+w32 00C7FC74 3C607F80
+w32 00C7FC78 907E0098
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Take No Damage
+mode: once
+w32 00C6F758 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Invincibility
+mode: once
+w32 00C6F3BC 48000CCC
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Battery
+mode: once
+w32 02267818 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Item Effect Duration (Use Again To Disable)
+mode: once
+w32 0227E1F8 60000000
+w32 0227D690 EC221028
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Resources On Sell
+mode: once
+w32 015F4F00 1C780002
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Resources On Gain
+mode: once
+w32 020004FC 1C760002
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Suppressor
+mode: once
+w32 00DF67E8 61260000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: No Reload
+mode: once
+w32 00DF6AD0 63A60000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Ammo
+mode: once
+w32 00DF6660 60C70000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Throwing Weapons
+mode: once
+w32 00E1B12C 60DE0000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Placed Weapons
+mode: once
+w32 00E1F554 607C0000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Items
+mode: once
+w32 0226762C 7CC700D0
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Tools
+mode: once
+w32 00D5D24C 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max GMP
+mode: once
+w32 02090834 90A40000
+w32 02090838 7CA407B4
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Instant Free Development
+mode: once
+w32 02119E1C 3BC00000
+w32 0211D254 38600000
+w32 02113E20 38A00001
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Instant Free Construction
+mode: once
+w32 020DED7C 48000294
+w32 020DDD94 38800000
+w32 020DDD98 909E0000
+w32 020DDDCC 38A00000
+w32 020DDDD0 90BE0004
+w32 020DDE04 38A00000
+w32 020DDE08 90BE0008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Soldier One Hit Sleep Or Stun
+mode: once
+w32 01E9EB38 7C631810
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Soldier Never Wake Up
+mode: once
+w32 01E9EBD8 38600000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: 0 Mission Time
+mode: once
+w32 005192A0 38A00000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: 0 Alerts
+mode: once
+w32 0051A3C4 38A00000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: 0 Kills
+mode: once
+w32 0051A104 38A00000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: 0 Retries
+mode: once
+w32 00519B34 38A00000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Max Camo
+mode: once
+aob 7C23FC2ED03E0098 3C607F80907E0098
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Invincibility
+mode: once
+aob 41820CCC3FE00000 48000CCC3FE00000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Battery
+mode: once
+aob FC43106E41810008 6000000041810008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Item Effect Duration (Use Again To Disable)
+mode: once
+aob EC42F8284CC01382 600000004CC01382
+aob EC22082A7C63C014 EC2210287C63C014
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Max Resources On Sell
+mode: once
+aob 7CC31B787C67D92E 1C7800027C67D92E
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Resources On Gain
+mode: once
+aob 7C831B787C67F12E 1C7600027C67F12E
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Suppressor
+mode: once
+aob 7CD4481098C101C7 6126000098C101C7
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB No Reload
+mode: once
+aob 7CD4E81078C60020 63A6000078C60020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Ammo
+mode: once
+aob 7CF4301078E70020 60C7000078E70020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Throwing Weapons
+mode: once
+aob 33C6FFFF7BDE0020 60DE00007BDE0020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Placed Weapons
+mode: once
+aob 3383FFFF7B9C002062E30000 607C00007B9C002062E30000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Items
+mode: once
+aob 7CC7F0107C832010 7CC700D07C832010
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Infinite Tools
+mode: once
+aob 33BDFFFF7BBD0020 600000007BBD0020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Max GMP
+mode: once
+aob 3CA0004C60A54B40808400007C8407B4 3CA0004C60A54B4090A400007CA407B4
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Instant Free Development
+mode: once
+aob 83C3000040820068 3BC0000040820068
+aob 7C632010E8010090 38600000E8010090
+aob 786300208883000050A41F38 38A000018883000050A41F38
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Instant Free Construction
+mode: once
+aob 418202942C1B0001 480002942C1B0001
+aob 809E00007C8407B480A3000080A5000480A500007CA903A64E9E04212C030000418200743C6000006063AFE87C7F182E889E000C80630A7880BE00047CA507B480C3000080C6001880C600007CC903A64E9E04212C0300004182003C3C6000006063AFE87C7F182E889E000D80630A7880BE00087CA507B4 38800000909E000080A3000080A5000480A500007CA903A64E9E04212C030000418200743C6000006063AFE87C7F182E889E000C80630A7838A0000090BE000480C3000080C6001880C600007CC903A64E9E04212C0300004182003C3C6000006063AFE87C7F182E889E000D80630A7838A0000090BE0008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Soldier One Hit Sleep/Stun
+mode: once
+aob 7C634010B07D0020 7C631810B07D0020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Soldier Never Wake Up
+mode: once
+aob 7C7B1814B07D0020 38600000B07D0020
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Mission Time
+mode: once
+aob 63C5000090C100B8 38A0000090C100B8
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Alerts
+mode: once
+aob 78A5002030610070388000004901DD65 38A0000030610070388000004901DD65
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Kills
+mode: once
+aob 78A5002030610070388000004901E025 38A0000030610070388000004901E025
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Retries
+mode: once
+aob 78A5002030610070388000004901E5F5 38A0000030610070388000004901E5F5
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Quiet + Camouflage Skulls One Hit Sleep Or Stun
+mode: once
+aob 7C63D010B07C0012 7C631810B07C0012
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Mist + Armor Skulls One Hit Sleep Or Stun
+mode: once
+aob EC42082841810008 EC42102841810008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Armor Skulls One Hit Break Armor
+mode: once
+aob EC21F82841810924 EC21082841810924
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Mist + Armor Skulls One Hit Kill
+mode: once
+aob EC42F82841810008 EC42102841810008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB Sahelanthropus One Hit Kill
+mode: once
+aob 80A400007C651814 80A4FFF47C651814
+
+name: Metal Gear Solid 5 The Phantom Pain: Max Health
+mode: once
+w32 0251369C 3C8046FA
+w32 025136A0 909D0004
+w32 025136A4 C03D0000
+w32 025136A8 4E800020
+w32 00BFF920 49913D7D
+
+name: Metal Gear Solid 5 The Phantom Pain: Teleport
+mode: once
+w32 025135B0 7C4018CE
+w32 025135B4 3CA00251
+w32 025135B8 60A523F0
+w32 025135BC 3C8002AD
+w32 025135C0 6084DB58
+w32 025135C4 A0840002
+w32 025135C8 2C040411
+w32 025135CC 41820028
+w32 025135D0 2C040412
+w32 025135D4 41820034
+w32 025135D8 2C040414
+w32 025135DC 41820040
+w32 025135E0 2C040418
+w32 025135E4 41820054
+w32 025135E8 38A00070
+w32 025135EC 80990338
+w32 025135F0 4A710174
+w32 025135F4 E8830000
+w32 025135F8 F8850034
+w32 025135FC 80830008
+w32 02513600 9085003C
+w32 02513604 4BFFFFE4
+w32 02513608 E8850034
+w32 0251360C F8830000
+w32 02513610 8085003C
+w32 02513614 90830008
+w32 02513618 4BFFFFD0
+w32 0251361C E8850010
+w32 02513620 2C040000
+w32 02513624 4182FFC4
+w32 02513628 F8830000
+w32 0251362C 80850018
+w32 02513630 90830008
+w32 02513634 4BFFFFB4
+w32 02513638 E8850000
+w32 0251363C 2C040000
+w32 02513640 4182FFA8
+w32 02513644 F8830000
+w32 02513648 80850008
+w32 0251364C 90830008
+w32 02513650 4BFFFF98
+w32 024F03BC 7FE030CE
+w32 024F03C0 3FC00251
+w32 024F03C4 63DE2400
+w32 024F03C8 80E60000
+w32 024F03CC 90FE0000
+w32 024F03D0 80E60004
+w32 024F03D4 3C004412
+w32 024F03D8 7C070000
+w32 024F03DC 40810008
+w32 024F03E0 60070000
+w32 024F03E4 90FE0004
+w32 024F03E8 80E60008
+w32 024F03EC 90FE0008
+w32 024F03F0 4E800020
+w32 0251365C 3CC00251
+w32 02513660 60C623F0
+w32 02513664 80A10030
+w32 02513668 90A60000
+w32 0251366C C0210040
+w32 02513670 3CA03F80
+w32 02513674 90A60030
+w32 02513678 C3E60030
+w32 0251367C FC21F82A
+w32 02513680 D0260004
+w32 02513684 80A10050
+w32 02513688 90A60008
+w32 0251368C 3CA00000
+w32 02513690 38C00050
+w32 02513694 C0210050
+w32 02513698 4AFBE77C
+w32 00C23760 498EFE50
+w32 018E8AD0 48C078ED
+w32 014D1E10 49041844
+
+name: Metal Gear Solid 5 The Phantom Pain: Instant Weapon + Items Development
+mode: once
+w32 020324BC 3C807F80
+w32 020324CC 90832934
+w32 020324D4 48000008
+w32 020915D4 3C807F80
+w32 020915E0 7C9A192E
+w32 020915E4 4800021C
+
+name: Metal Gear Solid 5 The Phantom Pain: Put Every Enemy Into Stun (L1 + L3)
+mode: once
+w32 025CED08 3EA002AD
+w32 025CED0C 62B5DB58
+w32 025CED10 A2B50002
+w32 025CED14 2C150440
+w32 025CED18 40820014
+w32 025CED1C 3AC00000
+w32 025CED20 92DA001C
+w32 025CED24 3AC00001
+w32 025CED28 9ADA003C
+w32 025CED2C 8ADA003C
+w32 025CED30 4B839AFC
+w32 01DED220 487E1AE8
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Camo
+mode: once
+w32 00C7FC84 3C607F80
+w32 00C7FC88 907E0098
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Take No Damage
+mode: once
+w32 00C6F768 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Invincibility
+mode: once
+w32 00C6F3CC 48000CCC
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Battery
+mode: once
+w32 02267828 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Item Effect Duration (Use Again To Disable)
+mode: once
+w32 0227E208 60000000
+w32 0227D6A0 EC221028
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Resources On Sell
+mode: once
+w32 015F4F10 1C780002
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max Resources On Gain
+mode: once
+w32 0200050C 1C760002
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Suppressor
+mode: once
+w32 00DF67F8 61260000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: No Reload
+mode: once
+w32 00DF6AE0 63A60000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Ammo
+mode: once
+w32 00DF6670 60C70000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Throwing Weapons
+mode: once
+w32 00E1B13C 60DE0000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Placed Weapons
+mode: once
+w32 00E1F564 607C0000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Items
+mode: once
+w32 0226763C 7CC700D0
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Infinite Tools
+mode: once
+w32 00D5D25C 60000000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Max GMP
+mode: once
+w32 02090844 90A40000
+w32 02090848 7CA407B4
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Instant Free Development
+mode: once
+w32 02119E2C 3BC00000
+w32 0211D264 38600000
+w32 02113E30 38A00001
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Instant Free Construction
+mode: once
+w32 020DED8C 48000294
+w32 020DDDA4 38800000
+w32 020DDDA8 909E0000
+w32 020DDDDC 38A00000
+w32 020DDDE0 90BE0004
+w32 020DDE14 38A00000
+w32 020DDE18 90BE0008
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Soldier One Hit Sleep Or Stun
+mode: once
+w32 01E9EB48 7C631810
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: Soldier Never Wake Up
+mode: once
+w32 01E9EBE8 38600000
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Alerts
+mode: once
+aob 78A5002030610070388000004901DD75 38A0000030610070388000004901DD75
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Kills
+mode: once
+aob 78A5002030610070388000004901E035 38A0000030610070388000004901E035
+
+name: Metal Gear Solid 5 The Phantom Pain tv01.10: AoB 0 Retries
+mode: once
+aob 78A5002030610070388000004901E605 38A0000030610070388000004901E605
+
+name: Memory Unknown Code 1
+mode: once
+w32 380127C4 00010013

@@ -1,0 +1,76 @@
+# Under Defeat HD: Deluxe Edition
+
+name: Under Defeat Deluxe Edition: Infinite Lives (New Order Mode)
+mode: once
+w32 000B3E24 30C60000
+
+name: Under Defeat Deluxe Edition: Infinite Bombs (New Order Mode)
+mode: once
+w32 0001A8FC 30630000
+
+name: Under Defeat Deluxe Edition: Infinite Credits (New Order Mode)
+mode: once
+w32 000116B4 30630000
+
+name: Under Defeat Deluxe Edition: Max Score (New Order Mode)
+mode: once
+w32 0001CCF4 3C803B9A
+w32 0001CCF8 6084C9FF
+
+name: Under Defeat Deluxe Edition: Infinite Credits
+mode: once
+w32 000116B4 30630000
+
+name: Under Defeat Deluxe Edition: Infinite Lives
+mode: once
+w32 000B3ED4 30C60000
+
+name: Under Defeat Deluxe Edition: Infinite Bombs
+mode: once
+w32 0001A8FC 30630000
+
+name: Under Defeat Deluxe Edition: High Score
+mode: once
+w32 0001CCF4 3C803B9A
+w32 0001CCF8 6084C9FF
+
+name: Under Defeat Deluxe Edition: AoB Infinite Credits
+mode: once
+aob 38E000003063FFFF98E6B74490652CB4 38E000003063000098E6B74490652CB4
+
+name: Under Defeat Deluxe Edition: AoB Infinite Lives
+mode: once
+aob 6383000030C6FFFF98C5000E4BF6EE5D 6383000030C6000098C5000E4BF6EE5D
+
+name: Under Defeat Deluxe Edition: AoB Infinite Bombs
+mode: once
+aob 408200443063FFFF38A000283CC0004A 408200443063000038A000283CC0004A
+
+name: Under Defeat Deluxe Edition: AoB High Score
+mode: once
+aob 7C86201460A5967F7C04284090830008 7C8620143C803B9A6084C9FF90830008
+
+name: Under Defeat Deluxe Edition: Infinite Lives (New Order Mode)
+mode: once
+w32 000B3ED4 30C60000
+
+name: Under Defeat Deluxe Edition: High Score (New Order Mode)
+mode: once
+w32 0001CCF4 3C803B9A
+w32 0001CCF8 6084C9FF
+
+name: Under Defeat Deluxe Edition: Memory Infinite Lives (New Order Mode)
+mode: once
+w8 004107CE 05
+
+name: Under Defeat Deluxe Edition: Memory Infinite Bombs (New Order Mode)
+mode: once
+w8 004107D5 03
+
+name: Under Defeat Deluxe Edition: Memory Infinite Credits (New Order Mode)
+mode: once
+w8 00312CB7 02
+
+name: Under Defeat Deluxe Edition: Memory Max Score (New Order Mode)
+mode: once
+w32 004107C8 0000138C

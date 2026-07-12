@@ -1,0 +1,21 @@
+# Ratchet &amp;amp; Clank Future 2
+
+name: Ratchet And Clank Future 2: Max Money
+mode: once
+w32 00E24F68 3B9AC9FF
+
+name: Ratchet And Clank Future 2: Max Exp
+mode: once
+w32 00E24F64 3B9AC9FF
+
+name: Ratchet And Clank Future 2: Max Money
+mode: once
+w32 00E25068 3B9AC9FF
+
+name: Ratchet And Clank Future 2: Max Exp
+mode: once
+w32 00E25064 3B9AC9FF
+
+name: Ratchet And Clank Future 2: Infinite Health
+mode: once
+w32 0008DB88 419A0038

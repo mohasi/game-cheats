@@ -1,0 +1,121 @@
+# BioHazard 4 HD
+
+name: Biohazard 4: Infinite HP
+mode: once
+w32 004B8578 48000004
+w32 004B85D8 41820020
+w32 004BAD7C 48000068
+
+name: Biohazard 4: Infinite HP Ashley
+mode: once
+w32 00393368 60000000
+w32 006557AC 60000000
+w32 00654FDC 60000000
+w32 0065567C 60000000
+
+name: Biohazard 4: Always Low Total Save
+mode: once
+w32 0025AFBC 3CA00000
+w32 0025AFC8 3CA00000
+
+name: Biohazard 4: Always Low Total Play Times
+mode: once
+w32 00570880 3C600000
+
+name: Biohazard 4: Infinite Ammo
+mode: once
+w32 0060BC9C 386003E7
+
+name: Biohazard 4: No Reload
+mode: once
+w32 0060D254 388003E8
+
+name: Biohazard 4: Infinite Grenades + Infinite Rocket Launcher
+mode: once
+w32 0060D2C4 386003E7
+
+name: Biohazard 4: Infinite Arrows For Ada + Krauser
+mode: once
+w32 00607774 386003E8
+
+name: Biohazard 4: Infinite Herbs
+mode: once
+w32 0060ABC8 38E003E7
+
+name: Biohazard 4: Infinite First Aid Sprays
+mode: once
+w32 0060AF10 38E003E7
+
+name: Biohazard 4: One Hit Kills
+mode: once
+w32 0039518C 3C60FFFF
+w32 004B88F4 41820008
+
+name: Biohazard 4: Infinite Items On Sell
+mode: once
+w32 006076B8 30A50000
+
+name: Biohazard 4: Max PTAS
+mode: once
+w32 001C561C 3F6005F5
+w32 001C5620 637BE0FF
+
+name: Biohazard 4: Max Score On Mercenaries
+mode: once
+w32 00612F2C 3CA00098
+w32 00612F6C 60A5967F
+
+name: Biohazard 4: Max Score On Gain Bottle Caps
+mode: once
+w32 000FE558 3CA000F4
+w32 000FE55C 60A5023F
+
+name: Biohazard 4: AoB Damage Fully Refills Leon's Health
+mode: once
+aob 7CBF281083E66164B0A44FB4 A0A44FB683E66164B0A44FB4
+
+name: Biohazard 4: AoB Damage Fully Refills Ashley's Health
+mode: once
+aob 7C9F201083E56164B0834FB8 A0834FBA83E56164B0834FB8
+
+name: Biohazard 4: AoB Ashley Never Dies From Explosions
+mode: once
+aob 88C64FCB2C0600024082003C 88C64FCB2C06000260000000
+
+name: Biohazard 4: AoB In Chapter 3-4, Ashley Will Not Die After Being Released From Restraints
+mode: once
+aob 2C030002418200E04BFFF435 2C030002480000E04BFFF435
+
+name: Biohazard 4: AoB Change Ashley's Point Of View From Behind (Chapter 3-4)
+mode: once
+aob 4082000863C30000607E000048000034 6000000063C30000607E000048000034
+
+name: Biohazard 4: AoB PTAS Are Always Max And Never Decrease
+mode: once
+aob 7C04D80040800008609B0000 7C04D80048000008609B0000
+
+name: Biohazard 4: PTAS 99999999
+mode: once
+w32 018FF9C8 05F5E0FF
+
+name: Biohazard 4: Always 1st Save
+mode: once
+w16 018FF9BC 0000
+
+name: Biohazard 4: Always Low Time
+mode: once
+w32 018FF9C4 00000000
+
+name: Biohazard 4: Game Round 3
+mode: once
+w16 018FF9BE 0002
+
+name: Biohazard 4: Leon HP
+mode: once
+w16 018FF9D4 0960
+w16 018FF9D6 0960
+
+name: Biohazard 4: Ashley HP
+mode: once
+w16 018FF9D8 04B0
+w16 018FF9DA 04B0

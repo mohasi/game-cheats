@@ -1,0 +1,14 @@
+# Wanted: Weapons of Fate
+
+name: Wanted: Memory Infinite Ammo
+mode: once
+w32 40962F88 41700000
+w32 40B30478 41700000
+w32 40B30480 41700000
+w32 40C8BE18 41700000
+
+name: Wanted: ASM Infinite Ammo
+mode: once
+w32 0048D060 39290000
+w32 00495500 901E0004
+w32 00495508 60000000

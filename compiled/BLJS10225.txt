@@ -1,0 +1,48 @@
+# BlazBlue: Chrono Phantasma
+
+name: Infinite Health + Special + Barrier + Overdrive
+mode: once
+w32 00BD6450 81630004
+w32 00BD6454 2C090850
+w32 00BD6458 40820020
+w32 00BD645C 800B09B8
+w32 00BD6460 900B09B4
+w32 00BD6464 38002710
+w32 00BD6468 900B4FD0
+w32 00BD646C 900B4FF8
+w32 00BD6470 380001F4
+w32 00BD6474 900B01C0
+w32 00BD6478 4B83A080
+w32 004104F4 487C5F5C
+
+name: Disable Infinite Health
+mode: once
+w32 00BD6460 60000000
+
+name: Disable Infinite Special
+mode: once
+w32 00BD6468 60000000
+
+name: Disable Infinite Barrier
+mode: once
+w32 00BD646C 60000000
+
+name: Disable Infinite Overdrive
+mode: once
+w32 00BD6474 60000000
+
+name: Max Reward After Gain
+mode: once
+w32 006F49E4 60000000
+w32 0015EE10 60000000
+w32 0015EE5C 60000000
+
+name: Max Stats In Abyss Mode After Increasing Attack Once
+mode: once
+w32 00BD6490 380003E7
+w32 00BD6494 90090008
+w32 00BD6498 9009000C
+w32 00BD649C 90090010
+w32 00BD64A0 90090014
+w32 00BD64A4 4E800020
+w32 006F630C 484E0185

@@ -1,0 +1,58 @@
+# Uncharted: Drake's Fortune
+
+name: Body Armor Mode
+mode: once
+w32 34A257C4 3F800000
+
+name: Ammo Never Decreases
+mode: once
+w32 00616AA8 60000000
+
+name: +1 Ammo Per Weapon Use
+mode: once
+w32 00616AA8 39290001
+
+name: AoB Ammo Never Decreases
+mode: once
+aob 3929FFFF912B0010E80100C0EB410080EB6100887C0803A6 60000000912B0010E80100C0EB410080EB6100887C0803A6
+
+name: AoB +1 Ammo Per Weapon Use
+mode: once
+aob 3929FFFF912B0010E80100C0EB410080EB6100887C0803A6 39290001912B0010E80100C0EB410080EB6100887C0803A6
+
+name: Ammo Never Decreases
+mode: once
+w32 005D14D8 60000000
+
+name: +1 Ammo Per Weapon Use
+mode: once
+w32 005D14D8 39290001
+
+name: Infinite Health
+mode: once
+w32 002AC77C 60000000
+
+name: Infinite Ammo
+mode: once
+w32 005D14D8 39290000
+
+name: Unlock FPS
+mode: once
+w16 00BB4352 0000
+
+name: 60 FPS
+mode: once
+w16 00BB4352 0001
+
+name: 30 FPS
+mode: once
+w16 00BB4352 0002
+
+name: Dev Menu
+mode: once
+w32 00081DC8 38000001
+w32 00081DCC 980902F8
+
+name: AoB Dev Menu
+mode: once
+aob 880902F82F800000419EFF48 880902F838000001980902F8

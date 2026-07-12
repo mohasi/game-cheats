@@ -1,0 +1,95 @@
+# Transformers: War for Cybertron
+
+name: Transformers Kampf Um Cybertron: Infinite Health
+mode: once
+w32 008B3710 C0630360
+w32 008B3714 D063035C
+w32 008B371C EC431828
+
+name: Transformers Kampf Um Cybertron: Infinite Ammo + No Reload
+mode: once
+w32 00075AAC 60000000
+
+name: Transformers Kampf Um Cybertron: AoB Infinite Health
+mode: once
+aob C043035CC06303608064001CEC421828 C0630360D063035C8064001CEC431828
+
+name: Transformers Kampf Um Cybertron: AoB Infinite Ammo + No Reload
+mode: once
+aob 907F02904800001C807F0294 600000004800001C807F0294
+
+name: Transformers La Battaglia Per Cybertron: Infinite Health
+mode: once
+w32 008B3710 C0630360
+w32 008B3714 D063035C
+w32 008B371C EC431828
+
+name: Transformers La Battaglia Per Cybertron: Infinite Ammo + No Reload
+mode: once
+w32 00075AAC 60000000
+
+name: Transformers La Battaglia Per Cybertron: AoB Infinite Health
+mode: once
+aob C043035CC06303608064001CEC421828 C0630360D063035C8064001CEC431828
+
+name: Transformers La Battaglia Per Cybertron: AoB Infinite Ammo + No Reload
+mode: once
+aob 907F02904800001C807F0294 600000004800001C807F0294
+
+name: Transformers La Guerra Por Cybertron: Infinite Health
+mode: once
+w32 008B3710 C0630360
+w32 008B3714 D063035C
+w32 008B371C EC431828
+
+name: Transformers La Guerra Por Cybertron: Infinite Ammo + No Reload
+mode: once
+w32 00075AAC 60000000
+
+name: Transformers La Guerra Por Cybertron: AoB Infinite Health
+mode: once
+aob C043035CC06303608064001CEC421828 C0630360D063035C8064001CEC431828
+
+name: Transformers La Guerra Por Cybertron: AoB Infinite Ammo + No Reload
+mode: once
+aob 907F02904800001C807F0294 600000004800001C807F0294
+
+name: Transformers La Guerra Pour Cybertron: Infinite Health
+mode: once
+w32 008B3710 C0630360
+w32 008B3714 D063035C
+w32 008B371C EC431828
+
+name: Transformers La Guerra Pour Cybertron: Infinite Ammo + No Reload
+mode: once
+w32 00075AAC 60000000
+
+name: Transformers La Guerra Pour Cybertron: AoB Infinite Health
+mode: once
+aob C043035CC06303608064001CEC421828 C0630360D063035C8064001CEC431828
+
+name: Transformers La Guerra Pour Cybertron: AoB Infinite Ammo + No Reload
+mode: once
+aob 907F02904800001C807F0294 600000004800001C807F0294
+
+name: Infinite Health
+mode: once
+w32 008B3710 C0630360
+w32 008B3714 D063035C
+w32 008B371C EC431828
+
+name: Infinite Ammo + No Reload
+mode: once
+w32 00075AAC 60000000
+
+name: AoB Infinite Health
+mode: once
+aob C043035CC06303608064001CEC421828 C0630360D063035C8064001CEC431828
+
+name: AoB Infinite Ammo + No Reload
+mode: once
+aob 907F02904800001C807F0294 600000004800001C807F0294
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 0020099C C03F0BB8

@@ -1,0 +1,47 @@
+# Agarest: Generations of War
+
+name: Max Gold After Battle
+mode: once
+w32 00074DA8 409C0018
+
+name: Max EP After Battle
+mode: once
+w32 00074E58 409C0018
+
+name: Max TP After Battle
+mode: once
+w32 00074FB8 409C0018
+
+name: Max PP After Battle
+mode: once
+w32 00074F08 409C0018
+
+name: Can Forge Anything Without Material
+mode: once
+w32 00075188 419E00BC
+w32 000751C4 419C0028
+w32 00075108 419C0024
+w32 0002641C 419C0010
+
+name: Max Gold After Battle
+mode: once
+w32 00075470 409C0018
+
+name: Max EP After Battle
+mode: once
+w32 00075520 409C0018
+
+name: Max TP After Battle
+mode: once
+w32 00075680 409C0018
+
+name: Max PP After Battle
+mode: once
+w32 000755D0 409C0018
+
+name: Can Forge Anything Without Material
+mode: once
+w32 00075850 419E00BC
+w32 0007588C 419C0028
+w32 000757D0 419C0024
+w32 00026AE4 419C0010

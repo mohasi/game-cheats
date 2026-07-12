@@ -1,0 +1,87 @@
+# Might &amp; Magic - Clash of Heroes
+
+name: Might And Magic Clash Of Heroes: ASM Max Level After 2 Victory (Principal Character Only)
+mode: once
+w32 00075870 B0030016
+
+name: Might And Magic Clash Of Heroes: ASM Lot Of Money On Gain
+mode: once
+w32 000757C0 B0030018
+
+name: Might And Magic Clash Of Heroes: ASM Lot Of Money + Rocks + Jewels On Gain
+mode: once
+w32 00075840 B003001C
+
+name: Might And Magic Clash Of Heroes: ASM Infinite Health
+mode: once
+w32 000AC8D8 60000000
+w32 000AC900 93630BBC
+
+name: Might And Magic Clash Of Heroes: ASM Max Level On 1 Victory (Fighters Only)
+mode: once
+w32 00011448 30630005
+w32 000115BC 7C03212E
+w32 0010AE10 30E70005
+w32 0010AE18 B0090000
+w32 00111F3C B0A70000
+w32 00111F60 B0070000
+w32 00111F74 B0470000
+w32 00112100 B1870000
+w32 00112124 B0070000
+w32 00112148 B0070000
+w32 0011216C B0670000
+
+name: Might And Magic Clash Of Heroes: ASM Unknown Code 1
+mode: once
+w32 000757C0 B0030018
+w32 00075800 B003001A
+
+name: Might And Magic Clash Of Heroes: ASM Instant Max Spells On Gain
+mode: once
+w32 000A62DC 7CA4F014
+
+name: Might And Magic Clash Of Heroes: ASM Infinite Spells
+mode: once
+w32 000A6C34 60000000
+
+name: Might And Magic Clash Of Heroes: Memory Max Level After 2 Victory (Principal Character Only)
+mode: once
+w16 008C64EE 0059
+w16 32E8489E 0031
+
+name: Might And Magic Clash Of Heroes: Memory Lot Of Money + Rocks + Jewels On Gain
+mode: once
+w16 008C64F0 0336
+
+name: Might And Magic Clash Of Heroes: Memory Infinite Health
+mode: once
+w16 356AB98E 000A
+
+name: Might And Magic Clash Of Heroes: Memory Max Level On 1 Victory (Fighters Only)
+mode: once
+w16 008C590E 0003
+w16 32376E96 015E
+w16 32E8051A 009A
+w16 32E80532 014F
+
+name: Might And Magic Clash Of Heroes: ASM Max Level On 1 Victory (Fighters Only)
+mode: once
+w32 00011448 30630005
+w32 000115BC 7C03212E
+w32 00111F3C B0A70000
+w32 00111F60 B0070000
+w32 00111F74 B0470000
+w32 0010AE10 30E70005
+w32 0010AE18 B0090000
+w32 00112100 B1870000
+w32 00112124 B0070000
+w32 00112148 B0070000
+w32 0011216C B0670000
+
+name: Might And Magic Clash Of Heroes: Memory Unknown Code 1
+mode: once
+w16 008C64F0 0336
+
+name: Might And Magic Clash Of Heroes: Memory Instant Max + Infinite Spell On Gain
+mode: once
+w32 32061EBC 3F800000

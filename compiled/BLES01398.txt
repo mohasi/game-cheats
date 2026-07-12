@@ -1,0 +1,35 @@
+# Risen 2: Dark Waters
+
+name: Risen 2 Dark Water: Memory Infinite Health
+mode: once
+w32 B229C9A0 00000064
+
+name: Risen 2 Dark Water: ASM Infinite Health
+mode: once
+w32 000E0064 60000000
+
+name: Risen 2 Dark Water: Memory Infinite + Max Gold
+mode: once
+w32 B247CF1C 000003E7
+w32 B2B040BC 000003E7
+
+name: Risen 2 Dark Water: ASM Infinite + Max Gold
+mode: once
+w32 0007A2E4 903F0024
+
+name: Memory Infinite Health
+mode: once
+w32 B229C9A0 00000064
+
+name: ASM Infinite Health
+mode: once
+w32 000E0064 60000000
+
+name: Memory Infinite + Max Gold
+mode: once
+w32 B247CF1C 000003E7
+w32 B2B040BC 000003E7
+
+name: ASM Infinite + Max Gold
+mode: once
+w32 0007A2E4 903F0024

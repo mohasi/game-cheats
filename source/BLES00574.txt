@@ -1,0 +1,9 @@
+# G-Force
+
+name: Max And Infinite Health, Ammo, And Chips On Pickup
+mode: once
+w32 000D3A04 60000000
+
+name: AoB Max And Infinite Health, Ammo, And Chips On Pickup
+mode: once
+aob 409D00087D204B78 600000007D204B78

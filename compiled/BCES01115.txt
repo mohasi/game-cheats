@@ -1,0 +1,60 @@
+# Ico &amp;amp; Shadow of the Colossus
+
+name: Ico: Enemy Low AI
+mode: once
+w32 00147314 60000000
+
+name: Ico: 1 Hit Kill
+mode: once
+w32 00141974 60000000
+
+name: Ico: AoB Enemy Low AI
+mode: once
+aob 419DFC648062B9A03BA00125 600000008062B9A03BA00125
+
+name: Ico: AoB 1 Hit Kill
+mode: once
+aob 409E0174388000158062BB00 60000000388000158062BB00
+
+name: Shadow Of The Colossus: Unlock Hard Mode After Saving
+mode: once
+w32 014DBB6C 00000001
+
+name: Shadow Of The Colossus: Attack Max
+mode: once
+w32 014DF9E0 43C80000
+
+name: Shadow Of The Colossus: Health Never Decreases
+mode: once
+w32 0011A558 4800006C
+
+name: Shadow Of The Colossus: Grip Never Decreases
+mode: once
+w32 0011A718 48000040
+
+name: Shadow Of The Colossus: Any Damage Kills A Colossus
+mode: once
+w32 0003D858 480005F0
+
+name: Shadow Of The Colossus: Disable Bloom
+mode: once
+w32 0020AB50 38000000
+
+name: Shadow Of The Colossus: Disable Motion Blur
+mode: once
+w32 0021A2E4 38000000
+w32 0021A128 38000000
+
+name: Shadow Of The Colossus: Disable MLAA
+mode: once
+w32 00201A14 38000000
+w32 006F96F4 40800003
+w32 006F999C 40800017
+
+name: Shadow Of The Colossus: AoB Infinite Health
+mode: once
+aob 3860000BFF81F800419C006CFF9F0000 3860000BFF81F8004080006CFF9F0000
+
+name: Shadow Of The Colossus: AoB Infinite Stamina
+mode: once
+aob 3860000CFF9F0800419D0040FF9F0000 3860000CFF9F080040800040FF9F0000

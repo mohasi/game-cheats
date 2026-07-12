@@ -1,0 +1,22 @@
+# Medal of Honor: Warfighter
+
+name: Infinite Ammo + Grenades
+mode: once
+w32 00174308 30630000
+
+name: Invincibility
+mode: once
+w32 006BA860 FFC0E890
+
+name: AoB Infinite Ammo + Grenades
+mode: once
+aob 3063FFFF2C0300004080000838600000907C0000 306300002C0300004080000838600000907C0000
+
+name: AoB Invincibility
+mode: once
+aob FC20F89039000020FC60E09038A000D0 FFC0E89039000020FC60E09038A000D0
+
+name: Infinite Ammo
+mode: once
+w32 00173DC4 390003E6
+w32 00173DD8 390003E7

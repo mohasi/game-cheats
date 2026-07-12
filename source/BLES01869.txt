@@ -1,0 +1,27 @@
+# Heavy Fire: Shattered Spear
+
+name: Memory Infinite Ammo + No Reload
+mode: once
+w32 33353E98 0000001F
+
+name: ASM Infinite Ammo + No Reload
+mode: once
+w32 00119420 30840000
+w32 00119424 909C0018
+
+name: Memory Infinite Health
+mode: once
+w32 32786650 00000000
+
+name: ASM Infinite Health
+mode: once
+w32 000D0F70 7C84F814
+w32 000D0F74 91830000
+
+name: Memory High Scores On 1 Hit
+mode: once
+w32 32786798 00000000
+
+name: ASM High Scores On 1 Hit
+mode: once
+w32 000F721C F9A105F0

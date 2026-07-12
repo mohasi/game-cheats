@@ -1,0 +1,123 @@
+# Uncharted 3: Drake's Deception: Game of the Year Edition
+
+name: Uncharted 3 Drake's Deception: Infinite HP
+mode: once
+w32 00479214 60000000
+
+name: Uncharted 3 Drake's Deception: Infinite Weapon
+mode: once
+w32 006E37A0 39290000
+
+name: Uncharted 3 Drake's Deception: 1 Hit Kill
+mode: once
+w32 008485E8 38000000
+
+name: Uncharted 3 Drake's Deception: AoB Infinite HP
+mode: once
+aob 4E800421E8410028881F09042F800000419E0150 60000000E8410028881F09042F800000419E0150
+
+name: Uncharted 3 Drake's Deception: AoB Infinite Weapon
+mode: once
+aob 3929FFFFB13D0574409E00187B630020 39290000B13D0574409E00187B630020
+
+name: Uncharted 3 Drake's Deception: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 Drake's Deception: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 Drake's Deception: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 Drake's Deception: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078
+
+name: Uncharted 3 L'illusion De Drake: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 L'illusion De Drake: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 L'illusion De Drake: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 L'illusion De Drake: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078
+
+name: Uncharted 3 L'inganno Di Drake: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 L'inganno Di Drake: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 L'inganno Di Drake: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 L'inganno Di Drake: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078
+
+name: Uncharted 3 La Traición De Drake: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 La Traición De Drake: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 La Traición De Drake: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 La Traición De Drake: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078
+
+name: Uncharted 3 Oszustwo Drake'a: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 Oszustwo Drake'a: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 Oszustwo Drake'a: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 Oszustwo Drake'a: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078
+
+name: Uncharted 3 Sabaku Ni Nemuru Atlantis: Dev Menu
+mode: once
+w32 00737E4C 38000001
+w32 00737E50 980B2163
+
+name: Uncharted 3 Sabaku Ni Nemuru Atlantis: Infinite HP
+mode: once
+w32 00479CD8 60000000
+
+name: Uncharted 3 Sabaku Ni Nemuru Atlantis: Infinite Weapon
+mode: once
+w32 006E4284 60000000
+
+name: Uncharted 3 Sabaku Ni Nemuru Atlantis: AoB Dev Menu
+mode: once
+aob 2F800000419E00A4839E8078 38000001980B2163839E8078

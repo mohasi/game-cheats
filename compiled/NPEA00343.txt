@@ -1,0 +1,11 @@
+# Sly 3 - Honor Among Thieves
+
+name: Max Money
+mode: once
+w32 006CC808 000F423F
+
+name: Have All Gadgets
+mode: once
+w32 006CC7F8 FFFFFFFF
+w32 006CC7FC FFFFFFFF
+w32 006CC800 FFFFFFFF

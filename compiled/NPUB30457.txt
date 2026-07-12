@@ -1,0 +1,5 @@
+# Ridge Racer 7 3D
+
+name: Ridge Racer 7 3D License Version: Infinite Nitrous
+mode: once
+w32 002A8064 FC00F090

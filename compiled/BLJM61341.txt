@@ -1,0 +1,107 @@
+# Dragon Quest Heroes II
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Money On Gain
+mode: once
+w32 00275548 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: MP Never Decreases
+mode: once
+w32 00259D98 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Tension On Gain
+mode: once
+w32 001D6108 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Tension Never Decreases
+mode: once
+w32 002493B0 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: High Tension State Stays Even After Running Out Of Tension
+mode: once
+w32 00249434 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: High Tension Deadly Techniques Never Exit Tension Mode
+mode: once
+w32 001E90B8 3BA00000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Experience On Gain
+mode: once
+w32 002804F8 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Items On Change
+mode: once
+w32 002E95A4 60000000
+w32 002E95D0 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Items Gained After Battle
+mode: once
+w32 002E8940 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Skill Level On Gain
+mode: once
+w32 002E55CC 60000000
+w32 002E70C8 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Skill Points Never Decrease
+mode: once
+w32 002DE994 38A00000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Skill Points On Change
+mode: once
+w32 002E6F08 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: 0 Materials Needed To Reinforce Accessories
+mode: once
+w32 002D21C8 38600000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Instantly Complete Quarantine
+mode: once
+w32 002D51A4 907E0018
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Enemies Never Deathblow You While In High Tension
+mode: once
+w32 00E14000 54230006
+w32 00E14004 90631000
+w32 00E14008 7C840774
+w32 00E1400C 4824944A
+w32 00E14010 54240006
+w32 00E14014 80641000
+w32 00E14018 93A41000
+w32 00E1401C 28030000
+w32 00E14020 41820008
+w32 00E14024 3BA00001
+w32 00E14028 481E90BE
+w32 00249444 48BCABBC
+w32 001E90B8 48C2AF58
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Money On Gain
+mode: once
+w32 00274980 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Small Medals
+mode: once
+w32 00470A50 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: MP Never Decreases
+mode: once
+w32 002583F0 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: Max Tension On Gain
+mode: once
+w32 001CEBCC 60000000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: AoB Max Money On Gain
+mode: once
+aob 4085000C61050000480000102C050000 6000000061050000480000102C050000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: AoB Max Small Medals
+mode: once
+aob 4085000C60E40000480000102C040000 6000000060E40000480000102C040000
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: AoB MP Never Decreases
+mode: once
+aob FC0218004180000848000008FC601090 FC0218004180000860000000FC601090
+
+name: Dragon Quest Heroes 2 Futago No Ou To Yogen No Owari: AoB Max Tension On Gain
+mode: once
+aob 60E500007C0530004081000848000014 60E500007C0530006000000048000014

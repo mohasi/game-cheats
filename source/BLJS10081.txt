@@ -1,0 +1,17 @@
+# Another Century's Episode R
+
+name: A.C.E. Another Century's Episode R: ACE Power 99999999
+mode: once
+w32 018EF400 05F5E0FF
+
+name: A.C.E. Another Century's Episode R: Max A.C.E. Points On Gain
+mode: once
+w32 007E8B9C 7D695B78
+
+name: A.C.E. Another Century's Episode R: Max A.C.E. Points On Use
+mode: once
+w32 00807730 7D605B78
+
+name: A.C.E. Another Century's Episode R: Max Skill Points Gain + Use
+mode: once
+w32 007A3FBC 90C70008

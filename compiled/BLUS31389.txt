@@ -1,0 +1,9 @@
+# 2014 FIFA World Cup Brazil
+
+name: Infinite Retries (Training)
+mode: once
+w32 0053317C 60000000
+
+name: AoB Infinite Retries (Training)
+mode: once
+aob 3063FFFF989B6A11B0 60000000989B6A11B0

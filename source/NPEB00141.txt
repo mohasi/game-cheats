@@ -1,0 +1,27 @@
+# Mega Man 10
+
+name: Invincible
+mode: once
+w8 0853C864 80
+
+name: Infinite Lives
+mode: once
+w8 0853C90C 02
+
+name: Invincibility
+mode: once
+w32 000E4300 38000080
+w32 000E4304 981F00A8
+w32 000E4308 480002C0
+
+name: Infinite Lives
+mode: once
+w32 000E25B8 38600009
+
+name: AoB Invincibility
+mode: once
+aob 881F00A82F800000409E02C0 38000080981F00A8480002C0
+
+name: AoB Infinite Lives
+mode: once
+aob 7C630038987C0150 38600009987C0150

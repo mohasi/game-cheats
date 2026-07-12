@@ -1,0 +1,17 @@
+# Mamorukun Curse!
+
+name: Health Never Decreases
+mode: once
+w8 006EFCC3 64
+
+name: Invincible
+mode: once
+w32 006EFC84 10000000
+
+name: AoB Health Never Decreases
+mode: once
+aob 909E00A440820008 6000000040820008
+
+name: AoB Invincible
+mode: once
+aob 90BA006840820020 6000000040820020

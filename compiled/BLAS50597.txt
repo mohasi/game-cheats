@@ -1,0 +1,25 @@
+# One Piece: Kaizoku Musou 2
+
+name: When Enemy Hits Infinite HP (Phase 3 Code Does Not Handle)
+mode: once
+w32 003318A8 BC23D70A
+
+name: Luffy Mode Style Full Auto Mode
+mode: once
+w32 0021B47C 4082043C
+
+name: Max Money
+mode: once
+w32 0026C264 7CC53378
+
+name: K.O. 1,000,000
+mode: once
+w32 00343AFC 2C080000
+
+name: AoB Max Money
+mode: once
+aob 4181000860A600003C6000003CA00000 7CC5337860A600003C6000003CA00000
+
+name: AoB K.O. 1,000,000
+mode: once
+aob 7C084840408000086104000090870000 2C080000408000086104000090870000

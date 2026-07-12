@@ -1,0 +1,11 @@
+# Wipeout HD Fury
+
+name: Memory Unknown Code 1
+mode: once
+w32 00C16374 00000005
+w32 00C16378 00000005
+
+name: ASM Unknown Code 1
+mode: once
+w32 003FAF78 60000000
+w32 003FAF7C 60000000

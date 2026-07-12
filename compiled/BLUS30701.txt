@@ -1,0 +1,22 @@
+# Hyperdimension Neptunia
+
+name: Infinite HP
+mode: once
+w32 002671C0 38C90000
+
+name: Death
+mode: once
+w32 002671C0 7CDE4850
+
+name: Infinite GP
+mode: once
+w32 002671F4 38C90000
+
+name: 0 GP
+mode: once
+w32 002671F4 7D596050
+
+name: Reflex
+mode: once
+w16 394D200A 0001
+w32 0023AA84 4E800020

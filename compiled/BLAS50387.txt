@@ -1,0 +1,124 @@
+# Dark Souls
+
+name: Max Souls
+mode: once
+w32 00AF0FC4 3D403E80
+
+name: Damage (Player + Enemy)
+mode: once
+w32 0199C790 60000000
+w32 0199C79C 60000000
+
+name: Max Equipment Load
+mode: once
+w32 0199C71C 49499000
+
+name: Max Stats
+mode: once
+w32 0199C76C 49000000
+
+name: Max Items on Use + Discard + Buy + Deposit in Storage
+mode: once
+w32 00BC3A68 60000000
+
+name: Infinite Magic + Miracles + Pyromancy Slot 1
+mode: once
+w32 00BCC2B4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 2
+mode: once
+w32 00BCC2F4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 3
+mode: once
+w32 00BCC334 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 4
+mode: once
+w32 00BCC374 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 5
+mode: once
+w32 00BCC3B4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 6
+mode: once
+w32 00BCC3F4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 7
+mode: once
+w32 00BCC434 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 8
+mode: once
+w32 00BCC474 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 9
+mode: once
+w32 00BCC4B4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 10
+mode: once
+w32 00BCC4F4 30A90004
+
+name: Fly Mode (Useless)
+mode: once
+w32 0199B188 34000001
+
+name: Max Souls + Infinite Souls
+mode: once
+w32 00AF14E4 3D403E80
+
+name: Reduce all Damage Taken To 0
+mode: once
+w32 0199C790 60000000
+w32 0199C79C 60000000
+
+name: Max Stats, Defense, Resistance
+mode: once
+w32 0199C76C 49000000
+
+name: Max Items on Use + Discard + Buy + Deposit in Storage
+mode: once
+w32 00AD3F88 60000000
+w32 00AD3FD8 409DFFB4
+
+name: Infinite Magic + Miracles + Pyromancy Slot 1
+mode: once
+w32 00ADC7D4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 2
+mode: once
+w32 00ADC814 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 3
+mode: once
+w32 00ADC854 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 4
+mode: once
+w32 00ADC894 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 5
+mode: once
+w32 00ADC8D4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 6
+mode: once
+w32 00ADC914 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 7
+mode: once
+w32 00ADC954 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 8
+mode: once
+w32 00ADC994 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 9
+mode: once
+w32 00ADC9D4 30A90004
+
+name: Infinite Magic + Miracles + Pyromancy Slot 10
+mode: once
+w32 00ADCA14 30A90004

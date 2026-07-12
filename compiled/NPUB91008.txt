@@ -1,0 +1,35 @@
+# LEGO Batman 3: Beyond Gotham
+
+name: Infinite Health
+mode: once
+w32 0099AA54 60000000
+
+name: AoB Infinite Health
+mode: once
+aob 988306414E80002030A30550 600000004E80002030A30550
+
+name: 3000x Stud Multiplier
+mode: once
+w32 00FC1BDC 1FBD0BB8
+
+name: Max Studs
+mode: once
+w32 395098E4 FFFFFFFF
+w32 395098EC FFFFFFFF
+
+name: Unlimited Studs (Story Missions)
+mode: once
+w32 395099A4 05F5E0FF
+w32 395099AC 05F5E0FF
+
+name: Infinite Health
+mode: once
+w32 0099A8B4 60000000
+
+name: Infinite Health
+mode: once
+w32 0099AA44 60000000
+
+name: 3000x Stud Multiplier
+mode: once
+w32 00FC1BCC 1FBD0BB8

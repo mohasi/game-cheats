@@ -1,0 +1,23 @@
+# Rocket Knight
+
+name: Infinite HP
+mode: once
+w32 00010100 3C804100
+w32 00010104 81C30014
+w32 00010108 7F847000
+w32 0001010C 419E0008
+w32 00010110 EC21F828
+w32 00010114 480BD034
+w32 000CD144 4BF42FBC
+
+name: Infinite MP
+mode: once
+w32 00096238 EC63082A
+
+name: Max Score
+mode: once
+w32 30914168 05F5E0FF
+
+name: Max Continues
+mode: once
+w32 309141C8 05F5E0FF

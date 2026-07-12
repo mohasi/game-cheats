@@ -1,0 +1,25 @@
+# Star Wars: The Force Unleashed II
+
+name: Star Wars The Force Unleashed 2: Infinite Health
+mode: once
+w32 001A599C D043000C
+
+name: Star Wars The Force Unleashed 2: Infinite Force
+mode: once
+w32 001A59B4 D043000C
+
+name: Star Wars The Force Unleashed 2: Infinite Fury
+mode: once
+w32 001A59CC D043000C
+
+name: Star Wars The Force Unleashed 2: AoB Infinite Health
+mode: once
+aob 4BEEFAA960000000 4BEEFAA9D043000C
+
+name: Star Wars The Force Unleashed 2: AoB Infinite Force
+mode: once
+aob 4BEEFA9160000000 4BEEFA91D043000C
+
+name: Star Wars The Force Unleashed 2: AoB Infinite Fury
+mode: once
+aob 4BEEFA7960000000 4BEEFA79D043000C

@@ -1,0 +1,13 @@
+# LEGO Marvel Super Heroes
+
+name: Max Studs On Gain
+mode: once
+w32 00C78D0C 60000000
+
+name: AoB Max Studs On Gain
+mode: once
+aob 4081000860A4000054C5063E 6000000060A4000054C5063E
+
+name: Max Studs On Gain
+mode: once
+w32 00C78D5C 60000000

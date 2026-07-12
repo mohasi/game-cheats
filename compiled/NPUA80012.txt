@@ -1,0 +1,33 @@
+# Lemmings
+
+name: Unlimited Climber
+mode: once
+w32 31B3606C 00000064
+
+name: Unlimited Floater
+mode: once
+w32 31B3607C 00000064
+
+name: Unlimited Bomber
+mode: once
+w32 31B3608C 00000064
+
+name: Unlimited Bloker
+mode: once
+w32 31B3609C 00000064
+
+name: Unlimited Builder
+mode: once
+w32 31B360AC 00000064
+
+name: Unlimited Basher
+mode: once
+w32 31B360BC 00000064
+
+name: Unlimited Digger
+mode: once
+w32 31B360CC 00000064
+
+name: Unlimited Miner
+mode: once
+w32 31B360DC 00000064

@@ -1,0 +1,79 @@
+# Super Street Fighter IV: Arcade Edition
+
+name: P1 Infinite Super Meter [01.02]
+mode: once
+w32 004A63FC 00000007
+w32 004A63B8 00000001
+
+name: P1 Infinite Ultra Meter [01.02]
+mode: once
+w32 004A6408 00000007
+w32 004A63BC 00000001
+
+name: 1 Hit Kill On P2 [01.02]
+mode: once
+w32 004A6420 00002710
+
+name: P1 Defense Up [01.02]
+mode: once
+w32 004A6424 00002710
+
+name: P1 Always Perfect if doesn't get hit by CPU on final hit [01.02]
+mode: once
+w32 004A63F8 00002710
+
+name: P2 No EX Moves [01.02]
+mode: once
+w32 004A6610 00000000
+
+name: P2 No Special Moves [01.02]
+mode: once
+w32 004A660C 00000000
+
+name: P2 No Super Moves [01.02]
+mode: once
+w32 004A6614 00000000
+
+name: P2 No Throw Escape [01.02]
+mode: once
+w32 004A6604 00000000
+
+name: P2 No Ultra Moves [01.02]
+mode: once
+w32 004A6618 00000000
+
+name: P1 Infinite Super Meter [01.07]
+mode: once
+w32 00B2B8F0 00000007
+
+name: P1 Infinite Ultra Meter [01.07]
+mode: once
+w32 00B2B8FC 00000007
+
+name: P1 Takes Less Damage [01.07]
+mode: once
+w32 00B2B918 00000048
+
+name: P1 Full Recovery Meter [01.07]
+mode: once
+w32 00B2B8EC 00002710
+
+name: P2 No EX Moves [01.07]
+mode: once
+w32 00B2BB30 00000000
+
+name: P2 No Special Moves [01.07]
+mode: once
+w32 00B2BB2C 00000000
+
+name: P2 No Super Moves [01.07]
+mode: once
+w32 00B2BB34 00000000
+
+name: P2 No Throw Escape [01.07]
+mode: once
+w32 00B2BB24 00000000
+
+name: P2 No Ultra Moves [01.07]
+mode: once
+w32 00B2BB38 00000000

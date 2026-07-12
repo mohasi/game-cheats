@@ -1,0 +1,10 @@
+# Brothers in Arms: Hell's Highway
+
+name: ASM No Reload
+mode: once
+w32 002E00D8 7FA84850
+w32 002E00DC 913F0000
+
+name: Memory Unknown Code 1
+mode: once
+w32 45CEF528 0000001F

@@ -1,0 +1,22 @@
+# Worms
+
+name: Memory Max + Infinite Items On Use
+mode: once
+w8 332DE2FF 04
+
+name: ASM Max + Infinite Items On Use
+mode: once
+w32 00066534 7E8B292E
+w32 00066530 39290000
+
+name: Memory Infinite Health
+mode: once
+w32 3481EC8C 00000064
+
+name: ASM Infinite Health
+mode: once
+w32 00017038 60000000
+w32 00017024 900B0004
+w32 00017014 7D204850
+w32 000799B4 60000000
+w32 000799B8 60000000

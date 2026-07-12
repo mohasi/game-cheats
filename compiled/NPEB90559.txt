@@ -1,0 +1,33 @@
+# BLADESTORM: Nightmare
+
+name: Max Units + Points + Troops + Squad Level + SP
+mode: once
+w32 0002BCAC 901E001C
+
+name: Max Level On 1 Hit + High Strength
+mode: once
+w32 00031E50 7C60E814
+
+name: No Waiting Time For Action
+mode: once
+w32 001102F0 60000000
+w32 00110388 EC23D02A
+w32 001105A4 60000000
+w32 001107D8 60000000
+w32 00110A04 D34C0000
+
+name: Infinite Heavy Strike Time
+mode: once
+w32 00110644 60000000
+
+name: Infinite Shield Time
+mode: once
+w32 00110B50 60000000
+
+name: Infinite Arrow
+mode: once
+w32 000E1A3C 30C40000
+
+name: No Waiting Time For Action
+mode: once
+w32 001102F0 60000000

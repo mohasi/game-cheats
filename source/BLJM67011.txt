@@ -1,0 +1,9 @@
+# Assassin's Creed: Ezio Saga
+
+name: Infinite HP
+mode: once
+w32 00996D6C 60000000
+
+name: Infinite Cash + Throwing Knives + Bullets
+mode: once
+w32 00E27DBC 60000000

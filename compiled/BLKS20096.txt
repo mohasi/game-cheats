@@ -1,0 +1,32 @@
+# Need for Speed: Undercover
+
+name: Memory Infinite Bullet Time
+mode: once
+w32 34A8DB30 3F800000
+
+name: ASM Infinite Bullet Time
+mode: once
+w32 00525198 60000000
+w32 005251A0 60000000
+
+name: Memory Infinite Nitro
+mode: once
+w32 3418C58C 3F800000
+w32 341CA08C 3F800000
+
+name: ASM Infinite Nitro
+mode: once
+w32 004824E0 60000000
+w32 009DEBD0 60000000
+
+name: Memory Infinite Money
+mode: once
+w32 100CFC04 0001869F
+w32 36D9CEE4 0001869F
+
+name: ASM Infinite Money
+mode: once
+w32 005789B8 60000000
+w32 005A6D6C 60000000
+w32 008A5330 60000000
+w32 008A5350 60000000

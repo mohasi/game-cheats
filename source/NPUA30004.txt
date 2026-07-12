@@ -1,0 +1,5 @@
+# Heavy Weapon
+
+name: Heavy Weapon Atomic Tank: Infinite Lives
+mode: once
+w32 001967E4 60000000

@@ -1,0 +1,105 @@
+# Simpsons, The - Arcade Game
+
+name: The Simpsons Arcade Game: Homer Lives
+mode: once
+w8 3505EF99 64
+
+name: The Simpsons Arcade Game: Homer Health
+mode: once
+w8 3505F0DB 28
+
+name: The Simpsons Arcade Game: Homer Invincible
+mode: once
+w8 3505F0DB 28
+w8 3505F0FE 01
+
+name: The Simpsons Arcade Game: Marge Lives
+mode: once
+w8 3505EF91 64
+
+name: The Simpsons Arcade Game: Marge Health
+mode: once
+w8 3505F01B 28
+
+name: The Simpsons Arcade Game: Marge Invincible
+mode: once
+w8 3505F01B 28
+w8 3505F03E 01
+
+name: The Simpsons Arcade Game: Bart Lives
+mode: once
+w8 3505EF99 64
+
+name: The Simpsons Arcade Game: Bart Health
+mode: once
+w8 3505F19B 28
+
+name: The Simpsons Arcade Game: Bart Invincible
+mode: once
+w8 3505F19B 28
+w8 3505F1BE 01
+
+name: The Simpsons Arcade Game: Lisa Lives
+mode: once
+w8 3505EFA9 64
+
+name: The Simpsons Arcade Game: Lisa Health
+mode: once
+w8 3505F25B 28
+
+name: The Simpsons Arcade Game: Lisa Invincible
+mode: once
+w8 3505F25B 28
+w8 3505F27E 01
+
+name: The Simpsons Arcade Game: Homer Lives
+mode: once
+w8 35059E49 64
+
+name: The Simpsons Arcade Game: Homer Health
+mode: once
+w8 35059F8B 28
+
+name: The Simpsons Arcade Game: Homer Invincible
+mode: once
+w8 35059F8B 28
+w8 35059FAE 01
+
+name: The Simpsons Arcade Game: Marge Lives
+mode: once
+w8 35059E41 64
+
+name: The Simpsons Arcade Game: Marge Health
+mode: once
+w8 35059ECB 28
+
+name: The Simpsons Arcade Game: Marge Invincible
+mode: once
+w8 35059ECB 28
+w8 35059EEE 01
+
+name: The Simpsons Arcade Game: Bart Lives
+mode: once
+w8 35059E51 64
+
+name: The Simpsons Arcade Game: Bart Health
+mode: once
+w8 3505A04B 28
+
+name: The Simpsons Arcade Game: Bart Invincible
+mode: once
+w8 3505A04B 28
+w8 3505A06E 01
+
+name: The Simpsons Arcade Game: Lisa Lives
+mode: once
+w8 35059E59 64
+
+name: The Simpsons Arcade Game: Lisa Health
+mode: once
+w8 3505A10B 28
+
+name: The Simpsons Arcade Game: Lisa Invincible
+mode: once
+w8 3505A10B 28
+w8 3505A12E 01

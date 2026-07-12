@@ -1,0 +1,5 @@
+# Gran Turismo HD Concept
+
+name: Memory Infinite Time
+mode: once
+w32 57EF21EC 0003599E

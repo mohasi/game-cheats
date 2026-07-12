@@ -1,0 +1,35 @@
+# Shift 2: Unleashed
+
+name: Need For Speed Shift 2 Unleashed: Cash
+mode: once
+w32 33E093FC 05F5E0FF
+w32 33E09400 05F5E0FF
+
+name: Need For Speed Shift 2 Unleashed: Memory Lot Of Cash On 1 Race
+mode: once
+w32 3401BEFC 0000251D
+
+name: Need For Speed Shift 2 Unleashed: ASM Lot Of Cash On 1 Race
+mode: once
+w32 000434B8 9043257C
+
+name: Need For Speed Shift 2 Unleashed: Memory Lot Of XP On 1 Race
+mode: once
+w32 01951540 0000034F
+
+name: Shift 2 Unleashed Need For Speed: Cash
+mode: once
+w32 33E093FC 05F5E0FF
+w32 33E09400 05F5E0FF
+
+name: Shift 2 Unleashed Need For Speed: Memory Lot Of Cash On 1 Race
+mode: once
+w32 3401BEFC 0000251D
+
+name: Shift 2 Unleashed Need For Speed: ASM Lot Of Cash On 1 Race
+mode: once
+w32 000434B8 9043257C
+
+name: Shift 2 Unleashed Need For Speed: Memory Lot Of XP On 1 Race
+mode: once
+w32 01951540 0000034F

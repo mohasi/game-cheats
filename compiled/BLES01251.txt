@@ -1,0 +1,76 @@
+# Kingdoms of Amalur: Reckoning
+
+name: Max Gold on Gain + Sell
+mode: once
+w32 0002A878 33FE034C
+
+name: Infinite Fate
+mode: once
+w32 00042320 38800109
+w32 00042338 38600109
+
+name: Infinite Mana
+mode: once
+w32 002E25F4 809F0074
+w32 002D2780 809F0074
+
+name: Infinite Fate
+mode: once
+w32 0042D464 38600109
+
+name: Max Fate On Gain
+mode: once
+w32 0042D3F8 38600109
+
+name: Max Items On Buy Or Sell
+mode: once
+w32 004AE09C 38800063
+
+name: Max Items On Use
+mode: once
+w32 004B5968 38800063
+
+name: Infinite Fate Alternative
+mode: once
+w32 00042320 38800109
+w32 00042338 38600109
+
+name: AoB Max Gold On Gain Or Sell
+mode: once
+aob 93FE034C4835A5993C8000CA7FE507B47CC3F810 33FE034C4835A5993C8000CA7FE507B47CC3F810
+
+name: AoB Infinite Fate
+mode: once
+aob 3880000080639AB8306311F878630020480D36116064000038600000 3880010980639AB8306311F878630020480D36116064000038600109
+
+name: Infinite Health
+mode: once
+w32 002E15B0 80FF004C
+w32 002E15B4 60000000
+w32 002E15BC 90FF0048
+
+name: Infinite Mana
+mode: once
+w32 002DB38C 809F0074
+w32 002DB518 809F0074
+
+name: Max Fate On Gain
+mode: once
+w32 00423648 38600109
+
+name: Infinite Fate
+mode: once
+w32 004236B4 38600109
+
+name: Max Money On Buy
+mode: once
+w32 0003A4A4 3FC005F5
+w32 0003A4A8 63DEE0FF
+
+name: Max Items On Buy + Sell
+mode: once
+w32 0049FD84 38800063
+
+name: Max Items On Use
+mode: once
+w32 004A6B60 38800063

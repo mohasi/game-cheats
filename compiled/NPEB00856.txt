@@ -1,0 +1,48 @@
+# Sonic Adventure 2
+
+name: Sonic Adventure 2 Battle: Game Time Always High
+mode: once
+w32 0094DAF4 7F7F7F7F
+w32 0094DAF8 7F7F7F7F
+
+name: Sonic Adventure 2 Battle: 9 Lives
+mode: once
+w32 0094DB40 00000009
+
+name: Sonic Adventure 2 Battle: 999 Coins
+mode: once
+w32 0094DB44 000003E7
+
+name: 999 Rings
+mode: once
+w32 001AB444 419D0368
+
+name: AoB 999 Rings
+mode: once
+aob 409D0368380003E7B0090008397E00603D4051EB7D6B07B4614A851F 419D0368380003E7B0090008397E00603D4051EB7D6B07B4614A851F
+
+name: Memory 999 Rings On Gain
+mode: once
+w16 0094DB44 0001
+
+name: ASM 999 Rings On Gain
+mode: once
+w32 001AB3BC B0290008
+
+name: ASM Infinite Rings
+mode: once
+w32 001AB3C8 60000000
+w32 001AB3CC 60000000
+
+name: Game Time Always High
+mode: once
+w32 0094DAF4 7F7F7F7F
+w32 0094DAF8 7F7F7F7F
+
+name: 9 Lives
+mode: once
+w32 0094DB40 00000009
+
+name: 999 Coins
+mode: once
+w32 0094DB44 000003E7

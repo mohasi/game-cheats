@@ -1,0 +1,58 @@
+# Need for Speed: Most Wanted
+
+name: Max Nitro
+mode: once
+w32 0025B4C4 FC22DEEE
+
+name: Infinite Nitro
+mode: once
+w32 0025C024 60000000
+
+name: Max SP
+mode: once
+w32 002E4958 3FC03B9A
+w32 002E495C 63DEC9FF
+
+name: Max And Infinite Nitro
+mode: once
+w32 0025BB74 FC20E090
+
+name: Max And Infinite Nitro v2
+mode: once
+w32 0025BEF0 60000000
+
+name: Max Nitro On Gain
+mode: once
+w32 0025B178 FC20E090
+w32 0025B2B0 FC20E090
+w32 0025B4C8 FC20E090
+w32 0025B59C FC20E018
+w32 0025B61C FC20E090
+w32 0025B7E4 FC20E090
+w32 0025B9A8 FC20E090
+w32 0025CA90 FCA02090
+w32 0025CB34 FCA02090
+
+name: Heat Level Always Low And Instantly Evade Pursuit On Cooldown
+mode: once
+w32 0029239C C03F03B0
+
+name: Instantly Evade Pursuit On Cooldown
+mode: once
+w32 0029659C FC201090
+
+name: Police Can Never Arrest You
+mode: once
+w32 002369EC FC201890
+
+name: Max Speed Points (Ranking) On Gain
+mode: once
+w32 002E4940 7CA62B78
+
+name: AoB Max Smash And Grab Score Points On Gain
+mode: once
+aob 807F121C7C63E814 3C6000016063869F
+
+name: AoB Max Drifting Banked Points On Gain
+mode: once
+aob 80DE13047C6320143C80BF807CC61814 3CC000017C6320143C80BF8060C6869F

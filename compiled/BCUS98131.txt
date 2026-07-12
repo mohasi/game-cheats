@@ -1,0 +1,64 @@
+# Genji: Days of the Blade
+
+name: Max Mashogane Fragments
+mode: once
+w32 002718BC 916A0700
+
+name: Max Essence Of Amahagane
+mode: once
+w32 00271914 60000000
+
+name: Upgrade For Max HP
+mode: once
+w32 00271914 3800270F
+
+name: Upgrade For Max Kamui
+mode: once
+w32 0026EB3C 380003E8
+
+name: Gain 99 Items On Pickup
+mode: once
+w32 00271814 60000000
+w32 0026EF4C 60000000
+
+name: AoB Max Mashogane Fragments
+mode: once
+aob 912A0700409D0008916A0700 916A0700409D0008916A0700
+
+name: AoB Get Max Essence Of Amahagane
+mode: once
+aob B0090704409D000C380003E7 B009070460000000380003E7
+
+name: AoB Max Hp Upon Upgrading (9,999)
+mode: once
+aob 780004202B80270FB00B0002 3800270F2B80270FB00B0002
+
+name: AoB Max Out Kamui Upon Upgrading (1,000)
+mode: once
+aob 780004202B8003E8B00B000C 380003E82B8003E8B00B000C
+
+name: AoB Max Item Upon Picking Up
+mode: once
+aob B0070002409D000C38000063 B00700026000000038000063
+aob 409D000C38000063B01E0002 6000000038000063B01E0002
+
+name: Max Mashogane Fragments
+mode: once
+w32 00263DEC 916A0700
+
+name: Max Essence Of Amahagane
+mode: once
+w32 00263E44 60000000
+
+name: Upgrade For Max HP
+mode: once
+w32 00261124 3800270F
+
+name: Upgrade For Max Kamui
+mode: once
+w32 00261260 380003E8
+
+name: Gain 99 Items On Pickup
+mode: once
+w32 00263D44 60000000
+w32 00261534 60000000

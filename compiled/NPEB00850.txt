@@ -1,0 +1,17 @@
+# L.A. Noire
+
+name: Intuition Points Never Decrease
+mode: once
+w32 008B9604 39290000
+
+name: AoB Intuition Points Never Decrease
+mode: once
+aob 3929FFFF9803000891230028 392900009803000891230028
+
+name: Infinite Intuition Power
+mode: once
+w32 31F34668 70000000
+
+name: Intuition Points Never Decrease
+mode: once
+w32 008B97DC 39290000

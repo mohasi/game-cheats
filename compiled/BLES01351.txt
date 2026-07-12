@@ -1,0 +1,68 @@
+# X-Men: Destiny
+
+name: Memory Infinite Health
+mode: once
+w32 104E1FC4 42C00000
+w32 114E07C4 42C00000
+w32 114E13A8 00000064
+w32 11DB4E64 0000014D
+
+name: ASM Infinite Health
+mode: once
+w32 002D2E20 60000000
+
+name: Memory Lot Of Upgrade Points On Gain
+mode: once
+w32 11E6CDA0 00000989
+
+name: ASM Lot Of Upgrade Points On Gain
+mode: once
+w32 00244108 91430020
+
+name: ASM Lot Of Upgrade Points On Buy
+mode: once
+w32 00244548 91830020
+
+name: Invincibility
+mode: once
+w32 000BD32C 38600001
+w32 000BD330 907D07CC
+
+name: 2 Hit Kill
+mode: once
+w32 012831C0 28030001
+w32 012831C4 40820010
+w32 012831C8 3C603F80
+w32 012831CC 906407C4
+w32 012831D0 C02407C4
+w32 012831D4 480F405E
+w32 000F4058 492831C2
+
+name: Max Xp On Gain
+mode: once
+w32 00246A18 3C6005F5
+w32 00246A1C 6063E0FF
+w32 00246A20 907F0094
+
+name: Infinite Health
+mode: once
+w32 001DF6F4 D05D07C4
+
+name: Infinite M-Power
+mode: once
+w32 001DF7E4 D043000C
+
+name: Health Instantly Recovers
+mode: once
+w32 0008EF44 60000000
+w32 0008EF68 FC20F890
+
+name: 2 Hit Kill
+mode: once
+w32 012679A0 28030001
+w32 012679A4 40820010
+w32 012679A8 3C603F80
+w32 012679AC 906407C4
+w32 012679B0 C02407C4
+w32 012679B4 480F405E
+w32 000F4058 492679A2

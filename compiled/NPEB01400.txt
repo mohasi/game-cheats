@@ -1,0 +1,9 @@
+# Arcania: The Complete Tale
+
+name: Infinite Items
+mode: once
+w32 0077EA5C 30630000
+
+name: AoB Infinite Items
+mode: once
+aob 3063FFFF907F00242C03000041820040 30630000907F00242C03000041820040

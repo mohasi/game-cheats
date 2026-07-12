@@ -1,0 +1,33 @@
+# The House of the Dead Overkill: Extended Cut
+
+name: The House Of The Dead Overkill: ASM Infinite Ammo + No Reload
+mode: once
+w32 003ABFE8 60000000
+
+name: The House Of The Dead Overkill: ASM Infinite Health
+mode: once
+w32 00397724 60000000
+
+name: The House Of The Dead Overkill: Memory Lot + Infinite Money After 1 Kill
+mode: once
+w32 3969ECC8 0098967F
+
+name: The House Of The Dead Overkill: ASM Lot + Infinite Money After 1 Kill
+mode: once
+w32 003A6654 91850000
+
+name: The House Of The Dead Overkill: Infinite Ammo + No Reload
+mode: once
+w32 003ABFE8 60000000
+
+name: The House Of The Dead Overkill: Infinite Health
+mode: once
+w32 00397724 60000000
+
+name: The House Of The Dead Overkill Director's Cut: Infinite Ammo No Reload
+mode: once
+w16 003ABFFE 0000
+
+name: The House Of The Dead Overkill Director's Cut: Money 99999999
+mode: once
+w32 3969F0F8 05F5E0FF

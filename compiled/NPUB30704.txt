@@ -1,0 +1,37 @@
+# Grand Theft Auto: Episodes from Liberty City
+
+name: Grand Theft Auto IV Episodes From Liberty City: Invincible Mode
+mode: once
+w32 0066C550 419EFF40
+
+name: Grand Theft Auto IV Episodes From Liberty City: Invincible Mode
+mode: once
+w32 0066EC98 419EFF40
+
+name: Grand Theft Auto IV Episodes From Liberty City: No Police
+mode: once
+w32 011076C8 00000000
+
+name: Grand Theft Auto IV Episodes From Liberty City: AoB Invincible Mode
+mode: once
+aob 409EFF404089034C812100A43B60000039E00000827E8078 419EFF404089034C812100A43B60000039E00000827E8078
+
+name: Grand Theft Auto IV Episodes From Liberty City: AoB No Police
+mode: once
+aob 42C8000000000000017AF34000F068F000F069003F4CCCCD00000000017609683C8EFA3600000000 0000000000000000017AF34000F068F000F069003F4CCCCD00000000017609683C8EFA3600000000
+
+name: Grand Theft Auto IV Episodes From Liberty City: AoB 1,000 Hit Kill Ammo
+mode: once
+aob 3C003F809001007890010070900100744BFFF089E80100A0382100907C0803A6 3C00447A9001007890010070900100744BFFF089E80100A0382100907C0803A6
+
+name: Grand Theft Auto IV Episodes From Liberty City: AoB Rapid Fire
+mode: once
+aob 3D203F80394000003900FFFF3800004080FE8014 3D2042C8394000003900FFFF3800004080FE8014
+
+name: Grand Theft Auto IV Episodes From Liberty City: Invincible Mode
+mode: once
+w32 0066BD58 419EFF40
+
+name: Grand Theft Auto IV Episodes From Liberty City: Invincible Mode
+mode: once
+w32 0066D520 419EFF40

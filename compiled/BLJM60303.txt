@@ -1,0 +1,21 @@
+# Hokuto Musou International
+
+name: Play Time 999:59
+mode: once
+w32 0024E624 7CA32B78
+
+name: Skill Power 9999 After Battle
+mode: once
+w32 000E5FDC 7CA32B78
+
+name: Life Max After Battle
+mode: once
+w32 000E5FF4 7CA32B78
+
+name: Attack Max After Battle
+mode: once
+w32 000E6010 7CA32B78
+
+name: Defense Max After Battle
+mode: once
+w32 000E602C 7CA32B78

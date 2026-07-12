@@ -1,0 +1,58 @@
+# Metal Gear Solid: The Legacy Collection 1987-2012 (Disc 1)
+
+name: Metal Gear Solid 2 Sons Of Liberty: No Enemy Mode
+mode: once
+w8 005CBC11 40
+
+name: Metal Gear Solid 2 Sons Of Liberty: Rapid Fire
+mode: once
+w8 00802F9C 00
+
+name: Metal Gear Solid 2 Sons Of Liberty: Alert Disable
+mode: once
+w8 005481E3 40
+
+name: Metal Gear Solid 2 Sons Of Liberty: Invincible Mode
+mode: once
+w8 0080B38B 00
+
+name: Metal Gear Solid 2 Sons Of Liberty: AoB No Enemy Mode
+mode: once
+aob 4080018145600065483DC8F9600000002C814500004181452C483DB99560000000 4180018145600065483DC8F9600000002C814500004181452C483DB99560000000
+
+name: Metal Gear Solid 2 Sons Of Liberty: AoB Rapid Fire
+mode: once
+aob 390000013BA0000081450A7893BF0A7C29814500018016000081450A 390000003BA0000081450A7893BF0A7C29814500018016000081450A
+
+name: Metal Gear Solid 2 Sons Of Liberty: AoB Alert Disable
+mode: once
+aob 4180E5B07B3F002038600400814500204871BCF9 4080E5B07B3F002038600400814500204871BCF9
+
+name: Metal Gear Solid 2 Sons Of Liberty: AoB Invincible Mode
+mode: once
+aob 38C000017FA381458145000048124B7D600000007FA381457E4493787B7B0020 38C000007FA381458145000048124B7D600000007FA381457E4493787B7B0020
+
+name: Metal Gear Solid 3 Snake Eater: Alert Disable
+mode: once
+w8 006FBFDF 40
+
+name: Metal Gear Solid 3 Snake Eater: No Hit Fire
+mode: once
+w32 011D0B54 00000000
+
+name: Metal Gear Solid 3 Snake Eater: AoB Alert Disable
+mode: once
+aob 418145A48BB700307FBC07742C1C000040814560 408145A48BB700307FBC07742C1C000040814560
+
+name: Metal Gear Solid 3 Snake Eater: AoB No Hit Fire
+mode: once
+aob 447A000042BE000042DC000042C8000042814500004334000042A000 0000000042BE000042DC000042C8000042814500004334000042A000
+
+name: Metal Gear Solid Peacewalker: Camouflage 100%
+mode: once
+w32 005C2FFC 2C0603E8
+w32 005C3004 38C003E8
+
+name: Metal Gear Solid Peacewalker: AoB Camouflage 100%
+mode: once
+aob 2C06FC184080000838C0FC182C0603E840810008 2C06FC184080000838C003E82C0603E840810008

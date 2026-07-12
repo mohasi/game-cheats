@@ -1,0 +1,34 @@
+# Raystorm HD
+
+name: RayStorm: Infinite Player Stock
+mode: once
+w16 00BB4324 0005
+
+name: RayStorm: 99,999,999 Score
+mode: once
+w32 31A631F0 0098967F
+
+name: RayStorm: Memory Infinite Credits
+mode: once
+w32 00984FD0 34000000
+
+name: RayStorm: ASM Infinite Credits
+mode: once
+w32 0013FACC 30E30000
+
+name: RayStorm: Memory Easy High Score
+mode: once
+w32 31A631F0 00003530
+
+name: RayStorm: ASM Easy High Score
+mode: once
+w32 000148E4 60000000
+
+name: RayStorm: Memory Infinite Life
+mode: once
+w32 00BB4324 00030000
+
+name: RayStorm: ASM Infinite Life
+mode: once
+w32 00270F30 30630000
+w32 00270F34 B07F0070

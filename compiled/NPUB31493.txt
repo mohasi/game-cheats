@@ -1,0 +1,31 @@
+# Blood of the Werewolf
+
+name: Memory Infinite Health
+mode: once
+w32 374A212C 42C80000
+
+name: ASM Infinite Health
+mode: once
+w32 00871894 60000000
+w32 008C7B78 809C0210
+w32 008C7B7C A0010086
+w32 008C7B80 7C7F2214
+w32 008C7B8C 83A90000
+w32 008C7B90 7F9EFA14
+w32 008C7B98 C0030000
+w32 008C7B9C FC00F800
+w32 008C7BA4 60000000
+w32 008C7BB8 FB8100A8
+w32 008C7BC0 FBE100C0
+
+name: Memory Lot Of Exp + Max Health On Gain
+mode: once
+w32 365B8C50 41700000
+
+name: ASM Lot Of Exp + Max Health On Gain
+mode: once
+w32 0081F024 D0860000
+
+name: Memory Unknown Code 1
+mode: once
+w32 3881CCB8 0001BA80

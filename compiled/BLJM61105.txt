@@ -1,0 +1,38 @@
+# Akiba's Trip 2
+
+name: Akiba's Trip 2 Undead And Undressed: Max Gold On Change
+mode: once
+w32 000D52C8 60000000
+
+name: Akiba's Trip 2 Undead And Undressed: Items Do Not Decrease When Exiting The Item Use Screen
+mode: once
+w32 000E1C48 60000000
+w32 000E1C4C 7CE43B78
+
+name: Akiba's Trip 2 Undead And Undressed: Very High Weapon ATK
+mode: once
+w32 000DF7B0 3C80000F
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Experience
+mode: once
+w32 0061D40C 05F5E0FF
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Base Attack (Use After Max Level to keep the value)
+mode: once
+w32 0061D408 000F423F
+
+name: Akiba's Trip 2 Undead And Undressed: Max Character Base Defense (Use After Max Level to keep the value)
+mode: once
+w32 0061D404 000F423F
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Max Gold On Change
+mode: once
+aob 4081000860830000606400003FE00061 6000000060830000606400003FE00061
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Items Do Not Decrease When Exiting The Item Use Screen
+mode: once
+aob 408100147C8438107C83312E38600001 600000007CE43B787C83312E38600001
+
+name: Akiba's Trip 2 Undead And Undressed: AoB Very High Weapon ATK
+mode: once
+aob 8081011C80A101203BC0000180C10124 3C80000F80A101203BC0000180C10124

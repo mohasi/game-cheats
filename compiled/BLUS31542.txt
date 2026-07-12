@@ -1,0 +1,9 @@
+# NBA 2K16
+
+name: Memory Lot + Infinite CP When Buy Skill
+mode: once
+w32 313753E4 00000065
+
+name: ASM Lot + Infinite CP When Buy Skill
+mode: once
+w32 00824FB4 90430164

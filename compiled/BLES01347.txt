@@ -1,0 +1,5 @@
+# Warhammer 40000: Space Marine
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 0003F970 60000000

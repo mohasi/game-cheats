@@ -1,0 +1,18 @@
+# Star Wars: The Force Unleashed
+
+name: Infinite Health
+mode: once
+w32 006C1C7C D0030004
+
+name: Infinite Force
+mode: once
+w32 007F0874 C2A30008
+w32 007F0878 D2A30004
+
+name: AoB Infinite Health
+mode: once
+aob 60000000C0025010FF810000409DFE78 D0030004C0025010FF810000409DFE78
+
+name: AoB Infinite Force
+mode: once
+aob 7FA3EB78FEA00890 C2A30008D2A30004

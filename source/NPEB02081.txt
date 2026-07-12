@@ -1,0 +1,21 @@
+# Geometry Wars 3: Dimensions Evolved
+
+name: Geometry Wars 3 Dimensions: Unlimited Life
+mode: once
+w32 0074C300 10000000
+
+name: Geometry Wars 3 Dimensions: Max Score
+mode: once
+w32 0074C2FC 10124F80
+w32 0074CE44 10124F80
+
+name: Geometry Wars 3 Dimensions: Max Multiplier
+mode: once
+w32 0074C34C 10000025
+w32 0074C350 10000025
+w32 0074C36C 10000025
+w32 0074CE48 10000025
+
+name: Geometry Wars 3 Dimensions: Bomb
+mode: once
+w32 0074C304 10006004

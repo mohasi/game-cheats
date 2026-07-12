@@ -1,0 +1,54 @@
+# Soldner-X - Himmelssturmer
+
+name: Lives Never Decrease
+mode: once
+w32 0005C548 60000000
+
+name: Infinite Health
+mode: once
+w32 0005C5C8 60C50000
+
+name: Invincibility
+mode: once
+w32 0005CF44 38C00001
+
+name: Infinite Weapon Energy
+mode: once
+w32 0005CB44 48000008
+w32 0005CD14 38600400
+w32 0005D650 60000000
+
+name: Infinite Shockwave Bombs
+mode: once
+w32 00069B8C 60000000
+
+name: Easy Chain
+mode: once
+w32 0005D4C0 38601000
+w32 0005D4CC 38601000
+
+name: AoB Lives Never Decrease
+mode: once
+aob 30C6FFFF2C060000 600000002C060000
+
+name: AoB Infinite Health
+mode: once
+aob 7CA628142C0600CD 60C500002C0600CD
+
+name: AoB Invincibility
+mode: once
+aob 38C0000090DF0098 38C0000190DF0098
+
+name: AoB Infinite Weapon Energy
+mode: once
+aob 418100086064000078833664 480000086064000078833664
+aob 7C6428142C040000 386004002C040000
+aob 3084FFFF90850018 6000000090850018
+
+name: AoB Infinite Shockwave Bombs
+mode: once
+aob 9883012990A300D4 6000000090A300D4
+
+name: AoB Easy Chain
+mode: once
+aob 807E00AC7C6418144800000C807E00B0 386010007C6418144800000C38601000

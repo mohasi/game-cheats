@@ -1,0 +1,33 @@
+# Medal of Honor: Frontline
+
+name: Infinite HP
+mode: once
+w32 034FD588 00000064
+
+name: Infinite Ammo And Never Need To Reload
+mode: once
+w32 000D1308 30840000
+
+name: Infinite Health
+mode: once
+w32 000C8E04 93FE07D4
+w32 000CA200 935E0830
+w32 000E9BE0 D03E00B0
+w32 00113FE0 60000000
+w32 00113FE8 7CD0192E
+
+name: Infinite Ammo And Never Need To Reload
+mode: once
+w32 000D11B8 30840000
+
+name: Infinite Health
+mode: once
+w32 000C8CB4 93FE07D4
+w32 000CA0B0 935E0830
+w32 000E8CD0 D03E00B0
+w32 00113E90 60000000
+w32 00113E98 7CD0192E
+
+name: Memory Infinite HP
+mode: once
+w32 034FD588 00000064

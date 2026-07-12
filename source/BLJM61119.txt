@@ -1,0 +1,9 @@
+# Winning Post 8
+
+name: 99 Amulets After Change
+mode: once
+w32 001163C0 3BC00063
+
+name: AoB 99 Amulets After Change
+mode: once
+aob 7C9E23782B040063419D00084099001C 3BC000632B040063419D00084099001C

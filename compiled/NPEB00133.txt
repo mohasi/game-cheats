@@ -1,0 +1,23 @@
+# Matt Hazard - Blood Bath and Beyond
+
+name: ASM Infinite Life + Continues
+mode: once
+w32 00217924 60000000
+
+name: ASM Infinite Ammo + Grenades
+mode: once
+w32 00531488 60000000
+
+name: ASM Time Never Increases
+mode: once
+w32 002F51A8 60000000
+w32 002F51AC 60000000
+
+name: ASM Big Score On Gain
+mode: once
+w32 00217ABC D30B0000
+
+name: Matt Hazard: Unknown Memory Code 1
+mode: once
+w16 311CDC26 7E40
+w16 311CDC2E 2350

@@ -1,0 +1,17 @@
+# Bladestorm: The Hundred Years' War
+
+name: Money
+mode: once
+w32 00072A18 409D0008
+
+name: AP
+mode: once
+w32 000F05F8 409D0134
+
+name: Exp
+mode: once
+w32 001D8348 409D007C
+
+name: Combo
+mode: once
+w32 000FC334 3940270F

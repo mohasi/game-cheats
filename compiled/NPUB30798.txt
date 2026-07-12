@@ -1,0 +1,34 @@
+# NiGHTS into dreams…
+
+name: Memory Infinite Time
+mode: once
+w8 3512C877 C8
+
+name: ASM Infinite Time
+mode: once
+w32 002E51A8 38090000
+
+name: Memory Infinite Blue Orbs
+mode: once
+w8 3512C86F 63
+
+name: ASM Infinite Blue Orbs
+mode: once
+w32 002E5208 901E001C
+
+name: Memory Infinite Health
+mode: once
+w16 3512D376 0003
+w16 3512D37E 270F
+w16 3512D386 270F
+w16 3512D38E 270F
+
+name: ASM Infinite Health
+mode: once
+w32 002E7A94 90290004
+
+name: Memory Infinite Boost
+mode: once
+w16 3558DF10 43BE
+w16 3558DF20 43BE
+w16 3558DFC4 3F80

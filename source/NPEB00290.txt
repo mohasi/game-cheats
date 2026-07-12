@@ -1,0 +1,13 @@
+# Modern Combat - Domination
+
+name: Infinite Grenades (Buy At Loadout Screen)
+mode: once
+w32 00052B28 60000000
+
+name: Infinite Ammo
+mode: once
+w32 002569B0 60000000
+
+name: Dumb Enemy AI
+mode: once
+w32 000506AC 60000000

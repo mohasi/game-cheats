@@ -1,0 +1,75 @@
+# Legend of Heroes, The - Trails of Cold Steel II
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Max And Infinite CP
+mode: once
+w32 00067174 B0BE02D8
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Max And Infinite Sepith
+mode: once
+w32 00227958 3C600001
+w32 0022795C 6063869F
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Max Mira On Sell
+mode: once
+w32 002279A8 40810008
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Cut Sepith Cost On Exchange
+mode: once
+w32 00227968 60000000
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Max And Infinite EP
+mode: once
+w32 0006E2B8 B0BE02D4
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: No Reduce Brave Points
+mode: once
+w32 002F82DC 38800005
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Increase Item Counts By 1 By Using Them
+mode: once
+w32 0021F8D0 7CA42B78
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Permanent Buffs
+mode: once
+w32 000949E8 30630000
+
+name: The Legend Of Heroes Trail Of Cold Steel 2: Infinite Fishing Bait
+mode: once
+w32 0023DB14 30860000
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Max And Infinite CP
+mode: once
+w32 00067174 B0BE02D8
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Max And Infinite Sepith
+mode: once
+w32 00227958 3C600001
+w32 0022795C 6063869F
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Max Mira On Sell
+mode: once
+w32 002279A8 40810008
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Cut Sepith Cost On Exchange
+mode: once
+w32 00227968 60000000
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Max And Infinite EP
+mode: once
+w32 0006E2B8 B0BE02D4
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: No Reduce Brave Points
+mode: once
+w32 002F82DC 38800005
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Increase Item Counts By 1 By Using Them
+mode: once
+w32 0021F8D0 7CA42B78
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Permanent Buffs
+mode: once
+w32 000949E8 30630000
+
+name: The Legend Of Heroes Trails Of Cold Steel 2: Infinite Fishing Bait
+mode: once
+w32 0023DB14 30860000

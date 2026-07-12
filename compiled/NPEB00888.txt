@@ -1,0 +1,79 @@
+# Saints Row: The Third
+
+name: Max Money On Gain + Sell
+mode: once
+w32 00467B74 60000000
+
+name: Max And Infinite Health
+mode: once
+w32 0016C6FC D0241C98
+
+name: Infinite Health v2
+mode: once
+w32 00598CC8 D0231C98
+
+name: Infinite Ammo And No Reload
+mode: once
+w32 007F94EC 38A00000
+w32 007F95A4 38A00000
+
+name: Infinite Ammo In Inventory After Reloading
+mode: once
+w32 0038A7A4 80DC0004
+
+name: Infinite Drone Missiles, Grenades, Molotovs, Fart In A Far And Electric Grenades
+mode: once
+w32 0038A600 7CA62B78
+
+name: Infinite Shock Hammer Ammo (Clipless)
+mode: once
+w32 005B40D0 60000000
+
+name: No Overheat For Machine Guns, Viper Laser Rifle And S3X Hammer
+mode: once
+w32 007F85C4 60000000
+
+name: Max And Infinite Money On Gain
+mode: once
+w32 0041FAB4 48000020
+
+name: Max Respect Points On Gain
+mode: once
+w32 00124AF8 60000000
+
+name: AoB Max And Infinite Health
+mode: once
+aob FFE00818C0241C98 D0241C98C0241C98
+
+name: AoB Infinite Health v2
+mode: once
+aob FC2308AED0243D88 D0231C98D0243D88
+
+name: AoB Infinite Ammo And No Reload
+mode: once
+aob 809D0000A0B8011A638300007C852010909D0000 809D000038A00000638300007C852010909D0000
+aob 809D0000A0B8011A638300007C852010909D0000 809D000038A00000638300007C852010909D0000
+
+name: AoB Infinite Ammo In Inventory After Reloading
+mode: once
+aob 7CC330102C040000 80DC00042C040000
+
+name: AoB Infinite Drone Missiles, Grenades, Molotovs, Fart In A Far And Electric Grenades
+mode: once
+aob 7CC4281080A30008 7CA62B7880A30008
+
+name: AoB Infinite Shock Hammer Ammo (Clipless)
+mode: once
+aob 3063FFFF2C030000907B01F04082001463E30000 600000002C030000907B01F04082001463E30000
+
+name: AoB No Overheat For Machine Guns, Viper Laser Rifle And S3X Hammer
+mode: once
+aob 418600145463D7FE 600000005463D7FE
+
+name: AoB Max And Infinite Money On Gain
+mode: once
+aob 418100203CA088CA60A56C00 480000203CA088CA60A56C00
+
+name: AoB Max Respect Points On Gain
+mode: once
+aob 4180000C7C64F010 600000007C64F010

@@ -1,0 +1,191 @@
+# DreamWorks Rise of the Guardians
+
+name: Die Hüter Des Lichts: Memory Infinite Sand Of Dreams
+mode: once
+w32 002BB68C 00060000
+w32 002BB6A8 00060000
+
+name: Die Hüter Des Lichts: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DA8 60000000
+w32 00087DD4 60000000
+
+name: Die Hüter Des Lichts: Memory Infinite Magic
+mode: once
+w32 31253408 00000168
+w32 312534B0 00000168
+
+name: Die Hüter Des Lichts: ASM Infinite Magic
+mode: once
+w32 000523F4 901F00E8
+w32 0003F8B0 60000000
+w32 0003F898 7C802010
+
+name: Die Hüter Des Lichts: Memory Instant Health Regeneration
+mode: once
+w32 312502FC 000000B0
+
+name: Die Hüter Des Lichts: ASM Instant Health Regeneration
+mode: once
+w32 00165000 7C692014
+
+name: El Origen De Los Guardianes: Memory Infinite Sand Of Dreams
+mode: once
+w32 002BB68C 00060000
+w32 002BB6A8 00060000
+
+name: El Origen De Los Guardianes: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DA8 60000000
+w32 00087DD4 60000000
+
+name: El Origen De Los Guardianes: Memory Infinite Magic
+mode: once
+w32 31253408 00000168
+w32 312534B0 00000168
+
+name: El Origen De Los Guardianes: ASM Infinite Magic
+mode: once
+w32 000523F4 901F00E8
+w32 0003F8B0 60000000
+w32 0003F898 7C802010
+
+name: El Origen De Los Guardianes: Memory Instant Health Regeneration
+mode: once
+w32 312502FC 000000B0
+
+name: El Origen De Los Guardianes: ASM Instant Health Regeneration
+mode: once
+w32 00165000 7C692014
+
+name: El Origen De Los Guardianes: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DB0 60000000
+w32 00087DB8 60000000
+
+name: El Origen De Los Guardianes: ASM Infinite Magic
+mode: once
+w32 0003F898 7C802010
+w32 0003F8B0 60000000
+w32 000523F4 901F00E8
+
+name: El Origen De Los Guardianes: ASM Instant Health Regeneration
+mode: once
+w32 00165010 7C692014
+
+name: Le 5 Leggende: Memory Infinite Sand Of Dreams
+mode: once
+w32 002BB68C 00060000
+w32 002BB6A8 00060000
+
+name: Le 5 Leggende: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DA8 60000000
+w32 00087DD4 60000000
+
+name: Le 5 Leggende: Memory Infinite Magic
+mode: once
+w32 31253408 00000168
+w32 312534B0 00000168
+
+name: Le 5 Leggende: ASM Infinite Magic
+mode: once
+w32 000523F4 901F00E8
+w32 0003F8B0 60000000
+w32 0003F898 7C802010
+
+name: Le 5 Leggende: Memory Instant Health Regeneration
+mode: once
+w32 312502FC 000000B0
+
+name: Le 5 Leggende: ASM Instant Health Regeneration
+mode: once
+w32 00165000 7C692014
+
+name: Les Cinq Légendes: Memory Infinite Sand Of Dreams
+mode: once
+w32 002BB68C 00060000
+w32 002BB6A8 00060000
+
+name: Les Cinq Légendes: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DA8 60000000
+w32 00087DD4 60000000
+
+name: Les Cinq Légendes: Memory Infinite Magic
+mode: once
+w32 31253408 00000168
+w32 312534B0 00000168
+
+name: Les Cinq Légendes: ASM Infinite Magic
+mode: once
+w32 000523F4 901F00E8
+w32 0003F8B0 60000000
+w32 0003F898 7C802010
+
+name: Les Cinq Légendes: Memory Instant Health Regeneration
+mode: once
+w32 312502FC 000000B0
+
+name: Les Cinq Légendes: ASM Instant Health Regeneration
+mode: once
+w32 00165000 7C692014
+
+name: Les Cinq Légendes: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DB0 60000000
+w32 00087DB8 60000000
+
+name: Les Cinq Légendes: ASM Infinite Magic
+mode: once
+w32 0003F898 7C802010
+w32 0003F8B0 60000000
+w32 000523F4 901F00E8
+
+name: Les Cinq Légendes: ASM Instant Health Regeneration
+mode: once
+w32 00165010 7C692014
+
+name: Rise Of The Guardians: Memory Infinite Sand Of Dreams
+mode: once
+w32 002BB68C 00060000
+w32 002BB6A8 00060000
+
+name: Rise Of The Guardians: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DA8 60000000
+w32 00087DD4 60000000
+
+name: Rise Of The Guardians: Memory Infinite Magic
+mode: once
+w32 31253408 00000168
+w32 312534B0 00000168
+
+name: Rise Of The Guardians: ASM Infinite Magic
+mode: once
+w32 000523F4 901F00E8
+w32 0003F8B0 60000000
+w32 0003F898 7C802010
+
+name: Rise Of The Guardians: Memory Instant Health Regeneration
+mode: once
+w32 312502FC 000000B0
+
+name: Rise Of The Guardians: ASM Instant Health Regeneration
+mode: once
+w32 00165000 7C692014
+
+name: Rise Of The Guardians: ASM Infinite Magic
+mode: once
+w32 0003F898 7C802010
+w32 0003F8B0 60000000
+w32 000523F4 901F00E8
+
+name: Rise Of The Guardians: ASM Infinite Sand Of Dreams
+mode: once
+w32 00087DB0 60000000
+w32 00087DB8 60000000
+
+name: Rise Of The Guardians: ASM Instant Health Regeneration
+mode: once
+w32 00165010 7C692014

@@ -1,0 +1,33 @@
+# Mass Effect 2
+
+name: Max And Infinite Health And Resources
+mode: once
+w32 00071918 FC201090
+
+name: Max And Infinite Ammo On Reload
+mode: once
+w32 0006E0A4 386003E7
+
+name: No Cooldown Timer For Meds And Tech
+mode: once
+w32 00A7A240 FC400890
+
+name: Infinite Squad Points
+mode: once
+w32 0006DF08 38600000
+
+name: AoB Max And Infinite Health And Resources
+mode: once
+aob FC2308AED03E0000 FC201090D03E0000
+
+name: AoB Max And Infinite Ammo On Reload
+mode: once
+aob 7C641810907C0000 386003E7907C0000
+
+name: AoB No Cooldown Timer For Meds And Tech
+mode: once
+aob EC42F828FC020800D05E0064 FC400890FC020800D05E0064
+
+name: AoB Infinite Squad Points
+mode: once
+aob 7C632014907C0000 38600000907C0000

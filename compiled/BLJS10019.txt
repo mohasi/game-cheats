@@ -1,0 +1,33 @@
+# Haze
+
+name: No Reload
+mode: once
+w32 00338544 38000063
+
+name: Infinite Ammo + Grenades + Nectar
+mode: once
+w32 00395864 3960044A
+
+name: Invincibility
+mode: once
+w32 0005328C 60000000
+
+name: AoB No Reload
+mode: once
+aob 817C00007C1B0050 817C000038000063
+
+name: AoB Infinite Ammo + Grenades + Nectar
+mode: once
+aob 7F8320007D641850 7F8320003960044A
+
+name: AoB Invincibility
+mode: once
+aob 801F0124D19F0110 801F012460000000
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 007411A8 38600001
+w32 00742D10 38600001
+w32 00E4E36C 3D4CCCCD
+w32 00E4E364 3D03D70A
+w32 0068D1B8 60000000

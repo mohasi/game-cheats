@@ -1,0 +1,43 @@
+# Stealth Inc. 2
+
+name: Stealth Inc 2 A Game Of Clones: Always Not Visible
+mode: once
+w32 000CD738 38800000
+w32 000CD830 38800000
+
+name: Stealth Inc 2 A Game Of Clones: Never Fully Visible
+mode: once
+w32 000CD738 38800001
+
+name: Stealth Inc 2 A Game Of Clones: Freeze Time
+mode: once
+w32 0002AA74 4800000C
+
+name: Stealth Inc 2 A Game Of Clones: 0 Deaths
+mode: once
+w32 0002B38C 38C00000
+
+name: Stealth Inc 2 A Game Of Clones: 0 Spotted
+mode: once
+w32 0002B500 38800000
+
+name: Stealth Inc 2 A Game Of Clones: AoB Always Not Visible
+mode: once
+aob 38800002FC220FEE 38800000FC220FEE
+aob 3880000130C3C5E8 3880000030C3C5E8
+
+name: Stealth Inc 2 A Game Of Clones: AoB Never Fully Visible
+mode: once
+aob 38800002FC220FEE 38800001FC220FEE
+
+name: Stealth Inc 2 A Game Of Clones: AoB Freeze Time
+mode: once
+aob 4182000CEC22F82AD03E0008 4800000CEC22F82AD03E0008
+
+name: Stealth Inc 2 A Game Of Clones: AoB 0 Deaths
+mode: once
+aob 30C6000190850040 38C0000090850040
+
+name: Stealth Inc 2 A Game Of Clones: AoB 0 Spotted
+mode: once
+aob 3084000190830004 3880000090830004

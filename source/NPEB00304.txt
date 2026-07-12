@@ -1,0 +1,49 @@
+# Sonic Adventure
+
+name: Sonic Adventure DX Director's Cut: Memory 999 Rings On Gain
+mode: once
+w16 04EFFDEC 03E7
+
+name: Sonic Adventure DX Director's Cut: ASM 999 Rings On Gain
+mode: once
+w32 0018F640 A0490000
+w32 0018F670 60000000
+w32 002159D8 B0270000
+
+name: Sonic Adventure DX Director's Cut: Memory Max + Infinite Life
+mode: once
+w8 04EFFDE8 64
+
+name: Sonic Adventure DX Director's Cut: Memory Freeze Timer
+mode: once
+w32 00215710 39290000
+
+name: 9 Lives
+mode: once
+w32 04EFFDE8 00000009
+
+name: 999 Coins
+mode: once
+w32 04EFFDEC 000003E7
+
+name: Character Is Sonic (Change when loaded new map)
+mode: once
+w32 04EF5CD4 00000000
+
+name: ASM 999 Rings On Gain(probably works-Stinger101)
+mode: once
+w32 0018F640 A0490000
+w32 0018F670 60000000
+w32 002159D8 B0270000
+
+name: ASM Freeze Timer(tested/working)
+mode: once
+w32 00215710 39290000
+
+name: 9 Lives(value padding fixed)
+mode: once
+w32 04EFFDE8 09000000
+
+name: 999 Coins(value padding fixed)
+mode: once
+w32 04EFFDEC 03E70000

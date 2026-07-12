@@ -1,0 +1,102 @@
+# Call of Duty: Black Ops
+
+name: Infinite Health
+mode: once
+w32 007DD620 82E91A20
+w32 007DD624 2C970001
+w32 007DD628 40820004
+w32 007DD62C 38002710
+w32 007DD630 901D0184
+w32 007DD634 901D0188
+w32 007DD638 4BA72DF4
+w32 00250428 4858D1F8
+
+name: Invincible Again Melee Attack (Zombie Mode)
+mode: once
+w32 0020D898 60000000
+
+name: Infinite Ammo
+mode: once
+w32 00A22580 386003E7
+w32 00A22584 907F0004
+w32 00A22588 4B67FE00
+w32 000A2384 489801FC
+
+name: Infinite Ammo-No Reload + Infinite Grenades
+mode: once
+w32 000A1864 48000004
+
+name: Infinite Ammo-No Reload + Infinite Grenades Launcher
+mode: once
+w32 00099320 48000010
+w32 0009933C 60000000
+
+name: Infinite Ammo-No Reload For Launcher
+mode: once
+w32 000A18BC 60000000
+
+name: Improved Accuracy
+mode: once
+w32 00090DE8 38000000
+w32 00090DEC 901F052C
+w32 00090D2C 38000000
+w32 00090D30 901F052C
+w32 00090DE8 38000000
+w32 00090DEC 901F052C
+w32 00090D2C 38000000
+w32 00090D30 901F052C
+w32 0024FC28 60000000
+w32 000994B8 60000000
+w32 0009CAF0 60000000
+w32 0009DB10 60000000
+w32 0006AE88 60000000
+w32 0006AE90 60000000
+
+name: Max Score On Gain Zombie Mode
+mode: once
+w32 0025A504 3FA03B9A
+w32 0025A534 63BDC9FF
+
+name: Max Total Kills-Headshoots Zombie Mode (Result)
+mode: once
+w32 00592350 91AC0000
+
+name: Infinite Ammo
+mode: once
+w32 010DB850 000003E7
+w32 010DB858 000003E7
+w32 010DB870 000003E7
+w32 010DB878 000003E7
+w32 010DB880 000003E7
+w32 010DB888 000003E7
+w32 010DB890 000003E7
+w32 010DB898 000003E7
+
+name: Infinite Grenade + Gas
+mode: once
+w32 010DB860 00000063
+w32 010DB868 00000063
+
+name: Infinite Grenade Launcher
+mode: once
+w32 010DB7F0 000003E7
+w32 010DB7F8 000003E7
+
+name: Infinite Health
+mode: once
+w32 00F84900 0000270F
+w32 00F84904 0000270F
+
+name: Call Of Duty Black Ops Dubbed Edition: Infinite Grenade
+mode: once
+w16 010BBB88 0063
+w16 010BBB90 0063
+
+name: Call Of Duty Black Ops Subtitle: Infinite Grenade
+mode: once
+w16 010DB868 0063
+w16 010DB870 0063
+
+name: Call Of Duty Black Ops Subtitle: Infinite Ammo
+mode: once
+w32 000A18AC 7FC0F378

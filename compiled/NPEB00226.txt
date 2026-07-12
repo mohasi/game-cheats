@@ -1,0 +1,57 @@
+# Earthworm Jim HD
+
+name: Earthworm Jim: Unlimited Lives
+mode: once
+w32 001C8C60 39290000
+
+name: Earthworm Jim: Unlimited Ammo (Normal Gun)
+mode: once
+w32 001AD1A4 60000000
+
+name: Earthworm Jim: Unlimited Ammo (Plasma)
+mode: once
+w32 001E6A78 38090000
+
+name: Earthworm Jim: Unlimited Shields
+mode: once
+w32 001D872C 39290000
+
+name: Earthworm Jim: AoB Unlimited Lives
+mode: once
+aob 813D03443929FFFFEB8100707D2048F8 813D034439290000EB8100707D2048F8
+
+name: Earthworm Jim: AoB Unlimited Ammo (Normal Gun)
+mode: once
+aob 409D002C912300044199002088030011 409D002C600000004199002088030011
+
+name: Earthworm Jim: AoB Unlimited Ammo (Plasma)
+mode: once
+aob 397803483809FFFF2F800000419C05F8 39780348380900002F800000419C05F8
+
+name: Earthworm Jim: AoB Unlimited Shields
+mode: once
+aob 812301203929FFFF91230120419EFF70 812301203929000091230120419EFF70
+
+name: Earthworm Jim: Infinite Lives
+mode: once
+w32 001C8C10 60000000
+
+name: Earthworm Jim: Infinite Bullets
+mode: once
+w32 001AD13C 60000000
+
+name: Earthworm Jim: Unlimited Lives
+mode: once
+w32 001C8BF8 39290000
+
+name: Earthworm Jim: Unlimited Ammo (Normal Gun)
+mode: once
+w32 001AD13C 60000000
+
+name: Earthworm Jim: Unlimited Ammo (Plasma)
+mode: once
+w32 001E6A10 38090000
+
+name: Earthworm Jim: Unlimited Shields
+mode: once
+w32 001D86C4 39290000

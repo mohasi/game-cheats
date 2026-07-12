@@ -1,0 +1,99 @@
+# Hitman HD Trilogy
+
+name: Hitman 2 Silent Assassin: Memory Infinite Ammo + No Reload
+mode: once
+w16 31D6D72E 001E
+w16 31DCCF46 001E
+w8 31E094EB 0F
+
+name: Hitman 2 Silent Assassin: ASM Infinite Ammo + No Reload
+mode: once
+w32 001A2C8C 93430084
+w32 001AC210 39290000
+
+name: Hitman 2 Silent Assassin: Memory Infinite Health
+mode: once
+w32 31DBB584 42F00000
+
+name: Hitman 2 Silent Assassin: ASM Infinite Health
+mode: once
+w32 002010F8 60000000
+w32 002010EC 60000000
+
+name: Hitman 2 Silent Assassin: Memory Rapid Fire
+mode: once
+w8 31E094EB 0F
+
+name: Hitman 2 Silent Assassin: ASM Rapid Fire
+mode: once
+w32 001AC214 396B0000
+
+name: Hitman 2 Silent Assassin: Memory Infinite Saves
+mode: once
+w8 31E4F28F 06
+
+name: Hitman 2 Silent Assassin: ASM Infinite Saves
+mode: once
+w32 001E15CC 39290000
+
+name: Hitman Blood Money: Memory Infinite Ammo + No Reload
+mode: once
+w32 35BFAB5C 0000000C
+w32 35BFB52C 0000000C
+
+name: Hitman Blood Money: ASM Infinite Ammo + No Reload
+mode: once
+w32 00243B60 39290000
+w32 00243B64 60000000
+
+name: Hitman Blood Money: Memory Infinite Health
+mode: once
+w32 31BF43E0 00000015
+w32 31C3DB28 4120504F
+w32 31C3FF28 4120504F
+w32 31C3FF2C 52544500
+w32 31C42818 4120504F
+w32 31C4281C 52544500
+
+name: Hitman Blood Money: ASM Infinite Health
+mode: once
+w32 00458850 60000000
+w32 0045884C 60000000
+w32 00458848 60000000
+
+name: Hitman Blood Money: Invincible Steel Mode
+mode: once
+w32 0015279C 4E800020
+
+name: Hitman Blood Money: AoB Invincible Steel Mode
+mode: once
+aob F821FF317C0802A6FB6100A8FB8100B0FBA100B8 4E8000207C0802A6FB6100A8FB8100B0FBA100B8
+
+name: Hitman Contracts: Memory Infinite Ammo + No Reload
+mode: once
+w8 335AD18F 02
+w8 335B6E97 02
+w8 335B6E9B 02
+w8 336121E7 02
+w8 336123E7 02
+w8 33683DFF 02
+
+name: Hitman Contracts: ASM Infinite Ammo + No Reload
+mode: once
+w32 0016109C 39290000
+
+name: Hitman Contracts: Memory Infinite Health
+mode: once
+w32 324DE0D4 42C80000
+
+name: Hitman Contracts: ASM Infinite Health
+mode: once
+w32 00235E04 60000000
+
+name: Hitman Contracts: Memory Infinite Save
+mode: once
+w8 3222E9CB 06
+
+name: Hitman Contracts: ASM Infinite Save
+mode: once
+w32 0029B65C 39290000

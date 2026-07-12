@@ -1,0 +1,34 @@
+# Savage Moon
+
+name: Memory Mining Exploitation Life Never Decreases
+mode: once
+w32 300B2EB0 42C80000
+
+name: ASM Mining Exploitation Life Never Decreases
+mode: once
+w32 0043D4A4 60000000
+
+name: Memory Easy Money
+mode: once
+w32 300B2EAC 47C34F80
+
+name: ASM Easy Money
+mode: once
+w32 0043D65C EC2A082A
+
+name: Memory Max Installation Easy Increase
+mode: once
+w32 300B2EB0 42C80000
+w32 300B2EE8 42C80000
+
+name: Memory Easy Point
+mode: once
+w32 300B2EAC 47C34F80
+
+name: ASM Mining Exploitation Life Never Decreases
+mode: once
+w32 0043D4BC 60000000
+
+name: ASM Easy Money
+mode: once
+w32 0043D674 EC2A082A

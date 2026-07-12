@@ -1,0 +1,41 @@
+# Marvel vs. Capcom 3: Fate of Two Worlds
+
+name: 2p Stand Mode (CPU No Move)
+mode: once
+w32 0015CA0C 419E000C
+
+name: Max PP
+mode: once
+w32 00541C1C 3C600100
+w32 00541C20 93FF0044
+w32 00541C24 83FF0044
+
+name: P1 Infinite Super Meter
+mode: once
+w32 37AA6B3C 47435000
+
+name: P1 Infinite X Factor Time
+mode: once
+w32 37AA6B80 44160000
+
+name: P2 Empty Super Meter
+mode: once
+w32 37AA6D3C 00000000
+
+name: P2 No X Factor Time
+mode: once
+w32 37AA6D80 00000000
+
+name: 2p Stand Mode (CPU No Move)
+mode: once
+w32 0015A044 419E000C
+
+name: AoB 2p Stand Mode (CPU No Move)
+mode: once
+aob 409E000C786300204E80002081290008548020367F8920407C005A1478090020409DFFE48009001C7C6B0214 419E000C786300204E80002081290008548020367F8920407C005A1478090020409DFFE48009001C7C6B0214
+
+name: Marvel Vs. Capcom 3 Fate Of Two Worlds SE: Max PP
+mode: once
+w32 00541C1C 3C600100
+w32 00541C20 93FF0044
+w32 00541C24 83FF0044

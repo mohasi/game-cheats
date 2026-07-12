@@ -1,0 +1,5 @@
+# Hatsune Miku - Project Diva - Dreamy Theater
+
+name: Sign in without connecting a PSP (run once)
+mode: once
+w32 0066F9B4 00000718

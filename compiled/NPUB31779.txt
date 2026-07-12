@@ -1,0 +1,14 @@
+# Spider-Man: Shattered Dimensions
+
+name: Infinite HP
+mode: once
+w32 00B0A738 70000000
+w32 00B0A740 70000000
+
+name: Infinite Money
+mode: once
+w32 00B24BE4 05F5E0FF
+
+name: 180 Challenges Completed
+mode: once
+w32 00B2DDA0 000000B4

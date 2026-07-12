@@ -1,0 +1,73 @@
+# Jikkyou Powerful Pro Yakyuu 2016
+
+name: Success Gold Max When Purchasing At The Shop In Social Entries
+mode: once
+w32 009263AC 90C301E8
+
+name: Gold Max (Team Facility Maintenance) Independent League Version
+mode: once
+w32 00926B98 3C8003E8
+
+name: Evaluation By Other Parties Is Max On Change
+mode: once
+w32 00927598 38A000FF
+
+name: Other Likelihood Of Other Stakeholders Max On Change
+mode: once
+w32 00927130 388000FF
+
+name: Month Never Increases
+mode: once
+w32 00928390 60000000
+
+name: Max Stamina On Change
+mode: once
+w32 003E5D8C 60000000
+
+name: Max Condition On Change
+mode: once
+w32 003E5E78 60000000
+
+name: Max Gold After Winning
+mode: once
+w32 00403060 7CA42B78
+
+name: Strike Count Never Increases
+mode: once
+w32 00C81894 60000000
+
+name: AoB Success Gold Max When Purchasing At The Shop In Social Entries
+mode: once
+aob 908301E84E800020F821FF817C0802A6 90C301E84E800020F821FF817C0802A6
+
+name: AoB Gold Max (Team Facility Maintenance) Independent League Version
+mode: once
+aob 7C8428147CA72010908301E87CA307B4 3C8003E87CA72010908301E87CA307B4
+
+name: AoB Evaluation By Other Parties Is Max On Change
+mode: once
+aob 7CA5181454A3063E7C66181098A401F5 38A000FF54A3063E7C66181098A401F5
+
+name: AoB Other Likelihood Of Other Stakeholders Max On Change
+mode: once
+aob 7C8320145483063E7C7D1810989E021B 388000FF5483063E7C7D1810989E021B
+
+name: AoB Month Never Increases
+mode: once
+aob 98A3000640810014A0A3000498830006 6000000040810014A0A3000498830006
+
+name: AoB Max Stamina On Change
+mode: once
+aob 4085000838C000643C6000007C843010 6000000038C000643C6000007C843010
+
+name: AoB Max Condition On Change
+mode: once
+aob 4085000838C001F43C6000007C843010 6000000038C001F43C6000007C843010
+
+name: AoB Max Gold After Winning
+mode: once
+aob 7C8520147CA430107CA5003490830000 7CA42B787CA430107CA5003490830000
+
+name: AoB Strike Count Never Increases
+mode: once
+aob 908300004E80002038A0000438C00004 600000004E80002038A0000438C00004

@@ -1,0 +1,17 @@
+# Cuboid
+
+name: Super Street Fighter II Turbo Remix: P1 Infinite HP
+mode: once
+w32 801F072C 00900090
+
+name: Super Street Fighter II Turbo Remix: 45x HP During Every Round
+mode: once
+w32 801F072C 27102710
+
+name: Super Street Fighter II Turbo Remix: P1 Infinite Super Meter
+mode: once
+w8 801F09B4 30
+
+name: Super Street Fighter II Turbo Remix: P2 Empty Super Meter
+mode: once
+w8 801F0DB4 00

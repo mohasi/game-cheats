@@ -1,0 +1,2828 @@
+# Tears to Tiara II: Heir of the Overlord
+
+name: Max Money
+mode: once
+w32 00BAEE04 3B9AC9FF
+
+name: Hamil HP 5000
+mode: once
+w16 00BA8A66 1388
+
+name: Hamil All Stats Maxed
+mode: once
+w16 00BA8A6C 270F
+w16 00BA8A6E 270F
+w16 00BA8A70 270F
+w16 00BA8A72 270F
+w16 00BA8A74 270F
+w16 00BA8A76 270F
+w16 00BA8A78 0063
+
+name: Hamil Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8A51 63
+
+name: Hamil Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8A4D 63
+
+name: Tarte HP 5000
+mode: once
+w16 00BA8C2E 1388
+
+name: Tarte All Stats Maxed
+mode: once
+w16 00BA8C34 270F
+w16 00BA8C36 270F
+w16 00BA8C38 270F
+w16 00BA8C3A 270F
+w16 00BA8C3C 270F
+w16 00BA8C3E 270F
+w16 00BA8C40 0063
+
+name: Tarte Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8C19 63
+
+name: Tarte Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8C15 63
+
+name: Dion HP 5000
+mode: once
+w16 00BA8DF6 1388
+
+name: Dion All Stats Maxed
+mode: once
+w16 00BA8DFC 270F
+w16 00BA8DFE 270F
+w16 00BA8E00 270F
+w16 00BA8E02 270F
+w16 00BA8E04 270F
+w16 00BA8E06 270F
+w16 00BA8E08 0063
+
+name: Dion Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8DE1 63
+
+name: Dion Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8DDD 63
+
+name: Enneads HP 5000
+mode: once
+w16 00BA8EDA 1388
+
+name: Enneads All Stats Maxed
+mode: once
+w16 00BA8EE0 270F
+w16 00BA8EE2 270F
+w16 00BA8EE4 270F
+w16 00BA8EE6 270F
+w16 00BA8EE8 270F
+w16 00BA8EEA 270F
+w16 00BA8EEC 0063
+
+name: Enneads Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8EC5 63
+
+name: Enneads Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8EC1 63
+
+name: Monomachus HP 5000
+mode: once
+w16 00BA8FBE 1388
+
+name: Monomachus All Stats Maxed
+mode: once
+w16 00BA8FC4 270F
+w16 00BA8FC6 270F
+w16 00BA8FC8 270F
+w16 00BA8FCA 270F
+w16 00BA8FCC 270F
+w16 00BA8FCE 270F
+w16 00BA8FD0 0063
+
+name: Monomachus Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8FA9 63
+
+name: Monomachus Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA8FA5 63
+
+name: Charis HP 5000
+mode: once
+w16 00BA90A2 1388
+
+name: Charis All Stats Maxed
+mode: once
+w16 00BA90A8 270F
+w16 00BA90AA 270F
+w16 00BA90AC 270F
+w16 00BA90AE 270F
+w16 00BA90B0 270F
+w16 00BA90B2 270F
+w16 00BA90B4 0063
+
+name: Charis Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA908D 63
+
+name: Charis Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9089 63
+
+name: Chalcus HP 5000
+mode: once
+w16 00BA98A6 1388
+
+name: Chalcus All Stats Maxed
+mode: once
+w16 00BA98AC 270F
+w16 00BA98AE 270F
+w16 00BA98B0 270F
+w16 00BA98B2 270F
+w16 00BA98B4 270F
+w16 00BA98B6 270F
+w16 00BA98B8 0063
+
+name: Chalcus Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9891 63
+
+name: Chalcus Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA988D 63
+
+name: Noa The Elephant HP 5000
+mode: once
+w16 00BA998A 1388
+
+name: Noa The Elephant All Stats Maxed
+mode: once
+w16 00BA9990 270F
+w16 00BA9992 270F
+w16 00BA9994 270F
+w16 00BA9996 270F
+w16 00BA9998 270F
+w16 00BA999A 270F
+w16 00BA999C 0063
+
+name: Noa The Elephant Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9975 63
+
+name: Noa The Elephant Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9971 63
+
+name: Quadriga HP 5000
+mode: once
+w16 00BA9A6E 1388
+
+name: Quadriga All Stats Maxed
+mode: once
+w16 00BA9A6E 1388
+w16 00BA9A74 270F
+w16 00BA9A76 270F
+w16 00BA9A78 270F
+w16 00BA9A7A 270F
+w16 00BA9A7C 270F
+w16 00BA9A7E 270F
+w16 00BA9A80 0063
+
+name: Kleito HP 5000
+mode: once
+w16 00BA9186 1388
+
+name: Kleito All Stats Maxed
+mode: once
+w16 00BA918C 270F
+w16 00BA918E 270F
+w16 00BA9190 270F
+w16 00BA9192 270F
+w16 00BA9194 270F
+w16 00BA9196 270F
+w16 00BA9198 0063
+
+name: Kleito Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9171 63
+
+name: Kleito Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA916D 63
+
+name: Artio HP 5000
+mode: once
+w16 00BA926A 1388
+
+name: Artio Max All Stats
+mode: once
+w16 00BA9270 270F
+w16 00BA9272 270F
+w16 00BA9274 270F
+w16 00BA9276 270F
+w16 00BA9278 270F
+w16 00BA927A 270F
+w16 00BA927C 0063
+
+name: Artio Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9255 63
+
+name: Artio Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9251 63
+
+name: Mox HP 5000
+mode: once
+w16 00BAA18E 1388
+
+name: Mox Max All Stats
+mode: once
+w16 00BAA194 270F
+w16 00BAA196 270F
+w16 00BAA198 270F
+w16 00BAA19A 270F
+w16 00BAA19C 270F
+w16 00BAA19E 270F
+w16 00BAA1A0 0063
+
+name: Mox Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA179 63
+
+name: Mox Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA175 63
+
+name: Elissa HP 5000
+mode: once
+w16 00BA934E 1388
+
+name: Elissa All Stats Maxed
+mode: once
+w16 00BA9354 270F
+w16 00BA9356 270F
+w16 00BA9358 270F
+w16 00BA935A 270F
+w16 00BA935C 270F
+w16 00BA935E 270F
+w16 00BA9360 0063
+
+name: Elissa Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9339 63
+
+name: Elissa Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9335 63
+
+name: Daphnis HP 5000
+mode: once
+w16 00BA9432 1388
+
+name: Daphnis Max All Stats
+mode: once
+w16 00BA9438 270F
+w16 00BA943A 270F
+w16 00BA943C 270F
+w16 00BA943E 270F
+w16 00BA9440 270F
+w16 00BA9442 270F
+w16 00BA9444 0063
+
+name: Daphnis Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA941D 63
+
+name: Daphnis Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9419 63
+
+name: Aemelia HP 5000
+mode: once
+w16 00BA9516 1388
+
+name: Aemelia Max All Stats
+mode: once
+w16 00BA951C 270F
+w16 00BA951E 270F
+w16 00BA9520 270F
+w16 00BA9522 270F
+w16 00BA9524 270F
+w16 00BA9526 270F
+w16 00BA9528 0063
+
+name: Aemelia Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9501 63
+
+name: Aemelia Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA94FD 63
+
+name: Laelius HP 5000
+mode: once
+w16 00BA95FA 1388
+
+name: Laelius Max All Stats
+mode: once
+w16 00BA9600 270F
+w16 00BA9602 270F
+w16 00BA9604 270F
+w16 00BA9606 270F
+w16 00BA9608 270F
+w16 00BA960A 270F
+w16 00BA960C 0063
+
+name: Laelius Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA95E5 63
+
+name: Laelius Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA95E1 63
+
+name: Aruru HP 5000
+mode: once
+w16 00BA9B52 1388
+
+name: Aruru Max All Stats
+mode: once
+w16 00BA9B58 270F
+w16 00BA9B5A 270F
+w16 00BA9B5C 270F
+w16 00BA9B5E 270F
+w16 00BA9B60 270F
+w16 00BA9B62 270F
+w16 00BA9B64 0063
+
+name: Aruru Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9B3D 63
+
+name: Aruru Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9B39 63
+
+name: Arawn HP 5000
+mode: once
+w16 00BA9C36 1388
+
+name: Arawn Max All Stats
+mode: once
+w16 00BA9C3C 270F
+w16 00BA9C3E 270F
+w16 00BA9C40 270F
+w16 00BA9C42 270F
+w16 00BA9C44 270F
+w16 00BA9C46 270F
+w16 00BA9C48 0063
+
+name: Arawn Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9C21 63
+
+name: Arawn Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9C1D 63
+
+name: Riannon HP 5000
+mode: once
+w16 00BA9D1A 1388
+
+name: Riannon Max All Stats
+mode: once
+w16 00BA9D20 270F
+w16 00BA9D22 270F
+w16 00BA9D24 270F
+w16 00BA9D26 270F
+w16 00BA9D28 270F
+w16 00BA9D2A 270F
+w16 00BA9D2C 0063
+
+name: Riannon Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9D05 63
+
+name: Riannon Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9D01 63
+
+name: Malvy HP 5000
+mode: once
+w16 00BA9DFE 1388
+
+name: Malvy Max All Stats
+mode: once
+w16 00BA9E04 270F
+w16 00BA9E06 270F
+w16 00BA9E08 270F
+w16 00BA9E0A 270F
+w16 00BA9E0C 270F
+w16 00BA9E0E 270F
+w16 00BA9E10 0063
+
+name: Malvy Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9DE9 63
+
+name: Malvy Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9DE5 63
+
+name: Alisia HP 5000
+mode: once
+w16 00BA9EE2 1388
+
+name: Alisia Max All Stats
+mode: once
+w16 00BA9EE8 270F
+w16 00BA9EEA 270F
+w16 00BA9EEC 270F
+w16 00BA9EEE 270F
+w16 00BA9EF0 270F
+w16 00BA9EF2 270F
+w16 00BA9EF4 0063
+
+name: Alisia Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9ECD 63
+
+name: Alisia Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9EC9 63
+
+name: Peggy HP 5000
+mode: once
+w16 00BA9FC6 1388
+
+name: Peggy Max All Stats
+mode: once
+w16 00BA9FCC 270F
+w16 00BA9FCE 270F
+w16 00BA9FD0 270F
+w16 00BA9FD2 270F
+w16 00BA9FD4 270F
+w16 00BA9FD6 270F
+w16 00BA9FD8 0063
+
+name: Peggy Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9FB1 63
+
+name: Peggy Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA9FAD 63
+
+name: Beard HP 5000
+mode: once
+w16 00BAA0AA 1388
+
+name: Beard Max All Stats
+mode: once
+w16 00BAA0B0 270F
+w16 00BAA0B2 270F
+w16 00BAA0B4 270F
+w16 00BAA0B6 270F
+w16 00BAA0B8 270F
+w16 00BAA0BA 270F
+w16 00BAA0BC 0063
+
+name: Beard Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA095 63
+
+name: Beard Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA091 63
+
+name: Saul HP 5000
+mode: once
+w16 00BA96DE 1388
+
+name: Saul Max All Stats
+mode: once
+w16 00BA96E4 270F
+w16 00BA96E6 270F
+w16 00BA96E8 270F
+w16 00BA96EA 270F
+w16 00BA96EC 270F
+w16 00BA96EE 270F
+w16 00BA96F0 0063
+
+name: Saul Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA96C9 63
+
+name: Saul Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BA96C5 63
+
+name: Phaenna HP 5000
+mode: once
+w16 00BAA272 1388
+
+name: Phaenna Max All Stats
+mode: once
+w16 00BAA278 270F
+w16 00BAA27A 270F
+w16 00BAA27C 270F
+w16 00BAA27E 270F
+w16 00BAA280 270F
+w16 00BAA282 270F
+w16 00BAA284 0063
+
+name: Phaenna Skill Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA25D 63
+
+name: Phaenna Exp 99 (1 Exp = 1 Level)
+mode: once
+w8 00BAA259 63
+
+name: Have Hermit Shell
+mode: once
+w8 00BAEB2F 63
+
+name: Have Scorpion Tail
+mode: once
+w8 00BAEB6B 63
+
+name: Have Spring Hare's Ear
+mode: once
+w8 00BAEB6F 63
+
+name: Have Garnet
+mode: once
+w8 00BAEB7B 63
+
+name: Have Papyrus Page A
+mode: once
+w8 00BAEB97 63
+
+name: Have Papyrus Page B
+mode: once
+w8 00BAEB9B 63
+
+name: Have Copper Ore
+mode: once
+w8 00BAEBA7 63
+
+name: Have Iron Ore
+mode: once
+w8 00BAEBAB 63
+
+name: Have Steel ore
+mode: once
+w8 00BAEBAF 63
+
+name: Have Damascus Ore
+mode: once
+w8 00BAEBB3 63
+
+name: Have Elfin Tear
+mode: once
+w8 00BAEBB7 63
+
+name: Have Platinum Ore
+mode: once
+w8 00BAEBBB 63
+
+name: Have Spinel
+mode: once
+w8 00BAEBBF 63
+
+name: Have Lazurite
+mode: once
+w8 00BAEB7F 63
+
+name: Have Valks
+mode: once
+w8 00BAEBDF 63
+
+name: Have Cadmia
+mode: once
+w8 00BAEBE3 63
+
+name: Have Golden Wheat
+mode: once
+w8 00BAEC47 63
+
+name: Have Touchstone Beginner
+mode: once
+w8 00BAEC07 63
+
+name: Have Touchstone Intermediate
+mode: once
+w8 00BAEC0B 63
+
+name: Have Copper Sword
+mode: once
+w8 00BADCD3 63
+
+name: Have Brass Sword
+mode: once
+w8 00BADCD7 63
+
+name: Have Crude Sword
+mode: once
+w8 00BADCDB 63
+
+name: Have Iron Sword
+mode: once
+w8 00BADCDF 63
+
+name: Have Iron Sword +1
+mode: once
+w8 00BADCE3 63
+
+name: Have Iron Sword +2
+mode: once
+w8 00BADCE7 63
+
+name: Have Steel Sword
+mode: once
+w8 00BADCEB 63
+
+name: Have Damascus Sword
+mode: once
+w8 00BADCEF 63
+
+name: Have Damascus Sword +1
+mode: once
+w8 00BADCF3 63
+
+name: Have Damascus Sword+2
+mode: once
+w8 00BADCF7 63
+
+name: Have Platinum Sword
+mode: once
+w8 00BADCFB 63
+
+name: Have Elfin Sword
+mode: once
+w8 00BADCFF 63
+
+name: Have Elfin Sword+1
+mode: once
+w8 00BADD03 63
+
+name: Have Elfin Sword +2
+mode: once
+w8 00BADD07 63
+
+name: Have Silver Sword
+mode: once
+w8 00BADD0B 63
+
+name: Have Golden Sword
+mode: once
+w8 00BADD0F 63
+
+name: Have Golden Sword +1
+mode: once
+w8 00BADD13 63
+
+name: Have Golden Sword +2
+mode: once
+w8 00BADD17 63
+
+name: Have Amber Gold Sword
+mode: once
+w8 00BADD1B 63
+
+name: Have Gladius
+mode: once
+w8 00BADD1F 63
+
+name: Have Gladius +1
+mode: once
+w8 00BADD23 63
+
+name: Have Gladius +2
+mode: once
+w8 00BADD27 63
+
+name: Have Claidheamh Mor
+mode: once
+w8 00BADD2B 63
+
+name: Have Claidheamh Mor +1
+mode: once
+w8 00BADD2F 63
+
+name: Have Claidheamh Mor +2
+mode: once
+w8 00BADD33 63
+
+name: Have Ascalon
+mode: once
+w8 00BADD37 63
+
+name: Have Spada Legatos
+mode: once
+w8 00BADD3B 63
+
+name: Have Bealgalltach
+mode: once
+w8 00BADD3F 63
+
+name: Have Beallgatach +1
+mode: once
+w8 00BADD43 63
+
+name: Have Beallgatach +2
+mode: once
+w8 00BADD47 63
+
+name: Have Moralltach
+mode: once
+w8 00BADD4B 63
+
+name: Have Kaledvouc'h
+mode: once
+w8 00BADD4F 63
+
+name: Have Kaledvouc'h +1
+mode: once
+w8 00BADD53 63
+
+name: Have Kaledvouc'h +2
+mode: once
+w8 00BADD57 63
+
+name: Have Dark Arondight
+mode: once
+w8 00BADD5B 63
+
+name: Have Holy Arondight
+mode: once
+w8 00BADD5F 63
+
+name: Have Caliburn +2
+mode: once
+w8 00BADD63 63
+
+name: Have Caliburn +3
+mode: once
+w8 00BADD67 63
+
+name: Have Caliburn +4
+mode: once
+w8 00BADD6B 63
+
+name: Have Fragarach
+mode: once
+w8 00BADD6F 63
+
+name: Have Hrotti
+mode: once
+w8 00BADD73 63
+
+name: Have Sword of Findias
+mode: once
+w8 00BADD77 63
+
+name: Have Melqart's Sword
+mode: once
+w8 00BADD7B 63
+
+name: Have Melqart's Sword +1
+mode: once
+w8 00BADD7F 63
+
+name: Have Melqart's Sword +2
+mode: once
+w8 00BADD83 63
+
+name: Have Melqart Sword +3
+mode: once
+w8 00BADD87 63
+
+name: Have Melqart Sword +4
+mode: once
+w8 00BADD8B 63
+
+name: Have Melqart Sword +5
+mode: once
+w8 00BADD8F 63
+
+name: Have Melqart's Holy Sword
+mode: once
+w8 00BADD93 63
+
+name: Have Plage Sword
+mode: once
+w8 00BADD97 63
+
+name: Have Plague Sword +1
+mode: once
+w8 00BADD9B 63
+
+name: Have Plague Sword +2
+mode: once
+w8 00BADD9F 63
+
+name: Have Heretic Sword
+mode: once
+w8 00BADDA3 63
+
+name: Have Heretic Sword +1
+mode: once
+w8 00BADDA7 63
+
+name: Have Massacre
+mode: once
+w8 00BADDAB 63
+
+name: Have Massacre +1
+mode: once
+w8 00BADDAF 63
+
+name: Have Barca Sword
+mode: once
+w8 00BADDB3 63
+
+name: Have Hero-King's Sword
+mode: once
+w8 00BADDB7 63
+
+name: Have Copper Greatsword
+mode: once
+w8 00BADDC3 63
+
+name: Have Brass Greatsword
+mode: once
+w8 00BADDC7 63
+
+name: Have Brass Greatsword +1
+mode: once
+w8 00BADDCB 63
+
+name: Have Buster Sword
+mode: once
+w8 00BADDCF 63
+
+name: Have Buster Sword +1
+mode: once
+w8 00BADDD3 63
+
+name: Have Steel Greatsword
+mode: once
+w8 00BADDD7 63
+
+name: Have Defender
+mode: once
+w8 00BADDDB 63
+
+name: Have Defender +1
+mode: once
+w8 00BADDDF 63
+
+name: Have Defender +2
+mode: once
+w8 00BADDE3 63
+
+name: Have Platinum Greatsword
+mode: once
+w8 00BADDE7 63
+
+name: Have Greatsword
+mode: once
+w8 00BADDEB 63
+
+name: Have Greatsword +1
+mode: once
+w8 00BADDEF 63
+
+name: Have Greatsword +2
+mode: once
+w8 00BADDF3 63
+
+name: Have Silver Greatsword
+mode: once
+w8 00BADDF7 63
+
+name: Have Golden Greatsword
+mode: once
+w8 00BADDFB 63
+
+name: Have Amber Gold Greatsword
+mode: once
+w8 00BADDFF 63
+
+name: Have Amber Gold Greatsword +1
+mode: once
+w8 00BADE03 63
+
+name: Have Amber Gold Greatsword +2
+mode: once
+w8 00BADE07 63
+
+name: Have Amber Gold Greatsword +3
+mode: once
+w8 00BADE0B 63
+
+name: Have Dragonsbane Sword
+mode: once
+w8 00BADE0F 63
+
+name: Have Zanbatou
+mode: once
+w8 00BADE13 63
+
+name: Have Zanbatou +1
+mode: once
+w8 00BADE17 63
+
+name: Have Ambition Greatsword
+mode: once
+w8 00BADE1F 63
+
+name: Have Elfin Greatsword
+mode: once
+w8 00BADE23 63
+
+name: Have Answerer
+mode: once
+w8 00BADE27 63
+
+name: Have Answerer +1
+mode: once
+w8 00BADE2B 63
+
+name: Have Elfin Greatsword(Error on game?)
+mode: once
+w8 00BADE2F 63
+
+name: Have Real Judgment
+mode: once
+w8 00BADE33 63
+
+name: Have Judgment +2
+mode: once
+w8 00BADE37 63
+
+name: Have Judgment +3
+mode: once
+w8 00BADE3B 63
+
+name: Have Laevateinn
+mode: once
+w8 00BADE3F 63
+
+name: Have Tanit's Greatsword
+mode: once
+w8 00BADE43 63
+
+name: Have Tanit's Greatsword +1
+mode: once
+w8 00BADE47 63
+
+name: Have Tanit's Greatsword +2
+mode: once
+w8 00BADE4B 63
+
+name: Have Tanit's Greatsword +3
+mode: once
+w8 00BADE4F 63
+
+name: Have Tanit's Greatsword +4
+mode: once
+w8 00BADE53 63
+
+name: Have Tanit's Greatsword +5
+mode: once
+w8 00BADE57 63
+
+name: Have Tanit's Greatsword +6
+mode: once
+w8 00BADE5B 63
+
+name: Have Tanit's Fake Sword
+mode: once
+w8 00BADE5F 63
+
+name: Have Tanit's Holy Sword
+mode: once
+w8 00BADE63 63
+
+name: Have Sword of Nihility
+mode: once
+w8 00BADE67 63
+
+name: Have Sword of Nihility +1
+mode: once
+w8 00BADE6B 63
+
+name: Have Sword of Nihility +2
+mode: once
+w8 00BADE6F 63
+
+name: Have Fencing Blades
+mode: once
+w8 00BADE8B 63
+
+name: Have Sharp Blades
+mode: once
+w8 00BADE8F 63
+
+name: Have Cutlasses
+mode: once
+w8 00BADE93 63
+
+name: Have Cutlasses +1
+mode: once
+w8 00BADE97 63
+
+name: Have Cutlasses +2
+mode: once
+w8 00BADE9B 63
+
+name: Have Hunting Blades
+mode: once
+w8 00BADE9F 63
+
+name: Have Master's Blades
+mode: once
+w8 00BADEA3 63
+
+name: Have Tribal Blades
+mode: once
+w8 00BADEA7 63
+
+name: Have Tribal Blades +1
+mode: once
+w8 00BADEAB 63
+
+name: Have Tribal Blades +2
+mode: once
+w8 00BADEAF 63
+
+name: Have Skull Crusher
+mode: once
+w8 00BADEB3 63
+
+name: Have Anamnesis Blade
+mode: once
+w8 00BADEB7 63
+
+name: Have Cyclone Blades
+mode: once
+w8 00BADEBB 63
+
+name: Have Mercenary's Blades
+mode: once
+w8 00BADEBF 63
+
+name: Have Mercenary's Blades +1
+mode: once
+w8 00BADEC3 63
+
+name: Have Mercenary's Blades +2
+mode: once
+w8 00BADEC7 63
+
+name: Have Reaper's Blades
+mode: once
+w8 00BADECB 63
+
+name: Have Heartbreaker
+mode: once
+w8 00BADECF 63
+
+name: Have Rumble Rush +1
+mode: once
+w8 00BADED3 63
+
+name: Have Rumble Rush +2
+mode: once
+w8 00BADED7 63
+
+name: Have Giant's Blades
+mode: once
+w8 00BADEDB 63
+
+name: Have Team Sieger
+mode: once
+w8 00BADEDF 63
+
+name: Have Team Sieger +1
+mode: once
+w8 00BADEE3 63
+
+name: Have Rune Scimitars
+mode: once
+w8 00BADEE7 63
+
+name: Have Rune Scimitars +1
+mode: once
+w8 00BADEEB 63
+
+name: Have Rune Scimitars +2
+mode: once
+w8 00BADEEF 63
+
+name: Have Rune Scimitars +3
+mode: once
+w8 00BADEF3 63
+
+name: Have Valhalla Blade
+mode: once
+w8 00BADEF7 63
+
+name: Have Copper Spear
+mode: once
+w8 00BADF13 63
+
+name: Have Brass Spear
+mode: once
+w8 00BADF17 63
+
+name: Have Iron Spear
+mode: once
+w8 00BADF1B 63
+
+name: Have Iron Spear +1
+mode: once
+w8 00BADF1F 63
+
+name: Have Iron Spear +2
+mode: once
+w8 00BADF23 63
+
+name: Have Steel Spear
+mode: once
+w8 00BADF27 63
+
+name: Have Damascus Spear
+mode: once
+w8 00BADF2B 63
+
+name: Have Platinum Spear
+mode: once
+w8 00BADF2F 63
+
+name: Have Platinum Spear +1
+mode: once
+w8 00BADF33 63
+
+name: Have Platinum Spear +2
+mode: once
+w8 00BADF37 63
+
+name: Have Hasta
+mode: once
+w8 00BADF3B 63
+
+name: Have Battle Fork
+mode: once
+w8 00BADF3F 63
+
+name: Have Elfin Spear
+mode: once
+w8 00BADF43 63
+
+name: Have Elfin Spear +1
+mode: once
+w8 00BADF47 63
+
+name: Have Elfin Spear +2
+mode: once
+w8 00BADF4B 63
+
+name: Have Silver Spear
+mode: once
+w8 00BADF4F 63
+
+name: Have Golden Spear
+mode: once
+w8 00BADF53 63
+
+name: Have Trident
+mode: once
+w8 00BADF57 63
+
+name: Have Trident +1
+mode: once
+w8 00BADF5B 63
+
+name: Have Trident +2
+mode: once
+w8 00BADF5F 63
+
+name: Have Trident +3
+mode: once
+w8 00BADF63 63
+
+name: Have Amber Gold Spear
+mode: once
+w8 00BADF67 63
+
+name: Have Pillum Legatos
+mode: once
+w8 00BADF6B 63
+
+name: Have Ga-Boi
+mode: once
+w8 00BADF6F 63
+
+name: Have Ga-Derg
+mode: once
+w8 00BADF73 63
+
+name: Have Rhongomyniad
+mode: once
+w8 00BADF77 63
+
+name: Have Apollyon
+mode: once
+w8 00BADF7B 63
+
+name: Have Omega Apollyon
+mode: once
+w8 00BADF7F 63
+
+name: Have Apollyon +2
+mode: once
+w8 00BADF83 63
+
+name: Have Apollyon +3
+mode: once
+w8 00BADF87 63
+
+name: Have Gae Bolg
+mode: once
+w8 00BADF8B 63
+
+name: Have Reaper's Spear
+mode: once
+w8 00BADF8F 63
+
+name: Have Cypher +1
+mode: once
+w8 00BADF93 63
+
+name: Have Brionac
+mode: once
+w8 00BADF97 63
+
+name: Have Brionac +1
+mode: once
+w8 00BADF9B 63
+
+name: Have Plague Spear
+mode: once
+w8 00BADF9F 63
+
+name: Have Plague Spear +1
+mode: once
+w8 00BADFA3 63
+
+name: Have Pissar
+mode: once
+w8 00BADFA7 63
+
+name: Have Pissar +1
+mode: once
+w8 00BADFAB 63
+
+name: Have Bronze Hammer
+mode: once
+w8 00BADFC7 63
+
+name: Have Platinum Hammer
+mode: once
+w8 00BADFCB 63
+
+name: Have Platinum Hammer +1
+mode: once
+w8 00BADFCF 63
+
+name: Have Platinum Hammer +2
+mode: once
+w8 00BADFD3 63
+
+name: Have Elfin Hammer
+mode: once
+w8 00BADFD7 63
+
+name: Have War Hammer
+mode: once
+w8 00BADFDB 63
+
+name: Have Silver Hammer
+mode: once
+w8 00BADFDF 63
+
+name: Have Stardust Hammer
+mode: once
+w8 00BADFE3 63
+
+name: Have Stardust Hammer +1
+mode: once
+w8 00BADFE7 63
+
+name: Have Stardust Hammer +2
+mode: once
+w8 00BADFEB 63
+
+name: Have Heavy Hammer
+mode: once
+w8 00BADFEF 63
+
+name: Have Golden Hammer
+mode: once
+w8 00BADFF3 63
+
+name: Have Golden Hammer +1
+mode: once
+w8 00BADFF7 63
+
+name: Have Golden Hammer +2
+mode: once
+w8 00BADFFB 63
+
+name: Have Cyclone Hammer
+mode: once
+w8 00BADFFF 63
+
+name: Have Earthdragon Hammer
+mode: once
+w8 00BAE003 63
+
+name: Have Earthdragon Hammer +1
+mode: once
+w8 00BAE007 63
+
+name: Have Earthdragon Hammer +2
+mode: once
+w8 00BAE00B 63
+
+name: Have Guardian Hammer
+mode: once
+w8 00BAE00F 63
+
+name: Have Guardian Hammer +1
+mode: once
+w8 00BAE013 63
+
+name: Have Guardian Hammer +2
+mode: once
+w8 00BAE017 63
+
+name: Have Gaia Crusher
+mode: once
+w8 00BAE01B 63
+
+name: Have Dark Scepter
+mode: once
+w8 00BAE01F 63
+
+name: Have Giant's Hammer
+mode: once
+w8 00BAE023 63
+
+name: Have One-Ton Hammer
+mode: once
+w8 00BAE027 63
+
+name: Have One-Ton Hammer +1
+mode: once
+w8 00BAE02B 63
+
+name: Have One-Ton Hammer +2
+mode: once
+w8 00BAE02F 63
+
+name: Have One-Ton Hammer +3
+mode: once
+w8 00BAE033 63
+
+name: Have Yagrush
+mode: once
+w8 00BAE037 63
+
+name: Have Ayamur
+mode: once
+w8 00BAE03B 63
+
+name: Have Ayamur Magna
+mode: once
+w8 00BAE03F 63
+
+name: Have Massacre Labrys
+mode: once
+w8 00BAE043 63
+
+name: Have Lia Fail
+mode: once
+w8 00BAE047 63
+
+name: Have Destined Lia Fail
+mode: once
+w8 00BAE04B 63
+
+name: Have Lia Fail +2
+mode: once
+w8 00BAE04F 63
+
+name: Have Lia Fail +3
+mode: once
+w8 00BAE053 63
+
+name: Have Goibniu Hammer
+mode: once
+w8 00BAE057 63
+
+name: Have Bone Bow
+mode: once
+w8 00BAE073 63
+
+name: Have Short Bow
+mode: once
+w8 00BAE077 63
+
+name: Have Hunter's Bow
+mode: once
+w8 00BAE07B 63
+
+name: Have Hunter's Bow +1
+mode: once
+w8 00BAE07F 63
+
+name: Have Hunter's Bow +2
+mode: once
+w8 00BAE083 63
+
+name: Have Strong Bow
+mode: once
+w8 00BAE087 63
+
+name: Have Long Bow
+mode: once
+w8 00BAE08B 63
+
+name: Have Long Bow +1
+mode: once
+w8 00BAE08F 63
+
+name: Have Long Bow +2
+mode: once
+w8 00BAE093 63
+
+name: Have Mistletoe Bow
+mode: once
+w8 00BAE097 63
+
+name: Have Damascus Bow
+mode: once
+w8 00BAE09B 63
+
+name: Have Pterodactyl Bow
+mode: once
+w8 00BAE09F 63
+
+name: Have Jet-Black Bow
+mode: once
+w8 00BAE0A3 63
+
+name: Have Jet-Black Bow +1
+mode: once
+w8 00BAE0A7 63
+
+name: Have Jet-Black Bow +2
+mode: once
+w8 00BAE0AB 63
+
+name: Have Jet-Black Bow +3
+mode: once
+w8 00BAE0AF 63
+
+name: Have Jet-Black Bow +4
+mode: once
+w8 00BAE0B3 63
+
+name: Have Bull's Eye Bow
+mode: once
+w8 00BAE0B7 63
+
+name: Have Platinum Bow
+mode: once
+w8 00BAE0BB 63
+
+name: Have Elfin Bow
+mode: once
+w8 00BAE0BF 63
+
+name: Have Silver Bow
+mode: once
+w8 00BAE0C3 63
+
+name: Have Silver Bow +1
+mode: once
+w8 00BAE0C7 63
+
+name: Have Silver Bow +2
+mode: once
+w8 00BAE0CB 63
+
+name: Have Golden Bow
+mode: once
+w8 00BAE0CF 63
+
+name: Have Blue Sky Bow
+mode: once
+w8 00BAE0D3 63
+
+name: Have Blue Sky Bow +1
+mode: once
+w8 00BAE0D7 63
+
+name: Have Blue Sky Bow +2
+mode: once
+w8 00BAE0DB 63
+
+name: Have Sylph's Bow
+mode: once
+w8 00BAE0DF 63
+
+name: Have Tempestlord Bow
+mode: once
+w8 00BAE0E3 63
+
+name: Have Cernunnos Bow
+mode: once
+w8 00BAE0E7 63
+
+name: Have Bow of Aengus
+mode: once
+w8 00BAE0EB 63
+
+name: Have Songbow of Aengus
+mode: once
+w8 00BAE0EF 63
+
+name: Have Bow of Aengus +2
+mode: once
+w8 00BAE0F3 63
+
+name: Have Bow of Esus
+mode: once
+w8 00BAE0F7 63
+
+name: Have Astral Al-Nasr
+mode: once
+w8 00BAE0FB 63
+
+name: Have Grand Al-Nasr
+mode: once
+w8 00BAE0FF 63
+
+name: Have Astral Al-Nasr +2
+mode: once
+w8 00BAE103 63
+
+name: Have Astral Al-Nasr +3
+mode: once
+w8 00BAE107 63
+
+name: Have Barca Bow
+mode: once
+w8 00BAE10B 63
+
+name: Have Birch Staff
+mode: once
+w8 00BAE28B 63
+
+name: Have Hazel Staff
+mode: once
+w8 00BAE28F 63
+
+name: Have Mistletoe Staff
+mode: once
+w8 00BAE293 63
+
+name: Have Mistletoe Staff +1
+mode: once
+w8 00BAE297 63
+
+name: Have Mistletoe Staff +2
+mode: once
+w8 00BAE29B 63
+
+name: Have Vision Staff
+mode: once
+w8 00BAE29F 63
+
+name: Have Elfin Staff
+mode: once
+w8 00BAE2A3 63
+
+name: Have Elfin Staff +1
+mode: once
+w8 00BAE2A7 63
+
+name: Have Elfin Staff +2
+mode: once
+w8 00BAE2AB 63
+
+name: Have Staff of Giants
+mode: once
+w8 00BAE2AF 63
+
+name: Have Dragonfang Staff
+mode: once
+w8 00BAE2B3 63
+
+name: Have Dragonfang Staff +1
+mode: once
+w8 00BAE2B7 63
+
+name: Have Dragonfang Staff +2
+mode: once
+w8 00BAE2BB 63
+
+name: Have Dragonfang Staff +3
+mode: once
+w8 00BAE2BF 63
+
+name: Have Dragonfang Staff +4
+mode: once
+w8 00BAE2C3 63
+
+name: Have Dragonfang Staff +5
+mode: once
+w8 00BAE2C7 63
+
+name: Have Sage Staff
+mode: once
+w8 00BAE2CB 63
+
+name: Have Sage Staff +1
+mode: once
+w8 00BAE2CF 63
+
+name: Have Sage Staff +2
+mode: once
+w8 00BAE2D3 63
+
+name: Have Sage Staff +3
+mode: once
+w8 00BAE2D7 63
+
+name: Have Sage Staff +4
+mode: once
+w8 00BAE2DB 63
+
+name: Have Sage Staff +5
+mode: once
+w8 00BAE2DF 63
+
+name: Have Prophet Staff
+mode: once
+w8 00BAE2E3 63
+
+name: Have Druidic Staff
+mode: once
+w8 00BAE2E7 63
+
+name: Have Staff of Judgment
+mode: once
+w8 00BAE2EB 63
+
+name: Have Eternal Spring
+mode: once
+w8 00BAE2EF 63
+
+name: Have Staff of Wisdom
+mode: once
+w8 00BAE2F3 63
+
+name: Have Underworld Staff
+mode: once
+w8 00BAE2F7 63
+
+name: Have Sephirot Staff
+mode: once
+w8 00BAE2FB 63
+
+name: Have Profane Sephirot
+mode: once
+w8 00BAE2FF 63
+
+name: Have Sephirot Staff +2
+mode: once
+w8 00BAE303 63
+
+name: Have Sephirot Staff +3
+mode: once
+w8 00BAE307 63
+
+name: Have Dragongod Staff
+mode: once
+w8 00BAE30B 63
+
+name: Have Golden Dragongod
+mode: once
+w8 00BAE30F 63
+
+name: Have Harlot Staff +2
+mode: once
+w8 00BAE313 63
+
+name: Have Harlot Staff +3
+mode: once
+w8 00BAE317 63
+
+name: Have Caduceus
+mode: once
+w8 00BAE31B 63
+
+name: Have Heretic Staff
+mode: once
+w8 00BAE31F 63
+
+name: Have Heaven Corona
+mode: once
+w8 00BAE323 63
+
+name: Have Emperor Staff
+mode: once
+w8 00BAE327 63
+
+name: Have Elegy Flute
+mode: once
+w8 00BAE32B 63
+
+name: Have Tome of Converts
+mode: once
+w8 00BAE343 63
+
+name: Have Elfin Diary
+mode: once
+w8 00BAE347 63
+
+name: Have Tome of Lismore
+mode: once
+w8 00BAE34B 63
+
+name: Have Tome of Imlaw
+mode: once
+w8 00BAE34F 63
+
+name: Have Tome of Ocheri
+mode: once
+w8 00BAE353 63
+
+name: Have Tome of Giants
+mode: once
+w8 00BAE357 63
+
+name: Have Tome of Tohomach
+mode: once
+w8 00BAE35B 63
+
+name: Have Tome of Tohomach +1
+mode: once
+w8 00BAE35F 63
+
+name: Have Tome of Dea
+mode: once
+w8 00BAE363 63
+
+name: Have Tome of Ephetra
+mode: once
+w8 00BAE367 63
+
+name: Have Tome of Ephetra +1
+mode: once
+w8 00BAE36B 63
+
+name: Have Book of Taliesin
+mode: once
+w8 00BAE36F 63
+
+name: Have Tome of Togal
+mode: once
+w8 00BAE373 63
+
+name: Have Togal Testament
+mode: once
+w8 00BAE377 63
+
+name: Have Book of Mago
+mode: once
+w8 00BAE37B 63
+
+name: Have Vitruvius
+mode: once
+w8 00BAE37F 63
+
+name: Have Throwing Dagger
+mode: once
+w8 00BAE123 63
+
+name: Have Slayer
+mode: once
+w8 00BAE127 63
+
+name: Have Slayer +1
+mode: once
+w8 00BAE12B 63
+
+name: Have Slayer +2
+mode: once
+w8 00BAE12F 63
+
+name: Have Stilleto
+mode: once
+w8 00BAE133 63
+
+name: Have Misericorde
+mode: once
+w8 00BAE137 63
+
+name: Have Mercenary Knife
+mode: once
+w8 00BAE13B 63
+
+name: Have Mercenary Knife +1
+mode: once
+w8 00BAE13F 63
+
+name: Have Mercenary Knife +2
+mode: once
+w8 00BAE143 63
+
+name: Have Elfin Knife
+mode: once
+w8 00BAE147 63
+
+name: Have Flying Fan
+mode: once
+w8 00BAE14B 63
+
+name: Have Spartan Knife
+mode: once
+w8 00BAE14F 63
+
+name: Have Spartan Knife +1
+mode: once
+w8 00BAE153 63
+
+name: Have Spartan Knife +2
+mode: once
+w8 00BAE157 63
+
+name: Have Spartan Knife +3
+mode: once
+w8 00BAE15B 63
+
+name: Have Death Marker
+mode: once
+w8 00BAE15F 63
+
+name: Have Shadowcutter
+mode: once
+w8 00BAE163 63
+
+name: Have Dragon Edge
+mode: once
+w8 00BAE167 63
+
+name: Have Dragon Edge +1
+mode: once
+w8 00BAE16B 63
+
+name: Have Dragon Edge +2
+mode: once
+w8 00BAE16F 63
+
+name: Have Rose Thron
+mode: once
+w8 00BAE173 63
+
+name: Have Sidewinder
+mode: once
+w8 00BAE177 63
+
+name: Have Sidewinder +1
+mode: once
+w8 00BAE17B 63
+
+name: Have Nightmare
+mode: once
+w8 00BAE17F 63
+
+name: Have Deep Nightmare
+mode: once
+w8 00BAE183 63
+
+name: Have Nightmare +2
+mode: once
+w8 00BAE187 63
+
+name: Have Crimson Rose
+mode: once
+w8 00BAE18B 63
+
+name: Have Photon Blade
+mode: once
+w8 00BAE18F 63
+
+name: Have Radical Fangs
+mode: once
+w8 00BAE1AB 63
+
+name: Have Weak Fang
+mode: once
+w8 00BAE1AF 63
+
+name: Have Normal Fang
+mode: once
+w8 00BAE1B3 63
+
+name: Have Good Fang
+mode: once
+w8 00BAE1B7 63
+
+name: Have Great Fang
+mode: once
+w8 00BAE1BB 63
+
+name: Have Strong Fang
+mode: once
+w8 00BAE1BF 63
+
+name: Have Strong Fang +1
+mode: once
+w8 00BAE1C3 63
+
+name: Have Sturdy Fang
+mode: once
+w8 00BAE1C7 63
+
+name: Have Sturdy Fang +1
+mode: once
+w8 00BAE1CB 63
+
+name: Have Sturdy Fang +2
+mode: once
+w8 00BAE1CF 63
+
+name: Have Mammoth's Tusk
+mode: once
+w8 00BAE1D3 63
+
+name: Have Monstrous Fang
+mode: once
+w8 00BAE1D7 63
+
+name: Have War God Fang
+mode: once
+w8 00BAE1DB 63
+
+name: Have Holy God Fang
+mode: once
+w8 00BAE1DF 63
+
+name: Have Cursed Fang
+mode: once
+w8 00BAE1E3 63
+
+name: Have Cursed Fang +1
+mode: once
+w8 00BAE1E7 63
+
+name: Have Splendid Fang
+mode: once
+w8 00BAE1EB 63
+
+name: Have Splendid Fang +1
+mode: once
+w8 00BAE1EF 63
+
+name: Have Cerberus Fang
+mode: once
+w8 00BAE1F3 63
+
+name: Have Crom Cruach Fang
+mode: once
+w8 00BAE1F7 63
+
+name: Have God-Beast Fang
+mode: once
+w8 00BAE1FB 63
+
+name: Have Hammer Hand
+mode: once
+w8 00BAE217 63
+
+name: Have Hammer Knuckle
+mode: once
+w8 00BAE21B 63
+
+name: Have Knuckle Duster
+mode: once
+w8 00BAE21F 63
+
+name: Have Magical Hand
+mode: once
+w8 00BAE223 63
+
+name: Have Magical Hand +1
+mode: once
+w8 00BAE227 63
+
+name: Have Drill Punch
+mode: once
+w8 00BAE22B 63
+
+name: Have Drill Punch +1
+mode: once
+w8 00BAE22F 63
+
+name: Have Boost Knuckle
+mode: once
+w8 00BAE233 63
+
+name: Have Boost Knuckle +1
+mode: once
+w8 00BAE237 63
+
+name: Have Boost Knuckle +2
+mode: once
+w8 00BAE23B 63
+
+name: Have Death Hand
+mode: once
+w8 00BAE23F 63
+
+name: Have Titan Hand
+mode: once
+w8 00BAE243 63
+
+name: Have Spartan Knuckle
+mode: once
+w8 00BAE247 63
+
+name: Have Kaiser Knuckle
+mode: once
+w8 00BAE24B 63
+
+name: Have Kaiser Knuckle M
+mode: once
+w8 00BAE24F 63
+
+name: Have Kaiser Knuckle A
+mode: once
+w8 00BAE253 63
+
+name: Have Miracle Drill
+mode: once
+w8 00BAE257 63
+
+name: Have Miracle Drill +1
+mode: once
+w8 00BAE25B 63
+
+name: Have Diabolos
+mode: once
+w8 00BAE25F 63
+
+name: Have Atlas Fist
+mode: once
+w8 00BAE263 63
+
+name: Have Atlas Fist +1
+mode: once
+w8 00BAE267 63
+
+name: Have Great Crusher
+mode: once
+w8 00BAE26B 63
+
+name: Have Atlas Crusher
+mode: once
+w8 00BAE26F 63
+
+name: Have Straw Hat
+mode: once
+w8 00BAE46B 63
+
+name: Have Feathered Hat
+mode: once
+w8 00BAE46F 63
+
+name: Have Black Hood
+mode: once
+w8 00BAE473 63
+
+name: Have Wizard's Hat
+mode: once
+w8 00BAE477 63
+
+name: Have Fancy Katyusha
+mode: once
+w8 00BAE47B 63
+
+name: Have Tiara
+mode: once
+w8 00BAE47F 63
+
+name: Have Crown of Thorns
+mode: once
+w8 00BAE483 63
+
+name: Have Primula Circlet
+mode: once
+w8 00BAE487 63
+
+name: Have Twilight Crown
+mode: once
+w8 00BAE48B 63
+
+name: Have Muses' Crown
+mode: once
+w8 00BAE48F 63
+
+name: Have Fluid Headgear
+mode: once
+w8 00BAE493 63
+
+name: Have Godess Ribbon
+mode: once
+w8 00BAE497 63
+
+name: Have Copper Helmet
+mode: once
+w8 00BAE4AF 63
+
+name: Have Iron Helmet
+mode: once
+w8 00BAE4B3 63
+
+name: Have Steel Helmet
+mode: once
+w8 00BAE4B7 63
+
+name: Have Elfin Helmet
+mode: once
+w8 00BAE4BB 63
+
+name: Have Golden Helmet
+mode: once
+w8 00BAE4BF 63
+
+name: Have Amber Gold Helmet
+mode: once
+w8 00BAE4C3 63
+
+name: Have War Elf's Crown
+mode: once
+w8 00BAE4C7 63
+
+name: Have Gladiator's Galea
+mode: once
+w8 00BAE4CB 63
+
+name: Have Spirit Helmet
+mode: once
+w8 00BAE4CF 63
+
+name: Have Harbinger Helmet
+mode: once
+w8 00BAE4D3 63
+
+name: Have Helm of Light
+mode: once
+w8 00BAE4D7 63
+
+name: Have Linen Robe
+mode: once
+w8 00BAE4EF 63
+
+name: Have Cotton Robe
+mode: once
+w8 00BAE4F3 63
+
+name: Have Robe of Sages
+mode: once
+w8 00BAE4F7 63
+
+name: Have Calm Robe
+mode: once
+w8 00BAE4FB 63
+
+name: Have Gorgeous Dress
+mode: once
+w8 00BAE4FF 63
+
+name: Have Silk Dress
+mode: once
+w8 00BAE503 63
+
+name: Have Black Clothes
+mode: once
+w8 00BAE507 63
+
+name: Have Swordsman's Coat
+mode: once
+w8 00BAE50B 63
+
+name: Have Elfin Robe
+mode: once
+w8 00BAE50F 63
+
+name: Have Robe of Stars
+mode: once
+w8 00BAE513 63
+
+name: Have Maid's Appron
+mode: once
+w8 00BAE517 63
+
+name: Have Gown of Rule
+mode: once
+w8 00BAE51B 63
+
+name: Have Chameleon Robe
+mode: once
+w8 00BAE51F 63
+
+name: Have Bloodstained Dress
+mode: once
+w8 00BAE523 63
+
+name: Have Robe of Life
+mode: once
+w8 00BAE527 63
+
+name: Have Diabolical Cloak
+mode: once
+w8 00BAE52B 63
+
+name: Have Spprigan Vest
+mode: once
+w8 00BAE52F 63
+
+name: Have Archwizard Robe
+mode: once
+w8 00BAE533 63
+
+name: Have Agony Mantle
+mode: once
+w8 00BAE537 63
+
+name: Have Cloth Armor
+mode: once
+w8 00BAE54B 63
+
+name: Have Chainmail
+mode: once
+w8 00BAE54F 63
+
+name: Have Steel Chainamil
+mode: once
+w8 00BAE553 63
+
+name: Have Platinum Chainmail
+mode: once
+w8 00BAE557 63
+
+name: Have Lorica Hamata
+mode: once
+w8 00BAE55B 63
+
+name: Have Silver Chainmail
+mode: once
+w8 00BAE55F 63
+
+name: Have Golden Chainmail
+mode: once
+w8 00BAE563 63
+
+name: Have Amber Gold Chainmail
+mode: once
+w8 00BAE567 63
+
+name: Have Lorica Squamata
+mode: once
+w8 00BAE56B 63
+
+name: Have Brave Mail
+mode: once
+w8 00BAE56F 63
+
+name: Have Mirage Vest
+mode: once
+w8 00BAE573 63
+
+name: Have Samiel Doublet
+mode: once
+w8 00BAE577 63
+
+name: Have Shirt of Goibniu
+mode: once
+w8 00BAE57B 63
+
+name: Have Shroud of Light
+mode: once
+w8 00BAE57F 63
+
+name: Have Leather Armor
+mode: once
+w8 00BAE593 63
+
+name: Have Bronze Armor
+mode: once
+w8 00BAE597 63
+
+name: Have Brass Armor
+mode: once
+w8 00BAE59B 63
+
+name: Have Iron Armor
+mode: once
+w8 00BAE59F 63
+
+name: Have Steel Armor
+mode: once
+w8 00BAE5A3 63
+
+name: Have Damascus Armor
+mode: once
+w8 00BAE5A7 63
+
+name: Have Platinum Armor
+mode: once
+w8 00BAE5AB 63
+
+name: Have Segmentata
+mode: once
+w8 00BAE5AF 63
+
+name: Have Elfin Armor
+mode: once
+w8 00BAE5B3 63
+
+name: Have Silver Armor
+mode: once
+w8 00BAE5B7 63
+
+name: Have Golden Armor
+mode: once
+w8 00BAE5BB 63
+
+name: Have Amber Gold Armor
+mode: once
+w8 00BAE5BF 63
+
+name: Have Valiant
+mode: once
+w8 00BAE5C3 63
+
+name: Have Relic Armor
+mode: once
+w8 00BAE5C7 63
+
+name: Have Macha's Armor
+mode: once
+w8 00BAE5CB 63
+
+name: Have Esus's Armor
+mode: once
+w8 00BAE5CF 63
+
+name: Have Black Armor
+mode: once
+w8 00BAE5D3 63
+
+name: Have Light Armor
+mode: once
+w8 00BAE5D7 63
+
+name: Have Spirit Armor
+mode: once
+w8 00BAE5DB 63
+
+name: Have Miraculous Armor
+mode: once
+w8 00BAE5DF 63
+
+name: Have Chainmail Glove
+mode: once
+w8 00BAE5F3 63
+
+name: Have Bronze Gauntlet
+mode: once
+w8 00BAE5F7 63
+
+name: Have Steel Gauntlet
+mode: once
+w8 00BAE5FB 63
+
+name: Have Elfin Gauntlet
+mode: once
+w8 00BAE5FF 63
+
+name: Have Titan Gauntlet
+mode: once
+w8 00BAE603 63
+
+name: Have Dragon Gauntlet
+mode: once
+w8 00BAE607 63
+
+name: Have Amber Gold Gauntlet
+mode: once
+w8 00BAE60B 63
+
+name: Have Glacier Gauntlet
+mode: once
+w8 00BAE60F 63
+
+name: Have Manhunt Gauntlet
+mode: once
+w8 00BAE613 63
+
+name: Have Cursed Gauntlet
+mode: once
+w8 00BAE617 63
+
+name: Have Holy Gauntlet
+mode: once
+w8 00BAE61B 63
+
+name: Have Earth Gauntlet
+mode: once
+w8 00BAE61F 63
+
+name: Have Timber Bracelet
+mode: once
+w8 00BAE633 63
+
+name: Have Launch Bracelet
+mode: once
+w8 00BAE637 63
+
+name: Have Gaudy Bracelet
+mode: once
+w8 00BAE63B 63
+
+name: Have Warrior Bracelet
+mode: once
+w8 00BAE63F 63
+
+name: Have Heroic Bracelet
+mode: once
+w8 00BAE643 63
+
+name: Have Shooter's Bracelet
+mode: once
+w8 00BAE647 63
+
+name: Have Mage's Bracelet
+mode: once
+w8 00BAE64B 63
+
+name: Have Exorcits Bracelet
+mode: once
+w8 00BAE64F 63
+
+name: Have Thief's Bracelet
+mode: once
+w8 00BAE653 63
+
+name: Have Comet Bracelet
+mode: once
+w8 00BAE657 63
+
+name: Have Demonic Bracelet
+mode: once
+w8 00BAE65B 63
+
+name: Have Master's Bracelet
+mode: once
+w8 00BAE65F 63
+
+name: Have Draconic Mitts
+mode: once
+w8 00BAE663 63
+
+name: Have Draupnir
+mode: once
+w8 00BAE667 63
+
+name: Have Red Steel Band
+mode: once
+w8 00BAE66B 63
+
+name: Have Antimagic Bracelet
+mode: once
+w8 00BAE66F 63
+
+name: Have Quartz Ring
+mode: once
+w8 00BAE683 63
+
+name: Have Fluorite RIng
+mode: once
+w8 00BAE687 63
+
+name: Have Pearl Ring
+mode: once
+w8 00BAE68B 63
+
+name: Have Iris Ring
+mode: once
+w8 00BAE68F 63
+
+name: Have Crystalline Ring
+mode: once
+w8 00BAE693 63
+
+name: Have Steadfast Ring
+mode: once
+w8 00BAE697 63
+
+name: Have Emerald Ring
+mode: once
+w8 00BAE69B 63
+
+name: Have Black Pearl Ring
+mode: once
+w8 00BAE69F 63
+
+name: Have Calaina Ring
+mode: once
+w8 00BAE6A3 63
+
+name: Have Irisest Ring
+mode: once
+w8 00BAE6A7 63
+
+name: Have Aventurine Ring
+mode: once
+w8 00BAE6AB 63
+
+name: Have Ultraviolet Ring
+mode: once
+w8 00BAE6AF 63
+
+name: Have Hale Ring
+mode: once
+w8 00BAE6B3 63
+
+name: Have Ruby Ring
+mode: once
+w8 00BAE6B7 63
+
+name: Have Coral Ring
+mode: once
+w8 00BAE6BB 63
+
+name: Have Topaz Ring
+mode: once
+w8 00BAE6BF 63
+
+name: Have Cheraunia Ring
+mode: once
+w8 00BAE6C3 63
+
+name: Have Asterio Ring
+mode: once
+w8 00BAE6C7 63
+
+name: Have Selenite Ring
+mode: once
+w8 00BAE6CB 63
+
+name: Have Perseus Ring
+mode: once
+w8 00BAE6CF 63
+
+name: Have Amber Ring
+mode: once
+w8 00BAE6D3 63
+
+name: Have Opal Ring
+mode: once
+w8 00BAE6D7 63
+
+name: Have Asteria Ring
+mode: once
+w8 00BAE6DB 63
+
+name: Have Adamas Ring
+mode: once
+w8 00BAE6DF 63
+
+name: Have Standard Ring
+mode: once
+w8 00BAE6E3 63
+
+name: Have Element Ring
+mode: once
+w8 00BAE6E7 63
+
+name: Have Ascetic Ring
+mode: once
+w8 00BAE6EB 63
+
+name: Have Deadman's Ring
+mode: once
+w8 00BAE6EF 63
+
+name: Have Guru's Ring
+mode: once
+w8 00BAE6F3 63
+
+name: Have Golem's Eye
+mode: once
+w8 00BAE6F7 63
+
+name: Have Tribal Torc
+mode: once
+w8 00BAE70F 63
+
+name: Have Slave Torc
+mode: once
+w8 00BAE713 63
+
+name: Have Smith Torc
+mode: once
+w8 00BAE717 63
+
+name: Have Thief Torc
+mode: once
+w8 00BAE71B 63
+
+name: Have Storyteller Torc
+mode: once
+w8 00BAE71F 63
+
+name: Have Hermit Torc
+mode: once
+w8 00BAE723 63
+
+name: Have Golem Torc
+mode: once
+w8 00BAE727 63
+
+name: Have Manipulator Torc
+mode: once
+w8 00BAE72B 63
+
+name: Have Torc of Life
+mode: once
+w8 00BAE72F 63
+
+name: Have Sequoia Torc
+mode: once
+w8 00BAE733 63
+
+name: Have Bird Torc
+mode: once
+w8 00BAE737 63
+
+name: Have Puppet Torc
+mode: once
+w8 00BAE73B 63
+
+name: Have Hand-knitted Scarf
+mode: once
+w8 00BAE73F 63
+
+name: Have Miraculous Torc
+mode: once
+w8 00BAE743 63
+
+name: Have Squid Ring
+mode: once
+w8 00BAE747 63
+
+name: Have Hunting God's Torc
+mode: once
+w8 00BAE74B 63
+
+name: Have Holy Torc
+mode: once
+w8 00BAE74F 63
+
+name: Have Crab God's Torc
+mode: once
+w8 00BAE753 63
+
+name: Have Torc of Ruler
+mode: once
+w8 00BAE757 63
+
+name: Have Dark God's Mask
+mode: once
+w8 00BAE75B 63
+
+name: Have Worn-Out Socks
+mode: once
+w8 00BAE773 63
+
+name: Have Slippers
+mode: once
+w8 00BAE777 63
+
+name: Have Sandals
+mode: once
+w8 00BAE77B 63
+
+name: Have Wellies
+mode: once
+w8 00BAE77F 63
+
+name: Have Imperial Sandals
+mode: once
+w8 00BAE783 63
+
+name: Have Boots
+mode: once
+w8 00BAE787 63
+
+name: Have Footguards
+mode: once
+w8 00BAE78B 63
+
+name: Have Red Shoes
+mode: once
+w8 00BAE78F 63
+
+name: Have Jagdlegg
+mode: once
+w8 00BAE793 63
+
+name: Have Thief Shoes
+mode: once
+w8 00BAE797 63
+
+name: Have Godspeed Boots
+mode: once
+w8 00BAE79B 63
+
+name: Have Fancy Knit Socks
+mode: once
+w8 00BAE79F 63
+
+name: Have Soaring Feet
+mode: once
+w8 00BAE7A3 63
+
+name: Have Spiked Shoes
+mode: once
+w8 00BAE7A7 63
+
+name: Have Fine Boots
+mode: once
+w8 00BAE7AB 63
+
+name: Have Iron Geta
+mode: once
+w8 00BAE7AF 63
+
+name: Have Safety Shoes
+mode: once
+w8 00BAE7B3 63
+
+name: Have Chakra Sandals
+mode: once
+w8 00BAE7B7 63
+
+name: Have Sandals of Light
+mode: once
+w8 00BAE7BB 63
+
+name: AoB Infinite MP
+mode: once
+aob 7CBF28102C0500004180000860BE0000 600000002C0500004180000860BE0000
+
+name: AoB Always Turn 1
+mode: once
+aob 30840001B08300703C80000B30630050 30840000B08300703C80000B30630050
+
+name: AoB 999 Skill Points On gain
+mode: once
+aob 2C0300644081000838600064 386003E7386003E7386003E7
+
+name: AoB 99 Items On Gain
+mode: once
+aob 2C0300634081000C38600063 386000633860006338600063
+
+name: AoB All Allies And Enemies On Field Are Set To Level 999
+mode: once
+aob 2C1F0063408100083BE00063 3BE003E73BE003E73BE003E7

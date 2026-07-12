@@ -1,0 +1,32 @@
+# Zombeer
+
+name: Memory Infinite Bottles
+mode: once
+w32 7007EE0C 00000002
+
+name: ASM Infinite Bottles
+mode: once
+w32 02A88A74 38630000
+w32 02A88A88 60000000
+
+name: Memory Infinite Infection Resistance
+mode: once
+w32 700FFE30 420B09FD
+
+name: ASM Infinite Infection Resistance
+mode: once
+w32 02AB1584 FC21102A
+w32 02AB1594 60000000
+w32 02AB1664 60000000
+w32 02AB1674 60000000
+
+name: Memory Infinite Ammo + No Reload
+mode: once
+w32 7041FDD4 0000001E
+
+name: ASM Infinite Ammo + No Reload
+mode: once
+w32 02B0D530 38630000
+w32 02B0D53C 60000000
+w32 02B0D54C 38630000
+w32 02B0D558 60000000

@@ -1,0 +1,17 @@
+# Yakuza 4 - The Men of Yakuza 4
+
+name: Yakuza 4: Money
+mode: once
+w32 00B50108 3C803B9A
+w32 00B50112 C9FF9083
+w32 00B50118 7C031800
+
+name: Yakuza 4: Infinite Money
+mode: once
+w32 00B4FF90 3C803B9A
+w32 00B4FF9A C9FF9083
+w32 00B4FFA0 7C031800
+
+name: Yakuza 4: Walk Trophy
+mode: once
+w32 00280C28 48000008

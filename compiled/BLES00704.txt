@@ -1,0 +1,34 @@
+# Alpha Protocol
+
+name: Infinite Health Shield
+mode: once
+w32 01378EDC 7C050050
+w32 01378EE0 60000000
+w32 01378F08 7C050050
+w32 01378F0C 60000000
+w32 01379D08 EC116828
+w32 01379D0C 60000000
+w32 01379D10 60000000
+
+name: Instant Max Armor + No Waiting Time For Armor Regeneration
+mode: once
+w32 0078102C EC02083A
+w32 00781000 ED615028
+
+name: Infinite Ammo In Clip
+mode: once
+w32 01382368 913F0000
+
+name: Max + Infinite PA On Gain Or Drop
+mode: once
+w32 005806FC 905E0098
+w32 00580558 905E0098
+
+name: No Waiting Time For Using MedPack
+mode: once
+w32 00524788 EC3EF828
+
+name: Unlock FPS (PSXPlace)
+mode: once
+w32 00954970 2B090000
+w32 0095478C 2B800000
