@@ -1,5 +1,5 @@
 # Naruto: Narutimate Storm
 
-name: Naruto Narutimate Ninja Storm: Gold 9999999
+name: Gold 9999999
 mode: once
 w32 00AAF504 0098967F

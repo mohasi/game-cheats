@@ -1,25 +1,25 @@
 # Kane &amp;amp; Lynch 2: Dog Days
 
-name: Kane And Lynch 2 Dog Days: Infinite Health
+name: Infinite Health
 mode: once
 w32 000A6210 60000000
 
-name: Kane And Lynch 2 Dog Days: Infinite Ammo No Reload
+name: Infinite Ammo No Reload
 mode: once
 w32 00604C78 6004270F
 
-name: Kane And Lynch 2 Dog Days: Max Ammo On Pickup
+name: Max Ammo On Pickup
 mode: once
 w32 00604C8C 6004270F
 
-name: Kane And Lynch 2 Dog Days: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob C05C0008D01C0004 C05C000860000000
 
-name: Kane And Lynch 2 Dog Days: AoB Infinite Ammo No Reload
+name: AoB Infinite Ammo No Reload
 mode: once
 aob 7C840278908300DC 6004270F908300DC
 
-name: Kane And Lynch 2 Dog Days: AoB Max Ammo On Pickup
+name: AoB Max Ammo On Pickup
 mode: once
 aob 7C840278908300E0 6004270F908300E0

@@ -1,77 +1,77 @@
 # Eiyuu Densetsu: Sen no Kiseki II
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Max Mira On Sell (Money)
+name: Max Mira On Sell (Money)
 mode: once
 w32 00226818 40810008
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+name: Cut Sepith Cost On Exchange (Shops For Money + Quartz)
 mode: once
 w32 002267D8 60000000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Infinite EP
+name: Infinite EP
 mode: once
 w32 00067254 B0BE02D8
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Infinite CP + Ultimate Specials
+name: Infinite CP + Ultimate Specials
 mode: once
 w32 0006E398 B0BE02D4
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Increase Item Counts By 1 By Using Them
+name: Increase Item Counts By 1 By Using Them
 mode: once
 w32 0021E580 7CA42B78
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Permanent Buffs
+name: Permanent Buffs
 mode: once
 w32 00094AC8 30630000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Infinite Fishing Bait
+name: Infinite Fishing Bait
 mode: once
 w32 0023CA74 30860000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: Infinite Friendship Action Points
+name: Infinite Friendship Action Points
 mode: once
 w32 001E78C4 60000000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Max Mira On Sell (Money)
+name: AoB Max Mira On Sell (Money)
 mode: once
 aob 7C6340147C0338404181000860670000 7C6340147C0338404081000860670000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB No Reduce Brave Points
+name: AoB No Reduce Brave Points
 mode: once
 aob 7C8430107CC400D07CC6FE767CC42038 388000057CC400D07CC6FE767CC42038
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Max Sepith on Change
+name: AoB Max Sepith on Change
 mode: once
 aob 4180001038600000906600004800000C 3C6000016063869F906600004800000C
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB TP Never Decreases
+name: AoB TP Never Decreases
 mode: once
 aob 7C6320147C7EE32E33BD0010337B0001 386000007C7EE32E33BD0010337B0001
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+name: AoB Cut Sepith Cost On Exchange (Shops For Money + Quartz)
 mode: once
 aob 906600004800000C7C65181090660000 906600004800000C6000000090660000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Infinite EP
+name: AoB Infinite EP
 mode: once
 aob 7CA420787C632378B07E02D8E8010090 7CA420787C632378B0BE02D8E8010090
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Infinite CP + Ultimate Specials
+name: AoB Infinite CP + Ultimate Specials
 mode: once
 aob 7CA420787C632378B07E02D4E8010090 7CA420787C632378B0BE02D4E8010090
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Increase Item Counts By 1 By Using Them
+name: AoB Increase Item Counts By 1 By Using Them
 mode: once
 aob 78630020A0A300027C8428107CA400D0 78630020A0A300027CA42B787CA400D0
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Permanent Buffs
+name: AoB Permanent Buffs
 mode: once
 aob 41820660806500083063FFFF2C030000 4182066080650008306300002C030000
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Infinite Fishing Bait
+name: AoB Infinite Fishing Bait
 mode: once
 aob 3086FFFFB085000038600000987D01B1 30860000B085000038600000987D01B1
 
-name: Eiyuu Densetsu Sen No Kiseki 2: AoB Infinite Friendship Action Points
+name: AoB Infinite Friendship Action Points
 mode: once
 aob 306318387863002090A300004E800020 3063183878630020600000004E800020

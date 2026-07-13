@@ -127,7 +127,7 @@ mode: once
 w32 001C06A4 48000008
 w32 001BF6F0 48000008
 
-name: Skill Useage Times 9999
+name: Skill Usage Times 9999
 mode: once
 w32 001CAC80 48000028
 

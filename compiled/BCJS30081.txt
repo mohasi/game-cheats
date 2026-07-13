@@ -1,46 +1,14 @@
 # Ratchet &amp; Clank: All 4 One
 
-name: Ratchet And Clank 4 Za Jednego: 1P Infinite Health
+name: 1P Infinite Health
 mode: once
 w32 00047144 4086FF94
 
-name: Ratchet And Clank 4 Za Jednego: AoB 1P Infinite Health
+name: AoB 1P Infinite Health
 mode: once
 aob 4186FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890 4086FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890
 
-name: Ratchet And Clank All 4 One: 1P Infinite Health
-mode: once
-w32 00047144 4086FF94
-
-name: Ratchet And Clank All 4 One: AoB 1P Infinite Health
-mode: once
-aob 4186FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890 4086FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890
-
-name: Ratchet And Clank All 4 One: Unlock FPS (PSXPlace)
+name: Unlock FPS (PSXPlace)
 mode: once
 w32 0073C7A0 38600001
 w32 0073C78C 38A00001
-
-name: Ratchet And Clank Todos Para Uno: 1P Infinite Health
-mode: once
-w32 00047144 4086FF94
-
-name: Ratchet And Clank Todos Para Uno: AoB 1P Infinite Health
-mode: once
-aob 4186FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890 4086FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890
-
-name: Ratchet And Clank Todos Por Um: 1P Infinite Health
-mode: once
-w32 00047144 4086FF94
-
-name: Ratchet And Clank Todos Por Um: AoB 1P Infinite Health
-mode: once
-aob 4186FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890 4086FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890
-
-name: Ratchet And Clank Tutti Per Uno: 1P Infinite Health
-mode: once
-w32 00047144 4086FF94
-
-name: Ratchet And Clank Tutti Per Uno: AoB 1P Infinite Health
-mode: once
-aob 4186FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890 4086FF9463E3000038A00000484DC24963E30000484DC2E9FFC00890

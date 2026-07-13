@@ -1,11 +1,11 @@
 # Dark Mist - The Depths of Darkness
 
-name: Dark Mist: Infinite Health
+name: Infinite Health
 mode: once
 w32 00131E50 A009003C
 w32 00131E54 B009003E
 
-name: Dark Mist: Infinite Special + Infinite Arrow
+name: Infinite Special + Infinite Arrow
 mode: once
 w32 000879DC 39290000
 w32 0008ECD4 48000010

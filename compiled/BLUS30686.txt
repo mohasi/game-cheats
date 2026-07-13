@@ -1,61 +1,61 @@
 # Record of Agarest War Zero
 
-name: Record Of The Agarest War Zero: SP 500
+name: SP 500
 mode: once
 w32 0028688C 396001F4
 
-name: Record Of The Agarest War Zero: Hero + Enemies AP 999
+name: Hero + Enemies AP 999
 mode: once
 w32 0029A608 394003E7
 
-name: Record Of The Agarest War Zero: Characters 2-6 AP 999
+name: Characters 2-6 AP 999
 mode: once
 w32 002A48D8 394003E7
 
-name: Record Of The Agarest War Zero: Player 1 999 AP
+name: Player 1 999 AP
 mode: once
 w16 09DDBDE2 03E7
 
-name: Record Of The Agarest War Zero: Max PP After Battle
+name: Max PP After Battle
 mode: once
 w32 00083F10 60000000
 
-name: Record Of The Agarest War Zero: Max TP After Exchange Some In The Guild
+name: Max TP After Exchange Some In The Guild
 mode: once
 w32 000B245C 60000000
 
-name: Record Of The Agarest War Zero: Max Gold After Win Battle (Results)
+name: Max Gold After Win Battle (Results)
 mode: once
 w32 0027E7D0 60000000
 
-name: Record Of The Agarest War Zero: Max Exp After Win Battle (Results)
+name: Max Exp After Win Battle (Results)
 mode: once
 w32 0029412C 60000000
 
-name: Record Of The Agarest War Zero: Items Never Decrease
+name: Items Never Decrease
 mode: once
 w32 000BA440 60000000
 
-name: Record Of The Agarest War Zero: 9,999 Overlimit Strength After Using PP Points
+name: 9,999 Overlimit Strength After Using PP Points
 mode: once
 w32 0017261C 3809270F
 
-name: Record Of The Agarest War Zero: 9,999 Overlimit Vitality After Using PP Points
+name: 9,999 Overlimit Vitality After Using PP Points
 mode: once
 w32 00172650 3809270F
 
-name: Record Of The Agarest War Zero: 9,999 Overlimit Agility After Using PP Points
+name: 9,999 Overlimit Agility After Using PP Points
 mode: once
 w32 00172684 3809270F
 
-name: Record Of The Agarest War Zero: 9,999 Overlimit Intelligence After Using PP Points
+name: 9,999 Overlimit Intelligence After Using PP Points
 mode: once
 w32 001726B8 3809270F
 
-name: Record Of The Agarest War Zero: 9,999 Overlimit Lucky After Using PP Points
+name: 9,999 Overlimit Lucky After Using PP Points
 mode: once
 w32 001726EC 3809270F
 
-name: Record Of The Agarest War Zero: Items Never Decrease
+name: Items Never Decrease
 mode: once
 w32 000BA390 419E0008

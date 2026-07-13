@@ -1,35 +1,35 @@
 # God of War III
 
-name: God Of War 3: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 0009654C 60000000
 
-name: God Of War 3: Max Orbs
+name: Max Orbs
 mode: once
 w32 39694C88 497423F0
 
-name: God Of War 3: Infinite Jump
+name: Infinite Jump
 mode: once
 w8 3969369F 00
 
-name: God Of War 3: Infinite Item Bar
+name: Infinite Item Bar
 mode: once
 w32 39694C74 43480000
 
-name: God Of War 3: Infinite Rage of Sparta
+name: Infinite Rage of Sparta
 mode: once
 w32 39694C78 42C80000
 
-name: God Of War 3: Infinite Health
+name: Infinite Health
 mode: once
 w32 00140EEC C1A901C0
 w32 00140EF8 D1A901BC
 
-name: God Of War 3: Max Red Orbs On Gain Or Use (999,999)
+name: Max Red Orbs On Gain Or Use (999,999)
 mode: once
 w32 0009445C 60000000
 
-name: God Of War 3: Infinite Combo Time
+name: Infinite Combo Time
 mode: once
 w32 00094EC4 60000000
 w32 00094ED4 60000000
@@ -37,52 +37,52 @@ w32 00094EEC 60000000
 w32 00094F1C 60000000
 w32 00095040 60000000
 
-name: God Of War 3: All Hits Give You 9,999 Red Orbs
+name: All Hits Give You 9,999 Red Orbs
 mode: once
 w32 000950D4 60000000
 
-name: God Of War 3: Red Orb Amounts From Combo Attacks Keep Adding From Every Hit
+name: Red Orb Amounts From Combo Attacks Keep Adding From Every Hit
 mode: once
 w32 000950DC 60000000
 
-name: God Of War 3: Gain Any Red Orbs And They Never Stop Increasing
+name: Gain Any Red Orbs And They Never Stop Increasing
 mode: once
 w32 00094FE0 60000000
 
-name: God Of War 3: Unlimited Rage Of Sparta
+name: Unlimited Rage Of Sparta
 mode: once
 w32 0009C528 60000000
 w32 0009F618 60000000
 
-name: God Of War 3: Unlimited Item Meter
+name: Unlimited Item Meter
 mode: once
 w32 00096618 60000000
 
-name: God Of War 3: Item Meter Instantly Fully Recovers
+name: Item Meter Instantly Fully Recovers
 mode: once
 w32 00095280 60000000
 
-name: God Of War 3: Gain + Use Red Orbs For Max Red Orbs + Max Health
+name: Gain + Use Red Orbs For Max Red Orbs + Max Health
 mode: once
 w32 00094454 C03E8048
 w32 00094458 3C007F80
 w32 0009445C 9003E95C
 w32 00094460 9003E960
 
-name: God Of War 3: Infinite Rage Of Sparta + Use Rage Of Sparta For Max Health
+name: Infinite Rage Of Sparta + Use Rage Of Sparta For Max Health
 mode: once
 w32 0009C524 3C007F80
 w32 0009C528 901FE95C
 w32 0009C52C 901FE960
 w32 0009F618 60000000
 
-name: God Of War 3: Infinite Magic + Use Magic For Max Health
+name: Infinite Magic + Use Magic For Max Health
 mode: once
 w32 00096544 3C007F80
 w32 00096548 901FE95C
 w32 0009654C 901FE960
 
-name: God Of War 3: Item Meter Never Decreases, Use An Item For Max Health + Fall Slowly
+name: Item Meter Never Decreases, Use An Item For Max Health + Fall Slowly
 mode: once
 w32 00096608 3FC00000
 w32 0009660C 93C3E8B4
@@ -90,23 +90,23 @@ w32 00096610 3FC07F80
 w32 00096614 93C3E95C
 w32 00096618 93C3E960
 
-name: God Of War 3: Challenge Mode Timers Never Decrease
+name: Challenge Mode Timers Never Decrease
 mode: once
 w32 0002A238 60000000
 
-name: God Of War 3: Some Attacks Can Not Be Done (Useful For Challenge Mode)
+name: Some Attacks Can Not Be Done (Useful For Challenge Mode)
 mode: once
 w32 0012EBAC 60000000
 
-name: God Of War 3: Many Attacks Do Not Hit (Useful For Challenge Mode)
+name: Many Attacks Do Not Hit (Useful For Challenge Mode)
 mode: once
 w32 00120F50 60000000
 
-name: God Of War 3: Infinite Double Jumping
+name: Infinite Double Jumping
 mode: once
 w32 000CCB94 60000000
 
-name: God Of War 3: Magic Never Decreases + Use Magic For Infinite Health + Have All Items
+name: Magic Never Decreases + Use Magic For Infinite Health + Have All Items
 mode: once
 w32 00096538 3C001FFF
 w32 0009653C 60009E3D
@@ -115,7 +115,7 @@ w32 00096544 3C007F80
 w32 00096548 901FE95C
 w32 0009654C 901FE960
 
-name: God Of War 3: Magic Never Decreases + Use Magic For Infinite Health + Have All Items Except Icarus Wings
+name: Magic Never Decreases + Use Magic For Infinite Health + Have All Items Except Icarus Wings
 mode: once
 w32 00096538 3C001FFF
 w32 0009653C 60009E1D
@@ -124,93 +124,93 @@ w32 00096544 3C007F80
 w32 00096548 901FE95C
 w32 0009654C 901FE960
 
-name: God Of War 3: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob C1A901BCFF8D00004FDCF382419E0228 C1A901C0FF8D00004FDCF382D1A901BC
 
-name: God Of War 3: AoB Max Red Orbs On Gain Or Use (999,999)
+name: AoB Max Red Orbs On Gain Or Use (999,999)
 mode: once
 aob C01E8048FF810000419C0008 C01E8048FF81000060000000
 
-name: God Of War 3: AoB Infinite Combo Time
+name: AoB Infinite Combo Time
 mode: once
 aob 409E0128E8030148540007382FA00000409E011881230004C01E8020C1A901BCFF8D00004FDCF382419E0100C003002039210070FC00001E3860000B7C004FAE808100704806D8E160000000E95F0148554007BC2FA00000419E00EC 60000000E8030148540007382FA000006000000081230004C01E8020C1A901BCFF8D00004FDCF38260000000C003002039210070FC00001E3860000B7C004FAE808100704806D8E160000000E95F0148554007BC2FA0000060000000
 aob 4FDCF382419EFF0C 4FDCF38260000000
 
-name: God Of War 3: AoB All Hits Give You 9,999 Red Orbs
+name: AoB All Hits Give You 9,999 Red Orbs
 mode: once
 aob FF8D0000419C003C FF8D000060000000
 
-name: God Of War 3: AoB Red Orb Amounts From Combo Attacks Keep Adding From Every Hit
+name: AoB Red Orb Amounts From Combo Attacks Keep Adding From Every Hit
 mode: once
 aob FF8C0000409C0030 FF8C000060000000
 
-name: God Of War 3: AoB Gain Any Red Orbs And They Never Stop Increasing
+name: AoB Gain Any Red Orbs And They Never Stop Increasing
 mode: once
 aob 38000000D1BF0024 3800000060000000
 
-name: God Of War 3: AoB Infinite Magic
+name: AoB Infinite Magic
 mode: once
 aob 409C0028D01F01B0 409C002860000000
 
-name: God Of War 3: AoB Unlimited Rage Of Sparta
+name: AoB Unlimited Rage Of Sparta
 mode: once
 aob D19F01B8419C0238 60000000419C0238
 aob D01F01B8C01E8020 60000000C01E8020
 
-name: God Of War 3: AoB Unlimited Item Meter
+name: AoB Unlimited Item Meter
 mode: once
 aob 409C0010D00301B4 409C001060000000
 
-name: God Of War 3: AoB Item Meter Instantly Fully Recovers
+name: AoB Item Meter Instantly Fully Recovers
 mode: once
 aob 409D00E4FF8D0000419C0008 409D00E4FF8D000060000000
 
-name: God Of War 3: AoB Gain + Use Red Orbs For Max Red Orbs + Max Health
+name: AoB Gain + Use Red Orbs For Max Red Orbs + Max Health
 mode: once
 aob C01E8048FF810000419C0008FC200090 C03E80483C007F809003E95C9003E960
 
-name: God Of War 3: AoB Infinite Rage Of Sparta + Use Rage Of Sparta For Max Health
+name: AoB Infinite Rage Of Sparta + Use Rage Of Sparta For Max Health
 mode: once
 aob FF8C5000D19F01B8419C0238 3C007F80901FE95C901FE960
 aob F81F0148D01F01B8 F81F014860000000
 
-name: God Of War 3: AoB Item Meter Never Decreases, Use An Item For Max Health + Fall Slowly
+name: AoB Item Meter Never Decreases, Use An Item For Max Health + Fall Slowly
 mode: once
 aob FDA05818409D002CFF806800409C0010D00301B4 3FC0000093C3E8B43FC07F8093C3E95C93C3E960
 
-name: God Of War 3: AoB Challenge Mode Timers Never Decrease
+name: AoB Challenge Mode Timers Never Decrease
 mode: once
 aob EC006828D0090018 EC00682860000000
 
-name: God Of War 3: AoB Some Attacks Can Not Be Done (Useful For Challenge Mode)
+name: AoB Some Attacks Can Not Be Done (Useful For Challenge Mode)
 mode: once
 aob 409D0154C01E800CFF9F0000419C0008 409D0154C01E800CFF9F000060000000
 
-name: God Of War 3: AoB Many Attacks Do Not Hit (Useful For Challenge Mode)
+name: AoB Many Attacks Do Not Hit (Useful For Challenge Mode)
 mode: once
 aob 409D0010C01E800CFF9F0000419C0008 409D0010C01E800CFF9F000060000000
 
-name: God Of War 3: AoB Infinite Double Jumping
+name: AoB Infinite Double Jumping
 mode: once
 aob 7C20F9CE801B043C60000004901B043C 7C20F9CE801B043C6000000460000000
 
-name: God Of War 3: AoB Magic Never Decreases + Use Magic For Infinite Health + Have All Items
+name: AoB Magic Never Decreases + Use Magic For Infinite Health + Have All Items
 mode: once
 aob FD605E9CFDA05818409D0044FF806800409C0028D01F01B0 3C001FFF60009E3D901F01A43C007F80901FE95C901FE960
 
-name: God Of War 3: AoB Magic Never Decreases + Use Magic For Infinite Health + Have All Items Except Icarus Wings
+name: AoB Magic Never Decreases + Use Magic For Infinite Health + Have All Items Except Icarus Wings
 mode: once
 aob FD605E9CFDA05818409D0044FF806800409C0028D01F01B0 3C001FFF60009E1D901F01A43C007F80901FE95C901FE960
 
-name: God Of War 3: Infinite Jump
+name: Infinite Jump
 mode: once
 w32 3969369F 00000000
 
-name: God Of War 3: Infinite Items Gauge
+name: Infinite Items Gauge
 mode: once
 w32 39694C74 43480000
 
-name: God Of War 3: AoB Infinite Magic
+name: AoB Infinite Magic
 mode: once
 aob 39210070FC00001E7C7D1B787C004FAE806100707C6307B4480A548160000000 39210070FC00001E7C7D1B7860000000806100707C6307B4480A548160000000

@@ -1,16 +1,16 @@
 # Killzone HD
 
-name: Killzone: Memory Infinite Ammo In Clip
+name: Memory Infinite Ammo In Clip
 mode: once
 w32 32FD3BF8 000003E7
 w32 37E8F834 000003E7
 
-name: Killzone: ASM Infinite Ammo In Clip
+name: ASM Infinite Ammo In Clip
 mode: once
 w32 002DE910 60000000
 w32 002DE914 60000000
 
-name: Killzone: Memory Fast Health Regeneration
+name: Memory Fast Health Regeneration
 mode: once
 w32 32FA38EC 42340000
 w32 382F059C 42340000
@@ -18,18 +18,18 @@ w32 382F05BC 42340000
 w32 382F087C 42340000
 w32 382F09AC 42340000
 
-name: Killzone: ASM Fast Health Regeneration
+name: ASM Fast Health Regeneration
 mode: once
 w32 001B4F90 FC421028
 
-name: Killzone: Out Of Bound Health Regeneration
+name: Out Of Bound Health Regeneration
 mode: once
 w32 001B4F58 C01F0050
 
-name: Killzone: Memory Infinite Endurance
+name: Memory Infinite Endurance
 mode: once
 w32 32FAEA8C 42C80000
 
-name: Killzone: ASM Infinite Endurance
+name: ASM Infinite Endurance
 mode: once
 w32 001FADD8 FC423828

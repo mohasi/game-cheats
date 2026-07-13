@@ -1,33 +1,33 @@
 # Metal Gear Solid 2 - Sons of Liberty HD
 
-name: Metal Gear Solid 2 Sons Of Liberty: No Enemy Mode
+name: No Enemy Mode
 mode: once
 w32 005B60B0 408001FC
 
-name: Metal Gear Solid 2 Sons Of Liberty: Rapid Fire
+name: Rapid Fire
 mode: once
 w32 007DC644 39000000
 
-name: Metal Gear Solid 2 Sons Of Liberty: Invincible Mode
+name: Invincible Mode
 mode: once
 w32 007E46E0 38C00000
 
-name: Metal Gear Solid 2 Sons Of Liberty: Alert Disable
+name: Alert Disable
 mode: once
 w32 00535AAC 4080E5B0
 
-name: Metal Gear Solid 2 Sons Of Liberty: AoB No Enemy Mode
+name: AoB No Enemy Mode
 mode: once
 aob 418001FC38600065483DC3A1600000002C8300004186022C483DB43D60000000 408001FC38600065483DC3A1600000002C8300004186022C483DB43D60000000
 
-name: Metal Gear Solid 2 Sons Of Liberty: AoB Rapid Fire
+name: AoB Rapid Fire
 mode: once
 aob 390000013BA00000911F0A7893BF0A7C299A000180160000901F0A84 390000003BA00000911F0A7893BF0A7C299A000180160000901F0A84
 
-name: Metal Gear Solid 2 Sons Of Liberty: AoB Invincible Mode
+name: AoB Invincible Mode
 mode: once
 aob 38C000017FA3EB789009000048125695600000007FA3EB787E4493787B7B0020 38C000007FA3EB789009000048125695600000007FA3EB787E4493787B7B0020
 
-name: Metal Gear Solid 2 Sons Of Liberty: AoB Alert Disable
+name: AoB Alert Disable
 mode: once
 aob 4080E5B07B3F002038600400833F0020487431F5 4180E5B07B3F002038600400833F0020487431F5

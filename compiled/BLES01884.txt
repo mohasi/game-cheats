@@ -1,44 +1,44 @@
 # Assassin's Creed IV: Black Flag
 
-name: Assassin's Creed 4 Black Flag: Infinite Health
+name: Infinite Health
 mode: once
 w32 0177D59C A07C005C
 
-name: Assassin's Creed 4 Black Flag: Infinite Oxygen Gauge
+name: Infinite Oxygen Gauge
 mode: once
 w32 0176D904 D0830080
 
-name: Assassin's Creed 4 Black Flag: Faster Reload (Can Not Use Dual Pistols)
+name: Faster Reload (Can Not Use Dual Pistols)
 mode: once
 w32 014C2710 60000000
 w32 014C2714 7C0B0378
 
-name: Assassin's Creed 4 Black Flag: Items Do Not Decrease Gold
+name: Items Do Not Decrease Gold
 mode: once
 w32 018A54A8 38800000
 
-name: Assassin's Creed 4 Black Flag: Infinite Ship Health
+name: Infinite Ship Health
 mode: once
 w32 01ACD564 EC0D0032
 w32 01ACD568 D1A300D8
 w32 01ACD56C 48000010
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Health
+name: Max + Infinite Health
 mode: once
 w32 0177D578 60000000
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Breath
+name: Max + Infinite Breath
 mode: once
 w32 0177881C C0090084
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Player Ship Resistance
+name: Max + Infinite Player Ship Resistance
 mode: once
 w32 01ACD558 D1A300D8
 w32 01ACD568 C18300D8
 w32 01ACD56C 48000010
 w32 01ACD9B4 EC000024
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Player Ship Swivel Gun
+name: Max + Infinite Player Ship Swivel Gun
 mode: once
 w32 01F16B84 813D000C
 w32 01F16B88 38210090
@@ -47,7 +47,7 @@ w32 01F16B90 83E90048
 w32 01F16B94 93E9003C
 w32 01F16B98 60000000
 
-name: Assassin's Creed 4 Black Flag: Player Ship Is Never Wanted
+name: Player Ship Is Never Wanted
 mode: once
 w32 01E4D1B0 38000000
 w32 01E4D1B4 3BEB00B4
@@ -57,58 +57,58 @@ w32 01E4D1CC 38000000
 w32 01E4D1D0 901F0004
 w32 01E4D1D4 7C1E0378
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Rowboat Health
+name: Max + Infinite Rowboat Health
 mode: once
 w32 019A2390 FC000090
 w32 019A2394 FDA00090
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Health For Allies
+name: Max + Infinite Health For Allies
 mode: once
 w32 0185300C A01F005C
 w32 01853010 B01F005A
 w32 01885D68 A01F005C
 w32 01885D6C B01F005A
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Health For Allies During Main Missions
+name: Max + Infinite Health For Allies During Main Missions
 mode: once
 w32 01885D04 48000010
 w32 01885D2C 48000008
 w32 01885D3C 48000008
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Health For Ally Ships
+name: Max + Infinite Health For Ally Ships
 mode: once
 w32 01DF9A94 C3FF00D4
 w32 01DF9AA0 D3FF00D8
 w32 01DF9AA4 C009FA90
 
-name: Assassin's Creed 4 Black Flag: Max Money + Cargo + Resources + Ammo On Gain
+name: Max Money + Cargo + Resources + Ammo On Gain
 mode: once
 w32 01CF6CF0 60000000
 w32 01CF6D48 60000000
 
-name: Assassin's Creed 4 Black Flag: Infinite Money + Cargo + Resources + Ammo After Use
+name: Infinite Money + Cargo + Resources + Ammo After Use
 mode: once
 w32 01CECBD4 7C0007B4
 w32 01CF1320 7C090378
 
-name: Assassin's Creed 4 Black Flag: Infinite Ammo In Clip For Firearms
+name: Infinite Ammo In Clip For Firearms
 mode: once
 w32 014B4134 8003000C
 w32 014B4138 90030008
 w32 014B413C 60000000
 w32 014C2714 7C0B0378
 
-name: Assassin's Creed 4 Black Flag: Max + Infinite Duration For Sleep Darts
+name: Max + Infinite Duration For Sleep Darts
 mode: once
 w32 014A5990 C01F051C
 
-name: Assassin's Creed 4 Black Flag: Instantly Counter Attack
+name: Instantly Counter Attack
 mode: once
 w32 011AA628 60000000
 w32 012C3C18 4800001C
 w32 01890C78 60000000
 
-name: Assassin's Creed 4 Black Flag: Predators Auto Fight Combo
+name: Predators Auto Fight Combo
 mode: once
 w32 016DA390 60000000
 w32 017220E0 480005BC
@@ -116,116 +116,116 @@ w32 017221A0 60000000
 w32 017221F4 48000298
 w32 017288A8 60000000
 
-name: Assassin's Creed 4 Black Flag: Infinite Health
+name: Infinite Health
 mode: once
 w32 0179B980 A07C005C
 
-name: Assassin's Creed 4 Black Flag: Infinite Health (Test)
+name: Infinite Health (Test)
 mode: once
 w32 01789E34 B0BE005A
 w32 018E1340 B0BE005A
 
-name: Assassin's Creed 4 Black Flag: Infinite Ship Health
+name: Infinite Ship Health
 mode: once
 w32 01AE2BEC D1A300D8
 w32 01AE2BF0 48000010
 
-name: Assassin's Creed 4 Black Flag: Infinite Oxygen Gauge
+name: Infinite Oxygen Gauge
 mode: once
 w32 01789F14 D0830080
 
-name: Assassin's Creed 4 Black Flag: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 01D064E0 7C090378
 
-name: Assassin's Creed 4 Black Flag: Ammo Increases
+name: Ammo Increases
 mode: once
 w32 01D064E0 7D3F0214
 
-name: Assassin's Creed 4 Black Flag: Ship Swivel Gun Ammo Does Not Decrease
+name: Ship Swivel Gun Ammo Does Not Decrease
 mode: once
 w32 01F2C62C 3BE00005
 
-name: Assassin's Creed 4 Black Flag: Faster Reload (Can Not Use Dual Pistols)
+name: Faster Reload (Can Not Use Dual Pistols)
 mode: once
 w32 014E4540 60000000
 w32 014E4544 7C0B0378
 
-name: Assassin's Creed 4 Black Flag: Money 999999999 After Pickup + Steal
+name: Money 999999999 After Pickup + Steal
 mode: once
 w32 01D0BF08 60000000
 
-name: Assassin's Creed 4 Black Flag: Items Do Not Decrease Gold
+name: Items Do Not Decrease Gold
 mode: once
 w32 018C3A40 38800000
 
-name: Assassin's Creed 4 Black Flag: Sleep Never Ends
+name: Sleep Never Ends
 mode: once
 w32 014C1F68 C19F051C
 
-name: Assassin's Creed 4 Black Flag: Infinite Ship Health
+name: Infinite Ship Health
 mode: once
 w32 01B17798 D1A300D0
 w32 01B1779C 48000010
 
-name: Assassin's Creed 4 Black Flag: Unlock All Cheats With Saving Or During Mission
+name: Unlock All Cheats With Saving Or During Mission
 mode: once
 w32 01FC5E68 38600000
 w32 01FC5F6C 38600001
 w32 01070D48 38000001
 w32 01FC0D24 39200000
 
-name: Assassin's Creed 4 Black Flag: Infinite Oxygen
+name: Infinite Oxygen
 mode: once
 w32 0179D4B0 D0830080
 
-name: Assassin's Creed 4 Black Flag: Gold Does Not Decrease
+name: Gold Does Not Decrease
 mode: once
 w32 018D6870 38800000
 
-name: Assassin's Creed 4 Black Flag: Infinite Health
+name: Infinite Health
 mode: once
 w32 017AD2C0 A07C005C
 
-name: Assassin's Creed 4 Black Flag: Fast Reload
+name: Fast Reload
 mode: once
 w32 014F184C 60000000
 w32 014F1850 7C0B0378
 w32 014F1854 91630008
 w32 014F1858 4800005C
 
-name: Assassin's Creed 4 Black Flag: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 01CF1320 7C090378
 
-name: Assassin's Creed 4 Black Flag: Infinite Ship Health
+name: Infinite Ship Health
 mode: once
 w32 01B054F0 EC0D0032
 w32 01B054F4 D1A300D8
 w32 01B054F8 48000010
 
-name: Assassin's Creed 4 Black Flag: Infinite Oxygen Gauge
+name: Infinite Oxygen Gauge
 mode: once
 w32 0176DC8C D0830080
 
-name: Assassin's Creed 4 Black Flag: Faster Reload (Can Not Use Dual Pistols)
+name: Faster Reload (Can Not Use Dual Pistols)
 mode: once
 w32 014C2A98 60000000
 w32 014C2A9C 7C0B0378
 
-name: Assassin's Creed 4 Black Flag: Items Do Not Decrease Gold
+name: Items Do Not Decrease Gold
 mode: once
 w32 018A5830 38800000
 
-name: Assassin's Creed 4 Black Flag: Sleep Never Ends
+name: Sleep Never Ends
 mode: once
 w32 014A5CA4 C19F051C
 
-name: Assassin's Creed 4 Black Flag: Faster Reload (Can Not Use Dual Pistols)
+name: Faster Reload (Can Not Use Dual Pistols)
 mode: once
 w32 014F184C 60000000
 w32 014F1850 7C0B0378
 
-name: Assassin's Creed 4 Black Flag: Items Do Not Decrease Gold
+name: Items Do Not Decrease Gold
 mode: once
 w32 018D6870 38800000

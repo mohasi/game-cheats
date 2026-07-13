@@ -1,13 +1,13 @@
 # Rorona no Atelier: Arland no Renkinjutsushi (PlayStation 3 the Best)
 
-name: Rorona No Atelier Arland No Renkinjutsushi BV: Gold 9999999
+name: Gold 9999999
 mode: once
 w32 013150D0 0098967F
 
-name: Rorona No Atelier Arland No Renkinjutsushi BV: Characters EXP 9999999
+name: Characters EXP 9999999
 mode: once
 w32 0131642C 0098967F
 
-name: Rorona No Atelier Arland No Renkinjutsushi BV: Alchemy EXP 9999999
+name: Alchemy EXP 9999999
 mode: once
 w32 01314AC4 0098967F

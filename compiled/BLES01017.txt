@@ -1,35 +1,35 @@
 # 007: Blood Stone
 
-name: James Bond 007 Blood Stone: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w32 3936015C 0000001D
 
-name: James Bond 007 Blood Stone: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 006CABFC 38690000
 w32 006CAC04 60000000
 
-name: James Bond 007 Blood Stone: Memory Infinite Adjusted Shoot
+name: Memory Infinite Adjusted Shoot
 mode: once
 w32 38786C24 40400000
 
-name: James Bond 007 Blood Stone: ASM Infinite Adjusted Shoot
+name: ASM Infinite Adjusted Shoot
 mode: once
 w32 0082FF28 60000000
 w32 0082FF2C 60000000
 
-name: James Bond 007 Blood Stone: Memory Instant Max Adjusted Shoot
+name: Memory Instant Max Adjusted Shoot
 mode: once
 w32 38786C24 40400000
 
-name: James Bond 007 Blood Stone: ASM Instant Max Adjusted Shoot
+name: ASM Instant Max Adjusted Shoot
 mode: once
 w32 00831398 ED80602A
 
-name: James Bond 007 Blood Stone: Memory Infinite Health + One Hit Kill
+name: Memory Infinite Health + One Hit Kill
 mode: once
 w32 3826A37C 3F800000
 
-name: James Bond 007 Blood Stone: ASM Infinite Health + One Hit Kill
+name: ASM Infinite Health + One Hit Kill
 mode: once
 w32 008C9118 D0A30004

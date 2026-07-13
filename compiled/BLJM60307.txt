@@ -1,35 +1,35 @@
 # Troy Musou
 
-name: Warriors Legends Of Troy: Infinite Health
+name: Infinite Health
 mode: once
 w32 0004E098 D3DF07C0
 
-name: Warriors Legends Of Troy: Infinite Rage
+name: Infinite Rage
 mode: once
 w32 0004E6C8 D3DF07C4
 w32 0004E714 D3DF07C4
 
-name: Warriors Legends Of Troy: Infinite Kleos (Items Only)
+name: Infinite Kleos (Items Only)
 mode: once
 w32 0013E150 7CCF2010
 
-name: Warriors Legends Of Troy: Max And Total Combat Kleos x9999
+name: Max And Total Combat Kleos x9999
 mode: once
 w32 00049948 309D270F
 
-name: Warriors Legends Of Troy: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob FC41E028FC220F2ED03F07C0E80100E07C0803A6 FC41E028FC220F2ED3DF07C0E80100E07C0803A6
 
-name: Warriors Legends Of Troy: AoB Infinite Rage
+name: AoB Infinite Rage
 mode: once
 aob EC3E0072EC2118BAD03F07C43C80000580BF05C8 EC3E0072EC2118BAD3DF07C43C80000580BF05C8
 aob FC41F028FC220FAED03F07C4E80101007C0803A6 FC41F028FC220FAED3DF07C4E80101007C0803A6
 
-name: Warriors Legends Of Troy: AoB Infinite Kleos (Items Only)
+name: AoB Infinite Kleos (Items Only)
 mode: once
 aob 809B000480BB001C7CC32010809B001463430000 809B000480BB001C7CCF2010809B001463430000
 
-name: Warriors Legends Of Troy: AoB Max And Total Combat Kleos x9999
+name: AoB Max And Total Combat Kleos x9999
 mode: once
 aob 830100DC306300207C9DC014786300203B000000 830100DC30630020309D270F786300203B000000

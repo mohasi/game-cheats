@@ -1,13 +1,13 @@
 # Revenge of Shinobi, The
 
-name: The Revenge Of Shinobi: Unlimited Life Energy
+name: Unlimited Life Energy
 mode: once
 w8 31A7E7BB 08
 
-name: The Revenge Of Shinobi: Memory Infinite Shuriken + Health + Life + No Clipping
+name: Memory Infinite Shuriken + Health + Life + No Clipping
 mode: once
 w8 320FE7BF 5A
 
-name: The Revenge Of Shinobi: Memory Infinite Shuriken + Health + Life + No Clipping
+name: Memory Infinite Shuriken + Health + Life + No Clipping
 mode: once
 w32 0029777C 60000000

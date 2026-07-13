@@ -1,61 +1,21 @@
 # Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze
 
-name: Teenage Mutant Ninja Turtles Attention Au Mutagène: Infinite Shurikens
+name: Infinite Shurikens
 mode: once
 w32 0035CFD0 60A60000
 
-name: Teenage Mutant Ninja Turtles Attention Au Mutagène: Invincibility
+name: Invincibility
 mode: once
 w32 005C78C0 48000014
 
-name: Teenage Mutant Ninja Turtles Attention Au Mutagène: XP Max x99 (Beat 2 enemies for max)
+name: XP Max x99 (Beat 2 enemies for max)
 mode: once
 w32 0035D88C 3085EA60
 
-name: Teenage Mutant Ninja Turtles Attention Au Mutagène: AoB Infinite Shurikens
+name: AoB Infinite Shurikens
 mode: once
 aob 7CC42810887F0088 60A60000887F0088
 
-name: Teenage Mutant Ninja Turtles Attention Au Mutagène: AoB Invincibility
-mode: once
-aob 80A5006488C5001C2C06000041820014 80A5006488C5001C2C06000048000014
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze: Infinite Shurikens
-mode: once
-w32 0035CFD0 60A60000
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze: Invincibility
-mode: once
-w32 005C78C0 48000014
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze: XP Max x99 (Beat 2 enemies for max)
-mode: once
-w32 0035D88C 3085EA60
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze: AoB Infinite Shurikens
-mode: once
-aob 7CC42810887F0088 60A60000887F0088
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze: AoB Invincibility
-mode: once
-aob 80A5006488C5001C2C06000041820014 80A5006488C5001C2C06000048000014
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze - Copy: Infinite Shurikens
-mode: once
-w32 0035CFD0 60A60000
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze - Copy: Invincibility
-mode: once
-w32 005C78C0 48000014
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze - Copy: XP Max x99 (Beat 2 enemies for max)
-mode: once
-w32 0035D88C 3085EA60
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze - Copy: AoB Infinite Shurikens
-mode: once
-aob 7CC42810887F0088 60A60000887F0088
-
-name: Teenage Mutant Ninja Turtles Danger Of The Ooze - Copy: AoB Invincibility
+name: AoB Invincibility
 mode: once
 aob 80A5006488C5001C2C06000041820014 80A5006488C5001C2C06000048000014

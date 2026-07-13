@@ -1,21 +1,21 @@
 # Z/X: Zekkai no Crusade
 
-name: ZX Zillions Of Enemy X - Zekkai No Crusade: Infinite AP
+name: Infinite AP
 mode: once
 w32 0015DC50 7C842A14
 
-name: ZX Zillions Of Enemy X - Zekkai No Crusade: Infinite Turns
+name: Infinite Turns
 mode: once
 w32 00092BE8 30840000
 
-name: ZX Zillions Of Enemy X - Zekkai No Crusade: Code Hack
+name: Code Hack
 mode: once
 w32 00079F24 60000000
 
-name: ZX Zillions Of Enemy X - Zekkai No Crusade: Infinite Money
+name: Infinite Money
 mode: once
 w32 00079348 7C832378
 
-name: ZX Zillions Of Enemy X - Zekkai No Crusade: Card x10
+name: Card x10
 mode: once
 w32 0007A404 38C6000A

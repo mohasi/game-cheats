@@ -1,13 +1,13 @@
 # Street Fighter III - 3rd Strike - Online Edition
 
-name: Street Fighter III Third Strike: 1P Infinite HP
+name: 1P Infinite HP
 mode: once
 w32 00BCC708 00A000A0
 
-name: Street Fighter III Third Strike: 1P Infinite MP
+name: 1P Infinite MP
 mode: once
 w32 00CCE738 00030003
 
-name: Street Fighter III Third Strike: 2P HP Set 0
+name: 2P HP Set 0
 mode: once
 w32 00BCCB7C 00000000

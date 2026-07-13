@@ -54,56 +54,20 @@ w32 007A7550 30A4000A
 w32 007A7564 907F0008
 w32 007A75AC 90FF000C
 
-name: Raymand Legends: Memory Lot Of Lums At End Of Level
-mode: once
-w32 31729B68 0000005A
-w32 32474900 0000005A
-w32 34EC8824 0000000F
-w32 3541C2B4 0000005A
-
-name: Raymand Legends: ASM Lot Of Lums At End Of Level
-mode: once
-w32 0010C978 7CA54814
-w32 004E2FA8 7C85F014
-w32 004E2FB8 901F00B4
-
-name: Raymand Legends: Memory Infinite Health
-mode: once
-w32 31795278 00000002
-
-name: Raymand Legends: ASM Infinite Health
-mode: once
-w32 00112040 60000000
-w32 0011205C 60000000
-
-name: Raymand Legends: Memory Lot Infinite Lums On Gallery Menu
+name: Memory Lot Infinite Lums On Gallery Menu
 mode: once
 w32 32474900 0000000F
 w32 34EC8824 0000000F
 
-name: Raymand Legends: ASM Lot Infinite Lums On Gallery Menu
+name: ASM Lot Infinite Lums On Gallery Menu
 mode: once
 w32 0010C678 901A0148
 
-name: Raymand Legends: Memory Unlock All Hero Gallery Menu
+name: Memory Unlock All Hero Gallery Menu
 mode: once
 w32 32474900 0000000F
 w32 34EC8824 0000000F
 
-name: Raymand Legends: ASM Unlock All Hero Gallery Menu
+name: ASM Unlock All Hero Gallery Menu
 mode: once
 w32 0010C678 901A0148
-
-name: Raymand Legends: Memory Unknown Code 1
-mode: once
-w32 30D6DAAC 00000005
-w32 31269284 00000005
-w32 31729B10 00000005
-
-name: Raymand Legends: ASM Unknown Code 1
-mode: once
-w32 0010CCCC 30A5000A
-w32 0010CCD0 910403A0
-w32 007A7550 30A4000A
-w32 007A7564 907F0008
-w32 007A75AC 90FF000C

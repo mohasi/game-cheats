@@ -1,29 +1,29 @@
 # Biohazard Zero: HD Remaster
 
-name: Biohazard 0: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 00153944 48000048
 
-name: Biohazard 0: Infinite Ammo v2 (Infinity Symbol)
+name: Infinite Ammo v2 (Infinity Symbol)
 mode: once
 w32 00152C20 3BE000FF
 w32 00152C24 93E30000
 w32 00152C28 60000000
 
-name: Biohazard 0: Low Time
+name: Low Time
 mode: once
 w32 0026D8EC 60000000
 
-name: Biohazard 0: Save 0
+name: Save 0
 mode: once
 w32 00313814 38800000
 
-name: Biohazard 0: Infinite Countdown Timer
+name: Infinite Countdown Timer
 mode: once
 w32 0038C8D8 60000000
 w32 002122F8 60000000
 
-name: Biohazard 0: Infinite Health
+name: Infinite Health
 mode: once
 w32 00AA04A4 80D90244
 w32 00AA04A8 2C06000C
@@ -34,7 +34,7 @@ w32 00AA04B8 80D91044
 w32 00AA04BC 4B7163B4
 w32 001B686C 488E9C38
 
-name: Biohazard 0: Never Poisoned
+name: Never Poisoned
 mode: once
 w32 00AA050C 819F0244
 w32 00AA0510 2C0C000C
@@ -50,7 +50,7 @@ w32 00AA0534 83FF68F8
 w32 00AA0538 4E800020
 w32 001995E4 48906F29
 
-name: Biohazard 0: Invincible
+name: Invincible
 mode: once
 w32 00AA04E8 80D90244
 w32 00AA04EC 2C06000C
@@ -63,7 +63,7 @@ w32 00AA0504 80D916FC
 w32 00AA0508 4E800020
 w32 001B6848 488E9CA1
 
-name: Biohazard 0: Real Time Item Modifier
+name: Real Time Item Modifier
 mode: once
 w32 00ACE618 3A310001
 w32 00ACE61C 2C110015
@@ -109,31 +109,31 @@ w32 00ACE6B8 92030004
 w32 00ACE6BC 4BFFFF98
 w32 009D1ED4 480FC744
 
-name: Biohazard 0: Bullets Never Decrease
+name: Bullets Never Decrease
 mode: once
 w32 00153948 7F9FE378
 
-name: Biohazard 0: Health Never Decreases
+name: Health Never Decreases
 mode: once
 w32 00198BB0 60000000
 w32 00199120 48000024
 
-name: Biohazard 0: 0 Play Time
+name: 0 Play Time
 mode: once
 w32 002122F0 60000000
 w32 0026D8EC C0840090
 w32 0038C8D8 60000000
 
-name: Biohazard 0: AoB Bullets Never Decrease
+name: AoB Bullets Never Decrease
 mode: once
 aob 7FFFE01083BE003C57FF043E281D0006 7F9FE37883BE003C57FF043E281D0006
 
-name: Biohazard 0: AoB Health Never Decreases
+name: AoB Health Never Decreases
 mode: once
 aob 4801EC65E80100C07C0803A6EB610088 60000000E80100C07C0803A6EB610088
 aob 41820024636300004801B64D2C030010 48000024636300004801B64D2C030010
 
-name: Biohazard 0: AoB 0 Play Time
+name: AoB 0 Play Time
 mode: once
 aob EC2120FCFC01F800D02300004CC01382 EC2120FCFC01F800600000004CC01382
 aob C0840090EC2100B2EC21193AD03F0040 C0840090EC2100B2EC21193AD0600000

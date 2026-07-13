@@ -62,50 +62,6 @@ name: Can Never Be Seen + Invincible
 mode: once
 w32 007A0A4C 3C604080
 
-name: Hitman Absolution Complete Edition: Never Dead Mode
-mode: once
-w32 00F8AEE0 C2C80000
-
-name: Hitman Absolution Complete Edition: Can Never Be Seen + Invincible
-mode: once
-w32 007AE7EC 3C604080
-
-name: Hitman Absolution Complete Edition: Infinite Health
-mode: once
-w32 004FF8B0 3D604480
-w32 004FF8B4 91640218
-w32 004FF8B8 9164021C
-
-name: Hitman Absolution Complete Edition: Max And Infinite Health
-mode: once
-w32 0087D128 60000000
-w32 0087E090 C03E021C
-
-name: Hitman Absolution Complete Edition: Max And Infinite Instinct
-mode: once
-w32 00669FA0 FC400890
-
-name: Hitman Absolution Complete Edition: Infinite Ammo After Reload
-mode: once
-w32 006635D0 7F43D378
-w32 00663884 7F23CB78
-
-name: Hitman Absolution Complete Edition: Infinite Ammo After Reload (Clipless)
-mode: once
-w32 00770208 60000000
-
-name: Hitman Absolution Complete Edition: Suspicion Meter Never Increases
-mode: once
-w32 00792974 D0830084
-
-name: Hitman Absolution Complete Edition: AoB Can Never Be Seen + Invincible
-mode: once
-aob 3C603F8080BF035438800085907F036C60A3000048 3C60408080BF035438800085907F036C60A3000048
-
-name: Hitman Absolution Complete Edition: AoB Infinite Health
-mode: once
-aob C0440218FC020800418100084800003CEC4208283C 3D604480916402189164021C4800003CEC4208283C
-
 name: Infinite Health
 mode: once
 w32 005005B8 3D604480

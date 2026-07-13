@@ -1,23 +1,5 @@
 # Kidou Senshi Gundam: Extreme VS Full Boost
 
-name: Gundam Extreme VS Full Boost: Memory Ammo
-mode: once
-w32 41AF8010 00000008
-w32 41C14BBC 00000008
-w32 41E60BDC 00000008
-w32 42080E54 00000008
-w32 4FBA0BB0 00000006
-
-name: Gundam Extreme VS Full Boost: Memory Infinite Armor
-mode: once
-w32 41C14144 000002A8
-w32 41EA0164 000002A8
-
-name: Gundam Extreme VS Full Boost: ASM Infinite Armor
-mode: once
-w32 00AB039C 901F0114
-w32 00AB03A4 60000000
-
 name: Memory Ammo
 mode: once
 w32 41AF8010 00000008

@@ -23,119 +23,119 @@ name: AoB Max Vehicle Health
 mode: once
 aob 78630020FB210078FB410080FB610088FB810090F80100C04BF4951960000000815E80CC393D1ADC801E80D0915D00007FAAEB7880FE80D438DD14A03D60FFFF3B8000003B400000940A1AD439000DAC3800000F616B0DFF79390020 78630020FB210078FB410080FB610088FB810090F80100C04BF4951960000000815E80CC393D1ADC801E80D0915D00007FAAEB7880FE80D438DD14A03D60FFFF3B8000003B400000940A1AD439007FFF3800000F616B0DFF79390020
 
-name: Resident Evil 5 Gold Edition: 1 Hit Kill
+name: 1 Hit Kill
 mode: once
 w32 0053F9E8 60000000
 
-name: Resident Evil 5 Gold Edition: Mercenaries Max Score
+name: Mercenaries Max Score
 mode: once
 w32 00017608 3FA0000F
 w32 0001760C 63BD423F
 
-name: Resident Evil 5 Gold Edition: Mercenaries Combo Never Break
+name: Mercenaries Combo Never Break
 mode: once
 w32 0001E924 60000000
 
-name: Resident Evil 5 Gold Edition: Mercenaries Max Time
+name: Mercenaries Max Time
 mode: once
 w32 00920964 3D2045B9
 w32 00920968 912B03E4
 
-name: Resident Evil 5 Gold Edition: Invincible
+name: Invincible
 mode: once
 w32 009C7000 801700D0
 w32 009C7004 2F80000F
 w32 009C7008 419D006C
 
-name: Resident Evil 5 Gold Edition: Speedhack 2x
+name: Speedhack 2x
 mode: once
 w32 008609FC EC7BD82A
 
-name: Resident Evil 5 Gold Edition: Speedhack 5x
+name: Speedhack 5x
 mode: once
 w32 008609FC C07E0070
 
-name: Resident Evil 5 Gold Edition: Speedhack 4x
+name: Speedhack 4x
 mode: once
 w32 008607C8 EF63182A
 w32 008609FC EC7BD82A
 
-name: Resident Evil 5 Gold Edition: Mercenaries Time Never Decrease + Combo Never Break
+name: Mercenaries Time Never Decrease + Combo Never Break
 mode: once
 w32 0001E85C C3FE801C
 
-name: Resident Evil 5 Gold Edition: Mercenaries Add 9999 sec by Killing with Melee
+name: Mercenaries Add 9999 sec by Killing with Melee
 mode: once
 w32 0002319C 3880270F
 
-name: Resident Evil 5 Gold Edition: Mercenaries Add 999 sec by Killing with Melee
+name: Mercenaries Add 999 sec by Killing with Melee
 mode: once
 w32 0002319C 388003E7
 
-name: Resident Evil 5 Gold Edition: Mercenaries Add 99 sec by Killing with Melee
+name: Mercenaries Add 99 sec by Killing with Melee
 mode: once
 w32 0002319C 38800063
 
-name: Resident Evil 5 Gold Edition: Money
+name: Money
 mode: once
 w32 38879778 0098967F
 
-name: Resident Evil 5 Gold Edition: Infinite Money
+name: Infinite Money
 mode: once
 w32 00AEA734 7D244B78
 
-name: Resident Evil 5 Gold Edition: EX Point
+name: EX Point
 mode: once
 w32 3887977C 05F5E0FF
 
-name: Resident Evil 5 Gold Edition: Infinite HP
+name: Infinite HP
 mode: once
 w32 0085EEB4 60000000
 w32 0085EF38 60000000
 
-name: Resident Evil 5 Gold Edition: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 001A7AB4 60000000
 w32 001A812C 60000000
 w32 009D2B18 60000000
 
-name: Resident Evil 5 Gold Edition: AoB Invincible
+name: AoB Invincible
 mode: once
 aob 801700C42F800001419E006C6000000038000300EAA10328EAC10330EAE10338 801700D02F80000F419D006C6000000038000300EAA10328EAC10330EAE10338
 
-name: Resident Evil 5 Gold Edition: AoB 1 Hit Kill
+name: AoB 1 Hit Kill
 mode: once
 aob 409D000838607FFF 6000000038607FFF
 
-name: Resident Evil 5 Gold Edition: AoB Mercenaries Max Score
+name: AoB Mercenaries Max Score
 mode: once
 aob 800B00087FBD0214 3FA0000F63BD423F
 
-name: Resident Evil 5 Gold Edition: AoB Mercenaries Combo Never Break
+name: AoB Mercenaries Combo Never Break
 mode: once
 aob C00B0404EC00F828 C00B040460000000
 
-name: Resident Evil 5 Gold Edition: AoB Mercenaries Max Time
+name: AoB Mercenaries Max Time
 mode: once
 aob 7C0A1C2ED00B03E4 3D2045B9912B03E4
 
-name: Resident Evil 5 Gold Edition: AoB Speedhack 2x
+name: AoB Speedhack 2x
 mode: once
 aob FC60D89054A5452E EC7BD82A54A5452E
 
-name: Resident Evil 5 Gold Edition: AoB Speedhack 4x
+name: AoB Speedhack 4x
 mode: once
 aob FF601890F8010110 EF63182AF8010110
 aob FC60D89054A5452E EC7BD82A54A5452E
 
-name: Resident Evil 5 Gold Edition: AoB Speedhack 5x
+name: AoB Speedhack 5x
 mode: once
 aob FC60D89054A5452E C07E007054A5452E
 
-name: Resident Evil 5 Gold Edition: AoB Mercenaries Time Never Decrease + Combo Never Break
+name: AoB Mercenaries Time Never Decrease + Combo Never Break
 mode: once
 aob C3EB002C812A82D4 C3FE801C812A82D4
 
-name: Resident Evil 5 Gold Edition: AoB Mercenaries Add 30 Seconds By Killing With Melee
+name: AoB Mercenaries Add 30 Seconds By Killing With Melee
 mode: once
 aob 409E024C7FE3FB7838800005 409E024C7FE3FB783880001E

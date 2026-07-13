@@ -87,16 +87,16 @@ mode: once
 w32 00F84900 0000270F
 w32 00F84904 0000270F
 
-name: Call Of Duty Black Ops Dubbed Edition: Infinite Grenade
+name: Infinite Grenade
 mode: once
 w16 010BBB88 0063
 w16 010BBB90 0063
 
-name: Call Of Duty Black Ops Subtitle: Infinite Grenade
+name: Infinite Grenade
 mode: once
 w16 010DB868 0063
 w16 010DB870 0063
 
-name: Call Of Duty Black Ops Subtitle: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 000A18AC 7FC0F378

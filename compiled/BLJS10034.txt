@@ -1,93 +1,93 @@
 # The Elder Scrolls IV: Oblivion (Game of the Year Edition)
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Invincible
+name: Invincible
 mode: once
 w32 0036FBD8 4E800020
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Health Never Decreases
+name: Health Never Decreases
 mode: once
 w32 00325B74 EC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Magic Never Decreases
+name: Magic Never Decreases
 mode: once
 w32 00325B44 EC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Stamina Never Decreases
+name: Stamina Never Decreases
 mode: once
 w32 00325B5C EC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Oxygen Never Decreases
+name: Oxygen Never Decreases
 mode: once
 w32 00543FF8 60000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Infinite Weapon Charge
+name: Infinite Weapon Charge
 mode: once
 w32 0019C90C D009000C
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Weapon And Armor Health Never Decrease
+name: Weapon And Armor Health Never Decrease
 mode: once
 w32 0019BF98 D009000C
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Upgrade A Stat To Max 255
+name: Upgrade A Stat To Max 255
 mode: once
 w32 0001E864 3B8000FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Max Stats
+name: Max Stats
 mode: once
 w32 0001E90C 386000FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Saveable Max Stats
+name: Saveable Max Stats
 mode: once
 w32 0001E8F8 7C6307B4
 w32 0001E900 7FBD1A14
 w32 0001E908 386000FF
 w32 0001E90C 987D0004
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Max Skill Level On Increase
+name: Max Skill Level On Increase
 mode: once
 w32 000BC900 3BE00064
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Fast Leveling
+name: Fast Leveling
 mode: once
 w32 00370C8C FFE00890
 w32 00370C9C 48000078
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Max Gold Or Items On Gain
+name: Max Gold Or Items On Gain
 mode: once
 w32 001A56DC 3C803B9A
 w32 001A56E4 6084C9FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Max Gold Or Items On Loss
+name: Max Gold Or Items On Loss
 mode: once
 w32 00267DB0 3D203B9A
 w32 00267DB8 6129C9FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Gold Or Items Never Decrease
+name: Gold Or Items Never Decrease
 mode: once
 w32 00267DC0 60000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Unlimited Training
+name: Unlimited Training
 mode: once
 w32 00370BEC 39200000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Never Encumbered
+name: Never Encumbered
 mode: once
 w32 0034B28C 4BFFFFB0
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Temporary Effects Last Forever
+name: Temporary Effects Last Forever
 mode: once
 w32 004253EC 39600000
 w32 004253F0 917F0004
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Arrows Never Decrease
+name: Arrows Never Decrease
 mode: once
 w32 0019AB88 60000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Lockpicks Never Decrease
+name: Lockpicks Never Decrease
 mode: once
 w32 005F8EE8 60000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: Hold Jump To Fly
+name: Hold Jump To Fly
 mode: once
 w32 01455720 3C807700
 w32 01455724 A0840784
@@ -109,91 +109,91 @@ w32 014557D0 7F24CB78
 w32 014557D4 48D19FE2
 w32 00D19FDC 49455722
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Invincible
+name: AoB Invincible
 mode: once
 aob 4BFFFF408122ECD0806900004BFFFFB8F821FF71 4BFFFF408122ECD0806900004BFFFFB84E800020
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Health Never Decreases
+name: AoB Health Never Decreases
 mode: once
 aob 7CE53B78C02304444BFFFA85 7CE53B78C0230444EC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Magic Never Decreases
+name: AoB Magic Never Decreases
 mode: once
 aob 7CE53B78C02304484BFFFAB5 7CE53B78C0230448EC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Stamina Never Decreases
+name: AoB Stamina Never Decreases
 mode: once
 aob 7CE53B78C023044C4BFFFA9D 7CE53B78C023044CEC210828
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Oxygen Never Decreases
+name: AoB Oxygen Never Decreases
 mode: once
 aob 4E800020D0230238 4E80002060000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Infinite Weapon Charge
+name: AoB Infinite Weapon Charge
 mode: once
 aob 4BEAF6FD2C2300007C691B783860001041820024E80100A0D3E9000C 4BEAF6FD2C2300007C691B783860001041820024E80100A0D009000C
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Weapon And Armor Health Never Decrease
+name: AoB Weapon And Armor Health Never Decrease
 mode: once
 aob 4BEB00712C2300007C691B783860001041820024E80100A0D3E9000C 4BEB00712C2300007C691B783860001041820024E80100A0D009000C
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Upgrade A Stat To Max 255
+name: AoB Upgrade A Stat To Max 255
 mode: once
 aob 600000002FBD00007C6007B4 3B8000FF2FBD00007C6007B4
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Max Stats
+name: AoB Max Stats
 mode: once
 aob 60000000E80100A07C6307B47C0803A67FBD1A14887D0004 60000000E80100A07C6307B47C0803A67FBD1A14386000FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Saveable Max Stats
+name: AoB Saveable Max Stats
 mode: once
 aob 60000000E80100A07C6307B47C0803A67FBD1A14887D0004 7C6307B4E80100A07FBD1A147C0803A6386000FF987D0004
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Max Skill Level On Increase
+name: AoB Max Skill Level On Increase
 mode: once
 aob 6000000038800200 3BE0006438800200
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Fast Leveling
+name: AoB Fast Leveling
 mode: once
 aob FF9F08007FE3FB7838A000006B860001419D0078 FFE008907FE3FB7838A000006B86000148000078
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Max Gold Or Items On Gain
+name: AoB Max Gold Or Items On Gain
 mode: once
 aob 7C9A1A147F83E3787C8407B4 3C803B9A7F83E3786084C9FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Max Gold Or Items On Loss
+name: AoB Max Gold Or Items On Loss
 mode: once
 aob 813B00047EFFBB787D374850 3D203B9A7EFFBB786129C9FF
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Gold Or Items Never Decrease
+name: AoB Gold Or Items Never Decrease
 mode: once
 aob 3AE00000913B0004 3AE0000060000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Unlimited Training
+name: AoB Unlimited Training
 mode: once
 aob 817D06687C0803A639290001 817D06687C0803A639200000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Never Encumbered
+name: AoB Never Encumbered
 mode: once
 aob 7FE3FB78FF9F080040DDFFB0 7FE3FB78FF9F08004BFFFFB0
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Temporary Effects Last Forever
+name: AoB Temporary Effects Last Forever
 mode: once
 aob EC1F082AD01F0004 39600000917F0004
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Arrows Never Decrease
+name: AoB Arrows Never Decrease
 mode: once
 aob 419A004CB3E4000C 419A004C60000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Lockpicks Never Decrease
+name: AoB Lockpicks Never Decrease
 mode: once
 aob 79200560913F003C 7920056060000000
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: AoB Hold Jump To Fly
+name: AoB Hold Jump To Fly
 mode: once
 aob 0000000000000000000000002C000001000900100000000000000000014554A40145556401481368000000000000000000000000000000002C0000010009000E0000000000000000014554B0014555A401481258000000000000000000000000000000002C000001000900100000000000000000014554C0014555DC01481328000000000000000000000000000000002C000001000900030000000000000000014554D40145561C014812AC000000000000000000000000 3C807700A0840784480000202C000001000900100000000000000000014554A40145556401481368708400102B840010409E0080480000202C0000010009000E0000000000000000014554B0014555A4014812583C80004E6084A70080010964480000202C000001000900100000000000000000014554C0014555DC014813287F840040409E002C3C8042A0480000202C000001000900030000000000000000014554D40145561C014812AC909900087F24CB7848D19FE2
 aob 806E00082FA30000419E00107F24CB78 806E00082FA30000419E001049455722
 
-name: The Elder Scrolls 4 Oblivion GOTY Edition: 60 FPS
+name: 60 FPS
 mode: once
 w8 00AAED04 60

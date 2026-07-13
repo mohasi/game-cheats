@@ -1,13 +1,13 @@
 # Ratchet &amp;amp; Clank Future
 
-name: Ratchet And Clank Future Tools Of Destruction: Max Money
+name: Max Money
 mode: once
 w32 101EFF3C 3B9AC9FF
 
-name: Ratchet And Clank Future Tools Of Destruction: Infinite Money
+name: Infinite Money
 mode: once
 w32 101EFF40 3B9AC9FF
 
-name: Ratchet And Clank Future Tools Of Destruction: Exp Max
+name: Exp Max
 mode: once
 w32 101EFF38 3B9AC9FF

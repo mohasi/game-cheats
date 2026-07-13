@@ -1,25 +1,25 @@
 # Beowulf: The Game
 
-name: Beowulf: Infinite Health
+name: Infinite Health
 mode: once
 w32 00B2ADF4 60000000
 
-name: Beowulf: Instant Max Heroic Spheres
+name: Instant Max Heroic Spheres
 mode: once
 w32 00A41C24 EC3F082A
 
-name: Beowulf: Heroic Effect Always On
+name: Heroic Effect Always On
 mode: once
 w32 00A41C34 D3DD0000
 
-name: Beowulf: Never Lose Warriors
+name: Never Lose Warriors
 mode: once
 w32 0002AF1C 90030004
 w32 0002C1D0 90FC0004
 w32 0002C510 7CBA3850
 w32 0002C514 90FC0004
 
-name: Beowulf: Weapons Damage Never Decrease
+name: Weapons Damage Never Decrease
 mode: once
 w32 001AF028 60000000
 w32 001AF02C 60000000
@@ -28,10 +28,10 @@ w32 00307240 93EB0000
 w32 00307424 936B0000
 w32 00307750 93EB0000
 
-name: Beowulf: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob D03D0034813F0004C1A2C008C182C00CC0090030EC000372EDA06024FF9E6800 60000000813F0004C1A2C008C182C00CC0090030EC000372EDA06024FF9E6800
 
-name: Beowulf: AoB Instant Max Heroic Spheres
+name: AoB Instant Max Heroic Spheres
 mode: once
 aob EC3E082AC04900004BFC1809E8410028D03D000081228A883BC0000081290014 EC3F082AC04900004BFC1809E8410028D03D000081228A883BC0000081290014

@@ -1,15 +1,15 @@
 # Clash of the Titans: The Videogame
 
-name: Clash Of The Titans: Invincibility
+name: Invincibility
 mode: once
 w32 0006C2CC 4E800020
 
-name: Clash Of The Titans: Infinite HP
+name: Infinite HP
 mode: once
 w32 0043C8FC C0450618
 w32 0043B2A8 D045061C
 
-name: Clash Of The Titans: Infinite Soul Gauge
+name: Infinite Soul Gauge
 mode: once
 w32 00A367C0 C00535FC
 w32 00A367C4 2805FFFF
@@ -21,7 +21,7 @@ w32 00A367D8 482CFBFA
 w32 002CFBF4 48A367C2
 w32 000A1A00 60000000
 
-name: Clash Of The Titans: Have All Weapons
+name: Have All Weapons
 mode: once
 w32 002D2254 38600001
 w32 0029FAE0 39400001
@@ -122,7 +122,7 @@ w32 00A36930 80880010
 w32 00A36934 48577E26
 w32 00577E20 48A36832
 
-name: Clash Of The Titans: Hold R1 + L1 To Fly
+name: Hold R1 + L1 To Fly
 mode: once
 w32 00A367EC 3C600119
 w32 00A367F0 9143FFF0
@@ -143,15 +143,15 @@ w32 00A36828 480669BA
 w32 0039BB14 48A367EE
 w32 000669B4 48A367FE
 
-name: Clash Of The Titans: 10,000 Gifts On Gain
+name: 10,000 Gifts On Gain
 mode: once
 w32 003922B0 3BE02710
 
-name: Clash Of The Titans: Height Speed Instantly Charged
+name: Height Speed Instantly Charged
 mode: once
 w32 0007BD6C FD89482A
 
-name: Clash Of The Titans: Max Seize Points
+name: Max Seize Points
 mode: once
 w32 002ABE0C 39407FFF
 w32 002ABE14 915E0008

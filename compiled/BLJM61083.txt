@@ -4,7 +4,7 @@ name: Motivation
 mode: once
 w32 007F5E8C 38C00000
 
-name: Stength Does Not Decrease
+name: Strength Does Not Decrease
 mode: once
 w32 007E2F3C 60000000
 

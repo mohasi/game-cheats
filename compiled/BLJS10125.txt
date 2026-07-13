@@ -1,10 +1,10 @@
 # Lollipop Chainsaw (Premium Edition)
 
-name: Lollipop Chainsaw PE: Invincible Mode
+name: Invincible Mode
 mode: once
 w32 00099620 00000000
 
-name: Lollipop Chainsaw PE: Max Coins On Gain
+name: Max Coins On Gain
 mode: once
 w32 0161CB20 3FC00098
 w32 0161CB24 63DE967F
@@ -17,7 +17,7 @@ w32 0161CB3C 83C10070
 w32 0161CB40 4E800020
 w32 000A24C4 4957A65D
 
-name: Lollipop Chainsaw PE: Infinite Health + Star Souls
+name: Infinite Health + Star Souls
 mode: once
 w32 0161CB50 80630028
 w32 0161CB54 2C1D001C
@@ -29,7 +29,7 @@ w32 0161CB68 90831FF4
 w32 0161CB6C 4AA994B8
 w32 000B6020 49566B30
 
-name: Lollipop Chainsaw PE: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0161CB70 80640000
 w32 0161CB74 2C030023

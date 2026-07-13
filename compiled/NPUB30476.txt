@@ -1,10 +1,10 @@
 # Dragon Age II
 
-name: Dragon Age 2: Infinite + No Waiting Time For Magic + Potions
+name: Infinite + No Waiting Time For Magic + Potions
 mode: once
 w32 00116044 60000000
 
-name: Dragon Age 2: Lot Of Exp On Gain
+name: Lot Of Exp On Gain
 mode: once
 w32 00179D08 D2E4001C
 w32 0011B2DC D09C005C

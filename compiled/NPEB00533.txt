@@ -1,55 +1,55 @@
 # Resident Evil Code: Veronica X
 
-name: Matt Hazard Blood Bath And Beyond: Memory Infinite Life
+name: Memory Infinite Life
 mode: once
 w32 32310A6C 40A00000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Infinite Continues
+name: Memory Infinite Continues
 mode: once
 w32 32310A70 40400000
 
-name: Matt Hazard Blood Bath And Beyond: ASM Infinite Life + Continues
+name: ASM Infinite Life + Continues
 mode: once
 w32 00219528 60000000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Infinite Grenades
+name: Memory Infinite Grenades
 mode: once
 w32 3339057C 40A00000
 
-name: Matt Hazard Blood Bath And Beyond: ASM Infinite Grenades
+name: ASM Infinite Grenades
 mode: once
 w32 00527C40 60000000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w32 3336BEE8 42B80000
 
-name: Matt Hazard Blood Bath And Beyond: ASM Infinite Ammo
+name: ASM Infinite Ammo
 mode: once
 w32 00527C40 60000000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Time Never Increases
+name: Memory Time Never Increases
 mode: once
 w32 333698B0 00006176
 
-name: Matt Hazard Blood Bath And Beyond: ASM Time Never Increases
+name: ASM Time Never Increases
 mode: once
 w32 00310A5C 60000000
 w32 00310A60 60000000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Big Score On Gain
+name: Memory Big Score On Gain
 mode: once
 w32 32310A4C 447A0000
 
-name: Matt Hazard Blood Bath And Beyond: ASM Big Score On Gain
+name: ASM Big Score On Gain
 mode: once
 w32 00219528 D30B0000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Unknown Code 1
+name: Memory Unknown Code 1
 mode: once
 w32 32310A70 40400000
 
-name: Matt Hazard Blood Bath And Beyond: Memory Unknown Code 2
+name: Memory Unknown Code 2
 mode: once
 w32 0090F790 33360CB0
 w32 009F1F78 333606D0
@@ -59,7 +59,7 @@ w32 00A5E948 00000002
 w32 00A5E94C 00000002
 w32 00A5EA30 01010101
 
-name: Matt Hazard Blood Bath And Beyond: Memory Unknown Code 3
+name: Memory Unknown Code 3
 mode: once
 w32 32428234 18803F53
 w32 32428238 999C3F19
@@ -79,7 +79,7 @@ w32 3337AE20 3F7BBBBC
 w32 3337AEE8 3F7BBBBC
 w32 33BC6854 33360CB0
 
-name: Matt Hazard Blood Bath And Beyond: ASM Infinite Ammo + Grenades
+name: ASM Infinite Ammo + Grenades
 mode: once
 w32 00527C40 60000000
 

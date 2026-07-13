@@ -1,153 +1,153 @@
 # Escha &amp;amp; Logy no Atelier: Tasogare no Sora no Renkinjutsushi
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite Items In Battle
+name: Infinite Items In Battle
 mode: once
 w32 0024D694 60000000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite Items Outside Battle
+name: Infinite Items Outside Battle
 mode: once
 w32 00286FB0 60000000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Synthesis Does Not Decrease Materials Or Items
+name: Synthesis Does Not Decrease Materials Or Items
 mode: once
 w32 0024D594 7D054378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite MP
+name: Infinite MP
 mode: once
 w32 00128954 60000000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Freeze Day (Use After Day 4-1)
+name: Freeze Day (Use After Day 4-1)
 mode: once
 w32 002A6490 7CC53378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Reset Time (Use After Day 4-1)
+name: Reset Time (Use After Day 4-1)
 mode: once
 w32 002A6490 7CA53010
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Max Effect When Synthesizing
+name: Max Effect When Synthesizing
 mode: once
 w32 002B91FC D3DC0004
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Field Event Gauge Full After 1 Battle
+name: Field Event Gauge Full After 1 Battle
 mode: once
 w32 0022AFE0 7D064378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Support Gauge Does Not Decrease
+name: Support Gauge Does Not Decrease
 mode: once
 w32 0010D5FC 7C641B78
 w32 0011E788 38A00384
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Synthesis Property Points Always 50
+name: Synthesis Property Points Always 50
 mode: once
 w32 002D0648 38800032
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite Items In Battle
+name: AoB Infinite Items In Battle
 mode: once
 aob 33BDFFFF63E30000B3BE001CE80100A0 6000000063E30000B3BE001CE80100A0
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite Items Outside Battle
+name: AoB Infinite Items Outside Battle
 mode: once
 aob 33FFFFFFB3E3001C7FE307342C030000 60000000B3E3001C7FE307342C030000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Synthesis Does Not Decrease Materials Or Items
+name: AoB Synthesis Does Not Decrease Materials Or Items
 mode: once
 aob 7CA82814FBC100702C05000040800008 7D054378FBC100702C05000040800008
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite MP
+name: AoB Infinite MP
 mode: once
 aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Freeze Day (Use After Day 4-1)
+name: AoB Freeze Day (Use After Day 4-1)
 mode: once
 aob 7CA628142C0500004180000860A40000 7CA530102C0500004180000860A40000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Reset Time (Use After Day 4-1)
+name: AoB Reset Time (Use After Day 4-1)
 mode: once
 aob 7CA628142C0500004180000860A40000 7CA530102C0500004180000860A40000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Max Effect When Synthesizing
+name: AoB Max Effect When Synthesizing
 mode: once
 aob D3FC0004631E0000C3FA0008637D0000 D3DC0004631E0000C3FA0008637D0000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Field Event Gauge Full After 1 Battle
+name: AoB Field Event Gauge Full After 1 Battle
 mode: once
 aob 7CDE2014610500002C0600C841810008 7D064378610500002C0600C841810008
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Support Gauge Does Not Decrease
+name: AoB Support Gauge Does Not Decrease
 mode: once
 aob 7C8418102C04038441810008609D0000 7C641B782C04038441810008609D0000
 aob 608500003083037090A30D6078860020 38A003843083037090A30D6078860020
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Synthesis Property Points Always 50
+name: AoB Synthesis Property Points Always 50
 mode: once
 aob 7C8428107C043800909F08A480660034 388000327C043800909F08A480660034
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite Items
+name: Infinite Items
 mode: once
 w32 0024D814 60000000
 w32 00287130 60000000
 w32 0024D714 7D054378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite MP
+name: Infinite MP
 mode: once
 w32 00128AD4 60000000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Days Do Not Progress
+name: Days Do Not Progress
 mode: once
 w32 002A6610 7CC53378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Day 1?
+name: Day 1?
 mode: once
 w32 002A6610 7CA53010
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Max Effect On Synthesis
+name: Max Effect On Synthesis
 mode: once
 w32 002B937C D3DC0004
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Field Event Gauge Max
+name: Field Event Gauge Max
 mode: once
 w32 0022B160 7D064378
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: Infinite Support Gauge
+name: Infinite Support Gauge
 mode: once
 w32 0011E908 38A00384
 w32 0010D77C 7C641B78
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: 50 PP On Change
+name: 50 PP On Change
 mode: once
 w32 002D07C8 38800032
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite Items
+name: AoB Infinite Items
 mode: once
 aob 33BDFFFF63E30000B3BE001CE80100A0 6000000063E30000B3BE001CE80100A0
 aob 33FFFFFFB3E3001C7FE307342C030000 60000000B3E3001C7FE307342C030000
 aob 7CA82814FBC100702C05000040800008 7D054378FBC100702C05000040800008
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite MP
+name: AoB Infinite MP
 mode: once
 aob 7CDF30102C0600004180000860C50000 600000002C0600004180000860C50000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Days Do Not Progress
+name: AoB Days Do Not Progress
 mode: once
 aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Day 1?
+name: AoB Day 1?
 mode: once
 aob 7CA628142C0500004180000860A40000 7CA530102C0500004180000860A40000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Max Effect On Synthesis
+name: AoB Max Effect On Synthesis
 mode: once
 aob D3FC0004631E0000C3FA0008637D0000 D3DC0004631E0000C3FA0008637D0000
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Field Event Gauge Max
+name: AoB Field Event Gauge Max
 mode: once
 aob 7CDE2014610500002C0600C841810008 7D064378610500002C0600C841810008
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB Infinite Support Gauge
+name: AoB Infinite Support Gauge
 mode: once
 aob 7C8418102C04038441810008609D0000 7C641B782C04038441810008609D0000
 aob 608500003083037090A30D6078860020 38A003843083037090A30D6078860020
 
-name: Escha And Logy Atelier Tasogare No Sora Nn Renkinjutsushi: AoB 50 PP On Change
+name: AoB 50 PP On Change
 mode: once
 aob 7C8428107C043800909F08A480660034 388000327C043800909F08A480660034

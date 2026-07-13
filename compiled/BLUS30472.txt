@@ -1,79 +1,5 @@
 # Majin and the Forsaken Kingdom
 
-name: Majin And The Forsaken Kingdom - Copy: Invincible
-mode: once
-w32 001E1D04 4E800020
-
-name: Majin And The Forsaken Kingdom - Copy: Health Never Decreases
-mode: once
-w32 001C6B80 60000000
-
-name: Majin And The Forsaken Kingdom - Copy: Majin Health Never Decreases
-mode: once
-w32 001CDADC 60000000
-
-name: Majin And The Forsaken Kingdom - Copy: Enemies Die From Any Damage
-mode: once
-w32 001BDD68 480001E4
-
-name: Majin And The Forsaken Kingdom - Copy: Max Life And Friendship Shards On Gain
-mode: once
-w32 00169720 913A000C
-
-name: Majin And The Forsaken Kingdom - Copy: Combination Attack Meter Never Decreases
-mode: once
-w32 002E31D0 60000000
-
-name: Majin And The Forsaken Kingdom - Copy: Majin Magic Never Decreases
-mode: once
-w32 0020E1B0 60000000
-w32 0020E888 60000000
-
-name: Majin And The Forsaken Kingdom - Copy: Majin Magic Full On Gain
-mode: once
-w32 0020E218 4800077C
-
-name: Majin And The Forsaken Kingdom - Copy: Majin Food Never Decreases
-mode: once
-w32 002C3AF8 60000000
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Invincible
-mode: once
-aob E84100284BFFFEE8F821FF51 E84100284BFFFEE84E800020
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Health Never Decreases
-mode: once
-aob EDBC0772C01E1718C15E171CD17E1708 EDBC0772C01E1718C15E171C60000000
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Majin Health Never Decreases
-mode: once
-aob C1BF1710D17F1708 C1BF171060000000
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Enemies Die From Any Damage
-mode: once
-aob FF806000409D01E4 FF806000480001E4
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Max Life And Friendship Shards On Gain
-mode: once
-aob 7F804840419C0054 7F804840913A000C
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Combination Attack Meter Never Decreases
-mode: once
-aob 409DF988C01D03CCEC0D0028D01E1B14 409DF988C01D03CCEC0D002860000000
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Majin Magic Never Decreases
-mode: once
-aob C1A2BCE8FF806800D01F1BD4 C1A2BCE8FF80680060000000
-aob D17F1BDCFF806800D01F1BD4 D17F1BDCFF80680060000000
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Majin Magic Full On Gain
-mode: once
-aob 4FDDF382419E077C 4FDDF3824800077C
-
-name: Majin And The Forsaken Kingdom - Copy: AoB Majin Food Never Decreases
-mode: once
-aob EB4100B8913E1B38 EB4100B860000000
-
 name: Invincible
 mode: once
 w32 001E1D04 4E800020
@@ -115,6 +41,10 @@ name: AoB Invincible
 mode: once
 aob E84100284BFFFEE8F821FF51 E84100284BFFFEE84E800020
 
+name: AoB Health Never Decreases
+mode: once
+aob EDBC0772C01E1718C15E171CD17E1708 EDBC0772C01E1718C15E171C60000000
+
 name: AoB Majin Health Never Decreases
 mode: once
 aob C1BF1710D17F1708 C1BF171060000000
@@ -127,6 +57,10 @@ name: AoB Max Life And Friendship Shards On Gain
 mode: once
 aob 7F804840419C0054 7F804840913A000C
 
+name: AoB Combination Attack Meter Never Decreases
+mode: once
+aob 409DF988C01D03CCEC0D0028D01E1B14 409DF988C01D03CCEC0D002860000000
+
 name: AoB Majin Magic Never Decreases
 mode: once
 aob C1A2BCE8FF806800D01F1BD4 C1A2BCE8FF80680060000000
@@ -137,79 +71,5 @@ mode: once
 aob 4FDDF382419E077C 4FDDF3824800077C
 
 name: AoB Majin Food Never Decreases
-mode: once
-aob EB4100B8913E1B38 EB4100B860000000
-
-name: Majin En Het Verloren Koninkrijk: Invincible
-mode: once
-w32 001E1D04 4E800020
-
-name: Majin En Het Verloren Koninkrijk: Health Never Decreases
-mode: once
-w32 001C6B80 60000000
-
-name: Majin En Het Verloren Koninkrijk: Majin Health Never Decreases
-mode: once
-w32 001CDADC 60000000
-
-name: Majin En Het Verloren Koninkrijk: Enemies Die From Any Damage
-mode: once
-w32 001BDD68 480001E4
-
-name: Majin En Het Verloren Koninkrijk: Max Life And Friendship Shards On Gain
-mode: once
-w32 00169720 913A000C
-
-name: Majin En Het Verloren Koninkrijk: Combination Attack Meter Never Decreases
-mode: once
-w32 002E31D0 60000000
-
-name: Majin En Het Verloren Koninkrijk: Majin Magic Never Decreases
-mode: once
-w32 0020E1B0 60000000
-w32 0020E888 60000000
-
-name: Majin En Het Verloren Koninkrijk: Majin Magic Full On Gain
-mode: once
-w32 0020E218 4800077C
-
-name: Majin En Het Verloren Koninkrijk: Majin Food Never Decreases
-mode: once
-w32 002C3AF8 60000000
-
-name: Majin En Het Verloren Koninkrijk: AoB Invincible
-mode: once
-aob E84100284BFFFEE8F821FF51 E84100284BFFFEE84E800020
-
-name: Majin En Het Verloren Koninkrijk: AoB Health Never Decreases
-mode: once
-aob EDBC0772C01E1718C15E171CD17E1708 EDBC0772C01E1718C15E171C60000000
-
-name: Majin En Het Verloren Koninkrijk: AoB Majin Health Never Decreases
-mode: once
-aob C1BF1710D17F1708 C1BF171060000000
-
-name: Majin En Het Verloren Koninkrijk: AoB Enemies Die From Any Damage
-mode: once
-aob FF806000409D01E4 FF806000480001E4
-
-name: Majin En Het Verloren Koninkrijk: AoB Max Life And Friendship Shards On Gain
-mode: once
-aob 7F804840419C0054 7F804840913A000C
-
-name: Majin En Het Verloren Koninkrijk: AoB Combination Attack Meter Never Decreases
-mode: once
-aob 409DF988C01D03CCEC0D0028D01E1B14 409DF988C01D03CCEC0D002860000000
-
-name: Majin En Het Verloren Koninkrijk: AoB Majin Magic Never Decreases
-mode: once
-aob C1A2BCE8FF806800D01F1BD4 C1A2BCE8FF80680060000000
-aob D17F1BDCFF806800D01F1BD4 D17F1BDCFF80680060000000
-
-name: Majin En Het Verloren Koninkrijk: AoB Majin Magic Full On Gain
-mode: once
-aob 4FDDF382419E077C 4FDDF3824800077C
-
-name: Majin En Het Verloren Koninkrijk: AoB Majin Food Never Decreases
 mode: once
 aob EB4100B8913E1B38 EB4100B860000000

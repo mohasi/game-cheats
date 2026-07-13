@@ -1,39 +1,39 @@
 # Star Ocean: The Last Hope International
 
-name: Star Ocean 4 The Last Hope International: 99,999,999 Fol
+name: 99,999,999 Fol
 mode: once
 w32 375B0224 05F5E0FF
 
-name: Star Ocean 4 The Last Hope International: Gain Max Exp
+name: Gain Max Exp
 mode: once
 w32 0026B1B0 913F000C
 
-name: Star Ocean 4 The Last Hope International: Infinite SP
+name: Infinite SP
 mode: once
 w32 006B22A4 4800008C
 
-name: Star Ocean 4 The Last Hope International: Party SP
+name: Party SP
 mode: once
 w32 375B0230 0000270F
 
-name: Star Ocean 4 The Last Hope International: Fol
+name: Fol
 mode: once
 w32 002200EC 60000000
 
-name: Star Ocean 4 The Last Hope International: CP
+name: CP
 mode: once
 w32 0027DED0 39200063
 
-name: Star Ocean 4 The Last Hope International: Combo
+name: Combo
 mode: once
 w32 003CD928 409C0008
 
-name: Star Ocean 4 The Last Hope International: Max BEAT:B + BEAT:S After Battle
+name: Max BEAT:B + BEAT:S After Battle
 mode: once
 w32 00269864 60000000
 w32 0026988C 60000000
 
-name: Star Ocean 4 The Last Hope International: 99 Resistances
+name: 99 Resistances
 mode: once
 w32 00270030 60000000
 w32 0027005C 60000000
@@ -43,65 +43,65 @@ w32 002700E0 60000000
 w32 0027010C 60000000
 w32 00270138 60000000
 
-name: Star Ocean 4 The Last Hope International: ATK
+name: ATK
 mode: once
 w32 0026D5DC 3920270F
 
-name: Star Ocean 4 The Last Hope International: DEF
+name: DEF
 mode: once
 w32 0026D614 3920270F
 
-name: Star Ocean 4 The Last Hope International: HIT
+name: HIT
 mode: once
 w32 0026D640 39602710
 
-name: Star Ocean 4 The Last Hope International: GRD
+name: GRD
 mode: once
 w32 0026D694 39602710
 
-name: Star Ocean 4 The Last Hope International: INT
+name: INT
 mode: once
 w32 0026D70C 39602710
 
-name: Star Ocean 4 The Last Hope International: EDGE
+name: EDGE
 mode: once
 w8 375B13E1 FF
 w32 375B13E4 3B9AC9FF
 w8 375B13EB 63
 w16 375B13E8 270F
 
-name: Star Ocean 4 The Last Hope International: HP
+name: HP
 mode: once
 w32 375B13EC 0001869F
 w32 375B13F4 0001869F
 
-name: Star Ocean 4 The Last Hope International: MP
+name: MP
 mode: once
 w32 375B13F0 0001869F
 w32 375B13F8 0001869F
 
-name: Star Ocean 4 The Last Hope International: Status
+name: Status
 mode: once
 w32 375B13FC 270F270F
 w32 375B1400 270F270F
 w16 375B1404 270F
 
-name: Star Ocean 4 The Last Hope International: Arts
+name: Arts
 mode: once
 w32 3761A384 FFFFFFFF
 w32 3761A388 FFFFFFFF
 w32 3761A38C FFFFFFFF
 w8 3761A390 FF
 
-name: Star Ocean 4 The Last Hope International: Battle Win
+name: Battle Win
 mode: once
 w32 375B0220 0001869F
 
-name: Star Ocean 4 The Last Hope International: Space List
+name: Space List
 mode: once
 w32 3761A414 7FFFFFFF
 
-name: Star Ocean 4 The Last Hope International: Weapon List
+name: Weapon List
 mode: once
 w32 3761A418 FFFFFFFF
 w32 3761A41C FFFFFFFF
@@ -109,7 +109,7 @@ w32 3761A420 FFFFFFFF
 w32 3761A424 FFFFFFFF
 w32 3761A428 0007FFFF
 
-name: Star Ocean 4 The Last Hope International: Monster List
+name: Monster List
 mode: once
 w32 3761A430 270F1000
 w32 3761A434 270F1000
@@ -266,7 +266,7 @@ w32 3761A68C 270F1000
 w32 3761A690 270F1000
 w32 3761A694 270F1000
 
-name: Star Ocean 4 The Last Hope International: Infinite HP + Rush
+name: Infinite HP + Rush
 mode: once
 w32 00D60D60 3FC00001
 w32 00D60D64 7FDDF214
@@ -279,103 +279,103 @@ w32 0041A5E8 48946779
 w32 0041A5EC 93DD001C
 w32 0041A5F0 4BE53D61
 
-name: Star Ocean 4 The Last Hope International: Infinite HP
+name: Infinite HP
 mode: once
 w32 0041A5E8 83DD03C0
 w32 0041A5EC 93DD001C
 w32 0041A5F0 4BE53D61
 
-name: Star Ocean 4 The Last Hope International: Infinite MP
+name: Infinite MP
 mode: once
 w32 0041A668 83A303C4
 w32 0041A66C 93A30020
 w32 0041A670 4BE53C21
 
-name: Star Ocean 4 The Last Hope International: AoB 99,999,999 Fol
+name: AoB 99,999,999 Fol
 mode: once
 aob 7F83004081290000409D00087C030378906901144E80002060000000 4800000481290000409D00087C030378906901144E80002060000000
 
-name: Star Ocean 4 The Last Hope International: AoB Max Arena Money After Battle + Buying
+name: AoB Max Arena Money After Battle + Buying
 mode: once
 aob 81290000409D00087C03037890690118 81290000600000007C03037890690118
 
-name: Star Ocean 4 The Last Hope International: AoB Gain + Loss Of Sp Get Max Individual SP
+name: AoB Gain + Loss Of Sp Get Max Individual SP
 mode: once
 aob 419DFF58B17E001041990084 4800008CB17E001041990084
 
-name: Star Ocean 4 The Last Hope International: AoB Max 9999 Party SP After Leveling + Making A New Recipe
+name: AoB Max 9999 Party SP After Leveling + Making A New Recipe
 mode: once
 aob 81290000409D00083860270F 81290000600000003860270F
 
-name: Star Ocean 4 The Last Hope International: AoB Max Hit (9,999 Hit Combo)
+name: AoB Max Hit (9,999 Hit Combo)
 mode: once
 aob 409D00083BE0270F3CC0666638000000 409C00083BE0270F3CC0666638000000
 
-name: Star Ocean 4 The Last Hope International: AoB Max HP + MP (99,999 HP + MP)
+name: AoB Max HP + MP (99,999 HP + MP)
 mode: once
 aob 419C02908803002C2F800000419E01C4 480002908803002C2F800000419E01C4
 aob 419C03248803001C2F800000419E0258 480003248803001C2F800000419E0258
 
-name: Star Ocean 4 The Last Hope International: AoB Max Attack 9999
+name: AoB Max Attack 9999
 mode: once
 aob 7D2048507D295A1491230020419C028481230038 7D2048503920270F91230020419C028481230038
 
-name: Star Ocean 4 The Last Hope International: AoB Max DEF 9999
+name: AoB Max DEF 9999
 mode: once
 aob 7D2048507D295A1491230030419C023C81230044 7D2048503920270F91230030419C023C81230044
 
-name: Star Ocean 4 The Last Hope International: AoB Max Hit
+name: AoB Max Hit
 mode: once
 aob 7D2048507D495A142F8A0000 394027107D495A142F8A0000
 
-name: Star Ocean 4 The Last Hope International: AoB Max GRD
+name: AoB Max GRD
 mode: once
 aob 7D6952142F8B000091630048419C0150 396027102F8B000091630048419C0150
 
-name: Star Ocean 4 The Last Hope International: AoB Max INT
+name: AoB Max INT
 mode: once
 aob 7D6952142F8B000091630054 396027102F8B000091630054
 
-name: Star Ocean 4 The Last Hope International: AoB Max CP On Level
+name: AoB Max CP On Level
 mode: once
 aob A13A00127D290214B13F0012 A13A001239200063B13F0012
 
-name: Star Ocean 4 The Last Hope International: AoB Earth Resistance 99 (Does not save)
+name: AoB Earth Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03D8 60000000380000637C0B0378A13F03D8
 
-name: Star Ocean 4 The Last Hope International: AoB Water Resistance 99 (Does not save)
+name: AoB Water Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03DA 60000000380000637C0B0378A13F03DA
 
-name: Star Ocean 4 The Last Hope International: AoB Fire Resistance 99 (Does not save)
+name: AoB Fire Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03DC 60000000380000637C0B0378A13F03DC
 
-name: Star Ocean 4 The Last Hope International: AoB Wind Resistance 99 (Does not save)
+name: AoB Wind Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03DE 60000000380000637C0B0378A13F03DE
 
-name: Star Ocean 4 The Last Hope International: AoB Thunder Resistance 99 (Does not save)
+name: AoB Thunder Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03E0 60000000380000637C0B0378A13F03E0
 
-name: Star Ocean 4 The Last Hope International: AoB Light Resistance 99 (Does not save)
+name: AoB Light Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378A13F03E2 60000000380000637C0B0378A13F03E2
 
-name: Star Ocean 4 The Last Hope International: AoB Darkness Resistance 99 (Does not save)
+name: AoB Darkness Resistance 99 (Does not save)
 mode: once
 aob 409D0008380000147C0B0378B17F03E2 60000000380000637C0B0378B17F03E2
 
-name: Star Ocean 4 The Last Hope International: AoB Max BEAT:B Level After Battle
+name: AoB Max BEAT:B Level After Battle
 mode: once
 aob B00303E82F89270F4C9D0020 B00303E82F89270F60000000
 
-name: Star Ocean 4 The Last Hope International: AoB Max BEAT:S Level After Battle
+name: AoB Max BEAT:S Level After Battle
 mode: once
 aob 4C9D00203800270FB00303E6 600000003800270FB00303E6
 
-name: Star Ocean 4 The Last Hope International: AoB Gain Max Exp
+name: AoB Gain Max Exp
 mode: once
 aob 7F844840419D002C909F000C 7F84484060000000913F000C

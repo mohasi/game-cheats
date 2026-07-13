@@ -1,13 +1,13 @@
 # Kingdom Hearts: HD 2.5 ReMIX
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Munny On Change
+name: Max Munny On Change
 mode: once
 w32 002EE1E4 3C80000F
 w32 002EE1E8 6084423F
 w32 002EE254 3C80000F
 w32 002EE258 6084423F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Infinite Jumps
+name: Sora Infinite Jumps
 mode: once
 w32 005FA31C 3C800077
 w32 005FA320 888454F4
@@ -23,12 +23,12 @@ w32 005FA344 308A0001
 w32 005FA348 4E800020
 w32 003FABE4 481FF699
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Item Usage
+name: Infinite Item Usage
 mode: once
 w32 0037EF48 60000000
 w32 0037EF4C 38C00032
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have All Items
+name: Have All Items
 mode: once
 w32 005C7910 2C030137
 w32 005C7914 41810060
@@ -59,20 +59,20 @@ w32 005C76B4 7C6320AE
 w32 005C76B8 4E800020
 w32 0037EFE8 482488C9
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Points Coliseum (Cups)
+name: Max Points Coliseum (Cups)
 mode: once
 w32 003C3340 3C800001
 w32 003C3344 6084869F
 w32 003C33F0 3C800001
 w32 003C33F4 6084869F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Comb (Minigame or Limitbreak)
+name: Max Comb (Minigame or Limitbreak)
 mode: once
 w32 00414768 60000000
 w32 0041476C 38A0270F
 w32 00414754 38A0270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Stop Minigame Gauge
+name: Stop Minigame Gauge
 mode: once
 w32 005F128C 3E00027F
 w32 005F1290 62108A40
@@ -97,7 +97,7 @@ w32 005F12D8 90D00004
 w32 005F12DC 4BFFFFD8
 w32 003989CC 48258821
 
-name: Kingdom Hearts 2.5 HD ReMIX: Mini-game Score Modifier
+name: Mini-game Score Modifier
 mode: once
 w32 005EF030 3E00027F
 w32 005EF034 62108A54
@@ -120,7 +120,7 @@ w32 005EF074 921F0000
 w32 005EF078 4BFFFFE0
 w32 000A2318 4854CB79
 
-name: Kingdom Hearts 2.5 HD ReMIX: Easy Musical (Atlantica)
+name: Easy Musical (Atlantica)
 mode: once
 w32 00270EA4 38600000
 w32 00270EDC 38600000
@@ -130,17 +130,17 @@ w32 00273DFC 60000000
 w32 00270F00 3C60000F
 w32 00270F04 6063423F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite HP
+name: Infinite HP
 mode: once
 w32 003D4960 90A40000
 w32 003D4970 48000008
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite MP
+name: Infinite MP
 mode: once
 w32 003D3498 60000000
 w32 003D416C 4800000C
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Drive
+name: Infinite Drive
 mode: once
 w32 005F3828 3E00027F
 w32 005F382C 62108A3C
@@ -164,12 +164,12 @@ w32 005F3870 4BFFFFE0
 w32 003D4314 4821F475
 w32 003D4318 2C040003
 
-name: Kingdom Hearts 2.5 HD ReMIX: Keep Partners On Drive
+name: Keep Partners On Drive
 mode: once
 w32 003D0788 3BE00000
 w32 0037ABA8 38600000
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Forms In Drive Menu
+name: All Forms In Drive Menu
 mode: once
 w32 005F5710 3E00027F
 w32 005F5714 62109318
@@ -206,7 +206,7 @@ w32 005F5828 90830008
 w32 005F582C 4E800020
 w32 00368A68 4828CC09
 
-name: Kingdom Hearts 2.5 HD ReMIX: Anti-Form Does Not Turn Off
+name: Anti-Form Does Not Turn Off
 mode: once
 w32 005C45AC 3E000077
 w32 005C45B0 8A1054F4
@@ -219,7 +219,7 @@ w32 005C45C8 4E800020
 w32 003CFCA0 60000000
 w32 003DAAC4 481E9A89
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max HP + MP + Stats
+name: Max HP + MP + Stats
 mode: once
 w32 005C78F0 3CC0C8C8
 w32 005C78F4 60C6C8C8
@@ -229,18 +229,18 @@ w32 005C7900 88DD0005
 w32 005C7904 4BE0CE1C
 w32 003D46BC 481F31D4
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Drive
+name: Max Drive
 mode: once
 w32 003D47C0 38A00064
 w32 003D47CC 38A00009
 w32 003D47D4 38A00009
 w32 003D47DC 38A0000A
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max AP
+name: Max AP
 mode: once
 w32 003D3698 388003E7
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Timers
+name: Infinite Timers
 mode: once
 w32 005C0AC8 3CA0027F
 w32 005C0ACC 60A58A40
@@ -264,23 +264,23 @@ w32 00074560 60000000
 w32 00074578 60000000
 w32 00074434 4854C534
 
-name: Kingdom Hearts 2.5 HD ReMIX: Mushroom Challenge
+name: Mushroom Challenge
 mode: once
 w16 027F72DE 03E7
 
-name: Kingdom Hearts 2.5 HD ReMIX: Death Counter Reset
+name: Death Counter Reset
 mode: once
 w16 026E0216 0062
 
-name: Kingdom Hearts 2.5 HD ReMIX: Titan Cup Counter
+name: Titan Cup Counter
 mode: once
 w16 027F734E 01F4
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have Max Tent
+name: Have Max Tent
 mode: once
 w8 007755B1 63
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have Max Synthesis Items
+name: Have Max Synthesis Items
 mode: once
 w8 007755DF 63
 w32 007755E0 63636363
@@ -305,71 +305,71 @@ w32 00775678 63636363
 w32 0077567C 63636363
 w16 00775680 6363
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Max Strength
+name: Sora Max Strengh
 mode: once
 w8 007744C9 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Donald Max Strength
+name: Donald Max Strengh
 mode: once
 w8 007745DD FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Goofy Max Strength
+name: Goofy Max Strengh
 mode: once
 w8 007746F1 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Max Magic
+name: Sora Max Magic
 mode: once
 w8 007744CA FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Donald Max Magic
+name: Donald Max Magic
 mode: once
 w8 007745DE FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Goofy Max Magic
+name: Goofy Max Magic
 mode: once
 w8 007746F2 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Max Defense
+name: Sora Max Defense
 mode: once
 w8 007744CB FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Donald Max Defense
+name: Donald Max Defense
 mode: once
 w8 007745DF FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Goofy Max Defense
+name: Goofy Max Defense
 mode: once
 w8 007746F3 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Max AP
+name: Sora Max AP
 mode: once
 w8 007744C8 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Donald Max AP
+name: Donald Max AP
 mode: once
 w8 007745DC FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Goofy Max AP
+name: Goofy Max AP
 mode: once
 w8 007746F0 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Riku Max Strengh
+name: Riku Max Strengh
 mode: once
 w8 007751B9 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Riku Max Magic
+name: Riku Max Magic
 mode: once
 w8 007751BA FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Riku Max Defense
+name: Riku Max Defense
 mode: once
 w8 007751BB FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Riku Max AP
+name: Riku Max AP
 mode: once
 w8 007751B8 FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Abilities For Sora + Roxas
+name: All Abilities For Sora + Roxas
 mode: once
 w32 00774512 00078189
 w32 00774516 819481A5
@@ -409,29 +409,29 @@ w32 0077459A 8190821E
 w32 0077459E 8187819F
 w32 007745A2 821C8189
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Jump
+name: Infinite Jump
 mode: once
 w8 003FA987 99
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max HP
+name: Max HP
 mode: once
 w32 02804F60 000000E0
 w32 02804F64 000000E0
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max MP
+name: Max MP
 mode: once
 w32 028050E0 000000FF
 w32 028050E4 000000FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: No MP Charge
+name: No MP Charge
 mode: once
 w32 0280511C 00000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Munny
+name: Max Munny
 mode: once
 w32 00774410 0098967F
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Synthesis Items
+name: All Synthesis Items
 mode: once
 w8 007755DF 63
 w32 007755E0 63636363
@@ -453,28 +453,28 @@ w32 00775678 63636363
 w32 0077567C 63636363
 w16 00775680 6363
 
-name: Kingdom Hearts 2.5 HD ReMIX: Lv 99 After 1 Battle
+name: Lv 99 After 1 Battle
 mode: once
 w32 007756B0 04448DDA
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max AP (Sora)
+name: Max AP (Sora)
 mode: once
 w8 028049B7 FF
 w8 028049BF FF
 w8 028050EF FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Drive Gauge Lv 9
+name: Drive Gauge Lv 9
 mode: once
 w32 02805110 64090909
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Munny On Change
+name: Max Munny On Change
 mode: once
 w32 002EE064 3C80000F
 w32 002EE068 6084423F
 w32 002EE0D4 3C80000F
 w32 002EE0D8 6084423F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Normal + Master Sora Have Infinite Jumps
+name: Normal + Master Sora Have Infinite Jumps
 mode: once
 w32 005FA01C 3C800077
 w32 005FA020 888454F4
@@ -490,12 +490,12 @@ w32 005FA044 308A0001
 w32 005FA048 4E800020
 w32 003FA984 481FF699
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Items
+name: Infinite Items
 mode: once
 w32 0037ECE8 60000000
 w32 0037ECEC 38C00032
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have All Items
+name: Have All Items
 mode: once
 w32 005C7650 2C030137
 w32 005C7654 41810060
@@ -526,20 +526,20 @@ w32 005C76B4 7C6320AE
 w32 005C76B8 4E800020
 w32 0037ED88 482488C9
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Points In Coliseum (Cups)
+name: Max Points In Coliseum (Cups)
 mode: once
 w32 003C30E0 3C800001
 w32 003C30E4 6084869F
 w32 003C3190 3C800001
 w32 003C3194 6084869F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Combo For Minigames + Limitbreaks
+name: Max Combo For Minigames + Limitbreaks
 mode: once
 w32 00414508 60000000
 w32 0041450C 38A0270F
 w32 004144F4 38A0270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Stop Minigame Gauge
+name: Stop Minigame Gauge
 mode: once
 w32 005F0F8C 3E00027F
 w32 005F0F90 62108A40
@@ -564,7 +564,7 @@ w32 005F0FD8 90D00004
 w32 005F0FDC 4BFFFFD8
 w32 0039876C 48258821
 
-name: Kingdom Hearts 2.5 HD ReMIX: Minigames Score Modifier
+name: Minigames Score Modifier
 mode: once
 w32 005EED30 3E00027F
 w32 005EED34 62108A54
@@ -587,7 +587,7 @@ w32 005EED74 921F0000
 w32 005EED78 4BFFFFE0
 w32 000A21B8 4854CB79
 
-name: Kingdom Hearts 2.5 HD ReMIX: Easy Musicals (Atlantica)
+name: Easy Musicals (Atlantica)
 mode: once
 w32 00270D1C 38600000
 w32 00270D54 38600000
@@ -597,17 +597,17 @@ w32 00273C74 60000000
 w32 00270D78 3C60000F
 w32 00270D7C 6063423F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite HP
+name: Infinite HP
 mode: once
 w32 003D4700 90A40000
 w32 003D4710 48000008
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite MP
+name: Infinite MP
 mode: once
 w32 003D3238 60000000
 w32 003D3F0C 4800000C
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Drive
+name: Infinite Drive
 mode: once
 w32 005F3528 3E00027F
 w32 005F352C 62108A3C
@@ -631,12 +631,12 @@ w32 005F3570 4BFFFFE0
 w32 003D40B4 4821F475
 w32 003D40B8 2C040003
 
-name: Kingdom Hearts 2.5 HD ReMIX: Party Members Never Disappear When Using Drive
+name: Party Members Never Disappear When Using Drive
 mode: once
 w32 003D0528 3BE00000
 w32 0037A948 38600000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have Ultima Keyblades Equipped
+name: Have Ultima Keyblades Equipped
 mode: once
 w32 002A99E0 4831DCE0
 w32 005C76C0 2C08001E
@@ -649,11 +649,11 @@ w32 005C76D8 B07D0EE4
 w32 005C76DC A07D0000
 w32 005C76E0 4BCE2304
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have All Drives
+name: Have All Drives
 mode: once
 w32 0037ED58 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Forms In Drive Menu
+name: All Forms In Drive Menu
 mode: once
 w32 005F5410 3E00027F
 w32 005F5414 62109318
@@ -690,7 +690,7 @@ w32 005F552C 4E800020
 w32 00368808 4828CC09
 w32 003685D0 4828CF48
 
-name: Kingdom Hearts 2.5 HD ReMIX: Anti-Form Does Not Turn Off
+name: Anti-Form Does Not Turn Off
 mode: once
 w32 005C42EC 3E000077
 w32 005C42F0 8A1054F4
@@ -703,7 +703,7 @@ w32 005C4308 4E800020
 w32 003CFA40 60000000
 w32 003DA864 481E9A89
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max HP + MP + Stats
+name: Max HP + MP + Stats
 mode: once
 w32 005C7630 3CC0C8C8
 w32 005C7634 60C6C8C8
@@ -713,7 +713,7 @@ w32 005C7640 88DD0005
 w32 005C7644 4BE0CE1C
 w32 003D445C 481F31D4
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Drive
+name: Max Drive
 mode: once
 w32 003D4560 38A00064
 w32 003D456C 38A00009
@@ -723,11 +723,11 @@ w32 003D3FDC 60000000
 w32 003D3FF4 60000000
 w32 003D413C 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max AP
+name: Max AP
 mode: once
 w32 003D3438 388003E7
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Timers
+name: Infinite Timers
 mode: once
 w32 005C0808 3CA0027F
 w32 005C080C 60A58A40
@@ -751,106 +751,106 @@ w32 00074400 60000000
 w32 00074418 60000000
 w32 000742D4 4854C534
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Score On Kill
+name: Gummi Max Score On Kill
 mode: once
 w32 001518D0 60000000
 w32 001518F0 3C6005F5
 w32 001518F4 6063E0FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Medal On Kill
+name: Gummi Max Medal On Kill
 mode: once
 w32 00117E18 3860000A
 w32 00117E28 38600063
 w32 00117C50 38600063
 w32 00117C70 38600063
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Kills
+name: Gummi Max Kills
 mode: once
 w32 0014F60C 3880270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Infinite HP
+name: Gummi Infinite HP
 mode: once
 w32 00145054 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Backgrounds
+name: Backgrounds
 mode: once
 w8 0078338D 0A
 
-name: Kingdom Hearts 2.5 HD ReMIX: Money
+name: Money
 mode: once
 w32 00774410 0098967F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Experience Stats
+name: Experience Stats
 mode: once
 w32 007756B0 04448DDA
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite MP
+name: Infinite MP
 mode: once
 w32 028050E0 00000078
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite HP
+name: Infinite HP
 mode: once
 w32 026CC818 000000FF
 w32 02804F60 000000FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Ship Max Score
+name: Gummi Ship Max Score
 mode: once
 w32 008C5234 00CCFEB3
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max AP (Sora)
+name: Max AP (Sora)
 mode: once
 w8 028049B7 FF
 w8 028049BF FF
 w16 028050EE 00FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora's Keyblade
+name: Sora's Keyblade
 mode: once
 w32 007744C0 02900000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Winter Sora
+name: Winter Sora
 mode: once
 w32 027F6A88 09550764
 w32 027F6A90 03230056
 
-name: Kingdom Hearts 2.5 HD ReMIX: Valor Form Exp
+name: Valor Form Exp
 mode: once
 w32 007752C8 11111111
 
-name: Kingdom Hearts 2.5 HD ReMIX: Colliseum Tournament Points
+name: Coliseum Tournament Points
 mode: once
 w32 027F72DC 00000CB8
 
-name: Kingdom Hearts 2.5 HD ReMIX: Limit Form Exp
+name: Limit Form Exp
 mode: once
 w32 00775338 01111111
 
-name: Kingdom Hearts 2.5 HD ReMIX: Drive Gauge Lvl. 9
+name: Drive Gauge Lvl. 9
 mode: once
 w32 02805110 64090809
 
-name: Kingdom Hearts 2.5 HD ReMIX: Wisdom Form Exp
+name: Wisdom Form Exp
 mode: once
 w32 00775300 00633333
 
-name: Kingdom Hearts 2.5 HD ReMIX: Master Form Exp
+name: Master Form Exp
 mode: once
 w32 00775370 00444111
 
-name: Kingdom Hearts 2.5 HD ReMIX: Final Form Exp
+name: Final Form Exp
 mode: once
 w32 007753A8 00C22FFF
 
-name: Kingdom Hearts 2.5 HD ReMIX: 3 Soras
+name: 3 Soras
 mode: once
 w32 027F6A88 00540054
 w32 027F6A8C 00540819
 
-name: Kingdom Hearts 2.5 HD ReMIX: Roxas
+name: Roxas
 mode: once
 w32 027F6A88 005A005C
 w32 027F6A8C 005D0819
 
-name: Kingdom Hearts 2.5 HD ReMIX: Stats
+name: Stats
 mode: once
 w8 0262B41A FF
 w16 02804010 0064
@@ -860,11 +860,11 @@ w32 028049B0 00640064
 w32 028049B4 006400F1
 w16 028050E8 0064
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Drive Gauge
+name: Infinite Drive Gauge
 mode: once
 w32 02805114 45BA9800
 
-name: Kingdom Hearts 2.5 HD ReMIX: Terra Replacement
+name: Terra Replacement
 mode: once
 w16 025EEB96 09C4
 w16 027CADF6 09C4
@@ -896,7 +896,7 @@ w16 027D0A76 09C4
 w16 027D0B18 09C4
 w16 02836E1A 09C4
 
-name: Kingdom Hearts 2.5 HD ReMIX: Unlock All Abilities
+name: Unlock All Abilities
 mode: once
 w32 00774524 81888189
 w32 00774528 819481A5
@@ -936,20 +936,20 @@ w32 007745BC 8190821E
 w32 007745C0 8187819F
 w32 007745C4 821C8189
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Jump (Drive into Master-Form and revert)
+name: Infinite Jump (Drive into Master-Form and revert)
 mode: once
 w8 003FA987 99
 
-name: Kingdom Hearts 2.5 HD ReMIX: Unlock All Drive Forms (Anti-Form included)
+name: Unlock All Drive Forms (Anti-Form included)
 mode: once
 w32 0037ED58 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Drive Without Party Members
+name: Drive Without Party Members
 mode: once
 w32 003D0528 3BE00000
 w32 0037A948 38600000
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Synthesis Items
+name: All Synthesis Items
 mode: once
 w8 007755DF 63
 w32 007755E0 63636363
@@ -965,11 +965,11 @@ w32 00775604 63636363
 w16 00775608 6363
 w8 0077560A 63
 
-name: Kingdom Hearts 2.5 HD ReMIX: Marluxia Data Counter Modifier
+name: Marluxia Data Counter Modifier
 mode: once
 w8 026E0CA7 63
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max HP + MP + Stats
+name: Max HP + MP + Stats
 mode: once
 w32 005C790C 3CC0C8C8
 w32 005C7910 60C6C8C8
@@ -979,7 +979,7 @@ w32 005C791C 88DD0005
 w32 005C7920 4BE0CDA0
 w32 003D46BC 481F3250
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Drive
+name: Max Drive
 mode: once
 w32 003D47C0 38A00064
 w32 003D47CC 38A00009
@@ -989,13 +989,13 @@ w32 003D423C 60000000
 w32 003D4254 60000000
 w32 003D439C 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite HP
+name: Infinite HP
 mode: once
 w32 003D4960 90A40000
 w32 003D4970 3A000001
 w32 003D4974 92040008
 
-name: Kingdom Hearts 2.5 HD ReMIX: Invincible
+name: Invincible
 mode: once
 w32 005D7A24 80A4CE18
 w32 005D7A28 2C050000
@@ -1013,12 +1013,12 @@ w32 005D7A54 B2C5010C
 w32 005D7A58 4BAE29A0
 w32 000BA3F4 4851D630
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite MP
+name: Infinite MP
 mode: once
 w32 003D3498 60000000
 w32 003D3F0C 4800000C
 
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Drive
+name: Infinite Drive
 mode: once
 w32 005F3814 3E00027F
 w32 005F3818 62108A3C
@@ -1040,11 +1040,11 @@ w32 005F3854 92300000
 w32 005F3858 4BFFFFE4
 w32 003D4318 4821F4FD
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Combo (Minigame-Limit)
+name: Max Combo (Minigame-Limit)
 mode: once
 w32 00414754 38A0270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Minigame Score Modifier
+name: Minigame Score Modifier
 mode: once
 w32 005EF020 3E00027F
 w32 005EF024 62108A54
@@ -1067,7 +1067,7 @@ w32 005EF064 921F0000
 w32 005EF068 4BFFFFE0
 w32 000A2318 4854CD09
 
-name: Kingdom Hearts 2.5 HD ReMIX: Stop Mini-Game Gauge
+name: Stop Mini-Game Gauge
 mode: once
 w32 005F128C 3E00027F
 w32 005F1290 62108A40
@@ -1092,7 +1092,7 @@ w32 005F12D8 90D00004
 w32 005F12DC 4BFFFFD8
 w32 003989CC 482588C1
 
-name: Kingdom Hearts 2.5 HD ReMIX: Max Points (Arena)
+name: Max Points (Arena)
 mode: once
 w32 003C3340 3C800001
 w32 003C3344 6084869F
@@ -1101,17 +1101,7 @@ w32 003C33F4 6084869F
 w32 00414768 60000000
 w32 0041476C 38A0270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Easy Musicals (Atlantica)
-mode: once
-w32 00270EA4 38600000
-w32 00270EDC 38600000
-w32 002710CC 60000000
-w32 002710E4 388003E7
-w32 00273DFC 60000000
-w32 00270F00 3C60000F
-w32 00270F04 6063423F
-
-name: Kingdom Hearts 2.5 HD ReMIX: Infinite Timers
+name: Infinite Timers
 mode: once
 w32 005C0AA8 3CA0027F
 w32 005C0AAC 60A58A40
@@ -1135,11 +1125,11 @@ w32 00074560 60000000
 w32 00074578 60000000
 w32 00074434 4854C674
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have All Drives
+name: Have All Drives
 mode: once
 w32 0037EFB8 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have Ultima Keyblades Equipped
+name: Have Ultima Keyblades Equipped
 mode: once
 w32 005C7980 2C08001E
 w32 005C7984 40820018
@@ -1152,7 +1142,7 @@ w32 005C799C A07D0000
 w32 005C79A0 4BCE21C4
 w32 002A9B60 4831DE20
 
-name: Kingdom Hearts 2.5 HD ReMIX: All Forms In Drive Menu
+name: All Forms In Drive Menu
 mode: once
 w32 005F570C 3E00027F
 w32 005F5710 62109318
@@ -1185,7 +1175,7 @@ w32 005F5778 90C30000
 w32 005F577C 4E800020
 w32 00368A68 4828CCA5
 
-name: Kingdom Hearts 2.5 HD ReMIX: Anti-Form Does Not Turn Off When Changing Screens
+name: Anti-Form Does Not Turn Off When Changing Screens
 mode: once
 w32 005C45AC 3E000077
 w32 005C45B0 8A1054F4
@@ -1198,16 +1188,16 @@ w32 005C45C8 4E800020
 w32 003CFCA0 60000000
 w32 003DAAC4 481E9AE9
 
-name: Kingdom Hearts 2.5 HD ReMIX: Party Does Not Disappear When Using Drive
+name: Party Does Not Disappear When Using Drive
 mode: once
 w32 003D0788 3BE00000
 w32 0037ABA8 38600000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Fix Partner Damage
+name: Fix Partner Damage
 mode: once
 w32 003607B0 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Block Menu When Playing With NPC Characters
+name: Block Menu When Playing With NPC Characters
 mode: once
 w32 005C3A5C 3E00027F
 w32 005C3A60 A2106A8A
@@ -1245,7 +1235,7 @@ w32 005C3ADC 7CA32A2E
 w32 005C3AE0 4E800020
 w32 003D3230 481F0825
 
-name: Kingdom Hearts 2.5 HD ReMIX: Teleport Partner To Player (L2 + R2)
+name: Teleport Partner To Player (L2 + R2)
 mode: once
 w32 005EEB48 3C60027F
 w32 005EEB4C 60638A54
@@ -1284,7 +1274,7 @@ w32 005EEBCC 923E000C
 w32 005EEBD0 4BFFFFA8
 w32 003B0C44 4823DEFD
 
-name: Kingdom Hearts 2.5 HD ReMIX: Cloud + Squall In Rage Mode
+name: Cloud + Squall In Rage Mode
 mode: once
 w32 005FC49C 4082000C
 w32 005FC4A0 3A200001
@@ -1297,28 +1287,28 @@ w32 005FC4B8 88630003
 w32 005FC4BC 4BE12F24
 w32 0040F3DC 481ED0B8
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Score On Kill
+name: Gummi Max Score On Kill
 mode: once
 w32 00151A30 60000000
 w32 00151A50 3C6005F5
 w32 00151A54 6063E0FF
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Medal On Kill
+name: Gummi Max Medal On Kill
 mode: once
 w32 00117F78 3860000A
 w32 00117F88 38600063
 w32 00117DB0 38600063
 w32 00117DC0 38600063
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Max Kills
+name: Gummi Max Kills
 mode: once
 w32 0014F76C 3880270F
 
-name: Kingdom Hearts 2.5 HD ReMIX: Gummi Infinite HP
+name: Gummi Infinite HP
 mode: once
 w32 001451B4 60000000
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have Max Synthesis Items
+name: Have Max Synthesis Items
 mode: once
 w8 007755DF 63
 w32 007755E0 63636363
@@ -1340,7 +1330,7 @@ w32 00775678 63636363
 w32 0077567C 63636363
 w16 00775680 6363
 
-name: Kingdom Hearts 2.5 HD ReMIX: Have 50 of Each Keyblade
+name: Have 50 of Each Keyblade
 mode: once
 w8 00775571 32
 w16 00775572 3232
@@ -1353,60 +1343,48 @@ w32 00775658 32323232
 w32 0077565C 32323232
 w16 00775668 3232
 
-name: Kingdom Hearts 2.5 HD ReMIX: Sora Max Strengh
-mode: once
-w8 007744C9 FF
-
-name: Kingdom Hearts 2.5 HD ReMIX: Donald Max Strengh
-mode: once
-w8 007745DD FF
-
-name: Kingdom Hearts 2.5 HD ReMIX: Goofy Max Strengh
-mode: once
-w8 007746F1 FF
-
-name: Kingdom Hearts 2.5 HD ReMIX: 60 FPS
+name: 60 FPS
 mode: once
 w32 00015AA4 38600000
 w32 00076859 38600000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Infinite HP
+name: Infinite HP
 mode: once
 w32 00154B98 A09F0382
 w32 00154B9C B09F0380
 w32 00178568 38A00000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Max Munny On buy
+name: Max Munny On buy
 mode: once
 w32 003A17BC 60000000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Quick CP (Instant Level Up)
+name: Quick CP (Instant Level Up)
 mode: once
 w32 000FB8B0 38802710
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Infinite Focus
+name: Infinite Focus
 mode: once
 w32 001389EC C03F0044
 w32 00138AE8 60000000
 w32 00138450 60000000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Infinite D-Link
+name: Infinite D-Link
 mode: once
 w32 00137CBC C03D003C
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Max Hits
+name: Max Hits
 mode: once
 w32 001493D8 38A0270F
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Max Medals On Buy
+name: Max Medals On Buy
 mode: once
 w32 003A1810 60000000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Melding Does Not Remove Commands
+name: Melding Does Not Remove Commands
 mode: once
 w32 0039F41C 4800003C
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Infinite Items
+name: Infinite Items
 mode: once
 w32 0039F09C 3B600000
 w32 0039B16C 38600032
@@ -1415,15 +1393,15 @@ w32 00299414 60000000
 w32 00299418 60000000
 w32 003A0F18 60000000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: 1 Hit Kill
+name: 1 Hit Kill
 mode: once
 w32 00236AB8 3B407FFF
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: No Reloads
+name: No Reloads
 mode: once
 w32 00134F80 60000000
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Command Bar Always Full
+name: Command Bar Always Full
 mode: once
 w32 0016DA14 60000000
 w32 0016ABD4 60000000
@@ -1433,7 +1411,7 @@ w32 0016D950 60000000
 w32 0016D954 3C60447A
 w32 0016D90C C05F0100
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Infinite Timer (R3 + Up = On, R3 + Down = Off)
+name: Infinite Timer (R3 + Up = On, R3 + Down = Off)
 mode: once
 w32 0061E698 3C6004B9
 w32 0061E69C A0630002
@@ -1457,7 +1435,7 @@ w32 0061E6E0 90700000
 w32 0061E6E4 4BFFFFE0
 w32 005580D0 480C65C8
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Easy Command Board Minigame
+name: Easy Command Board Minigame
 mode: once
 w32 005E8320 2C1D0000
 w32 005E8324 40820014
@@ -1471,14 +1449,14 @@ w32 005E8340 80840000
 w32 005E8344 4BD02E44
 w32 002EB184 482FD19C
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Easy Icecream Minigame
+name: Easy Icecream Minigame
 mode: once
 w32 005698DC 38C0270F
 w32 005695A0 38E0270F
 w32 00562B58 388003E7
 w32 005671C0 3860270F
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Easy Racing
+name: Easy Racing
 mode: once
 w32 0034DC7C 38E00000
 w32 0034DE10 38800000
@@ -1493,48 +1471,48 @@ w32 0034EACC 60000000
 w32 0034E284 60000000
 w32 0033F27C 38A00006
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Easy Fruit Minigame
+name: Easy Fruit Minigame
 mode: once
 w32 0056E00C 38600000
 w32 0056E0E8 38600063
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Get Max Score In Almost All Minigames
+name: Get Max Score In Almost All Minigames
 mode: once
 w32 00294928 60000000
 w32 00294DAC 48000008
 w32 00294DB8 48000014
 
-name: Kingdom Hearts 2.5 ReMIX - Birth By Sleep: Easy Break The Urn Minigame
+name: Easy Break The Urn Minigame
 mode: once
 w32 00280118 60000000
 w32 0028012C 38800000
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Instant Max Lv
+name: Instant Max Lv
 mode: once
 w32 05069770 05F5E0FF
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Max Synthesis Slot 1
+name: Max Synthesis Slot 1
 mode: once
 w8 0506E220 62
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Max Synthesis Slot 2
+name: Max Synthesis Slot 2
 mode: once
 w8 0506E224 62
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Max Synthesis Slot 3
+name: Max Synthesis Slot 3
 mode: once
 w8 0506E228 62
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Infinite HP
+name: Infinite HP
 mode: once
 w32 00154B98 A09F0382
 w32 00154B9C B09F0380
 
-name: Kingdom Hearts Birth By Sleep Final Mix: No Reload Deck Command
+name: No Reload Deck Command
 mode: once
 w32 00134F80 60000000
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Always Finish
+name: Always Finish
 mode: once
 w32 0016D948 60000000
 w32 0016D950 60000000
@@ -1542,29 +1520,15 @@ w32 0016D954 3C6042C8
 w32 0016DA14 60000000
 w32 0016ABD4 60000000
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Quick CP
+name: Quick CP
 mode: once
 w32 000FB8B0 38802710
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Infinite Focus
-mode: once
-w32 001389EC C03F0044
-w32 00138AE8 60000000
-w32 00138450 60000000
-
-name: Kingdom Hearts Birth By Sleep Final Mix: Max Hits On Shotlock Commands
+name: Max Hits On Shotlock Commands
 mode: once
 w32 001493D8 38A0270F
 
-name: Kingdom Hearts Birth By Sleep Final Mix: Infinite D-Link
-mode: once
-w32 00137CBC C03D003C
-
-name: Kingdom Hearts Birth By Sleep Final Mix: Max Medals On Buy
-mode: once
-w32 003A1810 60000000
-
-name: Kingdom Hearts Birth By Sleep Final Mix: Command Bar Always Full
+name: Command Bar Always Full
 mode: once
 w32 0016D940 60000000
 w32 0016D948 60000000

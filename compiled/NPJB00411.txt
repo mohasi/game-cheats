@@ -1,22 +1,22 @@
 # Dead or Alive 5 Ultimate - Core Fighters
 
-name: Dead Or Alive 5 ULTIMATE: Player 1 Can Hit From Anywhere, Player 2 Can Not Hit
+name: Player 1 Can Hit From Anywhere, Player 2 Can Not Hit
 mode: once
 w32 002891E0 60000000
 w32 00288FE0 60000000
 w32 00288FE8 60000000
 
-name: Dead Or Alive 5 ULTIMATE: Player 1 Can Throw From Anywhere, Player 2 Can Not Throw
+name: Player 1 Can Throw From Anywhere, Player 2 Can Not Throw
 mode: once
 w32 002F8384 7C1BE800
 
-name: Dead Or Alive 5 ULTIMATE: Disable Block
+name: Disable Block
 mode: once
 w32 002F6E80 48000018
 w32 002F6F1C 48000064
 w32 002F6F20 48000048
 w32 002F7070 48000018
 
-name: Dead Or Alive 5 ULTIMATE: Disable Hold
+name: Disable Hold
 mode: once
 w32 002D7A80 48000380

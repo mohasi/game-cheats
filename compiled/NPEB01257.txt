@@ -583,7 +583,7 @@ name: Can Use Ki Without Magic
 mode: once
 w32 0029FBD4 60000000
 
-name: Items Never Decrease On use
+name: Item Never Decreases On use
 mode: once
 w32 00274AE8 60000000
 
@@ -614,25 +614,21 @@ w32 010D3414 88095940
 w32 010D3418 4E800020
 w32 0029FF40 48E334C1
 
-name: Ninja Gaiden Sigma 2 OR: Yellow Souls 999999
+name: Yellow Souls 999999
 mode: once
 w32 01A75C64 000F423F
 
-name: Ninja Gaiden Sigma 2 OR: 1P Invincible
+name: 1P Invincible
 mode: once
 w32 001782F0 81F80004
 
-name: Ninja Gaiden Sigma 2 OR: 1P Invincible + Hit Anywhere
+name: 1P Invincible + Hit Anywhere
 mode: once
 w32 00177C4C 2F960002
 w32 00177C50 419E0010
 w32 00177C54 2F800000
 w32 00177C58 419E00AC
 w32 00177C60 81F80004
-
-name: Item Never Decreases On use
-mode: once
-w32 00274AE8 60000000
 
 name: Invincible
 mode: once

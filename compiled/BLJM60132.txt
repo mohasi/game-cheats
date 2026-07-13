@@ -1,53 +1,53 @@
 # Ryuu ga Gotoku 3
 
-name: Ryu Ga Gotoku 3: Money 999999999
+name: Money 999999999
 mode: once
 w32 012EDD58 3B9AC9FF
 
-name: Ryu Ga Gotoku 3: Max Physical
+name: Max Physical
 mode: once
 w32 012EB964 05780578
 
-name: Ryu Ga Gotoku 3: Infinite Heat
+name: Infinite Heat
 mode: once
 w32 012EB968 4692E000
 
-name: Ryu Ga Gotoku 3: Experience 999999
+name: Experience 999999
 mode: once
 w32 012EB97C 000F423F
 
-name: Ryu Ga Gotoku 3: 999999999 Money
+name: 999999999 Money
 mode: once
 w32 012FCFD8 3B9AC9FF
 
-name: Ryu Ga Gotoku 3: Infinite Exp
+name: Infinite Exp
 mode: once
 w32 012FABFC 05F5E0FF
 
-name: Ryu Ga Gotoku 3: Infinite HP
+name: Infinite HP
 mode: once
 w32 012FABE4 05780578
 
-name: Ryu Ga Gotoku 3: Infinite BP
+name: Infinite BP
 mode: once
 w32 012FABE8 4692E000
 
-name: Ryu Ga Gotoku 3: Infinite Health
+name: Infinite Health
 mode: once
 w32 012FABE8 4692E000
 
-name: Ryu Ga Gotoku 3: Money 999999999
+name: Money 999999999
 mode: once
 w32 012FD058 3B9AC9FF
 
-name: Ryu Ga Gotoku 3: Infinite Health
+name: Infinite Health
 mode: once
 w32 012FAC64 05780578
 
-name: Ryu Ga Gotoku 3: Infinite Heat
+name: Infinite Heat
 mode: once
 w32 012FAC68 4692E000
 
-name: Ryu Ga Gotoku 3: Exp 999999
+name: Exp 999999
 mode: once
 w32 012FAC7C 000F423F

@@ -1,139 +1,55 @@
 # Welcome to PlayStation Network and PlayStation 3 Slim
 
-name: Uncharted 2 Among Thieves: Max Money
+name: Max Money
 mode: once
 w32 00E9BD88 05F5E0FF
 w32 00E9BD8C 00000000
 
-name: Uncharted 2 Among Thieves: Infinite Health
+name: Infinite Health
 mode: once
 w32 00AEA3C0 80030030
 w32 00AEA3C4 9003002C
 w32 00AEA3C8 4E800020
 w32 000A2888 48A47B39
 
-name: Uncharted 2 Among Thieves: Infinite Health v2
+name: Infinite Health v2
 mode: once
 w32 005B6C70 60000000
 w32 005B6E14 60000000
 
-name: Uncharted 2 Among Thieves: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0086FF68 396B0000
 
-name: Uncharted 2 Among Thieves: Max Money After Earning Any Amount
+name: Max Money After Earning Any Amount
 mode: once
 w32 000D59D4 3C0005F5
 w32 000D59D8 6000E0FF
 
-name: Uncharted 2 Among Thieves: Infinite Health
+name: Infinite Health
 mode: once
 w32 00AEA8E0 80030030
 w32 00AEA8E4 9003002C
 w32 00AEA8E8 4E800020
 w32 0009F658 48A4B289
 
-name: Uncharted 2 Among Thieves: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0086E0D8 396B0000
 
-name: Uncharted 2 Among Thieves: Max Money After Earning Any Amount
+name: Max Money After Earning Any Amount
 mode: once
 w32 000CEE7C 3C0005F5
 w32 000CEE80 6000E0FF
 
-name: Uncharted 2 Among Thieves: Unlock FPS
+name: Unlock FPS
 mode: once
 w8 00E9C1FB 00
 
-name: Uncharted 2 Among Thieves: 60 FPS
+name: 60 FPS
 mode: once
 w8 00E9C1FB 01
 
-name: Uncharted 2 Among Thieves: 30 FPS
+name: 30 FPS
 mode: once
 w8 00E9C1FB 02
-
-name: Uncharted 2 El Reino De Los Ladrones: Max Money
-mode: once
-w32 00E9BD88 05F5E0FF
-w32 00E9BD8C 00000000
-
-name: Uncharted 2 El Reino De Los Ladrones: Infinite Health
-mode: once
-w32 00AEA3C0 80030030
-w32 00AEA3C4 9003002C
-w32 00AEA3C8 4E800020
-w32 000A2888 48A47B39
-
-name: Uncharted 2 El Reino De Los Ladrones: Infinite Health v2
-mode: once
-w32 005B6C70 60000000
-w32 005B6E14 60000000
-
-name: Uncharted 2 El Reino De Los Ladrones: Infinite Ammo
-mode: once
-w32 0086FF68 396B0000
-
-name: Uncharted 2 El Reino De Los Ladrones: Max Money After Earning Any Amount
-mode: once
-w32 000D59D4 3C0005F5
-w32 000D59D8 6000E0FF
-
-name: Uncharted 2 El Reino De Los Ladrones: Infinite Health
-mode: once
-w32 00AEA8E0 80030030
-w32 00AEA8E4 9003002C
-w32 00AEA8E8 4E800020
-w32 0009F658 48A4B289
-
-name: Uncharted 2 El Reino De Los Ladrones: Infinite Ammo
-mode: once
-w32 0086E0D8 396B0000
-
-name: Uncharted 2 El Reino De Los Ladrones: Max Money After Earning Any Amount
-mode: once
-w32 000CEE7C 3C0005F5
-w32 000CEE80 6000E0FF
-
-name: Uncharted 2 Il Covo Dei Ladri: Max Money
-mode: once
-w32 00E9BD88 05F5E0FF
-w32 00E9BD8C 00000000
-
-name: Uncharted 2 Il Covo Dei Ladri: Infinite Health
-mode: once
-w32 00AEA3C0 80030030
-w32 00AEA3C4 9003002C
-w32 00AEA3C8 4E800020
-w32 000A2888 48A47B39
-
-name: Uncharted 2 Il Covo Dei Ladri: Infinite Health v2
-mode: once
-w32 005B6C70 60000000
-w32 005B6E14 60000000
-
-name: Uncharted 2 Il Covo Dei Ladri: Infinite Ammo
-mode: once
-w32 0086FF68 396B0000
-
-name: Uncharted 2 Il Covo Dei Ladri: Max Money After Earning Any Amount
-mode: once
-w32 000D59D4 3C0005F5
-w32 000D59D8 6000E0FF
-
-name: Uncharted 2 Il Covo Dei Ladri: Infinite Health
-mode: once
-w32 00AEA8E0 80030030
-w32 00AEA8E4 9003002C
-w32 00AEA8E8 4E800020
-w32 0009F658 48A4B289
-
-name: Uncharted 2 Il Covo Dei Ladri: Infinite Ammo
-mode: once
-w32 0086E0D8 396B0000
-
-name: Uncharted 2 Il Covo Dei Ladri: Max Money After Earning Any Amount
-mode: once
-w32 000CEE7C 3C0005F5
-w32 000CEE80 6000E0FF

@@ -1,84 +1,84 @@
 # Atelier Escha &amp;amp; Logy: Alchemists of the Dusk Sky
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Infinite Items In Battle
+name: Infinite Items In Battle
 mode: once
 w32 002506BC 60000000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Freeze Day (Use After Day 4-1)
+name: Freeze Day (Use After Day 4-1)
 mode: once
 w32 002A99F0 7CC53378
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Reset Time (Use After Day 4-1)
+name: Reset Time (Use After Day 4-1)
 mode: once
 w32 002A99F0 7CA53010
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Max Effect When Synthesizing
+name: Max Effect When Synthesizing
 mode: once
 w32 002BC75C D3DC0004
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Infinite MP
+name: Infinite MP
 mode: once
 w32 0012B054 60000000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Field Event Gauge Full After 1 Battle
+name: Field Event Gauge Full After 1 Battle
 mode: once
 w32 0022DED0 7D064378
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Support Gauge Does Not Decrease
+name: Support Gauge Does Not Decrease
 mode: once
 w32 0010FB4C 7C641B78
 w32 00120E68 38A00384
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Synthesis Property Points Always 50
+name: Synthesis Property Points Always 50
 mode: once
 w32 002D3BA8 38800032
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Max Achievements
+name: Max Achievements
 mode: once
 w32 00AF0144 0000FFFF
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: Max Coins + Max Alchemy Exp
+name: Max Coins + Max Alchemy Exp
 mode: once
 w32 00B1A784 00FFFFFF
 w32 00B1A788 000F423E
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Infinite Items In Battle
+name: AoB Infinite Items In Battle
 mode: once
 aob 33BDFFFF63E30000B3BE001CE80100A0 6000000063E30000B3BE001CE80100A0
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Infinite Items Outside Battle
+name: AoB Infinite Items Outside Battle
 mode: once
 aob 33FFFFFFB3E3001C7FE307342C030000 60000000B3E3001C7FE307342C030000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Synthesis Does Not Decrease Materials Or Items
+name: AoB Synthesis Does Not Decrease Materials Or Items
 mode: once
 aob 7CA82814FBC100702C05000040800008 7D054378FBC100702C05000040800008
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Infinite MP
+name: AoB Infinite MP
 mode: once
 aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Freeze Day (Use After Day 4-1)
+name: AoB Freeze Day (Use After Day 4-1)
 mode: once
 aob 7CA628142C0500004180000860A40000 7CA530102C0500004180000860A40000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Reset Time (Use After Day 4-1)
+name: AoB Reset Time (Use After Day 4-1)
 mode: once
 aob 7CA628142C0500004180000860A40000 7CA530102C0500004180000860A40000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Max Effect When Synthesizing
+name: AoB Max Effect When Synthesizing
 mode: once
 aob D3FC0004631E0000C3FA0008637D0000 D3DC0004631E0000C3FA0008637D0000
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Field Event Gauge Full After 1 Battle
+name: AoB Field Event Gauge Full After 1 Battle
 mode: once
 aob 7CDE2014610500002C0600C841810008 7D064378610500002C0600C841810008
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Support Gauge Does Not Decrease
+name: AoB Support Gauge Does Not Decrease
 mode: once
 aob 7C8418102C04038441810008609D0000 7C641B782C04038441810008609D0000
 aob 608500003083037090A30D6078860020 38A003843083037090A30D6078860020
 
-name: Atelier Escha And Logy Alchemists Of The Dusk Sky: AoB Synthesis Property Points Always 50
+name: AoB Synthesis Property Points Always 50
 mode: once
 aob 7C8428107C043800909F08A480660034 388000327C043800909F08A480660034

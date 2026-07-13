@@ -1,13 +1,13 @@
 # Ratchet &amp; Clank Future: A Crack in Time
 
-name: Ratchet And Clank Future A Crack In Time: Max Money
+name: Max Money
 mode: once
 w32 00E24F68 05F5E0FF
 
-name: Ratchet And Clank Future A Crack In Time: Exp Max
+name: Exp Max
 mode: once
 w32 00E24F64 3B9AC9FF
 
-name: Ratchet And Clank Future A Crack In Time: Infinite Health
+name: Infinite Health
 mode: once
 w32 0008DB84 409A0038

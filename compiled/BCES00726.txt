@@ -1,26 +1,26 @@
 # Ratchet &amp;amp; Clank: A Crack in Time
 
-name: Ratchet And Clank Future A Crack In Time: Max Money
+name: Max Money
 mode: once
 w32 00E24F68 05F5E0FF
 
-name: Ratchet And Clank Future A Crack In Time: Exp Max
+name: Exp Max
 mode: once
 w32 00E24F64 3B9AC9FF
 
-name: Ratchet And Clank Future A Crack In Time: Infinite Health
+name: Infinite Health
 mode: once
 w32 0008DAA8 409A0038
 
-name: Ratchet And Clank Future A Crack In Time: Max Bolts On Gain
+name: Max Bolts On Gain
 mode: once
 w32 001DEED8 90AA0578
 
-name: Ratchet And Clank Future A Crack In Time: Kill 1 Enemy To Max Your Level (Does Not Save)
+name: Kill 1 Enemy To Max Your Level (Does Not Save)
 mode: once
 w32 001DED30 3D6B7FFF
 
-name: Ratchet And Clank Future A Crack In Time: Rapid Leveling Up (Does Not Save)
+name: Rapid Leveling Up (Does Not Save)
 mode: once
 w32 00A4BFA4 897F1AA9
 w32 00A4BFA8 556B103A
@@ -37,11 +37,11 @@ w32 00A4BFD0 D3FF1A98
 w32 00A4B9D4 481DED4A
 w32 001DED44 48A4BFA6
 
-name: Ratchet And Clank Future A Crack In Time: Ammo Never Decreases
+name: Ammo Never Decreases
 mode: once
 w32 00467ED0 D03D0008
 
-name: Ratchet And Clank Future A Crack In Time: Quick Weapon Leveling Up
+name: Quick Weapon Leveling Up
 mode: once
 w32 00A4BC84 895F0016
 w32 00A4BC88 554A103A
@@ -52,7 +52,7 @@ w32 00A4BC98 D3FF0004
 w32 00A4BC9C 4846811A
 w32 00468114 48A4BC86
 
-name: Ratchet And Clank Future A Crack In Time: Ratchet's Health Never Decreases
+name: Ratchet's Health Never Decreases
 mode: once
 w32 0017CDC8 3B007162
 w32 0017CDF4 930317EC
@@ -65,7 +65,7 @@ w32 00A4BFC4 C1BB0004
 w32 00A4BFC8 4808DD06
 w32 0008DD00 48A4BFB2
 
-name: Ratchet And Clank Future A Crack In Time: Ratchet Is Invincible
+name: Ratchet Is Invincible
 mode: once
 w32 0017CDC8 3B007162
 w32 0017CDF4 930317EC
@@ -79,7 +79,7 @@ w32 00A4BCD4 90A30000
 w32 00A4BCD8 4E800020
 w32 0008D5E4 48A4BCBE
 
-name: Ratchet And Clank Future A Crack In Time: Clank's Health Never Decreases
+name: Clank's Health Never Decreases
 mode: once
 w32 001DE3A0 3BC07162
 w32 001DE3A4 93C317EC
@@ -93,7 +93,7 @@ w32 00A4BFC4 C1BB0004
 w32 00A4BFC8 4808DD06
 w32 0008DD00 48A4BFB2
 
-name: Ratchet And Clank Future A Crack In Time: Clank Is Invincible
+name: Clank Is Invincible
 mode: once
 w32 001DE3A0 3BC07162
 w32 001DE3A4 93C317EC
@@ -108,89 +108,89 @@ w32 00A4B6D4 90A30000
 w32 00A4B6D8 4E800020
 w32 0008D5E4 48A4B6BE
 
-name: Ratchet And Clank Future A Crack In Time: Ship Can Not Be Destroyed
+name: Ship Can Not Be Destroyed
 mode: once
 w32 002FA868 60000000
 
-name: Ratchet And Clank Future A Crack In Time: Rapid Fire Ship Missiles
+name: Rapid Fire Ship Missiles
 mode: once
 w32 00301C50 60000000
 
-name: Ratchet And Clank Future A Crack In Time: Do Not Need To Destroy Ships To Disengage Shields
+name: Do Not Need To Destroy Ships To Disengage Shields
 mode: once
 w32 00313504 60000000
 
-name: Ratchet And Clank Future A Crack In Time: Clank Has Unlimited Jump Boosts
+name: Clank Has Unlimited Jump Boosts
 mode: once
 w32 001CB080 60000000
 
-name: Ratchet And Clank Future A Crack In Time: Unlimited Time For Clank
+name: Unlimited Time For Clank
 mode: once
 w32 001DA1A0 3D807F80
 
-name: Ratchet And Clank Future A Crack In Time: AoB Max Bolts On Gain
+name: AoB Max Bolts On Gain
 mode: once
 aob 7C8900387D634A14916A0578 7C8900387D634A1490AA0578
 
-name: Ratchet And Clank Future A Crack In Time: AoB Kill 1 Enemy To Max Your Level (Does Not Save)
+name: AoB Kill 1 Enemy To Max Your Level (Does Not Save)
 mode: once
 aob ECC06828396B0001 ECC068283D6B7FFF
 
-name: Ratchet And Clank Future A Crack In Time: AoB Rapid Leveling Up (Does Not Save)
+name: AoB Rapid Leveling Up (Does Not Save)
 mode: once
 aob 3FC90FDC00000008000000000000000000000000000000000000000000000000 3FC90FDC00000008897F1AA9556B103A396B00047D67582E91680574481DED4A
 
-name: Ratchet And Clank Future A Crack In Time: AoB Ammo Never Decreases
+name: AoB Ammo Never Decreases
 mode: once
 aob FC7F2028FC0327EECBE10088FC400828FDA2006ED1BD0008 FC7F2028FC0327EECBE10088FC400828FDA2006ED03D0008
 
-name: Ratchet And Clank Future A Crack In Time: AoB Quick Weapon Leveling Up
+name: AoB Quick Weapon Leveling Up
 mode: once
 aob 00C5C9C400000000000000000000000000000000000000000000000000000000 00C5C9C4895F0016554A103A394A01347D5C5214C3EA000CD3FF00044846811A
 aob 2F9C0000D3FF0004 2F9C000048A4BC86
 
-name: Ratchet And Clank Future A Crack In Time: AoB Ratchet's Health Never Decreases
+name: AoB Ratchet's Health Never Decreases
 mode: once
 aob 3B000001FF806800 3B0000013B007162
 aob 7C791B78409D0008 7C791B78930317EC
 aob 3FC90FDC0000000800000000000000000000000000000000000000000000000000000000000000000000000000000000 3FC90FDC0000000800000000000000000000000080BBFFFC2B857162419E000CEDA2182848000008C1BB00044808DD06
 aob 7C1DFE70EDA21828 7C1DFE7048A4BFB2
 
-name: Ratchet And Clank Future A Crack In Time: AoB Ratchet Is Invincible
+name: AoB Ratchet Is Invincible
 mode: once
 aob 3B000001FF806800 3B0000013B007162
 aob 7C791B78409D0008 7C791B78930317EC
 aob 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000 80A3FFFC2B857162419E000CF821FE514808D5EA80A3000490A300004E8000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000
 aob F821FE517CA802A6FBC101A083C28320 48A4BCBE7CA802A6FBC101A083C28320
 
-name: Ratchet And Clank Future A Crack In Time: AoB Clank's Health Never Decreases
+name: AoB Clank's Health Never Decreases
 mode: once
 aob C00317F038600001C1BE8004FF806800409D0008 C00317F03BC0716293C317ECFF80680060000000
 aob 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000 80A3FFFC2B857162419E000CF821FE514808D5EA80A3000490A300004E8000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000
 aob F821FE517CA802A6FBC101A083C28320 48A4BCBE7CA802A6FBC101A083C28320
 
-name: Ratchet And Clank Future A Crack In Time: AoB Clank Is Invincible
+name: AoB Clank Is Invincible
 mode: once
 aob C00317F038600001C1BE8004FF806800409D0008 C00317F03BC0716293C317ECFF80680060000000
 aob 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000 80A3FFFC2B857162419E000CF821FE514808D5EA80A3000490A300004E8000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003F8000003F80000000000000
 aob F821FE517CA802A6FBC101A083C28320 48A4B9BE7CA802A6FBC101A083C28320
 
-name: Ratchet And Clank Future A Crack In Time: AoB Ship Can Not Be Destroyed
+name: AoB Ship Can Not Be Destroyed
 mode: once
 aob C1BE801CFF806800419C0008 C1BE801CFF80680060000000
 
-name: Ratchet And Clank Future A Crack In Time: AoB Do Not Need To Destroy Ships To Disengage Shields
+name: AoB Do Not Need To Destroy Ships To Disengage Shields
 mode: once
 aob 7F8C5840419C00EC 7F8C584060000000
 
-name: Ratchet And Clank Future A Crack In Time: AoB Clank Has Unlimited Jump Boosts
+name: AoB Clank Has Unlimited Jump Boosts
 mode: once
 aob 38AB000198A37A31 38AB000160000000
 
-name: Ratchet And Clank Future A Crack In Time: AoB Unlimited Time For Clank
+name: AoB Unlimited Time For Clank
 mode: once
 aob 600000003D804270 600000003D807F80
 
-name: Ratchet And Clank Future A Crack In Time: Infinite Health
+name: Infinite Health
 mode: once
 w32 0008DB88 419A0038

@@ -1,17 +1,17 @@
 # Punisher, The - No Mercy
 
-name: The Punisher No Mercy: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w32 12F221B0 00000015
 w32 16998B8C 00000015
 w32 16B53FEC 00000020
 w32 16B5427C 00000016
 
-name: The Punisher No Mercy: ASM Infinite Ammo + No Reload NPEB00098 01.02
+name: ASM Infinite Ammo + No Reload NPEB00098 01.02
 mode: once
 w32 008233DC 3BC30000
 
-name: The Punisher No Mercy: ASM Infinite Ammo + No Reload NPUB30070 01.01
+name: ASM Infinite Ammo + No Reload NPUB30070 01.01
 mode: once
 w32 00822FFC 39280000
 w32 0082301C 3BC30000

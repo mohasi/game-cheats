@@ -1,38 +1,38 @@
 # BioHazard Code: Veronica Kanzenban
 
-name: Biohazard Code Veronica X: Always Low Time
+name: Always Low Time
 mode: once
 w32 00BB3E38 00000000
 
-name: Biohazard Code Veronica X: Retry Always 0
+name: Retry Always 0
 mode: once
 w32 00BB3E40 00000000
 
-name: Biohazard Code Veronica X: No Save Record
+name: No Save Record
 mode: once
 w32 00BB3618 00000000
 
-name: Biohazard Code Veronica X: Infinite Health
+name: Infinite Health
 mode: once
 w16 00BDEA9E 00C8
 
-name: Biohazard Code Veronica X: Unlock Everything
+name: Unlock Everything
 mode: once
 w32 00BB358C 00001FFF
 
-name: Biohazard Code Veronica X: Unlock All Files
+name: Unlock All Files
 mode: once
 w32 00BB3E04 00FFFFFF
 
-name: Biohazard Code Veronica X: 1st Person View
+name: 1st Person View
 mode: once
 w8 00BB35F7 12
 
-name: Biohazard Code Veronica X: Normal View
+name: Normal View
 mode: once
 w8 00BB35F7 C2
 
-name: Biohazard Code Veronica X: Special Weapon in Item Box
+name: Special Weapon in Item Box
 mode: once
 w32 00BB3AE4 002003E7
 w32 00BB3AE8 00020BB5
@@ -44,22 +44,22 @@ w32 00BB3AFC 008E03E7
 w32 00BB3B00 000B03E7
 w32 00BB3B04 000103E7
 
-name: Biohazard Code Veronica X: Save Free Near Typewriter
+name: Save Free Near Typewriter
 mode: once
 w8 00BB35FD 20
 
-name: Biohazard Code Veronica X: Item Box Anywhere
+name: Item Box Anywhere
 mode: once
 w8 00BB35FD 04
 
-name: Biohazard Code Veronica X: Security Box 1 Anywhere
+name: Security Box 1 Anywhere
 mode: once
 w8 00BB35FD 0C
 
-name: Biohazard Code Veronica X: Security Box 2 Anywhere
+name: Security Box 2 Anywhere
 mode: once
 w8 00BB35FD 14
 
-name: Biohazard Code Veronica X: Remove Door Animations
+name: Remove Door Animations
 mode: once
 w32 001AE304 38600000

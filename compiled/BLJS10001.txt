@@ -1,15 +1,15 @@
 # Ridge Racer 7
 
-name: Ridge Racer 7 3D: ASM Instant + Infinite Nitro
+name: ASM Instant + Infinite Nitro
 mode: once
 w32 002BF4F0 EC05002A
 
-name: Ridge Racer 7 3D: ASM Lot PP On One Race
+name: ASM Lot PP On One Race
 mode: once
 w32 00041014 93A60004
 w32 000410BC 93A60000
 
-name: Ridge Racer 7 3D: ASM Lot + Infinite CR On One Race
+name: ASM Lot + Infinite CR On One Race
 mode: once
 w32 00040F68 90DF242C
 w32 00040F7C 90DF2428
@@ -17,16 +17,16 @@ w32 00041030 90DF2428
 w32 00044F3C 92632428
 w32 00044F40 9043242C
 
-name: Ridge Racer 7 3D: ASM Instant + Infinite Nitro
+name: ASM Instant + Infinite Nitro
 mode: once
 w32 002BB970 EC05002A
 
-name: Ridge Racer 7 3D: ASM Lot PP On One Race
+name: ASM Lot PP On One Race
 mode: once
 w32 00040CEC 93A60004
 w32 00040D94 93A60000
 
-name: Ridge Racer 7 3D: ASM Lot + Infinite CR On One Race
+name: ASM Lot + Infinite CR On One Race
 mode: once
 w32 00040C40 90DF242C
 w32 00040C54 90DF2428
@@ -95,22 +95,9 @@ name: Memory Lot PP On One Race
 mode: once
 w32 10431F64 00000036
 
-name: ASM Lot PP On One Race
-mode: once
-w32 00041014 93A60004
-w32 000410BC 93A60000
-
 name: Memory Lot + Infinite CR On One Race
 mode: once
 w32 10431F60 00000009
-
-name: ASM Lot + Infinite CR On One Race
-mode: once
-w32 00040F68 90DF242C
-w32 00040F7C 90DF2428
-w32 00041030 90DF2428
-w32 00044F3C 92632428
-w32 00044F40 9043242C
 
 name: Memory Lap Time 00:00:0XX
 mode: once

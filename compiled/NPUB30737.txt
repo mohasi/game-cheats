@@ -1,19 +1,19 @@
 # Far Cry Classic
 
-name: Far Cry Classics: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w32 10A3A0F8 000000C8
 w32 161A7668 000000C8
 w32 16297218 00000001
 
-name: Far Cry Classics: ASM Infinite Ammo
+name: ASM Infinite Ammo
 mode: once
 w32 009B8080 7FE0F7AE
 w32 009B8078 38600000
 w32 009B8030 3BA40000
 w32 009B8064 60000000
 
-name: Far Cry Classics: Infinite Ammor
+name: Infinite Ammo
 mode: once
 w32 158CFA44 00000064
 w32 16297214 00000064

@@ -1,50 +1,50 @@
 # Time Crisis: Razing Storm
 
-name: Deadstorm Pirates: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 332374D4 42C80000
 
-name: Deadstorm Pirates: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 000FB9C8 60000000
 
-name: Deadstorm Pirates: Memory Infinite Credits
+name: Memory Infinite Credits
 mode: once
 w32 3329EEC0 00000003
 
-name: Deadstorm Pirates: ASM Infinite Credits
+name: ASM Infinite Credits
 mode: once
 w32 001AE2B0 38090000
 
-name: Deadstorm Pirates: Memory Max Scores
+name: Memory Max Scores
 mode: once
 w32 3320339C 05F5E0FF
 
-name: Deadstorm Pirates: ASM Max Scores
+name: ASM Max Scores
 mode: once
 w32 00143410 9163000C
 
-name: Time Crisis 4: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w32 3070B2B8 00000009
 
-name: Time Crisis 4: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 0016EBC8 390B0000
 
-name: Time Crisis 4: Memory Infinite Life
+name: Memory Infinite Life
 mode: once
 w32 3070AC0C 00000003
 
-name: Time Crisis 4: ASM Infinite Life
+name: ASM Infinite Life
 mode: once
 w32 00172800 3B890000
 
-name: Time Crisis 4: Memory Max Scores On 1 Kil
+name: Memory Max Scores On 1 Kil
 mode: once
 w32 3070AC08 0098967F
 
-name: Time Crisis 4: ASM Max Scores On 1 Kil
+name: ASM Max Scores On 1 Kil
 mode: once
 w32 0017B71C 91BF0220
 
@@ -90,51 +90,3 @@ mode: once
 w32 0038A540 913F0000
 w32 0038A564 913F0008
 w32 003C51A4 911B002C
-
-name: Memory Infinite Ammo + No Reload
-mode: once
-w32 3070B2B8 00000009
-
-name: ASM Infinite Ammo + No Reload
-mode: once
-w32 0016EBC8 390B0000
-
-name: Memory Infinite Life
-mode: once
-w32 3070AC0C 00000003
-
-name: ASM Infinite Life
-mode: once
-w32 00172800 3B890000
-
-name: Memory Max Scores On 1 Kil
-mode: once
-w32 3070AC08 0098967F
-
-name: ASM Max Scores On 1 Kil
-mode: once
-w32 0017B71C 91BF0220
-
-name: Memory Infinite Health
-mode: once
-w32 332374D4 42C80000
-
-name: ASM Infinite Health
-mode: once
-w32 000FB9C8 60000000
-
-name: Memory Infinite Credits
-mode: once
-w32 3329EEC0 00000003
-
-name: ASM Infinite Credits
-mode: once
-w32 001AE2B0 38090000
-
-name: Memory Max Scores
-mode: once
-w32 3320339C 05F5E0FF
-
-name: ASM Max Scores
-mode: once
-w32 00143410 9163000C

@@ -98,6 +98,6 @@ name: Infinite Health
 mode: once
 w32 00C0CEB0 00000000
 
-name: Invinciblity
+name: Invincibility
 mode: once
 w32 00C0CF38 408221D0

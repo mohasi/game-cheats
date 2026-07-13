@@ -1,18 +1,18 @@
 # Mafia II
 
-name: Mafia 2: Infinite Ammo + Grenades [01.03]
+name: Infinite Ammo + Grenades [01.03]
 mode: once
 w32 0087D384 60000000
 
-name: Mafia 2: AoB Infinite Ammo + Grenades [01.03]
+name: AoB Infinite Ammo + Grenades [01.03]
 mode: once
 aob 4BF3E9A5807E003483FE000480630024546402942C040000 60000000807E003483FE000480630024546402942C040000
 
-name: Mafia 2: Infinite Ammo + Grenades
+name: Infinite Ammo + Grenades
 mode: once
 w32 0087D384 60000000
 
-name: Mafia 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 017F19B0 3C004F00
 w32 017F19B4 900300C4
@@ -20,15 +20,15 @@ w32 017F19B8 900300C0
 w32 017F19BC 4A8FF6DC
 w32 000F1094 4970091C
 
-name: Mafia 2: Infinite Ammo Usage
+name: Infinite Ammo Usage
 mode: once
 w32 0087588C 3BE003E7
 
-name: Mafia 2: AoB Infinite Ammo + Grenades
+name: AoB Infinite Ammo + Grenades
 mode: once
 aob 4BF3E9A5807E003483FE000480630024546402942C040000 60000000807E003483FE000480630024546402942C040000
 
-name: Mafia 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 01829AF0 3C004F00
 w32 01829AF4 900300C4
@@ -36,22 +36,22 @@ w32 01829AF8 900300C0
 w32 01829AFC 4A8CA12C
 w32 000F3C24 49735ECC
 
-name: Mafia 2: Infinite Ammo Usage
+name: Infinite Ammo Usage
 mode: once
 w32 008916A0 3BE003E7
 
-name: Mafia 2: Infinite Ammo + No Reload + Infinite Grenades
+name: Infinite Ammo + No Reload + Infinite Grenades
 mode: once
 w32 00899304 38800000
 
-name: Mafia 2: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 476C6F62616C476C6F77436F6C6F724200000000000000000000000000000000 476C6F62616C476C6F77436F6C6F72423C004F00900300C4900300C04A8CA12C
 
-name: Mafia 2: AoB Infinite Ammo Usage
+name: AoB Infinite Ammo Usage
 mode: once
 aob F8010090FBC10070FBE10078607E0000609F0000 F8010090FBC10070FBE10078607E00003BE003E7
 
-name: Mafia 2: AoB Infinite Ammo + No Reload + Infinite Grenades
+name: AoB Infinite Ammo + No Reload + Infinite Grenades
 mode: once
 aob 63A300003880FFFF4BF3D309807E003483FE0004 63A30000388000004BF3D309807E003483FE0004

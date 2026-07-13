@@ -1,21 +1,21 @@
 # Where the Wild Things Are: The Videogame
 
-name: Donde Viven Los Monstruos: Max Health On One Kill
+name: Max Health On One Kill
 mode: once
 w32 00277604 7D224A14
 
-name: Max Et Les Maximonstres: Max Health On One Kill
+name: Max Health On One Kill
 mode: once
 w32 00277604 7D224A14
 
-name: Where The Wild Things Are: Memory Cranes x60 On Gain
+name: Memory Cranes x60 On Gain
 mode: once
 w8 00B7A607 04
 w8 00B8BC27 04
 w8 00B8F89B 04
 w8 00B8FA33 04
 
-name: Where The Wild Things Are: ASM Cranes x60 On Gain
+name: ASM Cranes x60 On Gain
 mode: once
 w32 00066BB0 3929003C
 w32 0018D140 3929003C
@@ -28,22 +28,22 @@ w32 002630E4 3929003C
 w32 002630F0 3929003C
 w32 00273000 3929003C
 
-name: Where The Wild Things Are: Memory Max Health On One Kill
+name: Memory Max Health On One Kill
 mode: once
 w32 00B8F840 00000069
 
-name: Where The Wild Things Are: ASM Max Health On One Kill
+name: ASM Max Health On One Kill
 mode: once
 w32 00277604 7D224A14
 
-name: Where The Wild Things Are: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 00B8BCFC 41200000
 w32 00B8BD00 41200000
 w32 00C026B4 3A02B898
 w32 00C026B8 3A02B898
 
-name: Where The Wild Things Are: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 000C0254 60000000
 w32 000C0268 60000000
@@ -54,30 +54,30 @@ w32 0023FCC4 60000000
 w32 00462238 60000000
 w32 00462240 60000000
 
-name: Where The Wild Things Are: Memory Beans x60 On Gain
+name: Memory Beans x60 On Gain
 mode: once
 w8 00B7A607 02
 w8 00B7B134 02
 w8 00B7B1AC 02
 w8 00B8BC27 02
 
-name: Where The Wild Things Are: ASM Beans x60 On Gain
+name: ASM Beans x60 On Gain
 mode: once
 w32 00066BB0 3929003C
 w32 0018D140 3929003C
 w32 00273000 3929003C
 
-name: Where The Wild Things Are: Memory Stones Pyramids x60 On Gain
+name: Memory Stones Pyramids x60 On Gain
 mode: once
 w8 00B8BC33 02
 w32 00273044 3929003C
 w32 00273000 3929003C
 
-name: Where The Wild Things Are: Memory Unknown Code 1
+name: Memory Unknown Code 1
 mode: once
 w32 00B7A608 00000002
 w8 00B7A61B 02
 
-name: Where The Wild Things Are: ASM Unknown Code 1
+name: ASM Unknown Code 1
 mode: once
 w32 0018C4A0 3929005F

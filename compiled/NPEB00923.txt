@@ -1,6 +1,6 @@
 # Expendables 2, The - Videogame
 
-name: The Expendables 2 The Videogame: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w32 4AFE58E0 BA8DD338
 w32 4AFE58E4 3B6964C4

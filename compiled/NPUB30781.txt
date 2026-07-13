@@ -1,9 +1,9 @@
 # Hitman - Blood Money HD
 
-name: Hitman Blood Money: Invincible Steel Mode
+name: Invincible Steel Mode
 mode: once
 w32 0015279C 4E800020
 
-name: Hitman Blood Money: AoB Invincible Steel Mode
+name: AoB Invincible Steel Mode
 mode: once
 aob F821FF317C0802A6FB6100A8FB8100B0FBA100B8 4E8000207C0802A6FB6100A8FB8100B0FBA100B8

@@ -1,34 +1,34 @@
 # The Orange Box
 
-name: The Orange Box Half-Life 2: God Mode
+name: God Mode
 mode: once
 w32 0037BA7C 54000630
 
-name: The Orange Box Half-Life 2: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 00167FEC 48000038
 
-name: The Orange Box Half-Life 2: Max Ammo In Clip
+name: Max Ammo In Clip
 mode: once
 w32 0016C3F0 38000063
 w32 0016C3F4 901F0478
 w32 013A881C 39200063
 
-name: The Orange Box Half-Life 2: Press Flashlight Button To Give All (Default TRIANGLE)
+name: Press Flashlight Button To Give All (Default TRIANGLE)
 mode: once
 w32 003805C4 38800065
 w32 003805C8 4BFFFC28
 w32 00380994 60000000
 
-name: The Orange Box Half-Life 2: Infinite Aux Power
+name: Infinite Aux Power
 mode: once
 w32 005689FC 60000000
 
-name: The Orange Box Half-Life 2: Upgraded Gravity Gun
+name: Upgraded Gravity Gun
 mode: once
 w32 0055DF68 60000000
 
-name: The Orange Box Half-Life 2: Hold Jump For Ghost Mode
+name: Hold Jump For Ghost Mode
 mode: once
 w32 0037A8DC 419E000C
 w32 0037A8E0 3BE00008
@@ -37,98 +37,98 @@ w32 0037A8E8 3BE00002
 w32 0037A8EC 9BFA0146
 w32 0037A8F0 83FC0008
 
-name: The Orange Box Half-Life 2: Allow Shooting Everywhere And While Zooming
+name: Allow Shooting Everywhere And While Zooming
 mode: once
 w32 0056CE98 60000000
 
-name: The Orange Box Half-Life 2: Allow Zooming Everywhere
+name: Allow Zooming Everywhere
 mode: once
 w32 001BFD0C 48000024
 
-name: The Orange Box Half-Life 2: Do Not Freeze Player
+name: Do Not Freeze Player
 mode: once
 w32 00370AC4 60000000
 
-name: The Orange Box Half-Life 2: AoB God Mode
+name: AoB God Mode
 mode: once
 aob 540004622F800000409E0394 540006302F800000409E0394
 
-name: The Orange Box Half-Life 2: AoB Infinite Ammo
+name: AoB Infinite Ammo
 mode: once
 aob 419E00387C1CD82E 480000387C1CD82E
 
-name: The Orange Box Half-Life 2: AoB Max Ammo In Clip
+name: AoB Max Ammo In Clip
 mode: once
 aob 801F04782F800000409D0024 801F047838000063901F0478
 aob 3929FFFF91250000 3920006391250000
 
-name: The Orange Box Half-Life 2: AoB Press Flashlight Button To Give All (Default TRIANGLE)
+name: AoB Press Flashlight Button To Give All (Default TRIANGLE)
 mode: once
 aob 38000000901F0D44E80101C0EB410180EB6101887C0803A6EB810190EBA10198EBC101A0EBE101A8382101B04E80002081230000 388000654BFFFC28E80101C0EB410180EB6101887C0803A6EB810190EBA10198EBC101A0EBE101A8382101B04E80002081230000
 aob 419E00103884FFB4 600000003884FFB4
 
-name: The Orange Box Half-Life 2: AoB Infinite Aux Power
+name: AoB Infinite Aux Power
 mode: once
 aob 419E0024380000017C0307B4E80100A0 60000000380000017C0307B4E80100A0
 
-name: The Orange Box Half-Life 2: AoB Upgraded Gravity Gun
+name: AoB Upgraded Gravity Gun
 mode: once
 aob 419E00483800000198010071 600000003800000198010071
 
-name: The Orange Box Half-Life 2: AoB Hold Jump For Ghost Mode
+name: AoB Hold Jump For Ghost Mode
 mode: once
 aob 419E0008394A0064915A0B4083FC00087F8AF800409D00A8 419E000C3BE00008480000083BE000029BFA014683FC0008
 
-name: The Orange Box Half-Life 2: AoB Allow Shooting Everywhere And While Zooming
+name: AoB Allow Shooting Everywhere And While Zooming
 mode: once
 aob 7C004838901C09F8 60000000901C09F8
 
-name: The Orange Box Half-Life 2: AoB Allow Zooming Everywhere
+name: AoB Allow Zooming Everywhere
 mode: once
 aob 419E002455692436556BA33E7D2A4A143929000479230020800300047F8B0000419E0524 4800002455692436556BA33E7D2A4A143929000479230020800300047F8B0000419E0524
 
-name: The Orange Box Half-Life 2: AoB Do Not Freeze Player
+name: AoB Do Not Freeze Player
 mode: once
 aob 540006B42F800000409E00B4 540006B42F80000060000000
 
-name: The Orange Box Half-Life 2: Unlock FPS (RPCS3) [Tested]
+name: Unlock FPS (RPCS3) [Tested]
 mode: once
 w32 00C471C4 60000000
 
-name: The Orange Box Half-Life 2: Unlock FPS (PSXPlace) [Tested]
+name: Unlock FPS (PSXPlace) [Tested]
 mode: once
 w32 00C477F4 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: God Mode
+name: God Mode
 mode: once
 w32 00878824 54000630
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0066FC4C 48000038
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Max Ammo In Clip
+name: Max Ammo In Clip
 mode: once
 w32 00674050 38000063
 w32 00674054 901F0478
 w32 00265204 39200063
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Press Flashlight Button To Give All (Default TRIANGLE)
+name: Press Flashlight Button To Give All (Default TRIANGLE)
 mode: once
 w32 0087AEA4 38800065
 w32 0087AEA8 4BFFFC28
 w32 0087B274 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Infinite Aux Power
+name: Infinite Aux Power
 mode: once
 w32 00A59EFC 60000000
 w32 00A5C30C 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Upgraded Gravity Gun
+name: Upgraded Gravity Gun
 mode: once
 w32 00A509B8 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Hold Jump For Ghost Mode
+name: Hold Jump For Ghost Mode
 mode: once
 w32 00875DB4 419E000C
 w32 00875DB8 3BE00008
@@ -137,66 +137,32 @@ w32 00875DC0 3BE00002
 w32 00875DC4 9BFA0146
 w32 00875DC8 83FC0008
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Allow Shooting Everywhere And While Zooming
+name: Allow Shooting Everywhere And While Zooming
 mode: once
 w32 00A60604 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Allow Zooming Everywhere
+name: Allow Zooming Everywhere
 mode: once
 w32 006C6344 48000024
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: Do Not Freeze Player
+name: Do Not Freeze Player
 mode: once
 w32 0086A57C 60000000
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB God Mode
-mode: once
-aob 540004622F800000409E0394 540006302F800000409E0394
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Infinite Ammo
-mode: once
-aob 419E00387C1CD82E 480000387C1CD82E
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Max Ammo In Clip
-mode: once
-aob 801F04782F800000409D0024 801F047838000063901F0478
-aob 3929FFFF91250000 3920006391250000
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Press Flashlight Button To Give All (Default TRIANGLE)
-mode: once
-aob 38000000901F0D44E80101C0EB410180EB6101887C0803A6EB810190EBA10198EBC101A0EBE101A8382101B04E80002081230000 388000654BFFFC28E80101C0EB410180EB6101887C0803A6EB810190EBA10198EBC101A0EBE101A8382101B04E80002081230000
-aob 419E00103884FFB4 600000003884FFB4
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Infinite Aux Power
+name: AoB Infinite Aux Power
 mode: once
 aob 419E0024380000017C0307B4E80100A0 60000000380000017C0307B4E80100A0
 aob 800900302F800000419E022481 800900302F8000006000000081
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Upgraded Gravity Gun
-mode: once
-aob 419E00483800000198010071 600000003800000198010071
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Hold Jump For Ghost Mode
-mode: once
-aob 419E0008394A0064915A0B4083FC00087F8AF800409D00A8 419E000C3BE00008480000083BE000029BFA014683FC0008
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Allow Shooting Everywhere And While Zooming
+name: AoB Allow Shooting Everywhere And While Zooming
 mode: once
 aob 7C004838901E09F8 60000000901E09F8
 
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Allow Zooming Everywhere
-mode: once
-aob 419E002455692436556BA33E7D2A4A143929000479230020800300047F8B0000419E0524 4800002455692436556BA33E7D2A4A143929000479230020800300047F8B0000419E0524
-
-name: The Orange Box Half-Life 2 Episodes 1 & 2: AoB Do Not Freeze Player
-mode: once
-aob 540006B42F800000409E00B4 540006B42F80000060000000
-
-name: The Orange Box Portal: God Mode
+name: God Mode
 mode: once
 w32 00815724 54000630
 
-name: The Orange Box Portal: Hold Jump For Ghost Mode
+name: Hold Jump For Ghost Mode
 mode: once
 w32 0081427C 419E000C
 w32 00814280 3BE00008
@@ -204,11 +170,3 @@ w32 00814284 48000008
 w32 00814288 3BE00002
 w32 0081428C 9BFA0146
 w32 00814290 83FC0008
-
-name: The Orange Box Portal: AoB God Mode
-mode: once
-aob 540004622F800000409E0394 540006302F800000409E0394
-
-name: The Orange Box Portal: AoB Hold Jump For Ghost Mode
-mode: once
-aob 419E0008394A0064915A0B4083FC00087F8AF800409D00A8 419E000C3BE00008480000083BE000029BFA014683FC0008

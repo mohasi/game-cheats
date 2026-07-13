@@ -17,7 +17,7 @@ name: ASM Big Score On Gain
 mode: once
 w32 00217ABC D30B0000
 
-name: Matt Hazard: Unknown Memory Code 1
+name: Unknown Memory Code 1
 mode: once
 w16 311CDC26 7E40
 w16 311CDC2E 2350

@@ -1,25 +1,25 @@
 # Rune Factory: Oceans
 
-name: Rune Factory Ocean: Max Dragon Shrine Donations
+name: Max Dragon Shrine Donations
 mode: once
 w32 00135E2C 40810010
 
-name: Rune Factory Ocean: Max Money When Buying + Selling
+name: Max Money When Buying + Selling
 mode: once
 w32 00135E68 40810010
 
-name: Rune Factory Ocean: Max RP 9999 On Level Up
+name: Max RP 9999 On Level Up
 mode: once
 w32 003B7440 38A0270F
 
-name: Rune Factory Ocean: Max HP 9999 On Level Up
+name: Max HP 9999 On Level Up
 mode: once
 w32 003B73D4 3880270F
 
-name: Rune Factory Ocean: Max Money On Buy
+name: Max Money On Buy
 mode: once
 w32 00135E58 90A60004
 
-name: Rune Factory Ocean: AoB Max Money On Buy
+name: AoB Max Money On Buy
 mode: once
 aob 80C4F2508084F25090660004806400047C032800 80C4F2508084F25090A60004806400047C032800

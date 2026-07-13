@@ -1,6 +1,6 @@
 # Mugen Souls Z
 
-name: Attouteki Yuugi Mugen Souls Z: All Moneys
+name: All Moneys
 mode: once
 w32 3375A8D0 000000E8
 w32 3375A8D4 D4A50FFF
@@ -9,12 +9,12 @@ w32 3375A8DC D4A50FFF
 w32 3375A8E0 000000E8
 w32 3375A8E4 D4A50FFF
 
-name: Attouteki Yuugi Mugen Souls Z: Syrma Max HP + SP
+name: Syrma Max HP + SP
 mode: once
 w32 339E912C 3B9AC9FF
 w32 339E9130 3B9AC9FF
 
-name: Attouteki Yuugi Mugen Souls Z: Instant Level 9999 (Only first World or first game map)
+name: Instant Level 9999 (Only first World or first game map)
 mode: once
 w32 34817D3C 3B9AC9FF
 w32 34817D40 3B9AC9FF
@@ -29,63 +29,63 @@ w32 34854548 3B9AC9FF
 w32 3485454C 3B9AC9FF
 w32 34854550 3B9AC9FF
 
-name: Attouteki Yuugi Mugen Souls Z: Infinite SP
+name: Infinite SP
 mode: once
 w32 0025F13C 7C651B78
 
-name: Attouteki Yuugi Mugen Souls Z: Turn Always 0
+name: Turn Always 0
 mode: once
 w32 002DF5E4 38600000
 
-name: Attouteki Yuugi Mugen Souls Z: Infinite Item Usage
+name: Infinite Item Usage
 mode: once
 w32 0040D13C 7CA42B78
 
-name: Attouteki Yuugi Mugen Souls Z: Instant Peon + Max Peon Gauge
+name: Instant Peon + Max Peon Gauge
 mode: once
 w32 0032D778 39407530
 
-name: Attouteki Yuugi Mugen Souls Z: Max Damage
+name: Max Damage
 mode: once
 w32 00235570 7C831850
 
-name: Attouteki Yuugi Mugen Souls Z: Max Movement
+name: Max Movement
 mode: once
 w32 0035ABB8 3BC0270F
 
-name: Attouteki Yuugi Mugen Souls Z: Infinite Item Usage On
+name: Infinite Item Usage On
 mode: once
 w32 00414B54 7CA42B78
 
-name: Attouteki Yuugi Mugen Souls Z: Infinite Item Usage Off
+name: Infinite Item Usage Off
 mode: once
 w32 00414B54 7C942A14
 
-name: Attouteki Yuugi Mugen Souls Z: Instant Peon On
+name: Instant Peon On
 mode: once
 w32 0032EE60 39407530
 
-name: Attouteki Yuugi Mugen Souls Z: Instant Peon Off
+name: Instant Peon Off
 mode: once
 w32 0032EE60 7CAA2B78
 
-name: Attouteki Yuugi Mugen Souls Z: AoB Infinite SP
+name: AoB Infinite SP
 mode: once
 aob 7CBF18507FC3F3787CA628F87CC4FE76 7C651B787FC3F3787CA628F87CC4FE76
 
-name: Attouteki Yuugi Mugen Souls Z: AoB Turn Always 0
+name: AoB Turn Always 0
 mode: once
 aob 7C7E42147C835840906500084085002C 386000007C835840906500084085002C
 
-name: Attouteki Yuugi Mugen Souls Z: AoB Infinite Item Usage
+name: AoB Infinite Item Usage
 mode: once
 aob 7C942A142F84000090870004409D0520 7CA42B782F84000090870004409D0520
 
-name: Attouteki Yuugi Mugen Souls Z: AoB Instant Peon + Max Peon Gauge
+name: AoB Instant Peon + Max Peon Gauge
 mode: once
 aob 7CAA2B78F8E100807C8507B47CCB07B4 39407530F8E100807C8507B47CCB07B4
 
-name: Attouteki Yuugi Mugen Souls Z: AoB Max Movement
+name: AoB Max Movement
 mode: once
 aob EBC900904BFD30D1600000005464063E 3BC0270F4BFD30D1600000005464063E
 
@@ -185,59 +185,6 @@ name: AoB 2,147,418,112x Exp Multiplier
 mode: once
 aob EBBF00504BFED43D60000000EB9F0060 EBBF00504BFED43D3C607FFFEB9F0060
 
-name: All Moneys
-mode: once
-w32 3375A8D0 000000E8
-w32 3375A8D4 D4A50FFF
-w32 3375A8D8 000000E8
-w32 3375A8DC D4A50FFF
-w32 3375A8E0 000000E8
-w32 3375A8E4 D4A50FFF
-
-name: Syrma Max HP + SP
-mode: once
-w32 339E912C 3B9AC9FF
-w32 339E9130 3B9AC9FF
-
-name: Instant Level 9999 (Only first World or first game map)
-mode: once
-w32 34817D3C 3B9AC9FF
-w32 34817D40 3B9AC9FF
-w32 34817D44 3B9AC9FF
-w32 34817D48 3B9AC9FF
-w32 34817D4C 3B9AC9FF
-w32 34817D50 3B9AC9FF
-w32 3485453C 3B9AC9FF
-w32 34854540 3B9AC9FF
-w32 34854544 3B9AC9FF
-w32 34854548 3B9AC9FF
-w32 3485454C 3B9AC9FF
-w32 34854550 3B9AC9FF
-
-name: Infinite SP
-mode: once
-w32 0025F13C 7C651B78
-
-name: Turn Always 0
-mode: once
-w32 002DF5E4 38600000
-
-name: Infinite Item Usage
-mode: once
-w32 0040D13C 7CA42B78
-
-name: Instant Peon + Max Peon Gauge
-mode: once
-w32 0032D778 39407530
-
-name: Max Damage
-mode: once
-w32 00235570 7C831850
-
-name: Max Movement
-mode: once
-w32 0035ABB8 3BC0270F
-
 name: Infinite Item Usage
 mode: once
 w32 00414B54 7CA42B78
@@ -245,26 +192,6 @@ w32 00414B54 7CA42B78
 name: Instant Peon
 mode: once
 w32 0032EE60 39407530
-
-name: AoB Infinite SP
-mode: once
-aob 7CBF18507FC3F3787CA628F87CC4FE76 7C651B787FC3F3787CA628F87CC4FE76
-
-name: AoB Turn Always 0
-mode: once
-aob 7C7E42147C835840906500084085002C 386000007C835840906500084085002C
-
-name: AoB Infinite Item Usage
-mode: once
-aob 7C942A142F84000090870004409D0520 7CA42B782F84000090870004409D0520
-
-name: AoB Instant Peon + Max Peon Gauge
-mode: once
-aob 7CAA2B78F8E100807C8507B47CCB07B4 39407530F8E100807C8507B47CCB07B4
-
-name: AoB Max Movement
-mode: once
-aob EBC900904BFD30D1600000005464063E 3BC0270F4BFD30D1600000005464063E
 
 name: AoB Exp Multiplier
 mode: once

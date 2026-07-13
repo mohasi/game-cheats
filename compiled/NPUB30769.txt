@@ -1,14 +1,14 @@
 # Capcom Arcade Cabinet
 
-name: Capcom Arcade Cabinet 1942: Unlimited Lives
+name: Unlimited Lives
 mode: once
 w32 00EF068C 60000000
 
-name: Capcom Arcade Cabinet 1942: Unlimited Rotation
+name: Unlimited Rotation
 mode: once
 w32 00EC4638 60000000
 
-name: Capcom Arcade Cabinet 1943 The Battle Of Midway: Unlimited Energy
+name: Unlimited Energy
 mode: once
 w32 00EC2E54 60000000
 w32 00EC4F78 60000000
@@ -22,23 +22,23 @@ w32 00EF9D4C 60000000
 w32 00EFA110 60000000
 w32 00EFC188 60000000
 
-name: Capcom Arcade Cabinet Avengers: Stop Timer
+name: Stop Timer
 mode: once
 w32 013801D0 60000000
 w32 0138056C 60000000
 
-name: Capcom Arcade Cabinet Avengers: Unlimited Life Energy
+name: Unlimited Life Energy
 mode: once
 w32 012E3B8C 60000000
 
-name: Capcom Arcade Cabinet Black Tiger: Stop Timer
+name: Stop Timer
 mode: once
 w32 00E64A74 60000000
 
-name: Capcom Arcade Cabinet Black Tiger: Unlimited Lives
+name: Unlimited Lives
 mode: once
 w32 00ECD440 60000000
 
-name: Capcom Arcade Cabinet Black Tiger: Unlimited Armor
+name: Unlimited Armor
 mode: once
 w32 00ED43A4 60000000

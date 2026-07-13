@@ -1,12 +1,12 @@
 # Rock of Ages
 
-name: Rock Of Age: Memory Infinite Money
+name: Memory Infinite Money
 mode: once
 w32 113CF160 0000065E
 w32 113CF554 0000065E
 w32 14B890D4 000F423F
 w32 161FFD80 000F423F
 
-name: Rock Of Age: ASM Infinite Money
+name: ASM Infinite Money
 mode: once
 w32 000E62A8 60000000

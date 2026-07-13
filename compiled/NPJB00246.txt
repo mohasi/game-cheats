@@ -144,10 +144,6 @@ name: Bayonetta Magic Gauge Max
 mode: once
 w32 01EC550C 44480000
 
-name: Halos 999999999
-mode: once
-w32 01EC5514 05F5E0FF
-
 name: Have All Weapons
 mode: once
 w32 01EC54B8 FFFFFFFF

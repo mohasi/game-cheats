@@ -50,10 +50,6 @@ name: Infinite Time
 mode: once
 w32 0067E180 60000000
 
-name: Way Of The Samurai 3: Max Money
+name: Max Money
 mode: once
 w32 30217594 0001869F
-
-name: Way Of The Samurai 3: Infinite Time
-mode: once
-w32 0067E180 60000000

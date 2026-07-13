@@ -1,17 +1,9 @@
 # LittleBigPlanet (Game of the Year Edition)
 
-name: LittleBigPlanet: Unlimited Respawn
+name: Unlimited Respawn
 mode: once
 w32 0006BBF8 39200000
 
-name: LittleBigPlanet: AoB Unlimited Respawn
-mode: once
-aob 813B000C3809FFFF7C004B78 392000003809FFFF7C004B78
-
-name: LittleBigPlanet tv01.28: Unlimited Respawn
-mode: once
-w32 0006BBF8 39200000
-
-name: LittleBigPlanet tv01.28: AoB Unlimited Respawn
+name: AoB Unlimited Respawn
 mode: once
 aob 813B000C3809FFFF7C004B78 392000003809FFFF7C004B78

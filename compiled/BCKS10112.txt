@@ -16,7 +16,7 @@ name: Invincible Against Boss Attacks
 mode: once
 w32 0049CBFC 60000000
 
-name: Non-Boss Enemes Freeze When Trying To Attack
+name: Non-Boss Enemies Freeze When Trying To Attack
 mode: once
 w32 002AD230 48000004
 w32 002B3448 48000004

@@ -1,6 +1,6 @@
 # DiRT 3
 
-name: Colin McRae DIRT 3: Memory Max Points On 1 Race
+name: Memory Max Points On 1 Race
 mode: once
 w32 30549A58 00000063
 w32 30549AF8 00000063
@@ -17,6 +17,6 @@ w32 81021110 000003E7
 w32 81021140 00000063
 w32 8A7B7C28 00000063
 
-name: Colin McRae DIRT 3: ASM Max Points On 1 Race
+name: ASM Max Points On 1 Race
 mode: once
 w32 004D7A5C 91890000

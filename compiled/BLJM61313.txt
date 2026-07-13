@@ -1,63 +1,63 @@
 # Ryuu ga Gotoku Kiwami
 
-name: Ryu Ga Gotoku Kiwami: Max Gold, CP, And Possession Points On Change
+name: Max Gold, CP, And Possession Points On Change
 mode: once
 w32 008E2170 48000008
 
-name: Ryu Ga Gotoku Kiwami: Car Chase Bullets Never Decrease
+name: Car Chase Bullets Never Decrease
 mode: once
 w32 002A1380 60000000
 
-name: Ryu Ga Gotoku Kiwami: Car Chase Heat Gauge Never Decreases
+name: Car Chase Heat Gauge Never Decreases
 mode: once
 w32 002A1744 60000000
 
-name: Ryu Ga Gotoku Kiwami: Heat Gauge Max
+name: Heat Gauge Max
 mode: once
 w32 0059C3FC FC23106E
 
-name: Ryu Ga Gotoku Kiwami: Experience Never Decreases When Upgrading
+name: Experience Never Decreases When Upgrading
 mode: once
 w32 00714EB0 38800000
 
-name: Ryu Ga Gotoku Kiwami: Weapon Durability Never Decreases
+name: Weapon Durability Never Decreases
 mode: once
 w32 008F1DB4 48000040
 w32 00914B58 48000170
 w32 0093D540 4800001C
 w32 00A7D270 48000020
 
-name: Ryu Ga Gotoku Kiwami: Items Never Decrease
+name: Items Never Decrease
 mode: once
 w32 008E8C20 60000000
 
-name: Ryu Ga Gotoku Kiwami: AoB Max Gold, CP, And Possession Points On Change
+name: AoB Max Gold, CP, And Possession Points On Change
 mode: once
 aob 40810008610700002C1F0000F8E90000 48000008610700002C1F0000F8E90000
 
-name: Ryu Ga Gotoku Kiwami: AoB Car Chase Bullets Never Decrease
+name: AoB Car Chase Bullets Never Decrease
 mode: once
 aob 90DD02604082004833DD02B038800001 600000004082004833DD02B038800001
 
-name: Ryu Ga Gotoku Kiwami: AoB Car Chase Heat Gauge Never Decreases
+name: AoB Car Chase Heat Gauge Never Decreases
 mode: once
 aob D03D027C480000A43C60012438800002 60000000480000A43C60012438800002
 
-name: Ryu Ga Gotoku Kiwami: AoB Heat Gauge Max
+name: AoB Heat Gauge Max
 mode: once
 aob FC4310EEFC401018EC611028FC2308AE FC4310EEFC401018EC611028FC23106E
 
-name: Ryu Ga Gotoku Kiwami: AoB Experience Never Decreases When Upgrading
+name: AoB Experience Never Decreases When Upgrading
 mode: once
 aob 7C9F00D038A00000481D5D39E8010090 3880000038A00000481D5D39E8010090
 
-name: Ryu Ga Gotoku Kiwami: AoB Weapon Durability Never Decreases
+name: AoB Weapon Durability Never Decreases
 mode: once
 aob 7C042800418200407C84F81438A02710 7C042800480000407C84F81438A02710
 aob 807F00002C030000418201703BC00000 807F00002C030000480001703BC00000
 aob 4082001C807B00288083000080840228 4800001C807B00288083000080840228
 aob 4182002038C001B06064000063030000 4800002038C001B06064000063030000
 
-name: Ryu Ga Gotoku Kiwami: AoB Items Never Decrease
+name: AoB Items Never Decrease
 mode: once
 aob 7C6418107C6307B47C64FE767C8420F8 600000007C6307B47C64FE767C8420F8

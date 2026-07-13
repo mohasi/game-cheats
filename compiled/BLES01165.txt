@@ -1,45 +1,45 @@
 # Mafia II: Director's Cut
 
-name: Mafia 2 Director's Cut: No Reload
+name: No Reload
 mode: once
 w32 00769090 60000000
 
-name: Mafia 2 Director's Cut: Max Money On Buy
+name: Max Money On Buy
 mode: once
 w32 00824504 F8250010
 
-name: Mafia 2 Director's Cut: AoB No Reload
+name: AoB No Reload
 mode: once
 aob 9085000C808300008084000C 60000000808300008084000C
 
-name: Mafia 2 Director's Cut: AoB Max Money On Buy
+name: AoB Max Money On Buy
 mode: once
 aob F8850010808300008084000C F8250010808300008084000C
 
-name: Mafia 2 Director's Cut: Police Ignore You
+name: Police Ignore You
 mode: once
 w32 0098F5C4 60000000
 
-name: Mafia 2 Director's Cut: Infinite Mission Time
+name: Infinite Mission Time
 mode: once
 w32 000BCD98 60000000
 
-name: Mafia 2 Director's Cut: Infinite Vehicle Engine (Car Still Becomes Damaged)
+name: Infinite Vehicle Engine (Car Still Becomes Damaged)
 mode: once
 w32 00208920 D3DC001C
 
-name: Mafia 2 Director's Cut: AoB Police Ignore You
+name: AoB Police Ignore You
 mode: once
 aob 807C00183B000001937C0008 807C00183B00000160000000
 
-name: Mafia 2 Director's Cut: AoB Infinite Mission Time
+name: AoB Infinite Mission Time
 mode: once
 aob EC3C107C63E30000D03F004C EC3C107C63E3000060000000
 
-name: Mafia 2 Director's Cut: AoB Infinite Vehicle Engine (Car Still Becomes Damaged)
+name: AoB Infinite Vehicle Engine (Car Still Becomes Damaged)
 mode: once
 aob 4082FCF03C600021C03C001C 4082FCF03C600021D3DC001C
 
-name: Mafia 2 Director's Cut: Infinite Vehicle Engine
+name: Infinite Vehicle Engine
 mode: once
 w32 00208920 D3DC001C

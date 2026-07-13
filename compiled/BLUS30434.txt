@@ -4,7 +4,7 @@ name: B-Gauge 99,999
 mode: once
 w32 312B7458 0001869F
 
-name: T-Eng Supplier Never Descreases
+name: T-Eng Supplier Never Decreases
 mode: once
 w32 003EF21C 60000000
 
@@ -58,7 +58,7 @@ w32 01AB6678 F821FEE1
 w32 01AB667C 483F3F06
 w32 003F3F00 49AB666A
 
-name: AoB T-Eng Supplier Never Descreases
+name: AoB T-Eng Supplier Never Decreases
 mode: once
 aob C01E819C547C063EFF8D0000D1BF1944409CFEF8 C01E819C547C063EFF8D000060000000409CFEF8
 

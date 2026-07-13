@@ -1,6 +1,6 @@
 # Plants vs. Zombies
 
-name: Peggle: Unlimited Balls
+name: Unlimited Balls
 mode: once
 w32 001B7354 60000000
 

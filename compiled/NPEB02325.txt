@@ -1,32 +1,32 @@
 # Deception IV: The Nightmare Princess
 
-name: Deception 4 Blood Ties: Ellaborate
+name: Ellaborate
 mode: once
 w32 3256FB14 00000034
 
-name: Deception 4 Blood Ties: Hits Combo
+name: Hits Combo
 mode: once
 w16 37467822 0001
 
-name: Deception 4 Blood Ties: Ark
+name: Ark
 mode: once
 w32 374677C0 0000000E
 
-name: Deception 4 Blood Ties: HP 300
+name: HP 300
 mode: once
 w16 3745C9CE 012C
 
-name: Deception 4 Blood Ties: Infinite HP
+name: Infinite HP
 mode: once
 w32 005F0838 40850008
 w32 005F0840 60630000
 
-name: Deception 4 Blood Ties: Instant Death
+name: Instant Death
 mode: once
 w32 005F0838 41850008
 w32 005F0840 60660000
 
-name: Deception 4 Blood Ties: Nightmare Princess HP
+name: Nightmare Princess HP
 mode: once
 w32 35885A94 0000045A
 w32 3745C9CC 0000045A

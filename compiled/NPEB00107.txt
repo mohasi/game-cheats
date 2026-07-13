@@ -1,39 +1,5 @@
 # Invincible Tiger: The Legend of Han Tao
 
-name: Invincible Tiger: Memory Infinite Life
-mode: once
-w32 00A6BA08 00000002
-
-name: Invincible Tiger: ASM Life Never Decreases
-mode: once
-w32 00284DD4 38840000
-
-name: Invincible Tiger: Memory Invincible After Dying 1 Time
-mode: once
-w32 37B4597C 40675E0C
-
-name: Invincible Tiger: ASM Invincible After Dying 1 Time
-mode: once
-w32 00285028 60000000
-w32 00285030 60000000
-
-name: Invincible Tiger: Memory Bonus Point Increase By x1 On Hit (Easy Max x10)
-mode: once
-w32 35EAB378 00000005
-
-name: Invincible Tiger: ASM Bonus Point Increase By x1 On Hit (Easy Max x10)
-mode: once
-w32 002DBBD4 60000000
-w32 002DBBD8 D37D004C
-
-name: Invincible Tiger: Memory Easy Max Level Of Yang (You Need To Reach Level x1 For Code Work)
-mode: once
-w32 35EF7848 00000001
-
-name: Invincible Tiger: ASM Easy Max Level Of Yang (You Need To Reach Level x1 For Code Work)
-mode: once
-w32 00192D7C 90E30098
-
 name: Memory Infinite Life
 mode: once
 w32 00A6BA08 00000002

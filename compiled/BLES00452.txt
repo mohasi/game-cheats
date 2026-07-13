@@ -936,57 +936,9 @@ name: AoB Story Mode Enemies Start With 0 SP
 mode: once
 aob E80909D8F80909C838120001 38000000F80909C838120001
 
-name: AoB In Battle Characters Aptitudes Are 255
-mode: once
-aob 2FA000FF409D0008 2FA000FF38E000FF
-
-name: AoB In Battle Characters Aptitudes Are 0
-mode: once
-aob 2FA000FF409D0008 2FA000FF38E00000
-
-name: AoB In Battle Characters Elemental Resistances Are 99
-mode: once
-aob 2FA00063409D0008 2FA0006338000063
-
-name: AoB In Battle Characters Elemental Resistances Are 0
-mode: once
-aob 2FA00063409D0008 2FA0006338000000
-
-name: AoB In Battle Characters Move Ranges Are 127
-mode: once
-aob 409D000C38000020 600000003800007F
-
-name: AoB In Battle Characters Jump Heights Are 127
-mode: once
-aob 409D00083B400063 600000003B40007F
-
-name: AoB In Battle Characters Counter Attack Counts Are 255
-mode: once
-aob 409D000C3800000998180AC9 60000000380000FF98180AC9
-
-name: AoB In Battle Characters Throwing Distances Are 255
-mode: once
-aob 409D000C3800000998180ACA88180AC7 60000000380000FF98180ACA88180AC7
-
-name: AoB In Battle Characters Attack Ranges Are 127
-mode: once
-aob 409D000C3800000998180AD6 600000003800007F98180AD6
-
-name: AoB In Battle Characters Critical Rates Are 127%
-mode: once
-aob 3929000599380B22 3929007F99380B22
-
-name: AoB In Battle Characters Skill Boost Levels Are 9
-mode: once
-aob 409D000C3800000998090000 600000003800000998090000
-
 name: AoB New Item Rarities Are Legendary
 mode: once
 aob 409D00183860000848045581 386000026000000048045581
-
-name: AoB New Items Innocent Levels Are 19998, Yellow, And Transferable
-mode: once
-aob 409E000C38000001901C0000 6000000038004E1F901C0000
 
 name: AoB Boost A Non Character Specific Skill For Max Mana
 mode: once

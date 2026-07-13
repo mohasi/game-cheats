@@ -1,11 +1,11 @@
 # Battlefield: Bad Company
 
-name: Battlefield Bad Company Gold Edition: Infinite Ammo + No Reload + No Waiting Time For Health Syringe
+name: Infinite Ammo + No Reload + No Waiting Time For Health Syringe
 mode: once
 w32 00C0C224 60000000
 w32 00C0C238 91230088
 
-name: Battlefield Bad Company Gold Edition: 3 of Something
+name: 3 of Something
 mode: once
 w32 00C0655C 60000000
 w32 00C06560 60000000

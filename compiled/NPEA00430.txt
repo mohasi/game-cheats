@@ -1,43 +1,43 @@
 # Resistance - Fall of Man (Re-Release)
 
-name: Resistance Fall Of Man: Loaded Ammo Does Not Decrease
+name: Loaded Ammo Does Not Decrease
 mode: once
 w32 002164C8 61200000
 
-name: Resistance Fall Of Man: Reserve Ammo Does Not Decrease
+name: Reserve Ammo Does Not Decrease
 mode: once
 w32 00215B78 60000000
 
-name: Resistance Fall Of Man: Secondary Ammo Does Not Decrease
+name: Secondary Ammo Does Not Decrease
 mode: once
 w32 002165B8 61200000
 
-name: Resistance Fall Of Man: Health Never Decreases
+name: Health Never Decreases
 mode: once
 w32 0017A414 60000000
 
-name: Resistance Fall Of Man: Grenades Never Decrease
+name: Grenades Never Decrease
 mode: once
 w32 001828E8 60000000
 
-name: Resistance Fall Of Man: Rapid Fire Most Primary Fire
+name: Rapid Fire Most Primary Fire
 mode: once
 w32 00214DE0 C01E800C
 
-name: Resistance Fall Of Man: High Jump
+name: High Jump
 mode: once
 w32 00189458 EC3F082A
 
-name: Resistance Fall Of Man: Sniper Rifle Slow Motion Never Ends
+name: Sniper Rifle Slow Motion Never Ends
 mode: once
 w32 0023B3A0 60000000
 
-name: Resistance Fall Of Man: Arc Charger Never Overheats
+name: Arc Charger Never Overheats
 mode: once
 w32 002147C0 38000000
 w32 002147C8 901F0408
 
-name: Resistance Fall Of Man: More Rapid Fire
+name: More Rapid Fire
 mode: once
 w32 0075028C 3C600021
 w32 00750290 6063D004
@@ -62,75 +62,75 @@ w32 001912DC 4875028E
 w32 0022222C 48750312
 w32 00220EEC 60000000
 
-name: Resistance Fall Of Man: Tank Turret Never Overheats
+name: Tank Turret Never Overheats
 mode: once
 w32 00335A48 60000000
 w32 00336438 60000000
 
-name: Resistance Fall Of Man: Tank Health Never Decreases
+name: Tank Health Never Decreases
 mode: once
 w32 00323124 C19F00D4
 
-name: Resistance Fall Of Man: Stalker Turret Never Overheats
+name: Stalker Turret Never Overheats
 mode: once
 w32 00329698 60000000
 
-name: Resistance Fall Of Man: Stalker Health Never Decreases
+name: Stalker Health Never Decreases
 mode: once
 w32 003170F8 C1BF00D4
 
-name: Resistance Fall Of Man: AoB Loaded Ammo Does Not Decrease
+name: AoB Loaded Ammo Does Not Decrease
 mode: once
 aob 7C0048507C000734B01F03BC419E0024 612000007C000734B01F03BC419E0024
 
-name: Resistance Fall Of Man: AoB Reserve Ammo Does Not Decrease
+name: AoB Reserve Ammo Does Not Decrease
 mode: once
 aob A01D03BE7C1F0050B01D03BEE80100B0 A01D03BE60000000B01D03BEE80100B0
 
-name: Resistance Fall Of Man: AoB Secondary Ammo Does Not Decrease
+name: AoB Secondary Ammo Does Not Decrease
 mode: once
 aob 7C0048507C0007342F800000B00303C0 612000007C0007342F800000B00303C0
 
-name: Resistance Fall Of Man: AoB Health Never Decreases
+name: AoB Health Never Decreases
 mode: once
 aob FF816000D0232D50409D0008D1832D50 FF816000D0232D5060000000D1832D50
 
-name: Resistance Fall Of Man: AoB Rapid Fire Most Primary Fire
+name: AoB Rapid Fire Most Primary Fire
 mode: once
 aob 881F00097F801800409D0008987F0009 881F00097F80180060000000987F0009
 
-name: Resistance Fall Of Man: AoB High Jump
+name: AoB High Jump
 mode: once
 aob 60000000EC3F0828C01E87B0FF810000D03F00F4 EC3F082AEC3F0828C01E87B0FF810000D03F00F4
 
-name: Resistance Fall Of Man: AoB Sniper Rifle Slow Motion Never Ends
+name: AoB Sniper Rifle Slow Motion Never Ends
 mode: once
 aob EC0DF82A388000017FE3FB78FF806000D00B0000 EC0DF82A388000017FE3FB78FF80600060000000
 
-name: Resistance Fall Of Man: AoB Arc Charger Never Overheats
+name: AoB Arc Charger Never Overheats
 mode: once
 aob 60000000C1BE800CEFFF082AFF9F6800D3FF0408 60000000C1BE800C38000000FF9F6800901F0408
 
-name: Resistance Fall Of Man: AoB More Rapid Fire
+name: AoB More Rapid Fire
 mode: once
 aob 000000000000000000000000000000002C0000010009000D00000000000000000074EAF00075006400760FA4000000000000000000000000000000002C0000010009000A00000000000000000074EAFC0075009800760FD8000000000000000000000000000000002C0000010009000E00000000000000000074EB08007500C000760E04000000000000000000000000000000002C0000010009000D00000000000000000074EB18007500F800760E4C00000000000000000000000000000000 3C6000216063D0047FC802A6480000202C0000010009000D00000000000000000074EAF00075006400760FA47F9E1840409E002C38600000480000202C0000010009000A00000000000000000074EAFC0075009800760FD89064000038600001481912E2000000002C0000010009000E00000000000000000074EB08007500C000760E047C0802A63D600022616B2168480000202C0000010009000D00000000000000000074EB18007500F800760E4C7F830040409E0008D1BF036C48222232
 aob C003000438600001EC210032C0040000 C00300044875028EEC210032C0040000
 aob EDAD603A813F00007FE3FB78D1BF036C EDAD603A813F00007FE3FB7848750312
 aob 816A00987D28002EC00900CCD01F0370 816A00987D28002EC00900CC60000000
 
-name: Resistance Fall Of Man: AoB Tank Turret Never Overheats
+name: AoB Tank Turret Never Overheats
 mode: once
 aob 4BE5B96960000000EFFF082AC1BE8070D3FF03E4C01F03E4FF806800 4BE5B96960000000EFFF082AC1BE807060000000C01F03E4FF806800
 aob 4BE5AF7960000000EFFF082AC1BE802CD3FF03E0C01F03E0FF806800 4BE5AF7960000000EFFF082AC1BE802C60000000C01F03E0FF806800
 
-name: Resistance Fall Of Man: AoB Tank Health Never Decreases
+name: AoB Tank Health Never Decreases
 mode: once
 aob 60000000C19F00D8ED8CF828C01E8014 60000000C19F00D8C19F00D4C01E8014
 
-name: Resistance Fall Of Man: AoB Stalker Turret Never Overheats
+name: AoB Stalker Turret Never Overheats
 mode: once
 aob EFFF082AC1BE8058FF9F6800D3FF03E4 EFFF082AC1BE8058FF9F680060000000
 
-name: Resistance Fall Of Man: AoB Stalker Health Never Decreases
+name: AoB Stalker Health Never Decreases
 mode: once
 aob C01F0C68EC1E0032C1BF00D8EDAD0028 C01F0C68EC1E0032C1BF00D8C1BF00D4

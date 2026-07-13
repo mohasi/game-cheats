@@ -1,84 +1,36 @@
 # Resident Evil 6
 
-name: Assassin's Creed Revelations: Max Money On Gain
+name: Max Money On Gain
 mode: once
 w32 01036F70 3880FFFF
 
-name: Assassin's Creed Revelations: Max Moral
+name: Max Moral
 mode: once
 w32 01483F10 38000063
 
-name: Assassin's Creed Revelations: Infinite Health
+name: Infinite Health
 mode: once
 w32 009A5BE8 905F0058
 
-name: Assassin's Creed Revelations: AoB Max Money On Gain
+name: AoB Max Money On Gain
 mode: once
 aob 7C9E02147F841840 3880FFFF7F841840
 
-name: Assassin's Creed Revelations: AoB Max Moral
+name: AoB Max Moral
 mode: once
 aob 7C0022147C9E2378 380000637C9E2378
 
-name: Biohazard 6: Invincible Mode 1
+name: Invincible Mode 1
 mode: once
 w32 00272FC4 418101C0
 
-name: Biohazard 6: Invincible Mode 3
+name: Invincible Mode 3
 mode: once
 w32 00828EA8 418206C0
 
-name: Biohazard 6: Infinite Stamina
+name: Infinite Stamina
 mode: once
 w32 0082B654 00000000
-
-name: Biohazard 6: Invincible Mode
-mode: once
-w32 0025B254 418101C0
-
-name: Biohazard 6: Invincible Mode 2
-mode: once
-w32 0024EA54 41810074
-
-name: Biohazard 6: Max Skill Points On Gain
-mode: once
-w32 00779D2C 60000000
-
-name: Biohazard 6: Max Score In Mercenaries Always S Rank
-mode: once
-w32 001688FC 60000000
-
-name: Biohazard 6: Always 0 Deaths Campaigns
-mode: once
-w32 006E6068 3C800000
-w32 006E607C 909C0018
-
-name: Biohazard 6: Max Kills Campaigns
-mode: once
-w32 006E608C 60000000
-
-name: Biohazard 6: Infinite Energy + Stamina
-mode: once
-w32 007EAAE0 00000000
-
-name: Biohazard 6: Zombie + Dog No Attack
-mode: once
-w32 007E6F70 4182000C
-
-name: Biohazard 6: Infinite Health
-mode: once
-w32 007E709C 4082000C
-
-name: Biohazard 6: Infinite Ammo + No Reload + Grenade
-mode: once
-w32 00B7F0CC 60000000
-
-name: Biohazard 6: Zombies Can Not Grab
-mode: once
-w32 00475408 41812AF0
-w32 00475410 418106CC
-w32 0047541C 418106C0
-w32 00475424 418124A0
 
 name: Invincible Mode
 mode: once
@@ -128,6 +80,10 @@ w32 00475410 418106CC
 w32 0047541C 418106C0
 w32 00475424 418124A0
 
+name: Zombie + Dog No Attack
+mode: once
+w32 007E6F70 4182000C
+
 name: AoB Counter Anything Anywhere
 mode: once
 aob 607F00002C1F0066418200E02C1F00457FFE07B4 3BE000352C1F0066418200E02C1F00457FFE07B4
@@ -137,18 +93,6 @@ aob 607F00002C1F00664182003C63A3000063E40000 3BE000222C1F00664182003C63A3000063E
 name: Infinite Ammo + Items
 mode: once
 w32 00BD20CC 60000000
-
-name: Invincible Mode 1
-mode: once
-w32 00272FC4 418101C0
-
-name: Invincible Mode 3
-mode: once
-w32 00828EA8 418206C0
-
-name: Infinite Stamina
-mode: once
-w32 0082B654 00000000
 
 name: Infinite Ammo + No Reload + Grenade
 mode: once

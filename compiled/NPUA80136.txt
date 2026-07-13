@@ -1,6 +1,6 @@
 # Siren - Blood Curse - Episode 9
 
-name: Siren Blood Curse: Infinite Health For You + Allies
+name: Infinite Health For You + Allies
 mode: once
 w32 0060A49C 886A049F
 w32 0060A4A0 2F830000
@@ -14,11 +14,11 @@ w32 0060A4F4 C00A0008
 w32 0060A4F8 4BE0C1DC
 w32 004166D0 481F3DCC
 
-name: Siren Blood Curse: Infinite Ammo Usage
+name: Infinite Ammo Usage
 mode: once
 w32 0014AFCC 93BE0374
 
-name: Siren Blood Curse: Invisible, Hold L2 To Be Visible
+name: Invisible, Hold L2 To Be Visible
 mode: once
 w32 0060A3EC 3C60007F
 w32 0060A3F0 886307BB
@@ -30,19 +30,19 @@ w32 0060A420 7D4050CE
 w32 0060A424 4BACD224
 w32 000D7644 48532DA8
 
-name: Siren Blood Curse: Enemies Can Not See You
+name: Enemies Can Not See You
 mode: once
 w32 006275C0 42C80000
 
-name: Siren Blood Curse: Melee Attacks Do No Damage
+name: Melee Attacks Do No Damage
 mode: once
 w32 0042698C 60000000
 
-name: Siren Blood Curse: Bullets Do No Damage
+name: Bullets Do No Damage
 mode: once
 w32 004288D4 60000000
 
-name: Siren Blood Curse: Some Attacks Do No Damage
+name: Some Attacks Do No Damage
 mode: once
 w32 00428448 60000000
 w32 0042558C 60000000
@@ -53,48 +53,48 @@ w32 00427B94 60000000
 w32 00427DA4 60000000
 w32 00427EE8 60000000
 
-name: Siren Blood Curse: Flying Shibito Do Not Move
+name: Flying Shibito Do Not Move
 mode: once
 w32 004476CC 60000000
 
-name: Siren Blood Curse: Small Brightness Boost
+name: Small Brightness Boost
 mode: once
 w32 00061298 60000000
 
-name: Siren Blood Curse: Black And White Visuals
+name: Black And White Visuals
 mode: once
 w32 00061290 60000000
 
-name: Siren Blood Curse: AoB Infinite Health For You + Allies
+name: AoB Infinite Health For You + Allies
 mode: once
 aob 007A5D4000000000000000000000000000000000 007A5D40886A049F2F830000409E005048000020
 aob 007A5B0800000000000000000000000000000000 007A5B083C607F80906A0004906A000848000020
 aob 007A5BE00000000000000000 007A5BE0C00A00084BE0C1DC
 aob C00A0008FC00001E 481F3DCCFC00001E
 
-name: Siren Blood Curse: AoB Infinite Ammo Usage
+name: AoB Infinite Ammo Usage
 mode: once
 aob 909E0374801F00002F800000419C0098813E000081690140800B0000F84100287C0903A6 939E0374801F00002F800000419C0098813E000081690140800B0000F84100287C0903A6
 
-name: Siren Blood Curse: AoB Invisible, Hold L2 To Be Visible
+name: AoB Invisible, Hold L2 To Be Visible
 mode: once
 aob 007A5D8000000000000000000000000000000000 007A5D803C60007F886307BB7063001048000020
 aob 007A5BE400000000000000000000000000000000 007A5BE42F830010409E00087D4050CE4BACD224
 aob 1000034C7D4050CE 1000034C48532DAC
 
-name: Siren Blood Curse: AoB Melee Attacks Do No Damage
+name: AoB Melee Attacks Do No Damage
 mode: once
 aob FC00581880090144392100802F800000D0060008 FC00581880090144392100802F80000060000000
 
-name: Siren Blood Curse: AoB Bullets Do No Damage
+name: AoB Bullets Do No Damage
 mode: once
 aob FC00601880090144392100802F800000D0060008 FC00601880090144392100802F80000060000000
 
-name: Siren Blood Curse: AoB Flying Shibito Do Not Move
+name: AoB Flying Shibito Do Not Move
 mode: once
 aob 100DD6EA7C0049CED0230050 100DD6EA7C0049CE60000000
 
-name: Siren Blood Curse: Some Attacks Do No Damage
+name: Some Attacks Do No Damage
 mode: once
 w32 0042558C 60000000
 w32 004255C8 60000000
@@ -105,6 +105,6 @@ w32 00427DA4 60000000
 w32 00427EE8 60000000
 w32 00428448 60000000
 
-name: Siren Blood Curse: No Move Enemy Attack
+name: No Move Enemy Attack
 mode: once
 w32 003762F8 419E000C

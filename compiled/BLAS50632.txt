@@ -1,10 +1,10 @@
 # Ar Tonelico III: Sekai Shuuen No Hikigane Wa Shoujo No Uta Ga Hiku
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: Money 9999999
+name: Money 9999999
 mode: once
 w32 015885A0 0098967F
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: All Characters EXP Max
+name: All Characters EXP Max
 mode: once
 w32 0158870C 000F423F
 w32 01588774 000F423F
@@ -14,7 +14,7 @@ w32 015888AC 000F423F
 w32 01588914 000F423F
 w32 0158897C 000F423F
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: All Characters HP 9999 + 9999
+name: All Characters HP 9999 + 9999
 mode: once
 w32 01588710 0000270F
 w32 01588714 0000270F
@@ -38,7 +38,7 @@ w32 01588980 0000270F
 w32 01588984 0000270F
 w32 015889A4 0000270F
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: All Characters ATK 999
+name: All Characters ATK 999
 mode: once
 w32 01588738 000003E8
 w32 015887A0 000003E8
@@ -48,7 +48,7 @@ w32 015888D8 000003E8
 w32 01588940 000003E8
 w32 015889A8 000003E8
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: All Characters DEF 999
+name: All Characters DEF 999
 mode: once
 w32 0158873C 000003E8
 w32 015887A4 000003E8
@@ -58,7 +58,7 @@ w32 015888DC 000003E8
 w32 01588944 000003E8
 w32 015889AC 000003E8
 
-name: Ar Tonelico 3 Sekia Shuuen Nn Hikigane Wa Shoujo Nn Uta Ga Hiku: All Characters OP 99999
+name: All Characters OP 99999
 mode: once
 w32 015890D0 0001869F
 w32 015890D4 0001869F

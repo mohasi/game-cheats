@@ -9,7 +9,7 @@ mode: once
 w32 008F88F8 38800001
 w32 008F8908 28030001
 
-name: Lollipop Chainsaw PE: Max Coins On Gain
+name: Max Coins On Gain
 mode: once
 w32 0161C100 3FC00098
 w32 0161C104 63DE967F
@@ -22,7 +22,7 @@ w32 0161C11C 83C10070
 w32 0161C120 4E800020
 w32 000A2494 49579C6D
 
-name: Lollipop Chainsaw PE: Infinite Health + Star Souls
+name: Infinite Health + Star Souls
 mode: once
 w32 0161C138 80630028
 w32 0161C13C 2C1D001C
@@ -34,7 +34,7 @@ w32 0161C150 90831FF4
 w32 0161C154 4AA99E90
 w32 000B5FE0 49566158
 
-name: Lollipop Chainsaw PE: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0161C170 80640000
 w32 0161C174 2C030023
@@ -44,11 +44,11 @@ w32 0161C180 90640000
 w32 0161C184 4E800020
 w32 000A1F4C 4957A225
 
-name: Lollipop Chainsaw PE: Unlock FPS (PSXPlace) [Tested]
+name: Unlock FPS (PSXPlace) [Tested]
 mode: once
 w32 008F8908 28030001
 
-name: Lollipop Chainsaw PE: Unlock FPS (RPCS3)
+name: Unlock FPS (RPCS3)
 mode: once
 w32 00932F2C 60000000
 w32 00932F8C 60000000

@@ -67,11 +67,3 @@ aob 800307B87C002214 3C003B9A6000C9FF
 name: AoB Max Ammo After Shot
 mode: once
 aob 3809FFFF901B0038 380003E7901B0038
-
-name: Juice Never Decreases
-mode: once
-w32 001A9980 60000000
-
-name: AoB Juice Never Decreases
-mode: once
-aob 3929FFFF396B0001913E0800 60000000396B0001913E0800

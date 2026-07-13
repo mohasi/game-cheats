@@ -1,23 +1,23 @@
 # Dark Souls II
 
-name: Dark Souls 2: Max Items On Gain
+name: Max Items On Gain
 mode: once
 w32 00530724 48000008
 w32 0053072C 38000063
 
-name: Dark Souls 2: Max Items On Use + Discard + Deposit
+name: Max Items On Use + Discard + Deposit
 mode: once
 w32 0053A7F8 38000063
 
-name: Dark Souls 2: Max Souls On Gain
+name: Max Souls On Gain
 mode: once
 w32 008669D8 419D0104
 
-name: Dark Souls 2: Max Souls On Buy
+name: Max Souls On Buy
 mode: once
 w32 00866054 7D405378
 
-name: Dark Souls 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 01C1AA94 901D0000
 w32 01C1AA98 3C60323F
@@ -28,46 +28,46 @@ w32 01C1AAA8 910300FC
 w32 01C1AAAC 484BB6DB
 w32 004BB6D4 49C1AA97
 
-name: Dark Souls 2: Status Immunity
+name: Status Immunity
 mode: once
 w32 004878F4 60000000
 
-name: Dark Souls 2: Infinite Stamina
+name: Infinite Stamina
 mode: once
 w32 007CAEC0 60000000
 
-name: Dark Souls 2: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 005325B0 60000000
 
-name: Dark Souls 2: Infinite Durability
+name: Infinite Durability
 mode: once
 w32 00530388 60000000
 w32 007F9F18 60000000
 
-name: Dark Souls 2: Equip Load 0
+name: Equip Load 0
 mode: once
 w32 0084C324 EFFF0024
 
-name: Dark Souls 2: Infinite Torch Time
+name: Infinite Torch Time
 mode: once
 w32 0054761C 60000000
 
-name: Dark Souls 2: Souls Do Not Disappear After Death
+name: Souls Do Not Disappear After Death
 mode: once
 w32 00665094 60000000
 
-name: Dark Souls 2: Items Never Decrease
+name: Items Never Decrease
 mode: once
 w32 0053A7D0 60000000
 w32 0053A7F8 60000000
 
-name: Dark Souls 2: Infinite Buff Time
+name: Infinite Buff Time
 mode: once
 w32 005E6044 60000000
 w32 005E6050 60000000
 
-name: Dark Souls 2: Target(Lock-on) Enemy to Kill It
+name: Target(Lock-on) Enemy to Kill It
 mode: once
 w32 01C1AAB0 931F00AC
 w32 01C1AAB4 81F800F8
@@ -75,7 +75,7 @@ w32 01C1AAB8 91F800FC
 w32 01C1AABC 4E800020
 w32 00A315FC 49C1AB03
 
-name: Dark Souls 2: Target(Lock-on) Enemy for 1 Hit Kill
+name: Target(Lock-on) Enemy for 1 Hit Kill
 mode: once
 w32 01C1AAB0 931F00AC
 w32 01C1AAB4 39E00001
@@ -83,37 +83,37 @@ w32 01C1AAB8 91F800FC
 w32 01C1AABC 4E800020
 w32 00A315FC 49C1AB03
 
-name: Dark Souls 2: No Fall Damage
+name: No Fall Damage
 mode: once
 w32 004BB6D4 60000000
 
-name: Dark Souls 2: Infinite Torch Duration
+name: Infinite Torch Duration
 mode: once
 w32 0056CA34 60000000
 
-name: Dark Souls 2: Souls Do Not Disappear After Death
+name: Souls Do Not Disappear After Death
 mode: once
 w32 00699CC4 60000000
 
-name: Dark Souls 2: Infinite Buff Duration
+name: Infinite Buff Duration
 mode: once
 w32 0061434C 60000000
 w32 00614358 60000000
 
-name: Dark Souls 2: Infinite HP
+name: Infinite HP
 mode: once
 w32 005E4110 906900FC
 
-name: Dark Souls 2: 1 Hit Kill Locked Target
+name: 1 Hit Kill Locked Target
 mode: once
 w32 00B460AC 39200001
 w32 00B460B8 91230000
 
-name: Dark Souls 2: Instant Kill Locked Target
+name: Instant Kill Locked Target
 mode: once
 w32 00B460AC 39200000
 w32 00B460B8 91230000
 
-name: Dark Souls 2: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 00557840 60000000

@@ -39,29 +39,3 @@ w32 0013CDEC 91630058
 name: ASM Infinite Nitro
 mode: once
 w32 00462CC0 60000000
-
-name: Need For Speed Carbono: Memory Infinite Bullet Time
-mode: once
-w32 506B8198 3F800000
-
-name: Need For Speed Carbono: ASM Infinite Bullet Time
-mode: once
-w32 00504060 60000000
-w32 00504068 60000000
-w32 00504074 60000000
-
-name: Need For Speed Carbono: Memory Lot + Infinite Money
-mode: once
-w32 50B74AB8 000027D8
-
-name: Need For Speed Carbono: ASM Lot + Infinite Money
-mode: once
-w32 0013DF88 91630058
-
-name: Need For Speed Carbono: Memory Infinite Nitro
-mode: once
-w32 59C88C40 3F800000
-
-name: Need For Speed Carbono: ASM Infinite Nitro
-mode: once
-w32 00465208 60000000

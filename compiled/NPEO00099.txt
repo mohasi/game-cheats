@@ -80,29 +80,29 @@ mode: once
 w32 0139BDF0 3F59999A
 w32 0139BEEC 3F59999A
 
-name: Killzone 3 EU: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w32 33A8E950 00000020
 
-name: Killzone 3 EU: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 00753010 7C853810
 w32 00753018 60000000
 
-name: Killzone 3 EU: Memory Infinite Grenades
+name: Memory Infinite Grenades
 mode: once
 w32 3373BD10 00000003
 
-name: Killzone 3 EU: ASM Infinite Grenades
+name: ASM Infinite Grenades
 mode: once
 w32 006C524C 30630000
 w32 006C5250 60000000
 
-name: Killzone 3 EU: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 3384C870 4295CCCD
 w32 340DFAF4 4295CCCD
 
-name: Killzone 3 EU: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 003459D8 EC3F2828

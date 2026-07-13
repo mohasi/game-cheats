@@ -38,24 +38,6 @@ name: Infinite Special
 mode: once
 w32 00128350 60000000
 
-name: Resident Evil Operation Raccoon City tv01.02: Infinite Ammo + Items + Bottomless Clip
-mode: once
-w32 002B9F1C 60000000
-w32 002BA258 60000000
-
-name: Resident Evil Operation Raccoon City tv01.02: Infinite Exp
-mode: once
-w32 00A816E8 307F0004
-
-name: Resident Evil Operation Raccoon City tv01.02: Infinite Special
-mode: once
-w32 00128350 60000000
-
-name: Infinite Ammo, Infinite Items + Bottomless Clip
-mode: once
-w32 002AA254 60000000
-w32 002AA5A0 60000000
-
 name: Freeplay Has All Levels On All Difficulties
 mode: once
 w32 011DF4FC 1CB90008

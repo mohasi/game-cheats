@@ -1,5 +1,5 @@
 # The Jak and Daxter Trilogy
 
-name: Jak And Daxter The Precursor Legacy: Infinite Health
+name: Infinite Health
 mode: once
 w32 0025989C 3C004080

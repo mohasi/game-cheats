@@ -1,6 +1,6 @@
 # Diablo III: Reaper of Souls (Ultimate Evil Edition)
 
-name: Diablo 3 Reaper Of Souls: Max Magic Find Bonus
+name: Max Magic Find Bonus
 mode: once
 w32 00E35318 3C607F7F
 w32 00E3531C 6063FFFF
@@ -9,11 +9,11 @@ w32 00E35324 C021FFFC
 w32 00E35328 4889C006
 w32 0089C000 48E3531A
 
-name: Diablo 3 Reaper Of Souls: Unlock All Acts
+name: Unlock All Acts
 mode: once
 w32 0041C158 3860001F
 
-name: Diablo 3 Reaper Of Souls: Max Stats
+name: Max Stats
 mode: once
 w32 00F26AA0 2F86F010
 w32 00F26AA4 409E0014
@@ -67,19 +67,19 @@ w32 00F26B60 80C50008
 w32 00F26B64 48571CEE
 w32 00571CE8 48F26AA2
 
-name: Diablo 3 Reaper Of Souls: No Cooldown
+name: No Cooldown
 mode: once
 w32 009C0574 41820100
 
-name: Diablo 3 Reaper Of Souls: Huge Gold On Sell
+name: Huge Gold On Sell
 mode: once
 w32 00479970 60000000
 
-name: Diablo 3 Reaper Of Souls: AoB Unlock All Acts
+name: AoB Unlock All Acts
 mode: once
 aob 907100802C0400004182012C8071007C 907100802C0400004182012C3860001F
 
-name: Diablo 3 Reaper Of Souls: Resources Never Decrease And Very Fast Leveling
+name: Resources Never Decrease And Very Fast Leveling
 mode: once
 w32 00F26220 2B85008D
 w32 00F26224 419E0008
@@ -107,7 +107,7 @@ w32 00F26278 93C30008
 w32 00F2627C 48572452
 w32 0057244C 48F26222
 
-name: Diablo 3 Reaper Of Souls: Invincibility
+name: Invincibility
 mode: once
 w32 009A9734 4E800020
 w32 00F2AC50 3C60014F
@@ -134,7 +134,7 @@ w32 00F2AC98 C0240114
 w32 00F2AC9C 48462722
 w32 0046271C 48F2AC72
 
-name: Diablo 3 Reaper Of Souls: Max Gold
+name: Max Gold
 mode: once
 w32 00E72B40 60000000
 w32 00E72B44 60000000
@@ -147,11 +147,11 @@ w32 00E72B5C 80830008
 w32 00E72B60 48571AA2
 w32 00571A9C 48E72B42
 
-name: Diablo 3 Reaper Of Souls: 4x Movement Speed Modifier
+name: 4x Movement Speed Modifier
 mode: once
 w32 000809E4 40800000
 
-name: Diablo 3 Reaper Of Souls: Fill In For Various Codes, This Has High Damage And Attack Speed
+name: Fill In For Various Codes, This Has High Damage And Attack Speed
 mode: once
 w32 00F26C50 2F86F00E
 w32 00F26C54 419C0014

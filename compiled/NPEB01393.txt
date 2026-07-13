@@ -12,7 +12,7 @@ name: Rank Point Perfect, Clear Gauge Max
 mode: once
 w32 00622980 2F800000
 
-name: Miss Gauge Does Not Decrase
+name: Miss Gauge Does Not Decrease
 mode: once
 w32 0061F62C 7C601B78
 
@@ -28,7 +28,7 @@ name: AoB Rank Point Perfect, Clear Gauge Max
 mode: once
 aob 7F805000409D00087D4053787C0A00F8 2F800000409D00087D4053787C0A00F8
 
-name: AoB Miss Gauge Does Not Decrase
+name: AoB Miss Gauge Does Not Decrease
 mode: once
 aob 7C1D1A142F8000FF9009CB40409D004C 7C601B782F8000FF9009CB40409D004C
 

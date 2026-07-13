@@ -1,13 +1,13 @@
 # Ryuu ga Gotoku 4: Densetsu o Tsugu Mono
 
-name: Ryu Ga Gotoku 4 Densetsu O Tsugumono: Money 99999999
+name: Money 99999999
 mode: once
 w32 011F7A10 05F5E0FF
 w32 011F7A14 05F5E0FF
 w32 011F7A18 05F5E0FF
 w32 011F7A1C 05F5E0FF
 
-name: Ryu Ga Gotoku 4 Densetsu O Tsugumono: Exp 99999999
+name: Exp 99999999
 mode: once
 w32 011F4F1C 0098967F
 w32 011F4F20 0098967F
@@ -18,10 +18,10 @@ w32 011F5080 0098967F
 w32 011F512C 0098967F
 w32 011F5130 0098967F
 
-name: Ryu Ga Gotoku 4 Densetsu O Tsugumono: Gold Max
+name: Gold Max
 mode: once
 w32 00B54EFC 90C30000
 
-name: Ryu Ga Gotoku 4 Densetsu O Tsugumono: Variation In Skill 99
+name: Variation In Skill 99
 mode: once
 w32 00B55BE8 98C3002C

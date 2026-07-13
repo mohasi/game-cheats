@@ -1,35 +1,35 @@
 # Parasite Eve (PSX)
 
-name: Parasite Eve: Game Speed
+name: Game Speed
 mode: once
 w32 007E43BC E9FF0014
 
-name: Parasite Eve: Disable Enemy Attack Damage
+name: Disable Enemy Attack Damage
 mode: once
 w32 0078F0BC 23104000
 w32 0078FE80 23104000
 
-name: Parasite Eve: Ammo Never Decreases
+name: Ammo Never Decreases
 mode: once
 w32 00793860 00004224
 
-name: Parasite Eve: Disable Poison Damage
+name: Disable Poison Damage
 mode: once
 w32 0079098C 23104000
 
-name: Parasite Eve: AoB Game Speed
+name: AoB Game Speed
 mode: once
 aob E9FF4014000000001800BF8F2000BD270800E003 E9FF0014000000001800BF8F2000BD270800E003
 
-name: Parasite Eve: AoB Disable Enemy Attack Damage
+name: AoB Disable Enemy Attack Damage
 mode: once
 aob 231043000C0082A45A000224C40082A30000428E 231040000C0082A45A000224C40082A30000428E
 aob 231043000C0082A40A80023C78D2428C000000000C004284000000002E004010 231040000C0082A40A80023C78D2428C000000000C004284000000002E004010
 
-name: Parasite Eve: AoB Ammo Never Decreases
+name: AoB Ammo Never Decreases
 mode: once
 aob FFFF4224FF03423025186200478C00080C0083AC0A80023C54D2428C6E040424 00004224FF03423025186200478C00080C0083AC0A80023C54D2428C6E040424
 
-name: Parasite Eve: AoB Disable Poison Damage
+name: AoB Disable Poison Damage
 mode: once
 aob 231040000C00A2A40E00A2943800A3943A00A0A0 231043000C00A2A40E00A2943800A3943A00A0A0

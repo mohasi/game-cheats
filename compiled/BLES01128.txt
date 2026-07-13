@@ -1,52 +1,52 @@
 # Grand Theft Auto IV &amp;amp; Episodes from Liberty City
 
-name: Grand Theft Auto IV Complete Edition: Lot Of Money On Gain
+name: Lot Of Money On Gain
 mode: once
 w32 0018C5D8 92F904D0
 
-name: Grand Theft Auto IV Complete Edition: 1P Invincible Mode
+name: 1P Invincible Mode
 mode: once
 w32 0066C908 419EFF40
 
-name: Grand Theft Auto IV Complete Edition: AoB 1P Invincible Mode
+name: AoB 1P Invincible Mode
 mode: once
 aob 409EFF404089034C812100A43B60000039E00000827E8078 419EFF404089034C812100A43B60000039E00000827E8078
 
-name: Grand Theft Auto IV Complete Edition: Unlock FPS (PSXPlace) [Tested]
+name: Unlock FPS (PSXPlace) [Tested]
 mode: once
 w32 00F18840 00000000
 
-name: Grand Theft Auto IV Complete Edition: Memory Lot Of Money On Gain
+name: Memory Lot Of Money On Gain
 mode: once
 w32 33B33BC0 00000019
 
-name: Grand Theft Auto IV Complete Edition: ASM Lot Of Money On Gain
+name: ASM Lot Of Money On Gain
 mode: once
 w32 0018C5D0 7C001214
 w32 0018C5D8 92F904D0
 
-name: Grand Theft Auto IV Complete Edition: Memory Reserve Ammo + Ammo In Clip Never Decrease
+name: Memory Reserve Ammo + Ammo In Clip Never Decrease
 mode: once
 w32 33D0777C 00110066
 
-name: Grand Theft Auto IV Complete Edition: ASM Reserve Ammo + Ammo In Clip Never Decrease
+name: ASM Reserve Ammo + Ammo In Clip Never Decrease
 mode: once
 w32 0066BFD4 380B0000
 w32 0066BFDC 60000000
 w32 0066BFE4 39290000
 w32 0066BFF4 60000000
 
-name: Grand Theft Auto IV Complete Edition: Memory Stars Never Increase
+name: Memory Stars Never Increase
 mode: once
 w32 32F23268 00000000
 w32 338928A8 00000000
 
-name: Grand Theft Auto IV Complete Edition: Max Money
+name: Max Money
 mode: once
 w32 00404794 60000000
 w32 004047A8 60000000
 
-name: Grand Theft Auto IV Complete Edition: Infinite HP + Armour + No Wanted Level
+name: Infinite HP + Armour + No Wanted Level
 mode: once
 w32 00D213A8 8BBC0211
 w32 00D213AC 2C1D0000
@@ -61,26 +61,26 @@ w32 00D213CC 93AB00D8
 w32 00D213D0 4818D2DE
 w32 0018D2D8 48D213AA
 
-name: Grand Theft Auto IV Complete Edition: Invincibility
+name: Invincibility
 mode: once
 w32 0066A950 419EFF40
 
-name: Grand Theft Auto IV Complete Edition: No Police
+name: No Police
 mode: once
 w32 00EFE338 00000000
 
-name: Grand Theft Auto IV Complete Edition: 1,000 Hit Kill Ammo
+name: 1,000 Hit Kill Ammo
 mode: once
 w32 0066B728 3C00447A
 
-name: Grand Theft Auto IV Complete Edition: Rapid Fire
+name: Rapid Fire
 mode: once
 w32 0066C4B4 3D2042C8
 
-name: Grand Theft Auto IV Complete Edition: AoB Invincibility
+name: AoB Invincibility
 mode: once
 aob 409EFF404089034C812100A439E000003B600000827E8078 419EFF404089034C812100A439E000003B600000827E8078
 
-name: Grand Theft Auto IV Complete Edition: 1P Invincible Mode
+name: 1P Invincible Mode
 mode: once
 w32 0066C778 419EFF40

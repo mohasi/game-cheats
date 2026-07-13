@@ -1,13 +1,13 @@
 # Record of Agarest War 2
 
-name: Record Of The Agarest War 2: Max TP + PP + Gold After Gain
+name: Max TP + PP + Gold After Gain
 mode: once
 w32 0006C5D8 60000000
 w32 0006C54C 60000000
 w32 000531F8 60000000
 w32 0005324C 60000000
 
-name: Record Of The Agarest War 2: Infinite AP During Battle (All 4 Characters)
+name: Infinite AP During Battle (All 4 Characters)
 mode: once
 w32 00236F10 60000000
 w32 00236F14 60000000
@@ -22,7 +22,7 @@ w32 00237488 60000000
 w32 002374A0 60000000
 w32 002374A8 60000000
 
-name: Record Of The Agarest War 2: Max Exp After Battle (Use before Press X to add Exp into Characters)
+name: Max Exp After Battle (Use before Press X to add Exp into Characters)
 mode: once
 w32 063BBC78 3B9AC9FF
 w32 0679D8A8 3B9AC9FF

@@ -1,6 +1,6 @@
 # Iron Man 2: The Video Game
 
-name: Ironman 2: Memory Infinite Shield + Health
+name: Memory Infinite Shield + Health
 mode: once
 w32 12028DBC 3F800000
 w32 12028FAC 3F800000
@@ -8,7 +8,7 @@ w32 12159F7C 3F800000
 w32 12159FE8 43020000
 w32 1347F3E8 43020000
 
-name: Ironman 2: ASM Infinite Shield + Health
+name: ASM Infinite Shield + Health
 mode: once
 w32 00280924 A1690020
 w32 00280928 60000000
@@ -23,12 +23,12 @@ w32 002FFF9C 60000000
 w32 007D2EF4 980B0000
 w32 007D30CC 60000000
 
-name: Ironman 2: Memory No Waiting Time For Missiles
+name: Memory No Waiting Time For Missiles
 mode: once
 w32 125A3178 40C00000
 w32 125A31F0 40C00000
 
-name: Ironman 2: ASM No Waiting Time For Missiles
+name: ASM No Waiting Time For Missiles
 mode: once
 w32 00280C70 60000000
 w32 00280C78 60000000

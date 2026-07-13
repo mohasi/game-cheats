@@ -1,10 +1,10 @@
 # Blur
 
-name: Always 1st + Max Fire
+name: Always 1st/Max Fire
 mode: once
 w32 009618E0 92A90070
 
-name: Damage Never Decreases
+name: Damage Never Decrease
 mode: once
 w32 00171154 907F047C
 
@@ -27,11 +27,3 @@ w32 00AFD438 60000000
 name: Infinite Fans Stunt Time
 mode: once
 w32 00193378 60000000
-
-name: Alway 1st/Max Fire
-mode: once
-w32 009618E0 92A90070
-
-name: Damage Never Decrease
-mode: once
-w32 00171154 907F047C

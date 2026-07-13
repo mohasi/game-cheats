@@ -1,23 +1,23 @@
 # Batman: Arkham City: Game of the Year Edition
 
-name: Batman Arkham City: Infinite Health
+name: Infinite Health
 mode: once
 w32 00540BE0 38600080
 w32 00540BE4 907E0294
 w32 00540BE8 60000000
 
-name: Batman Arkham City: Debug Menu (R1 + Start)
+name: Debug Menu (R1 + Start)
 mode: once
 w32 00E36504 38600000
 
-name: Batman Arkham City: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 807E02942C03000040810040 38600080907E029460000000
 
-name: Batman Arkham City: Debug Menu (PSXPlace)
+name: Debug Menu (PSXPlace)
 mode: once
 w32 00E36504 38600000
 
-name: Batman Arkham City: Debug Menu (press R1+START)
+name: Debug Menu (press R1+START)
 mode: once
 w32 00E36504 38600000

@@ -1,6 +1,6 @@
 # Tears to Tiara : Kakan no Daichi
 
-name: Tears To Tiara Kakan No Daichi (AP 2800): Max HP + MP + LV + SKL
+name: Max HP + MP + LV + SKL
 mode: once
 w32 30335F50 3B9AC9FF
 

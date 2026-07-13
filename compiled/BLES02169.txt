@@ -1,15 +1,15 @@
 # LEGO Marvel Avengers
 
-name: LEGO Marvel's Avengers: Memory Lot + Infinite Pieces Of Lego On Gain
+name: Memory Lot + Infinite Pieces Of Lego On Gain
 mode: once
 w32 37002FFC 00010267
 w32 37003004 00010267
 
-name: LEGO Marvel's Avengers: ASM Lot + Infinite Pieces Of Lego On Gain
+name: ASM Lot + Infinite Pieces Of Lego On Gain
 mode: once
 w32 0125A840 FB3E0020
 
-name: LEGO Marvel's Avengers: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 3442688C 35000000
 w32 34AC3E24 BA93E760
@@ -17,12 +17,12 @@ w32 34D6AB28 08080000
 w32 3518EFB0 345CFA64
 w32 37110138 00000008
 
-name: LEGO Marvel's Avengers: ASM Infinite Health 1
+name: ASM Infinite Health 1
 mode: once
 w32 00D9FE5C 60000000
 w32 00DA0E90 60000000
 w32 00DA0E94 D03E0000
 
-name: LEGO Marvel's Avengers: ASM Infinite Health 2
+name: ASM Infinite Health 2
 mode: once
 w32 009700FC 60000000

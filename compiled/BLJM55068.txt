@@ -1,68 +1,68 @@
 # BioHazard: Revival Selection
 
-name: Biohazard 4: PTAS 99999999
+name: PTAS 99999999
 mode: once
 w32 018FF9C8 05F5E0FF
 
-name: Biohazard 4: Always 1st Save
+name: Always 1st Save
 mode: once
 w16 018FF9BC 0000
 
-name: Biohazard 4: No Continued Record
+name: No Continued Record
 mode: once
 w16 018FF9C0 0000
 
-name: Biohazard 4: Always Low Time
+name: Always Low Time
 mode: once
 w32 018FF9C4 00000000
 
-name: Biohazard 4: Game Round 3
+name: Game Round 3
 mode: once
 w16 018FF9BE 0002
 
-name: Biohazard 4: Leon HP
+name: Leon HP
 mode: once
 w16 018FF9D4 0960
 w16 018FF9D6 0960
 
-name: Biohazard 4: Ashley HP
+name: Ashley HP
 mode: once
 w16 018FF9D8 0258
 w16 018FF9DA 0258
 
-name: Biohazard Code Veronica X: Always Low Time
+name: Always Low Time
 mode: once
 w32 00BB3E38 00000000
 
-name: Biohazard Code Veronica X: Retry Always 0
+name: Retry Always 0
 mode: once
 w32 00BB3E40 00000000
 
-name: Biohazard Code Veronica X: No Save Record
+name: No Save Record
 mode: once
 w32 00BB3618 00000000
 
-name: Biohazard Code Veronica X: Infinite Health
+name: Infinite Health
 mode: once
 w16 00BDEA9E 00C8
 
-name: Biohazard Code Veronica X: Unlock Everything
+name: Unlock Everything
 mode: once
 w32 00BB358C 00001FFF
 
-name: Biohazard Code Veronica X: Unlock All Files
+name: Unlock All Files
 mode: once
 w32 00BB3E04 00FFFFFF
 
-name: Biohazard Code Veronica X: 1st Person View
+name: 1st Person View
 mode: once
 w8 00BB35F7 C2
 
-name: Biohazard Code Veronica X: Normal View
+name: Normal View
 mode: once
 w8 00BB35F7 12
 
-name: Biohazard Code Veronica X: Get Special Weapon in Item Box
+name: Get Special Weapon in Item Box
 mode: once
 w32 00BB3AE4 002003E7
 w32 00BB3AE8 00020BB5
@@ -74,18 +74,18 @@ w32 00BB3AFC 008E03E7
 w32 00BB3B00 000B03E7
 w32 00BB3B04 000103E7
 
-name: Biohazard Code Veronica X: Save Free Near Typewriter (New save recommended)
+name: Save Free Near Typewriter (New save recommended)
 mode: once
 w8 00BB35FD 20
 
-name: Biohazard Code Veronica X: Item Box Anywhere
+name: Item Box Anywhere
 mode: once
 w8 00BB35FD 04
 
-name: Biohazard Code Veronica X: Security Box 1 Anywhere
+name: Security Box 1 Anywhere
 mode: once
 w8 00BB35FD 0C
 
-name: Biohazard Code Veronica X: Security Box 2 Anywhere
+name: Security Box 2 Anywhere
 mode: once
 w8 00BB35FD 14

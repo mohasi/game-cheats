@@ -1,16 +1,16 @@
 # The Legend of Heroes: Trails of Cold Steel II
 
-name: The Legend Of Heroes Trails Of Cold Steel 2: ASM Max + Infinite CP
+name: ASM Max + Infinite CP
 mode: once
 w32 0010AF78 931F0224
 w32 005C88C8 60000000
 w32 005C88CC 60000000
 w32 005C88D0 60000000
 
-name: The Legend Of Heroes Trails Of Cold Steel 2: ASM Infinite Items
+name: ASM Infinite Items
 mode: once
 w32 0021F988 B0C30002
 
-name: The Legend Of Heroes Trails Of Cold Steel 2: ASM Infinite EP
+name: ASM Infinite EP
 mode: once
 w32 0010A8C4 93FE0220

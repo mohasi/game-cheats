@@ -1,31 +1,31 @@
 # Ryuu ga Gotoku: Of the End
 
-name: Ryu Ga Gotoku Of The End: Cash 99999999
+name: Cash 99999999
 mode: once
 w32 015214D8 05F5E0FF
 
-name: Ryu Ga Gotoku Of The End: No Continues
+name: No Continues
 mode: once
 w32 01521580 00000000
 
-name: Ryu Ga Gotoku Of The End: Kills 999999
+name: Kills 999999
 mode: once
 w32 01521584 000F423F
 
-name: Ryu Ga Gotoku Of The End: Always 1st Save
+name: Always 1st Save
 mode: once
 w32 01521590 00000000
 
-name: Ryu Ga Gotoku Of The End: Exp Max
+name: Exp Max
 mode: once
 w32 0153548C 002DAC62
 
-name: Ryu Ga Gotoku Of The End: Snipe Gauge Always Max
+name: Snipe Gauge Always Max
 mode: once
 w32 0153547C 457A0000
 w32 01535478 45FA0000
 
-name: Ryu Ga Gotoku Of The End: Bullet 99
+name: Bullet 99
 mode: once
 w16 0151FCD8 0063
 w16 0151FCE0 0063

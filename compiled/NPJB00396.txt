@@ -1,31 +1,31 @@
 # Metal Gear Solid V: Ground Zeroes
 
-name: Metal Gear Solid 5 Ground Zeroes: Infinite Health
+name: Infinite Health
 mode: once
 w32 00B0EFC0 38604E20
 w32 00B0EFC4 9065001C
 w32 00B0EFC8 90650020
 w32 00B0EFCC 90650024
 
-name: Metal Gear Solid 5 Ground Zeroes: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 00BCEAE0 30A40000
 
-name: Metal Gear Solid 5 Ground Zeroes: Infinite Supressor
+name: Infinite Supressor
 mode: once
 w32 00BCEB2C 30850000
 
-name: Metal Gear Solid 5 Ground Zeroes: Weapons Have Supressor
+name: Weapons Have Supressor
 mode: once
 w32 00BCEAD4 38A00091
 w32 00BCEAD8 90A30520
 w32 00BCEADC B0A30408
 
-name: Metal Gear Solid 5 Ground Zeroes: Infinite Grenades
+name: Infinite Grenades
 mode: once
 w32 00A16A34 7FC5F378
 
-name: Metal Gear Solid 5 Ground Zeroes: Stats - Low Time, No Alerts, Continues + Deaths
+name: Stats - Low Time, No Alerts, Continues + Deaths
 mode: once
 w32 00C90CE8 38800000
 w32 00C90CEC 909E002C
@@ -36,116 +36,116 @@ w32 00C90CFC 60000000
 w32 00C90D00 60000000
 w32 00C90D04 60000000
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 8065001C2C030000418100083880000160830000 38604E209065001C906500209065002460830000
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Infinite Ammo
+name: AoB Infinite Ammo
 mode: once
 aob 30A4FFFF90A303FC4E80002060000000 30A4000090A303FC4E80002060000000
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Infinite Supressor
+name: AoB Infinite Supressor
 mode: once
 aob 3085FFFF5485043E2C050000B083040840820018 308500005485043E2C050000B083040840820018
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Weapons Have Supressor
+name: AoB Weapons Have Supressor
 mode: once
 aob 808303FC38A000002C04000041820008 808303FC38A0009190A30520B0A30408
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Infinite Grenades
+name: AoB Infinite Grenades
 mode: once
 aob 7CA5F0147C84281090A300007C8307B4E80100B07C0803A6EBA10088 7FC5F3787C84281090A300007C8307B4E80100B07C0803A6EBA10088
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Stats - Low Time, No Alerts, Continues & Deaths
+name: AoB Stats - Low Time, No Alerts, Continues & Deaths
 mode: once
 aob 8081001C909E0030809F356C2C8400022F0400017C04180040820070409A0038 38800000909E002C909E0030909E0054909E0074600000006000000060000000
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB No Alert + Can Not Be Seen
+name: AoB No Alert + Can Not Be Seen
 mode: once
 aob 4182003080BD000063A30000F841002863E40000 4800003080BD000063A30000F841002863E40000
 aob 809E002883C4010857C307FE2C03000041820014 809E002883C4010857C307FE2C03000048000048
 
-name: Metal Gear Solid 5 Ground Zeroes: Max Camo
+name: Max Camo
 mode: once
 w32 00B500D4 3C807000
 
-name: Metal Gear Solid 5 Ground Zeroes: No Damage
+name: No Damage
 mode: once
 w32 00B0FB80 60000000
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Max Camo
+name: AoB Max Camo
 mode: once
 aob 388000002C030000609D0000418200083083FFE02C040000 3C8070002C030000609D0000418200083083FFE02C040000
 
-name: Metal Gear Solid 5 Ground Zeroes: Invincibility
+name: Invincibility
 mode: once
 w32 00BEE9D4 4800001C
 
-name: Metal Gear Solid 5 Ground Zeroes: One Hit Sleep Or Kill For All
+name: One Hit Sleep Or Kill For All
 mode: once
 w32 0058BD1C 38800000
 
-name: Metal Gear Solid 5 Ground Zeroes: Never Wake Up
+name: Never Wake Up
 mode: once
 w32 00A8331C 609F0000
 
-name: Metal Gear Solid 5 Ground Zeroes: No Reload
+name: No Reload
 mode: once
 w32 00BCFFEC 38600001
 
-name: Metal Gear Solid 5 Ground Zeroes: Infinite Ammo + Grenades + Suppressor
+name: Infinite Ammo + Grenades + Suppressor
 mode: once
 w32 00A1D008 38800001
 w32 00A1D00C 989D0204
 
-name: Metal Gear Solid 5 Ground Zeroes: 0 Mission Time
+name: 0 Mission Time
 mode: once
 w32 00C922C0 38800000
 
-name: Metal Gear Solid 5 Ground Zeroes: 0 Kills
+name: 0 Kills
 mode: once
 w32 00C94968 90A70054
 
-name: Metal Gear Solid 5 Ground Zeroes: 0 Times Discovered
+name: 0 Times Discovered
 mode: once
 w32 00C94BD0 90A70074
 
-name: Metal Gear Solid 5 Ground Zeroes: 0 Alerts
+name: 0 Alerts
 mode: once
 w32 00C94AC8 90A70070
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Invincibility
+name: AoB Invincibility
 mode: once
 aob 4182001C63E300004B99E229 4800001C63E300004B99E229
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB One Hit Sleep Or Kill For All
+name: AoB One Hit Sleep Or Kill For All
 mode: once
 aob 7C8620147C042800 388000007C042800
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Never Wake Up
+name: AoB Never Wake Up
 mode: once
 aob 7FE4F8147C1F180093FE001C40810008607F000093FE001CE80100A07C0803A6EBC10080EBE10088382100904E8000206000000000009795 609F00007C1F180093FE001C40810008607F000093FE001CE80100A07C0803A6EBC10080EBE10088382100904E8000206000000000009795
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB No Reload
+name: AoB No Reload
 mode: once
 aob 886303D94E800020 386000014E800020
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB Infinite Ammo + Grenades + Suppressor
+name: AoB Infinite Ammo + Grenades + Suppressor
 mode: once
 aob 60000000889D0204 38800001989D0204
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB 0 Mission Time
+name: AoB 0 Mission Time
 mode: once
 aob 8081001C909E0030 38800000909E0030
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB 0 Kills
+name: AoB 0 Kills
 mode: once
 aob 38A0000090C70054 38A0000090A70054
 
-name: Metal Gear Solid 5 Ground Zeroes: 0 Times Discovered
+name: 0 Times Discovered
 mode: once
 aob 38A0000090C70074 38A0000090A70074
 
-name: Metal Gear Solid 5 Ground Zeroes: AoB 0 Alerts
+name: AoB 0 Alerts
 mode: once
 aob 38A0000090C70070 38A0000090A70070

@@ -1,61 +1,61 @@
 # James Cameron's Avatar: The Game
 
-name: James Cameron's Avatar: Max XP On Gain
+name: Max XP On Gain
 mode: once
 w32 0059EE20 921C4FD4
 
-name: James Cameron's Avatar: Unlimited Ammo
+name: Unlimited Ammo
 mode: once
 w32 00540DFC 60000000
 
-name: James Cameron's Avatar: No Reload
+name: No Reload
 mode: once
 w32 005E0640 60000000
 
-name: James Cameron's Avatar: AoB Max XP On Gain
+name: AoB Max XP On Gain
 mode: once
 aob 901C4FD4880B00002F800000 921C4FD4880B00002F800000
 
-name: James Cameron's Avatar: AoB Unlimited Ammo
+name: AoB Unlimited Ammo
 mode: once
 aob 7C1D0050900900044BFFEBD5 60000000900900044BFFEBD5
 
-name: James Cameron's Avatar: AoB No Reload
+name: AoB No Reload
 mode: once
 aob 93C300083821008049211730 600000003821008049211730
 
-name: James Cameron's Avatar: Infinite Health
+name: Infinite Health
 mode: once
 w32 00132344 60000000
 w32 00596300 60000000
 
-name: James Cameron's Avatar: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 004E419C 380003E8
 
-name: James Cameron's Avatar: Infinite Ammo No Reload
+name: Infinite Ammo No Reload
 mode: once
 w32 004E6B04 48000004
 
-name: James Cameron's Avatar: Max XP On Gain
+name: Max XP On Gain
 mode: once
 w32 00589B60 3C003B9A
 w32 00589B6C 6000C9FF
 
-name: James Cameron's Avatar: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 7C0903A64E8004213D2001C68169D278880B00042F800000409E002C3D200180 7C0903A6480000043D2001C68169D278880B00042F800000409E002C3D200180
 aob 787E0020800B00007FC3F378900100784BFFF1A13801007CFF81F8003D205B2B 787E0020800B00007FC3F37890010078480000043801007CFF81F8003D205B2B
 
-name: James Cameron's Avatar: AoB Infinite Ammo
+name: AoB Infinite Ammo
 mode: once
 aob 578B20365780103A786900207C005A147FE3FB787C1E07B47D29F21480090004 578B20365780103A786900207C005A147FE3FB787C1E07B47D29F214380003E8
 
-name: James Cameron's Avatar: AoB Infinite Ammo No Reload
+name: AoB Infinite Ammo No Reload
 mode: once
 aob 3D2001C380093E242F80000078030020419E00284BFFBCC5801F00D478630020 3D2001C380093E242F80000078030020419E002848000004801F00D478630020
 
-name: James Cameron's Avatar: AoB Max XP On Gain
+name: AoB Max XP On Gain
 mode: once
 aob 409D00902F850000409E01F83D2001C3801C4FD47BFE0020396977987C1D0214 409D00902F850000409E01F83D2001C33C003B9A7BFE0020396977986000C9FF
 

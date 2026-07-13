@@ -1,27 +1,27 @@
 # Overlord II
 
-name: Overlord 2: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 18272B64 45D0631C
 
-name: Overlord 2: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 0035B6CC 60000000
 w32 0035B6D0 60000000
 w32 0035B6D4 EC01F828
 w32 0035B6E0 60000000
 
-name: Overlord 2: Memory Max Treasury On Gain + Buy (All)
+name: Memory Max Treasury On Gain + Buy (All)
 mode: once
 w32 005869E0 3C807FFF
 w32 005869F8 3C807FFF
 w32 0058ABE0 3C807FFF
 
-name: Overlord 2: Memory Yellow Orbs
+name: Memory Yellow Orbs
 mode: once
 w32 10413244 0000000F
 
-name: Overlord 2: ASM 30x Yellow Orbs
+name: ASM 30x Yellow Orbs
 mode: once
 w32 0058785C 3804001E
 

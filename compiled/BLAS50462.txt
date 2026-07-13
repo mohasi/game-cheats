@@ -38,6 +38,6 @@ name: No Hit Story Mode
 mode: once
 w32 0024A7DC 60000000
 
-name: Ninja Gaiden 3 Razor's Edge: Invincible
+name: Invincible
 mode: once
 w32 0024BCEC 60000000

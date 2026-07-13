@@ -1,14 +1,14 @@
 # Fainaru Fantajī Sātīn
 
-name: Final Fantasy XIII: Gil 999999999
+name: Gil 999999999
 mode: once
 w32 4446BE38 3B9AC9FF
 
-name: Final Fantasy XIII: Material + Item 99
+name: Material + Item 99
 mode: once
 w32 005867FC 2B800000
 
-name: Final Fantasy XIII: All Characters CP 999999
+name: All Characters CP 999999
 mode: once
 w32 4447BA70 000F423F
 w32 4447D8F0 000F423F

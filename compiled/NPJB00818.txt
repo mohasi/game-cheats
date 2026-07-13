@@ -1,46 +1,46 @@
 # Berserk Musou
 
-name: Berserk And The Band Of The Hawk: Memory 100x Combo Counter
+name: Memory 100x Combo Counter
 mode: once
 w32 11DBC040 00000014
 
-name: Berserk And The Band Of The Hawk: ASM Combo Counter
+name: ASM Combo Counter
 mode: once
 w32 0033E8F8 90E300E0
 
-name: Berserk And The Band Of The Hawk: Memory Max Level On 1 Hit + Unlock All Items
+name: Memory Max Level On 1 Hit + Unlock All Items
 mode: once
 w32 10A79A68 000004C4
 
-name: Berserk And The Band Of The Hawk: ASM Max Level On 1 Hit + Unlock All Items
+name: ASM Max Level On 1 Hit + Unlock All Items
 mode: once
 w32 00279B14 919F0060
 
-name: Berserk And The Band Of The Hawk: Memory Full Fury Bar
+name: Memory Full Fury Bar
 mode: once
 w32 15127E50 43250000
 
-name: Berserk And The Band Of The Hawk: ASM Instant (x3) Fury Bar On 3 Hit (Full Gauge When You Press "O")
+name: ASM Instant (x3) Fury Bar On 3 Hit (Full Gauge When You Press "O")
 mode: once
 w32 00209F00 EC4F102A
 
-name: Berserk And The Band Of The Hawk: ASM Infinite Use (x3) Fury Bar
+name: ASM Infinite Use (x3) Fury Bar
 mode: once
 w32 00224F20 60000000
 w32 00224F34 60000000
 
-name: Berserk And The Band Of The Hawk: Memory Full Musou
+name: Memory Full Musou
 mode: once
 w32 15127E34 03E803E8
 
-name: Berserk And The Band Of The Hawk: ASM Instant Max Musou On Gain Orbs
+name: ASM Instant Max Musou On Gain Orbs
 mode: once
 w32 0022A158 B1040B76
 
-name: Berserk And The Band Of The Hawk: Memory Max Money
+name: Memory Max Money
 mode: once
 w32 10A603BC 0000270F
 
-name: Berserk And The Band Of The Hawk: ASM Max + Infinite Money On Buy + Sell
+name: ASM Max + Infinite Money On Buy + Sell
 mode: once
 w32 0016CE44 93DF36E4

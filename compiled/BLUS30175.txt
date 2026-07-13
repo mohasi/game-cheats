@@ -1,45 +1,5 @@
 # LEGO Batman: The Videogame
 
-name: LEGO Batman Das Videospiel: Infinite Gold
-mode: once
-w32 007A23F0 3B9AC9FF
-
-name: LEGO Batman Das Videospiel: Infinite Box
-mode: once
-w32 0080D800 0000000A
-w32 0080D804 0000000A
-w32 0080D808 0000000A
-
-name: LEGO Batman El Videojuego: Infinite Gold
-mode: once
-w32 007A23F0 3B9AC9FF
-
-name: LEGO Batman El Videojuego: Infinite Box
-mode: once
-w32 0080D800 0000000A
-w32 0080D804 0000000A
-w32 0080D808 0000000A
-
-name: LEGO Batman Il Videogioco: Infinite Gold
-mode: once
-w32 007A23F0 3B9AC9FF
-
-name: LEGO Batman Il Videogioco: Infinite Box
-mode: once
-w32 0080D800 0000000A
-w32 0080D804 0000000A
-w32 0080D808 0000000A
-
-name: LEGO Batman Le Jeu Video: Infinite Gold
-mode: once
-w32 007A23F0 3B9AC9FF
-
-name: LEGO Batman Le Jeu Video: Infinite Box
-mode: once
-w32 0080D800 0000000A
-w32 0080D804 0000000A
-w32 0080D808 0000000A
-
 name: Infinite Gold
 mode: once
 w32 007A23F0 3B9AC9FF

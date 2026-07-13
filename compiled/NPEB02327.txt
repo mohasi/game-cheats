@@ -1,35 +1,35 @@
 # Sky Force Anniversary
 
-name: Sky Force Reloaded: Memory Lot Of Point On Gain
+name: Memory Lot Of Point On Gain
 mode: once
 w32 60196FE8 41200000
 w32 60196FEC 41200000
 
-name: Sky Force Reloaded: Memory Lot + Infinite Resources On Buy
+name: Memory Lot + Infinite Resources On Buy
 mode: once
 w32 6019467C 000003E7
 
-name: Sky Force Reloaded: ASM Lot + Infinite Resources On Buy
+name: ASM Lot + Infinite Resources On Buy
 mode: once
 w32 032C9F80 93C30000
 
-name: Sky Force Reloaded: Memory Infinite Shield
+name: Memory Infinite Shield
 mode: once
 w32 601946A8 00000005
 
-name: Sky Force Reloaded: ASM Infinite Shield
+name: ASM Infinite Shield
 mode: once
 w32 032CAA80 93030000
 
-name: Sky Force Reloaded: Memory Infinite Laser
+name: Memory Infinite Laser
 mode: once
 w32 601946A0 00000003
 
-name: Sky Force Reloaded: ASM Infinite Laser
+name: ASM Infinite Laser
 mode: once
 w32 032CA820 93030000
 
-name: Sky Force Reloaded: Memory Infinite Bomb
+name: Memory Infinite Bomb
 mode: once
 w32 601946A4 00000002
 w32 602CF6AC 00000002
@@ -37,65 +37,15 @@ w32 602CF940 00000002
 w32 602CF990 00000002
 w32 602DFF3C 00000002
 
-name: Sky Force Reloaded: ASM Infinite Bomb
+name: ASM Infinite Bomb
 mode: once
 w32 032CA950 93030000
 
-name: Sky Force Reloaded: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 6045E688 42C80000
 
-name: Sky Force Reloaded: ASM Infinite Health
-mode: once
-w32 032882A0 60000000
-w32 03288298 FC2200B2
-
-name: Sky Forces: Memory Lot Of Point On Gain
-mode: once
-w32 60196FE8 41200000
-w32 60196FEC 41200000
-
-name: Sky Forces: Memory Lot + Infinite Resources On Buy
-mode: once
-w32 6019467C 000003E7
-
-name: Sky Forces: ASM Lot + Infinite Resources On Buy
-mode: once
-w32 032C9F80 93C30000
-
-name: Sky Forces: Memory Infinite Shield
-mode: once
-w32 601946A8 00000005
-
-name: Sky Forces: ASM Infinite Shield
-mode: once
-w32 032CAA80 93030000
-
-name: Sky Forces: Memory Infinite Laser
-mode: once
-w32 601946A0 00000003
-
-name: Sky Forces: ASM Infinite Laser
-mode: once
-w32 032CA820 93030000
-
-name: Sky Forces: Memory Infinite Bomb
-mode: once
-w32 601946A4 00000002
-w32 602CF6AC 00000002
-w32 602CF940 00000002
-w32 602CF990 00000002
-w32 602DFF3C 00000002
-
-name: Sky Forces: ASM Infinite Bomb
-mode: once
-w32 032CA950 93030000
-
-name: Sky Forces: Memory Infinite Health
-mode: once
-w32 6045E688 42C80000
-
-name: Sky Forces: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 032882A0 60000000
 w32 03288298 FC2200B2

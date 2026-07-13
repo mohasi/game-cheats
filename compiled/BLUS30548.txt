@@ -1,6 +1,6 @@
 # Saw II: Flesh &amp;amp; Blood
 
-name: Saw 2: Unlock FPS (PSXPlace)
+name: Unlock FPS (PSXPlace)
 mode: once
 w32 00B6A0C0 2B890000
 w32 00B6A078 2B800000

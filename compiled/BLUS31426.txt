@@ -1,55 +1,55 @@
 # Minecraft: PlayStation 3 Edition
 
-name: Minecraft: God Mode
+name: God Mode
 mode: once
 w32 004480FC 60000000
 w32 0047F03C 60000000
 w32 00447D6C 60000000
 
-name: Minecraft: Infinite Food
+name: Infinite Food
 mode: once
 w32 003D4004 60000000
 w32 003D3E4C 60000000
 
-name: Minecraft: Infinite Arrows
+name: Infinite Arrows
 mode: once
 w32 003E8648 60000000
 
-name: Minecraft: Unlimited Resources
+name: Unlimited Resources
 mode: once
 w32 003FCFBC 60000000
 
-name: Minecraft: Memory Infinite Oxygen
+name: Memory Infinite Oxygen
 mode: once
 w32 35696E38 012C0101
 
-name: Minecraft: ASM Infinite Oxygen
+name: ASM Infinite Oxygen
 mode: once
 w32 004FD440 60000000
 
-name: Minecraft: Infinite Resources Infinite On Gain
+name: Infinite Resources Infinite On Gain
 mode: once
 w32 002B9EA4 90C30000
 
-name: Minecraft: Resources Never Decrease
+name: Resources Never Decrease
 mode: once
 w32 002B9E9C 30A50000
 w32 002E3FA8 60000000
 
-name: Minecraft: Infinite Food
+name: Infinite Food
 mode: once
 w32 00265F2C 60000000
 
-name: Minecraft: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 32FCE478 41A00000
 w32 35528EC8 41A00000
 
-name: Minecraft: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 004FD654 D1990008
 
-name: Minecraft: Memory Unknown Code 1
+name: Memory Unknown Code 1
 mode: once
 w32 321D09A0 3E4CCCCD
 w32 321D09F0 00000000

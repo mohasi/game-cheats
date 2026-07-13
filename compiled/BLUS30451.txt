@@ -1,58 +1,58 @@
 # Fallout 3: Game of the Year Edition
 
-name: Fallout 3 GOTY Edition: Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+name: Infinite Health + Oxygen + AP + Ammo + Carrying Weight
 mode: once
 w8 0112076C 01
 
-name: Fallout 3 GOTY Edition: No Collision
+name: No Collision
 mode: once
 w8 012B7410 01
 
-name: Fallout 3 GOTY Edition: Raise Max Level Cap To 255 (30 default)
+name: Raise Max Level Cap To 255 (30 default)
 mode: once
 w32 012BACD4 000000FF
 
-name: Fallout 3 GOTY Edition: More Skill Points Per Level Up
+name: More Skill Points Per Level Up
 mode: once
 w32 012BAC94 00000002
 
-name: Fallout 3 GOTY Edition: Raise Max Damage Resistance
+name: Raise Max Damage Resistance
 mode: once
 w32 012BB1C4 4F8F3800
 w32 012BB1D4 4F8F3800
 
-name: Fallout 3 GOTY Edition: Action Points Regen Really Fast
+name: Action Points Regen Really Fast
 mode: once
 w32 012C74AC 42C80000
 
-name: Fallout 3 GOTY Edition: More EXP From Lock Picking
+name: More EXP From Lock Picking
 mode: once
 w32 012BAEB4 00002724
 
-name: Fallout 3 GOTY Edition: More EXP From Hacking
+name: More EXP From Hacking
 mode: once
 w32 012BAEA4 00002724
 
-name: Fallout 3 GOTY Edition: More EXP From Killing Opponent
+name: More EXP From Killing Opponent
 mode: once
 w32 012BAEC4 00002724
 
-name: Fallout 3 GOTY Edition: More EXP From Discovering Map Markers
+name: More EXP From Discovering Map Markers
 mode: once
 w32 012BAE94 00002724
 
-name: Fallout 3 GOTY Edition: More EXP From Discovering Secret Areas
+name: More EXP From Discovering Secret Areas
 mode: once
 w32 012BAE84 00002724
 
-name: Fallout 3 GOTY Edition: 0% Chance To Take Leg Damage
+name: 0% Chance To Take Leg Damage
 mode: once
 w32 012BC174 00000000
 
-name: Fallout 3 GOTY Edition: AoB Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+name: AoB Infinite Health + Oxygen + AP + Ammo + Carrying Weight
 mode: once
 aob 88840000FBC100882C04000040820058 3BE00001FBC100889BE4000048000058
 
-name: Fallout 3 GOTY Edition: Unlock FPS (PSXPlace)
+name: Unlock FPS (PSXPlace)
 mode: once
 w32 00702BCC 60000000

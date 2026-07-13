@@ -1,23 +1,23 @@
 # The Tomb Raider Trilogy
 
-name: Tomb Raider Anniversary: Infinite Health
+name: Infinite Health
 mode: once
 w32 00199594 3D20461C
 w32 00199598 912A06C0
 w32 0019959C C00A06C0
 w32 001995A0 839E0020
 
-name: Tomb Raider Anniversary: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0020B984 38090000
 
-name: Tomb Raider Anniversary: Infinite Oxygen
+name: Infinite Oxygen
 mode: once
 w32 00227D2C 60000000
 w32 0026A788 60000000
 w32 0026AB7C 60000000
 
-name: Tomb Raider Anniversary: Moon Jump
+name: Moon Jump
 mode: once
 w32 003F0720 7C1849CE
 w32 003F0724 3D00011D
@@ -30,32 +30,32 @@ w32 003F073C 91180188
 w32 003F0740 4E800020
 w32 0024B410 481A5311
 
-name: Tomb Raider Anniversary: 1 Hit Kill
+name: 1 Hit Kill
 mode: once
 w32 0014CA40 3BC00000
 w32 0014CA68 93CB0000
 
-name: Tomb Raider Legend: Infinite Health
+name: Infinite Health
 mode: once
 w32 00229E70 3C00461C
 w32 00229E74 900905A0
 w32 00229E78 4BFFFF9C
 
-name: Tomb Raider Legend: Infinite Oxygen
+name: Infinite Oxygen
 mode: once
 w32 0026E644 60000000
 w32 0026EA04 60000000
 
-name: Tomb Raider Legend: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 001E5C60 380B0000
 w32 002130A0 38090000
 
-name: Tomb Raider Legend: Infinite Flashlight
+name: Infinite Flashlight
 mode: once
 w32 001E49DC 60000000
 
-name: Tomb Raider Legend: Moon Jump
+name: Moon Jump
 mode: once
 w32 003E24B0 7C1949CE
 w32 003E24B4 3D0000FE
@@ -68,7 +68,7 @@ w32 003E24CC 91190188
 w32 003E24D0 4E800020
 w32 00252E14 4818F69D
 
-name: Tomb Raider Legend: Bullet Time Mode (L1+L2 = On, /\ = Off)
+name: Bullet Time Mode (L1+L2 = On, /\ = Off)
 mode: once
 w32 003E24D4 3D4000FE
 w32 003E24D8 A14A78AE
@@ -99,26 +99,26 @@ w32 003E2538 4E800020
 w32 00088F6C 48359568
 w32 00286324 4815C1E5
 
-name: Tomb Raider Underworld: Infinite Health
+name: Infinite Health
 mode: once
 w32 004A0444 60000000
 w32 004A04F0 60000000
 
-name: Tomb Raider Underworld: Infinite Adrenaline
+name: Infinite Adrenaline
 mode: once
 w32 00491DCC 3C00447A
 w32 00491DE0 60000000
 
-name: Tomb Raider Underworld: Infinite Oxygen
+name: Infinite Oxygen
 mode: once
 w32 00517B98 C18B0920
 
-name: Tomb Raider Underworld: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0043AF18 380B0000
 w32 00480B44 38090000
 
-name: Tomb Raider Underworld: Moon Jump
+name: Moon Jump
 mode: once
 w32 006F2F00 7FF8D9CE
 w32 006F2F04 3D20008E

@@ -1,26 +1,26 @@
 # Kingdom Hearts HD 1.5 ReMIX
 
-name: Kingdom Hearts 1.5 HD ReMIX: Buy And Sell Max Munnies
+name: Buy And Sell Max Munnies
 mode: once
 w32 000B23C0 41810008
 w32 000B241C 41810008
 
-name: Kingdom Hearts 1.5 HD ReMIX: Max Level (1 Fight)
+name: Max Level (1 Fight)
 mode: once
 w32 00194860 41810008
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite HP
+name: Infinite HP
 mode: once
 w32 00330F10 83F60040
 w32 00330F14 93F6003C
 w32 00330F18 4E800020
 w32 0018A860 481A66B1
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite MP
+name: Infinite MP
 mode: once
 w32 001B7380 93A30044
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Item Usage
+name: Infinite Item Usage
 mode: once
 w32 00094B44 30840000
 w32 00094E08 30840000
@@ -28,20 +28,20 @@ w32 00096540 30840000
 w32 0009663C 30E70000
 w32 000B4458 38800000
 
-name: Kingdom Hearts 1.5 HD ReMIX: Have All Ingredients for Synthesize
+name: Have All Ingredients for Synthesize
 mode: once
 w32 000CFDE8 3B600062
 w32 000CFDEC 9B7A0499
 w32 000CFDF0 7F7ADB78
 
-name: Kingdom Hearts 1.5 HD ReMIX: Max Munny on Use + Get
+name: Max Munny on Use + Get
 mode: once
 w32 000B2328 3C600001
 w32 000B232C 6063869E
 w32 000B23E8 3C600001
 w32 000B23EC 6063869E
 
-name: Kingdom Hearts 1.5 HD ReMIX: Max HP And Stats
+name: Max HP And Stats
 mode: once
 w32 00330F30 388000C8
 w32 00330F34 989C0002
@@ -52,17 +52,17 @@ w32 00330F44 8B9C0000
 w32 00330F48 4BD54A7C
 w32 000859C0 482AB570
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Gummi HP
+name: Infinite Gummi HP
 mode: once
 w32 001EDC4C 60000000
 w32 001EDC50 7C641B78
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Gummi MP
+name: Infinite Gummi MP
 mode: once
 w32 001ECD58 30A50000
 w32 001ECDB4 3AA50000
 
-name: Kingdom Hearts 1.5 HD ReMIX: Gummi Max Items After Getting One
+name: Gummi Max Items After Getting One
 mode: once
 w32 001E6BC0 390003E7
 w32 001E6BF4 392003E7
@@ -73,58 +73,58 @@ w32 001EAC9C 388003E7
 w32 001EAC10 38A003E7
 w32 001EAD68 38A003E7
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Time (Colisseum and other minigames)
+name: Infinite Time (Coliseum and other minigames)
 mode: once
 w32 00038D04 60000000
 
-name: Kingdom Hearts 1.5 HD ReMIX: Get 1 Point For Max Score Minigame 1 (Veggie Panic)
+name: Get 1 Point For Max Score Minigame 1 (Veggie Panic)
 mode: once
 w32 00318AC8 48000010
 
-name: Kingdom Hearts 1.5 HD ReMIX: Get 1 Point For Max Score Minigames 2 And 4 (Ballon Glider + Whirlwind Plunge)
+name: Get 1 Point For Max Score Minigames 2 And 4 (Ballon Glider + Whirlwind Plunge)
 mode: once
 w32 00311C30 3880270F
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Ballons Minigame 2 (Ballon Glider)
+name: Infinite Ballons Minigame 2 (Ballon Glider)
 mode: once
 w32 002FF278 60000000
 
-name: Kingdom Hearts 1.5 HD ReMIX: Get 1 Point For Max Score Minigame 3 (Jump-a-Thon)
+name: Get 1 Point For Max Score Minigame 3 (Jump-a-Thon)
 mode: once
 w32 00314780 48000010
 
-name: Kingdom Hearts 1.5 HD ReMIX: AoB Buy And Sell Max Munnies
+name: AoB Buy And Sell Max Munnies
 mode: once
 aob 408100089064001CE80100907C0803A6 418100089064001CE80100907C0803A6
 aob 408100089064001C4E800020F821FF817C0802A6 418100089064001C4E800020F821FF817C0802A6
 
-name: Kingdom Hearts 1.5 HD ReMIX: AoB Max Level (1 Fight)
+name: AoB Max Level (1 Fight)
 mode: once
 aob 4081000860BB00003B400001937D003C 4181000860BB00003B400001937D003C
 
-name: Kingdom Hearts 1.5 HD ReMIX: Buy And Sell Max Munnies
+name: Buy And Sell Max Munnies
 mode: once
 w32 000B1890 60000000
 w32 000B18EC 60000000
 
-name: Kingdom Hearts 1.5 HD ReMIX: Max Level (1 Fight)
+name: Max Level (1 Fight)
 mode: once
 w32 0018E1E8 41810008
 
-name: Kingdom Hearts 1.5 HD ReMIX: Infinite Items
+name: Infinite Items
 mode: once
 w32 00163EC0 60000000
 
-name: Kingdom Hearts 1.5 HD ReMIX: AoB Buy And Sell Max Munnies
+name: AoB Buy And Sell Max Munnies
 mode: once
 aob 408100089064001CE80100907C0803A6 600000009064001CE80100907C0803A6
 aob 408100089064001C4E800020F821FF817C0802A6 600000009064001C4E800020F821FF817C0802A6
 
-name: Kingdom Hearts 1.5 HD ReMIX: AoB Infinite Items
+name: AoB Infinite Items
 mode: once
 aob 98A300264800001063E400004802AB19 600000004800001063E400004802AB19
 
-name: Kingdom Hearts 1.5 HD ReMIX: 60 FPS
+name: 60 FPS
 mode: once
 w32 00036870 38800000
 w32 00012484 38800000

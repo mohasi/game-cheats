@@ -1,10 +1,10 @@
 # Tom Clancy's Splinter Cell: Blacklist
 
-name: Dead Island Riptide: Infinite Health
+name: Infinite Health
 mode: once
 w32 00C067E0 00000000
 
-name: Dead Island Riptide: Invincibility
+name: Invincibility
 mode: once
 w32 00C06868 408221D0
 

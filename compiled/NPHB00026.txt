@@ -145,10 +145,10 @@ mode: once
 w32 000D0BC0 C0230098
 w32 000D0BC8 D0230094
 
-name: Burnout Paradise City tv01.80: Instant Max + Infinite Boost
+name: Instant Max + Infinite Boost
 mode: once
 w32 000C894C ED9552FA
 
-name: Burnout Paradise City tv01.80: Big Scores On Gain
+name: Big Scores On Gain
 mode: once
 w32 00143B20 7C034214

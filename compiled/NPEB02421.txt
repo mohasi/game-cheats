@@ -1,28 +1,28 @@
 # Odin Sphere: Leifthrasir
 
-name: Odin Sphere Leifdrasir: Max Gold After Buying Anything From A Merchant
+name: Max Gold After Buying Anything From A Merchant
 mode: once
 w32 006F8BF0 60000000
 
-name: Odin Sphere Leifdrasir: Phozon Max After Absorbing From Enemy Or Generated From Seeds
+name: Phozon Max After Absorbing From Enemy Or Generated From Seeds
 mode: once
 w32 00514AF0 60000000
 w32 004F99A4 60000000
 
-name: Odin Sphere Leifdrasir: Max PP
+name: Max PP
 mode: once
 w32 00846BF0 60000000
 
-name: Odin Sphere Leifdrasir: AoB Max Gold After Buying Anything From A Merchant
+name: AoB Max Gold After Buying Anything From A Merchant
 mode: once
 aob 40810008607E000063C30000907F0314 60000000607E000063C30000907F0314
 
-name: Odin Sphere Leifdrasir: AoB Phozon Max After Absorbing From Enemy Or Generated From Seeds
+name: AoB Phozon Max After Absorbing From Enemy Or Generated From Seeds
 mode: once
 aob 4080000860A400002C1F0000909E191C 6000000060A400002C1F0000909E191C
 aob 4080000860A60000C03E009C63E30000 6000000060A60000C03E009C63E30000
 
-name: Odin Sphere Leifdrasir: AoB Max PP
+name: AoB Max PP
 mode: once
 aob FC20F890E8410028FC01100041800028 60000000E8410028FC01100041800028
 
@@ -201,19 +201,6 @@ name: ASM Infinite Capacity Points On Use
 mode: once
 w32 00655E60 7C842810
 w32 00655E64 90A31924
-
-name: AoB Max Gold After Buying Anything From A Merchant
-mode: once
-aob 40810008607E000063C30000907F0314 60000000607E000063C30000907F0314
-
-name: AoB Phozon Max After Absorbing From Enemy Or Generated From Seeds
-mode: once
-aob 4080000860A400002C1F0000909E191C 6000000060A400002C1F0000909E191C
-aob 4080000860A60000C03E009C63E30000 6000000060A60000C03E009C63E30000
-
-name: AoB Max PP
-mode: once
-aob FC20F890E8410028FC01100041800028 60000000E8410028FC01100041800028
 
 name: AoB Max Items On Change Except Magic Pots, Materials For Food And Potions, And Food
 mode: once

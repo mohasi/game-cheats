@@ -1,9 +1,5 @@
 # Mortal Kombat: Komplete Edition
 
-name: Mortal Kombat 9 Komplete Edition: 1 Hit X-Ray Max Infinite
-mode: once
-w32 0019C798 4082000C
-
 name: 1 Hit X-Ray Max Infinite
 mode: once
 w32 0019C798 4082000C

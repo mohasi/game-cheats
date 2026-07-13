@@ -48,13 +48,3 @@ aob 813E03C03929FFFF 813E03C060000000
 name: AoB Pulse Rifle Never Overheats
 mode: once
 aob EC0D002A9121007C FC0068909121007C
-
-name: Max And Infinite Health + Automatically Escape Grabs
-mode: once
-w32 007890CC 38000FA0
-w32 007890D0 900902D0
-w32 007890D4 800902D0
-
-name: AoB Max And Infinite Health + Automatically Escape Grabs
-mode: once
-aob 800902D02F800000409D0078 38000FA0900902D0800902D0

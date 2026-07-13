@@ -1,23 +1,23 @@
 # God of War Collection
 
-name: God Of War 1: Combos Do Not Time Out
+name: Combos Do Not Time Out
 mode: once
 w32 000734E4 480000B4
 w32 00073594 60000000
 
-name: God Of War 1: Disable Non-Boss + Non-Archer Attacks
+name: Disable Non-Boss + Non-Archer Attacks
 mode: once
 w32 0003EF18 60000000
 
-name: God Of War 1: Infinite Mid-Air Jumps
+name: Infinite Mid-Air Jumps
 mode: once
 w32 00081384 60000000
 
-name: God Of War 1: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 000726B0 38600001
 
-name: God Of War 1: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 00060058 60000000
 w32 00060060 60000000
@@ -40,100 +40,100 @@ w32 0008AA38 60000000
 w32 0008B46C 901F0000
 w32 0008B4C8 901D0000
 
-name: God Of War 1: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 00075690 60000000
 
-name: God Of War 1: ASM Max + Infinite Orbs On Gain
+name: ASM Max + Infinite Orbs On Gain
 mode: once
 w32 000773C8 904901D0
 
-name: God Of War 1: ASM Max + Infinite Lames Of Chaos
+name: ASM Max + Infinite Lames Of Chaos
 mode: once
 w32 00078A44 60000000
 w32 00078A48 60000000
 w32 00078A50 60000000
 
-name: God Of War 1: ASM Instant Max Lames Of Chaos
+name: ASM Instant Max Lames Of Chaos
 mode: once
 w32 000729F8 EC22082A
 w32 00072A2C D02B03F4
 
-name: God Of War 1: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 0053AB00 43480000
 
-name: God Of War 1: Infinite Rage
+name: Infinite Rage
 mode: once
 w32 0053AB04 43480000
 
-name: God Of War 1: Fast Magic Regeneration
+name: Fast Magic Regeneration
 mode: once
 w32 0053AB08 447A0000
 
-name: God Of War 1: Max Red Orbs
+name: Max Red Orbs
 mode: once
 w32 0053AB0C 7F7F7F7F
 
-name: God Of War 1: No Damage Received
+name: No Damage Received
 mode: once
 w32 00539C04 00000000
 w32 00539C10 00000000
 w32 00539C1C 00000000
 w32 00539C28 00000000
 
-name: God Of War 1: Combos Do Not Time Out
+name: Combos Do Not Time Out
 mode: once
 w32 00072C94 480000B4
 w32 00072D44 60000000
 
-name: God Of War 1: Disable Non-Boss + Non-Archer Attacks
+name: Disable Non-Boss + Non-Archer Attacks
 mode: once
 w32 0003E750 60000000
 
-name: God Of War 1: Infinite Mid-Air Jumps
+name: Infinite Mid-Air Jumps
 mode: once
 w32 00080B14 60000000
 
-name: God Of War 1: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 00071E60 38600001
 
-name: God Of War 1: AoB Combos Do Not Time Out
+name: AoB Combos Do Not Time Out
 mode: once
 aob 4FDDF382409E00B438A0000090BF0064 4FDDF382409E00B438A0000090BF0064
 aob 4FDDF382419EFF5480BF0064815F0068 4FDDF3826000000080BF0064815F0068
 
-name: God Of War 1: AoB Disable Non-Boss + Non-Archer Attacks
+name: AoB Disable Non-Boss + Non-Archer Attacks
 mode: once
 aob 4BFFF5DD7C6B1B784BFFFDE0B35F0076 600000007C6B1B784BFFFDE0B35F0076
 
-name: God Of War 1: AoB Infinite Mid-Air Jumps
+name: AoB Infinite Mid-Air Jumps
 mode: once
 aob 60000018540902D6 60000000540902D6
 
-name: God Of War 1: AoB Infinite Magic
+name: AoB Infinite Magic
 mode: once
 aob 7D6307B44E80002089280411 386000014E80002089280411
 
-name: God Of War 1: Combos Do Not Time Out
+name: Combos Do Not Time Out
 mode: once
 w32 00073440 480000B4
 w32 000734F0 60000000
 
-name: God Of War 1: Disable Non-Boss + Non-Archer Attacks
+name: Disable Non-Boss + Non-Archer Attacks
 mode: once
 w32 0003EE74 60000000
 
-name: God Of War 1: Infinite Mid-Air Jumps
+name: Infinite Mid-Air Jumps
 mode: once
 w32 000812DC 60000000
 
-name: God Of War 1: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 0007260C 38600001
 
-name: God Of War 1: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 0005FFB4 60000000
 w32 0005FFBC 60000000
@@ -156,26 +156,26 @@ w32 0008A994 60000000
 w32 0008B3C8 901F0000
 w32 0008B424 901D0000
 
-name: God Of War 1: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 000755EC 60000000
 
-name: God Of War 1: ASM Max + Infinite Orbs On Gain
+name: ASM Max + Infinite Orbs On Gain
 mode: once
 w32 00077324 904901D0
 
-name: God Of War 1: ASM Max + Infinite Lames Of Chaos
+name: ASM Max + Infinite Lames Of Chaos
 mode: once
 w32 000789A0 60000000
 w32 000789A4 60000000
 w32 000789AC 60000000
 
-name: God Of War 1: ASM Instant Max Lames Of Chaos
+name: ASM Instant Max Lames Of Chaos
 mode: once
 w32 00072954 EC22082A
 w32 00072988 D02B03F4
 
-name: God Of War 1: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 0005F874 60000000
 w32 0005F87C 60000000
@@ -198,26 +198,26 @@ w32 0008A174 60000000
 w32 0008ABA8 901F0000
 w32 0008AC04 901D0000
 
-name: God Of War 1: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 00074DCC 60000000
 
-name: God Of War 1: ASM Max + Infinite Orbs On Gain
+name: ASM Max + Infinite Orbs On Gain
 mode: once
 w32 00076B78 904901D0
 
-name: God Of War 1: ASM Max + Infinite Lames Of Chaos
+name: ASM Max + Infinite Lames Of Chaos
 mode: once
 w32 000781F4 60000000
 w32 000781F8 60000000
 w32 00078200 60000000
 
-name: God Of War 1: ASM Instant Max Lames Of Chaos
+name: ASM Instant Max Lames Of Chaos
 mode: once
 w32 000721A8 EC22082A
 w32 000721DC D02B03F4
 
-name: God Of War 2: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 00062470 60000000
 w32 000624A8 D0030170
@@ -226,41 +226,41 @@ w32 000624CC EC3E002A
 w32 000E4024 60000000
 w32 000E6DFC 60000000
 
-name: God Of War 2: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 0008D000 60000000
 w32 0008D030 60000000
 w32 0008D038 60000000
 
-name: God Of War 2: ASM Max + Infinite Orbs
+name: ASM Max + Infinite Orbs
 mode: once
 w32 0008B264 60000000
 w32 0008FFBC 90490234
 w32 000904D0 90490234
 w32 00090EA0 90490234
 
-name: God Of War 2: ASM Max + Infinite Rage Of The Gods
+name: ASM Max + Infinite Rage Of The Gods
 mode: once
 w32 0008C1F0 60000000
 
-name: God Of War 2: ASM Instant Max Rage Of The Gods
+name: ASM Instant Max Rage Of The Gods
 mode: once
 w32 0008A86C EC06082A
 w32 0008A8A0 60000000
 
-name: God Of War 2: Infinite Orbs
+name: Infinite Orbs
 mode: once
 w32 307E2CFC 000F423F
 
-name: God Of War 2: Infinite Magic
+name: Infinite Magic
 mode: once
 w32 00577618 43480000
 
-name: God Of War 2: Infinite Rage Of God
+name: Infinite Rage Of God
 mode: once
 w32 00577620 43480000
 
-name: God Of War 2: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 000623D0 60000000
 w32 00062408 D0030170
@@ -269,33 +269,29 @@ w32 0006242C EC3E002A
 w32 000E3F84 60000000
 w32 000E6D5C 60000000
 
-name: God Of War 2: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 0008CF60 60000000
 w32 0008CF90 60000000
 w32 0008CF98 60000000
 
-name: God Of War 2: ASM Max + Infinite Orbs
+name: ASM Max + Infinite Orbs
 mode: once
 w32 0008B1C4 60000000
 w32 0008FF1C 90490234
 w32 00090430 90490234
 w32 00090E00 90490234
 
-name: God Of War 2: ASM Max + Infinite Rage Of The Gods
+name: ASM Max + Infinite Rage Of The Gods
 mode: once
 w32 0008C150 60000000
 
-name: God Of War 2: ASM Instant Max Rage Of The Gods
+name: ASM Instant Max Rage Of The Gods
 mode: once
 w32 0008A7CC EC06082A
 w32 0008A800 60000000
 
-name: God Of War 2: Infinite Rage Of GodS
-mode: once
-w32 00577620 43480000
-
-name: God Of War 2: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 00062208 60000000
 w32 00062240 D0030170
@@ -304,29 +300,29 @@ w32 00062264 EC3E002A
 w32 000E3714 60000000
 w32 000E6804 60000000
 
-name: God Of War 2: ASM Max + Infinite Magic
+name: ASM Max + Infinite Magic
 mode: once
 w32 0008CD50 60000000
 w32 0008CD80 60000000
 w32 0008CD88 60000000
 
-name: God Of War 2: ASM Max + Infinite Orbs
+name: ASM Max + Infinite Orbs
 mode: once
 w32 0008AFB4 60000000
 w32 0008FD0C 90490234
 w32 00090220 90490234
 w32 00090BF0 90490234
 
-name: God Of War 2: ASM Max + Infinite Rage Of The Gods
+name: ASM Max + Infinite Rage Of The Gods
 mode: once
 w32 0008BF40 60000000
 
-name: God Of War 2: ASM Instant Max Rage Of The Gods
+name: ASM Instant Max Rage Of The Gods
 mode: once
 w32 0008A5BC EC06082A
 w32 0008A5F0 60000000
 
-name: God Of War Collection Volume 1: ASM Max + Infinite Health
+name: ASM Max + Infinite Health
 mode: once
 w32 000600B8 D0230000
 w32 00063844 901D0000
@@ -354,52 +350,9 @@ w32 00089364 EC3F7C3A
 w32 00082A64 60000000
 w32 00082A60 60000000
 
-name: God Of War Collection Volume 1: ASM Max + Infinite Magic
-mode: once
-w32 00075690 60000000
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Orbs On Gain
-mode: once
-w32 000773C8 904901D0
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Lames Of Chaos
-mode: once
-w32 00078A44 60000000
-w32 00078A48 60000000
-w32 00078A50 60000000
-
-name: God Of War Collection Volume 1: ASM Instant Max Lames Of Chaos
-mode: once
-w32 000729F8 EC22082A
-w32 00072A2C D02B03F4
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Health
-mode: once
-w32 00062470 60000000
-w32 000624A8 D0030170
-w32 000624B4 D3C30170
-w32 000624CC EC3E002A
-w32 000E4024 60000000
-w32 000E6DFC 60000000
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Magic
-mode: once
-w32 0008D000 60000000
-w32 0008D030 60000000
-w32 0008D038 60000000
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Orbs
+name: ASM Max + Infinite Orbs
 mode: once
 w32 0008B27C 904A0070
 w32 0008FFBC 90490234
 w32 000904D0 90490234
 w32 00090EA0 90490234
-
-name: God Of War Collection Volume 1: ASM Max + Infinite Rage Of The Gods
-mode: once
-w32 0008C1F0 60000000
-
-name: God Of War Collection Volume 1: ASM Instant Max Rage Of The Gods
-mode: once
-w32 0008A86C EC06082A
-w32 0008A8A0 60000000

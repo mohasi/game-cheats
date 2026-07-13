@@ -1,17 +1,17 @@
 # Under Defeat
 
-name: Under Defeat Deluxe Edition: Memory 4 Bombs
+name: Memory 4 Bombs
 mode: once
 w8 004107D5 04
 
-name: Under Defeat Deluxe Edition: Memory 6 Lives
+name: Memory 6 Lives
 mode: once
 w8 004107CE 06
 
-name: Under Defeat Deluxe Edition: AoB Unlimited Bombs
+name: AoB Unlimited Bombs
 mode: once
 aob 38800090987F0015 3880009060000000
 
-name: Under Defeat Deluxe Edition: AoB Unlimited Life
+name: AoB Unlimited Life
 mode: once
 aob 30C6FFFF98C5000E 30C6FFFF60000000

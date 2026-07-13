@@ -1,10 +1,5 @@
 # Fast Draw Showdown
 
-name: Fast Draw: Infinite Ammo + No Reload
-mode: once
-w32 0004D4E0 39290000
-w32 0004D4EC 7D38412E
-
 name: Infinite Ammo + No Reload
 mode: once
 w32 0004D4E0 39290000

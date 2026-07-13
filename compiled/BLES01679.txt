@@ -32,7 +32,7 @@ name: AoB Infinite Ammo
 mode: once
 aob 4BF8AAD960000000EBC100B0EB410070 6000000060000000EBC100B0EB410070
 
-name: Doom BFG Edition Doom 1 & 2: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w16 346FC7D6 010C
 w8 346FC7DB 31
@@ -41,45 +41,45 @@ w16 3474139E 010C
 w8 347413BF 31
 w16 347413FE 0024
 
-name: Doom BFG Edition Doom 1 & 2: Bullets Never Decrease
+name: Bullets Never Decrease
 mode: once
 w32 0010D488 396B0000
 w32 0010DF50 396B0000
 
-name: Doom BFG Edition Doom 1 & 2: Shells Never Decrease
+name: Shells Never Decrease
 mode: once
 w32 0010D7E4 396B0000
 w32 0010DBB8 396B0000
 
-name: Doom BFG Edition Doom 1 & 2: Rockets Never Decrease
+name: Rockets Never Decrease
 mode: once
 w32 0010CD58 396B0000
 
-name: Doom BFG Edition Doom 1 & 2: Max Health On Medkit Gain
+name: Max Health On Medkit Gain
 mode: once
 w32 00103B68 396000C8
 
-name: Doom BFG Edition Doom 1 & 2: Memory Infinite Health + Armor
+name: Memory Infinite Health + Armor
 mode: once
 w16 346FC75A 00C8
 w16 34741222 00C8
 w16 34741496 00C8
 w16 35094AFA 00C8
 
-name: Doom BFG Edition Doom 1 & 2: Health Never Decreases (Affects enemies too)
+name: Health Never Decreases (Affects enemies too)
 mode: once
 w32 00102B74 7D3E0050
 w32 00102B8C 7D3E0214
 w32 00102BA4 7D3E0050
 
-name: Doom BFG Edition Doom 1 & 2: Max Armor On Gain
+name: Max Armor On Gain
 mode: once
 w32 00103BAC 392000C8
 
-name: Doom BFG Edition Doom 1 & 2: Infinite Armor
+name: Infinite Armor
 mode: once
 w32 00102B6C 60000000
 
-name: Doom BFG Edition Doom 1 & 2: Start With Max Health
+name: Start With Max Health
 mode: once
 w32 000F00E4 380000C8
