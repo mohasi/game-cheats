@@ -34,7 +34,7 @@ jobs:
             // cheatHash = hash of the cheat's op lines, computed by the plugin (no stored ids);
             // nonce = random per vote, purely for path uniqueness — votes are anonymous
             const MAX_FILES = 50;
-            const MAX_VOTE_LINES = 64;    // vote bodies are empty, except CHEAT_WORKED (one lineIdx=original per w32 line)
+            const MAX_VOTE_LINES = 64;    // vote bodies are empty (CHEAT_FAILED, and AoB-only CHEAT_WORKED); a w32 CHEAT_WORKED adds one lineIdx=original per w32 op
             const MAX_CHEAT_LINES = 400;  // added lines per cheat-contribution file
             const VOTE_PATH = new RegExp(
               '^votes/'
@@ -97,13 +97,14 @@ jobs:
                   if (file.status !== 'added') problems.push(`${file.filename}: votes may only ADD files (got '${file.status}')`);
                   if (file.additions > MAX_VOTE_LINES) problems.push(`${file.filename}: too large (${file.additions} lines)`);
                   if (!VOTE_PATH.test(file.filename)) { problems.push(`${file.filename}: not a valid vote path`); continue; }
-                  // payload grammar: CHEAT_FAILED has an empty body; CHEAT_WORKED is one <opIdx>=<hex> line per w32 op
+                  // payload grammar: CHEAT_FAILED has an empty body. CHEAT_WORKED carries one
+                  // "<opIdx>=<hex>" working-val line per w32 op — but an AoB-only cheat has no fixed
+                  // address (it scans), so it has no working-val and its body is legitimately empty.
                   const event = file.filename.split('/').pop().split('-')[0];
                   const body = addedLines(file).filter(l => l.length);
                   if (event === 'CHEAT_FAILED' && body.length) problems.push(`${file.filename}: CHEAT_FAILED must have an empty body`);
                   if (event === 'CHEAT_WORKED') {
-                     if (!body.length) problems.push(`${file.filename}: CHEAT_WORKED must carry at least one working-val line`);
-                     for (const line of body) {
+                     for (const line of body) {   // empty body is valid (AoB-only cheat); grammar-check any lines present
                         if (!/^\d+=[0-9A-Fa-f]{2,8}$/.test(line)) { problems.push(`${file.filename}: bad working-val line "${line.slice(0, 40)}"`); break; }
                      }
                   }
