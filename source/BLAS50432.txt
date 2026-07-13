@@ -1,222 +1,222 @@
 # Silent Hill: HD Collection
 
-name: Silent Hill 2: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 00132048 38A00000
 w32 001C5560 38A00000
 
-name: Silent Hill 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 00014A9C 41800014
 w32 0001F804 4082083C
 
-name: Silent Hill 2: Reload 65535
+name: Reload 65535
 mode: once
 w32 001324B4 38A0FFFF
 w32 001324CC 38A0FFFF
 
-name: Silent Hill 2: Enemy Caught
+name: Enemy Caught
 mode: once
 w32 000D6C28 41820050
 
-name: Silent Hill 2: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 00132448 38A00000
 w32 001C59D0 38A00000
 
-name: Silent Hill 2: Infinite Reload
+name: Infinite Reload
 mode: once
 w32 0006E3E0 38800000
 
-name: Silent Hill 2: AoB Pick Up 999
+name: AoB Pick Up 999
 mode: once
 aob 38A003E77C6307B438C003E77C7E1814A0E3000C7C872014 38A000007C6307B438C003E77C7E1814A0E3000C7C872014
 aob 38A003E76149000031089EB430E7EBB030C699307D2407B4 38A000006149000031089EB430E7EBB030C699307D2407B4
 
-name: Silent Hill 2: AoB Infinite Reload
+name: AoB Infinite Reload
 mode: once
 aob 38800001480B52D1600000003860000138800004987E053C989E04997C1BE000 38800000480B52D1600000003860000138800004987E053C989E04997C1BE000
 
-name: Silent Hill 2: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 001123E8 38A00000
 w32 00148910 38A00000
 
-name: Silent Hill 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 00014A9C 41800014
 w32 0001F7DC 4082083C
 
-name: Silent Hill 2: Reload 65535
+name: Reload 65535
 mode: once
 w32 00112854 38A0FFFF
 w32 0011286C 38A0FFFF
 
-name: Silent Hill 2: Enemy Caught
+name: Enemy Caught
 mode: once
 w32 000BD038 41820050
 
-name: Silent Hill 2: Infinite Reload
+name: Infinite Reload
 mode: once
 w32 00063398 38800000
 
-name: Silent Hill 2: AoB Pick Up 999
+name: AoB Pick Up 999
 mode: once
 aob 38A003E77C6307B438C003E77C7E1814A0E3000C7C872014 38A000007C6307B438C003E77C7E1814A0E3000C7C872014
 aob 38A003E76149000031087BF430E7919030C676707D2407B47C6430147C87222E 38A000006149000031087BF430E7919030C676707D2407B47C6430147C87222E
 
-name: Silent Hill 2: AoB Infinite Reload
+name: AoB Infinite Reload
 mode: once
 aob 38800001480AF2B9600000003860000138800004987E053C 38800000480AF2B9600000003860000138800004987E053C
 
-name: Silent Hill 2: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 00132448 38A00000
 w32 001C5DE8 38A00000
 
-name: Silent Hill 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 0012E258 D0430154
 w32 0012E270 48000058
 
-name: Silent Hill 2: Invincible (Use with Infinite Health)
+name: Invincible (Use with Infinite Health)
 mode: once
 w32 0012E25C 388042C8
 w32 0012E260 B0830162
 w32 0012E264 60000000
 
-name: Silent Hill 2: Infinite Ammo + Items
+name: Infinite Ammo + Items
 mode: once
 w32 00132550 30C60000
 
-name: Silent Hill 2: Freeze Time
+name: Freeze Time
 mode: once
 w32 0007A6E8 FC201090
 
-name: Silent Hill 2: Save Always 0
+name: Save Always 0
 mode: once
 w32 0027AA10 30840000
 
-name: Silent Hill 2: Max Enemies Killed By Weapons
+name: Max Enemies Killed By Weapons
 mode: once
 w32 0007A7FC 3880270F
 
-name: Silent Hill 2: No Enemies Killed By Weapons
+name: No Enemies Killed By Weapons
 mode: once
 w32 0007A7FC 38800000
 
-name: Silent Hill 2: Max Enemies Killed By Melee
+name: Max Enemies Killed By Melee
 mode: once
 w32 0007A834 3880270F
 
-name: Silent Hill 2: No Enemies Killed By Melee
+name: No Enemies Killed By Melee
 mode: once
 w32 0007A834 38800000
 
-name: Silent Hill 2: ALL WEAPONS (Don't use Constant)
+name: ALL WEAPONS (Don't use Constant)
 mode: once
 w16 00819EB6 F550
 
-name: Silent Hill 2: INFINITE AMMO (Constant)
+name: INFINITE AMMO (Constant)
 mode: once
 w16 00819EC8 0001
 w16 00819ED0 0001
 w16 00819ED4 0001
 w16 00819ECC 0001
 
-name: Silent Hill 3: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 001BFD20 38800000
 
-name: Silent Hill 3: No Damager
+name: No Damager
 mode: once
 w32 00135F6C 3CA0BF80
 
-name: Silent Hill 3: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 001BFDA0 38800000
 
-name: Silent Hill 3: No Damager
+name: No Damager
 mode: once
 w32 0013605C 3CA0BF80
 
-name: Silent Hill 3: Infinite Health
+name: Infinite Health
 mode: once
 w32 001266A8 60000000
 w32 001266B4 60000000
 
-name: Silent Hill 3: Invincible (Use with Infinite Health)
+name: Invincible (Use with Infinite Health)
 mode: once
 w32 001266A0 386042C8
 w32 001266A4 B07F018A
 
-name: Silent Hill 3: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 001C1728 31080000
 
-name: Silent Hill 3: Infinite Supplies
+name: Infinite Supplies
 mode: once
 w32 001C1EEC 30840000
 
-name: Silent Hill 3: Freeze Time
+name: Freeze Time
 mode: once
 w32 001345D0 FC201090
 
-name: Silent Hill 3: Save Always 0
+name: Save Always 0
 mode: once
 w32 00028D7C 30A50000
 
-name: Silent Hill 3: Max Enemies Killed By Weapons
+name: Max Enemies Killed By Weapons
 mode: once
 w32 00134898 3880270F
 
-name: Silent Hill 3: No Enemies Killed By Weapons
+name: No Enemies Killed By Weapons
 mode: once
 w32 00134898 38800000
 
-name: Silent Hill 3: Max Enemies Killed By Melee
+name: Max Enemies Killed By Melee
 mode: once
 w32 00134910 3880270F
 
-name: Silent Hill 3: No Enemies Killed By Melee
+name: No Enemies Killed By Melee
 mode: once
 w32 00134910 38800000
 
-name: Silent Hill 3: Freeze Time
+name: Freeze Time
 mode: once
 w32 001345D0 EC210828
 
-name: Silent Hill 3: Save Always 0
+name: Save Always 0
 mode: once
 w32 00028D7C 38A00000
 
-name: Silent Hill 3: Invincibility
+name: Invincibility
 mode: once
 w32 001261D0 60000000
 
-name: Silent Hill 3: Infinite Health
+name: Infinite Health
 mode: once
 w32 00125D04 D07F019C
 
-name: Silent Hill 3: Never Tired
+name: Never Tired
 mode: once
 w32 00137AE0 60000000
 w32 00137BBC 60000000
 w32 00137E94 60000000
 
-name: Silent Hill 3: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 00137FB0 386003E8
 w32 001C16D4 60000000
 w32 001C1728 390003E8
 
-name: Silent Hill 3: Infinite Supplies Pickup
+name: Infinite Supplies Pickup
 mode: once
 w32 001BCA68 38800000
 w32 001BE684 38A00000
 w32 001C01A8 38800000
 
-name: Silent Hill 3: Unlock All Modes
+name: Unlock All Modes
 mode: once
 w32 00028310 386000FF
 w32 00029110 3880FFFF
@@ -224,7 +224,7 @@ w32 0002837C 3880FFFF
 w32 000281C4 3860FFFF
 w32 00028454 3860FFFF
 
-name: Silent Hill 3: Have All Items + Costumes + Weapons
+name: Have All Items + Costumes + Weapons
 mode: once
 w32 0012A85C 3860FFFF
 w32 001662C4 3860FFFF
@@ -242,12 +242,12 @@ w32 001D0AD8 3860FFFF
 w32 001D0B48 3860FFFF
 w32 001D10C4 3860FFFF
 
-name: Silent Hill 3: Can Use Flashlight Anywhere
+name: Can Use Flashlight Anywhere
 mode: once
 w32 002693EC 38800001
 w32 00269418 38A00001
 
-name: Silent Hill 3: Rapid Fire
+name: Rapid Fire
 mode: once
 w32 003B1E60 A09E0004
 w32 003B1E64 A07E0008
@@ -261,23 +261,23 @@ w32 003B1E80 B09E0004
 w32 003B1E84 481442E2
 w32 001442DC 483B1E62
 
-name: Silent Hill 3: Life Display Always On
+name: Life Display Always On
 mode: once
 w32 0002964C 38600001
 
-name: Silent Hill 3: Invincibility
+name: Invincibility
 mode: once
 w32 001261B0 4E800020
 
-name: Silent Hill 3: Damage Fully Refills Health
+name: Damage Fully Refills Health
 mode: once
 w32 001264B8 C09F01A0
 
-name: Silent Hill 3: Everything Can Go Through Walls
+name: Everything Can Go Through Walls
 mode: once
 w32 0014F4A8 480002AC
 
-name: Silent Hill 3: Only Heather Can Go Through Walls
+name: Only Heather Can Go Through Walls
 mode: once
 w32 003CA210 F861FFF8
 w32 003CA214 F881FFF0
@@ -298,12 +298,12 @@ w32 003CA24C 2C040000
 w32 003CA250 4E800020
 w32 0014F4A4 483CA213
 
-name: Silent Hill 3: Camera Smoothly Transitions From Point To Point
+name: Camera Smoothly Transitions From Point To Point
 mode: once
 w32 0003C360 4800000C
 w32 0003C37C 4800000C
 
-name: Silent Hill 3: Camera Follows You Everywhere
+name: Camera Follows You Everywhere
 mode: once
 w32 003CC4BC 3F600052
 w32 003CC4C0 837BA7B4
@@ -320,7 +320,7 @@ w32 003CC4E8 4E800020
 w32 0003C0E0 480001D8
 w32 0003F6B8 483CC4BF
 
-name: Silent Hill 3: Enter Your Inventory To Gain All Items + Supplies
+name: Enter Your Inventory To Gain All Items + Supplies
 mode: once
 w32 003A0A38 F861FFF8
 w32 003A0A3C F8E1FFF0
@@ -335,7 +335,7 @@ w32 003A0A5C 7C85202E
 w32 003A0A60 481C14F6
 w32 001C14F0 483A0A3A
 
-name: Silent Hill 3: Enter Your Inventory To Gain All Weapons
+name: Enter Your Inventory To Gain All Weapons
 mode: once
 w32 003A0A64 F8A1FFF8
 w32 003A0A68 F8C1FFF0
@@ -350,7 +350,7 @@ w32 003A0A88 7C79182E
 w32 003A0A8C 481CDF9A
 w32 001CDF94 483A0A66
 
-name: Silent Hill 3: Button Enable Code
+name: Button Enable Code
 mode: once
 w32 003B1E30 3CC00234
 w32 003B1E34 891E0009

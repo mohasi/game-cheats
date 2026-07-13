@@ -1,108 +1,108 @@
 # White Knight Chronicles: International Edition
 
-name: White Knight Chronicles: HP + MP Recover When Drawing Weapon
+name: HP + MP Recover When Drawing Weapon
 mode: once
 w32 00512424 8009005C
 w32 00512428 2F800001
 
-name: White Knight Chronicles: Gain Or Lose Items To Get 255
+name: Gain Or Lose Items To Get 255
 mode: once
 w32 003BDDB8 380000FF
 
-name: White Knight Chronicles: AC Max When Attacking Enemies (Not Combo)
+name: AC Max When Attacking Enemies (Not Combo)
 mode: once
 w32 00519A40 3C0042C8
 w32 00519A44 90091560
 
-name: White Knight Chronicles: Use Skill Points To Gain Skill Points
+name: Use Skill Points To Gain Skill Points
 mode: once
 w32 0036E160 60000000
 w32 0036E184 60000000
 
-name: White Knight Chronicles: Max Gold On Gain Or Loss
+name: Max Gold On Gain Or Loss
 mode: once
 w32 003CC66C 48000008
 
-name: White Knight Chronicles: AoB HP + MP Recover When Drawing Weapon
+name: AoB HP + MP Recover When Drawing Weapon
 mode: once
 aob C009005CFF80E800 8009005C2F800001
 
-name: White Knight Chronicles: AoB Max Item After Second Item (Storage)
+name: AoB Max Item After Second Item (Storage)
 mode: once
 aob 7C1602147F801800 380000FF7F801800
 
-name: White Knight Chronicles: AoB Max GP On Gain
+name: AoB Max GP On Gain
 mode: once
 aob 801B02F87C004A14901B02F8 3C0005F56000E0FF901B02F8
 
-name: White Knight Chronicles: AoB Gain Or Lose Items To Get 255
+name: AoB Gain Or Lose Items To Get 255
 mode: once
 aob 880B00007C1C0050 880B0000380000FF
 
-name: White Knight Chronicles: AoB AC Max When Attacking Enemies (Not Combo)
+name: AoB AC Max When Attacking Enemies (Not Combo)
 mode: once
 aob EC01002AD0091560 3C0042C890091560
 
-name: White Knight Chronicles: AoB Use Skill Points To Gain Skill Points
+name: AoB Use Skill Points To Gain Skill Points
 mode: once
 aob 2B800004409D000838000004 2B8000046000000038000004
 aob 5400043E7F9D0040409D00087C1D0378 5400043E7F9D0040600000007C1D0378
 
-name: White Knight Chronicles: AoB Max Gold On Gain Or Loss
+name: AoB Max Gold On Gain Or Loss
 mode: once
 aob 7F805800409D000891630080 48000008409D000891630080
 
-name: White Knight Chronicles: AoB 1 Kill Max Exp
+name: AoB 1 Kill Max Exp
 mode: once
 aob 7F830000419D0168 7F8300007C030378
 
-name: White Knight Chronicles: AoB Gain 10x Items (Only From Monster)
+name: AoB Gain 10x Items (Only From Monster)
 mode: once
 aob 7F98D800812B0008914B002839290001 7F98D800812B0008914B00283929000A
 
-name: White Knight Chronicles: AoB Gain 100x Items (Only From Monster)
+name: AoB Gain 100x Items (Only From Monster)
 mode: once
 aob 7F98D800812B0008914B002839290001 7F98D800812B0008914B002839290064
 
-name: White Knight Chronicles: AoB Enchance Without Materials
+name: AoB Enchance Without Materials
 mode: once
 aob 419D0EE0891E18624BFFFF9C801E00BC 60000000891E18624BFFFF9C801E00BC
 
-name: White Knight Chronicles: AoB Get Max Guild Points On Gain
+name: AoB Get Max Guild Points On Gain
 mode: once
 aob 801B02F87C004A14901B02F8 3C0005F56000E0FF901B02F8
 
-name: White Knight Chronicles: AoB 1 Kill For Full HP + MP + AC
+name: AoB 1 Kill For Full HP + MP + AC
 mode: once
 aob 8123002C7C9C2378 8123002C1F6400FF
 
-name: White Knight Chronicles: AoB Infinite Items (Character Inventory)
+name: AoB Infinite Items (Character Inventory)
 mode: once
 aob 5463063E2F830000409E0174 1F6400FF2F83000060000000
 
-name: White Knight Chronicles: AoB Max Items In Quest Loot + Max Money
+name: AoB Max Items In Quest Loot + Max Money
 mode: once
 aob 7CBA2B787CDD3378918100B87C0802A6F80100C081690000812B0054 1FC300017CDD3378918100B87C0802A6F80100C081690000812B0054
 
-name: White Knight Chronicles: HP + MP Recover When Drawing Weapon
+name: HP + MP Recover When Drawing Weapon
 mode: once
 w32 00512F54 8009005C
 w32 00512F58 2F800001
 
-name: White Knight Chronicles: Gain Or Lose Items To Get 255
+name: Gain Or Lose Items To Get 255
 mode: once
 w32 003BE8D8 380000FF
 
-name: White Knight Chronicles: AC Max When Attacking Enemies (Not Combo)
+name: AC Max When Attacking Enemies (Not Combo)
 mode: once
 w32 0051A568 3C0042C8
 w32 0051A56C 90091560
 
-name: White Knight Chronicles: Use Skill Points To Gain Skill Points
+name: Use Skill Points To Gain Skill Points
 mode: once
 w32 0036EC78 60000000
 w32 0036EC9C 60000000
 
-name: White Knight Chronicles: Max Gold On Gain Or Loss
+name: Max Gold On Gain Or Loss
 mode: once
 w32 003CD34C 48000008

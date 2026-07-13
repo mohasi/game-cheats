@@ -1,41 +1,41 @@
 # The House of the Dead III
 
-name: The House Of The Dead 3: Memory Infinite Lives
+name: Memory Infinite Lives
 mode: once
 w32 00631494 00000009
 
-name: The House Of The Dead 3: ASM Infinite Lives
+name: ASM Infinite Lives
 mode: once
 w32 00151A00 39290000
 
-name: The House Of The Dead 3: Memory Infinite Credits
+name: Memory Infinite Credits
 mode: once
 w32 00631AE0 00000009
 
-name: The House Of The Dead 3: ASM Infinite Credits
+name: ASM Infinite Credits
 mode: once
 w32 0008F5F0 60000000
 
-name: The House Of The Dead 3: Memory No Reload + Infinite Ammo
+name: Memory No Reload + Infinite Ammo
 mode: once
 w32 006314E0 00000006
 
-name: The House Of The Dead 3: ASM No Reload + Infinite Ammo
+name: ASM No Reload + Infinite Ammo
 mode: once
 w32 00151DAC 39290000
 
-name: The House Of The Dead 3: Memory Max Scores In 1 Kill
+name: Memory Max Scores In 1 Kill
 mode: once
 w32 0063149C 0098967F
 
-name: The House Of The Dead 3: ASM Max Scores In 1 Kill
+name: ASM Max Scores In 1 Kill
 mode: once
 w32 0015070C 91230000
 
-name: The House Of The Dead 3: Memory Scores Never Decrease
+name: Memory Scores Never Decrease
 mode: once
 w32 0063149C 0098967F
 
-name: The House Of The Dead 3: ASM Scores Never Decrease
+name: ASM Scores Never Decrease
 mode: once
 w32 0015175C 60000000

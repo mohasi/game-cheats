@@ -1,15 +1,15 @@
 # Dragon's Lair II - Time Warp
 
-name: Dragon's Lair 2 Time Warp: Memory Infinite Life
+name: Memory Infinite Life
 mode: once
 w32 001E87A8 00000005
 
-name: Dragon's Lair 2 Time Warp: ASM Infinite Life
+name: ASM Infinite Life
 mode: once
 w32 000593B0 39290000
 w32 000593B8 60000000
 
-name: Dragon's Lair 2 Time Warp: ASM Infinite Life
+name: ASM Infinite Life
 mode: once
 w32 00059388 39290000
 w32 00059390 60000000

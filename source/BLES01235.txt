@@ -1,9 +1,9 @@
 # Champion Jockey: G1 Jockey &amp;amp; Gallop Racer
 
-name: Champion Jockey G1 Jockey And Gallop Racer: Max Riding Points When Decrease
+name: Max Riding Points When Decrease
 mode: once
 w32 00149408 923D6008
 
-name: Champion Jockey G1 Jockey And Gallop Racer: AoB Max Riding Points When Decrease
+name: AoB Max Riding Points When Decrease
 mode: once
 aob 907D60087C0803A6EBA10078 923D60087C0803A6EBA10078

@@ -1,5 +1,5 @@
 # Sega Classics - Streets of Rage II
 
-name: Streets of Rage 2: Unlimited Health
+name: Unlimited Health
 mode: once
 w32 35B7F660 00680000

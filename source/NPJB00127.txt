@@ -1,18 +1,18 @@
 # Sonic the Hedgehog 2
 
-name: Sonic The Hedgehog 2 - JG: Memory Infinite Health + Ring x100 + 1 Life Per Enemy Hit
+name: Memory Infinite Health + Ring x100 + 1 Life Per Enemy Hit
 mode: once
 w8 35B57B21 64
 
-name: Sonic The Hedgehog 2 - JG: Memory High Scores On Gain
+name: Memory High Scores On Gain
 mode: once
 w32 35B57B28 FFFF0000
 
-name: Sonic The Hedgehog 2 - JG: Memory Max + Infinite Lives
+name: Memory Max + Infinite Lives
 mode: once
 w8 35B57B12 63
 
-name: Sonic The Hedgehog 2 - JG: Memory Invincible
+name: Memory Invincible
 mode: once
 w32 35B52D30 004D0000
 

@@ -1,13 +1,13 @@
 # Jak and Daxter - The Precursor Legacy HD
 
-name: Jak And Daxter The Precursor Legacy: Walk Through Walls
+name: Walk Through Walls
 mode: once
 w16 201F7024 FFFF
 
-name: Jak And Daxter The Precursor Legacy: Infinite Health
+name: Infinite Health
 mode: once
 w32 201FEE20 00004040
 
-name: Jak And Daxter The Precursor Legacy: Infinite Double Jumps
+name: Infinite Double Jumps
 mode: once
 w16 201F70A0 0710

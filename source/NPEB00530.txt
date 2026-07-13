@@ -1,11 +1,11 @@
 # Sega Classics - Comix Zone
 
-name: Comix Zone: Memory Unlimited Life Energy
+name: Memory Unlimited Life Energy
 mode: once
 w16 35C6ACE4 04FF
 w16 35C6ACF8 04FF
 
-name: Comix Zone: ASM Unlimited Life Energy
+name: ASM Unlimited Life Energy
 mode: once
 w32 00042070 60000000
 w32 000420B0 60000000

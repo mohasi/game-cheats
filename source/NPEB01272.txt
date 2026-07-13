@@ -1,19 +1,19 @@
 # Mad Dog II - The Lost Gold
 
-name: Mad Dog McCree 2: Memory Infinite Life
+name: Memory Infinite Life
 mode: once
 w8 001FF54B 05
 
-name: Mad Dog McCree 2: ASM Infinite Life
+name: ASM Infinite Life
 mode: once
 w32 00041D78 39890000
 w32 00041D7C 912A0000
 
-name: Mad Dog McCree 2: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w8 001FEFCB 04
 
-name: Mad Dog McCree 2: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 0004F37C 3ACB0000
 w32 0004F384 60000000

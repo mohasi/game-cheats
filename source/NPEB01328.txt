@@ -1,31 +1,31 @@
 # Last Bounty Hunter, The
 
-name: The Last Bounty Hunter: Ammo In Clip Never Decreases
+name: Ammo In Clip Never Decreases
 mode: once
 w32 0004FF50 3ACB0000
 
-name: The Last Bounty Hunter: Lives Never Decrease
+name: Lives Never Decrease
 mode: once
 w32 00041D80 39290000
 
-name: The Last Bounty Hunter: Memory Infinite Life
+name: Memory Infinite Life
 mode: once
 w8 00203FDB 05
 
-name: The Last Bounty Hunter: ASM Infinite Life
+name: ASM Infinite Life
 mode: once
 w32 00041D80 39290000
 w32 00041D84 60000000
 
-name: The Last Bounty Hunter: Memory Infinite Ammo + No Reload
+name: Memory Infinite Ammo + No Reload
 mode: once
 w8 00203A5B 06
 
-name: The Last Bounty Hunter: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 0004E550 7D72012E
 w32 0004E548 3ACB0000
 
-name: The Last Bounty Hunter: Ammo In Clip Never Decreases
+name: Ammo In Clip Never Decreases
 mode: once
 w32 0004E548 3ACB0000

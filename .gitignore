@@ -4,3 +4,4 @@ tools/cache/
 # python bytecode
 __pycache__/
 *.pyc
+/.vs

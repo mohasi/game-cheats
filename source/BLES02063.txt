@@ -1,27 +1,5 @@
 # Adventure Time: The Secret of the Nameless Kingdom
 
-name: Adventure Time Secret Of The Nameless Kingdom: Infinite Health
-mode: once
-w32 000CB858 60000000
-
-name: Adventure Time Secret Of The Nameless Kingdom: 1 Hit Kill
-mode: once
-w32 0016344C C0230008
-
-name: Adventure Time Secret Of The Nameless Kingdom: Coins 0 On Spend
-mode: once
-w32 000DBAE0 60000000
-w16 004F58F2 03E7
-
-name: Adventure Time Secret Of The Nameless Kingdom: Max Coins On Spend Or Pickup
-mode: once
-w32 000DBAD4 28040000
-
-name: Adventure Time Secret Of The Nameless Kingdom: Infinite Item Usage
-mode: once
-w32 000DB604 30840000
-w16 004F5902 0009
-
 name: Infinite Health
 mode: once
 w32 000CB858 60000000

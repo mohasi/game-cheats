@@ -1,74 +1,74 @@
 # Sonic the Hedgehog 4 - Episode I
 
-name: Sonic The Hedgehog 4 Episode 1: 999 Lives
+name: 999 Lives
 mode: once
 w32 000C1254 409D0030
 
-name: Sonic The Hedgehog 4 Episode 1: 1 Ring = 999 Rings
+name: 1 Ring = 999 Rings
 mode: once
 w32 0008D31C 419D000C
 
-name: Sonic The Hedgehog 4 Episode 1: Free Super Sonic
+name: Free Super Sonic
 mode: once
 w32 0008BF4C 60000000
 w32 0008BF58 2F80FFFF
 w32 000900EC 39290000
 w32 000900F8 2F80FFFF
 
-name: Sonic The Hedgehog 4 Episode 1: Rings Never Decrease
+name: Rings Never Decrease
 mode: once
 w32 000C9304 7CC83378
 
-name: Sonic The Hedgehog 4 Episode 1: Lives Never Decrease
+name: Lives Never Decrease
 mode: once
 w32 000AFE60 39290000
 
-name: Sonic The Hedgehog 4 Episode 1: Max Lives on Gain + Lose
+name: Max Lives on Gain + Lose
 mode: once
 w32 0008D26C 48000020
 
-name: Sonic The Hedgehog 4 Episode 1: Freeze Time
+name: Freeze Time
 mode: once
 w32 000AFD9C 39290000
 
-name: Sonic The Hedgehog 4 Episode 1: Freeze Special Stage Timer
+name: Freeze Special Stage Timer
 mode: once
 w32 000AFFB8 38090000
 
-name: Sonic The Hedgehog 4 Episode 1: AoB 999 Lives
+name: AoB 999 Lives
 mode: once
 aob 419D00307C6307B44802E07960000000E8010090EBC10070EBE100787C0803A6382100804E800020C022B328 409D00307C6307B44802E07960000000E8010090EBC10070EBE100787C0803A6382100804E800020C022B328
 
-name: Sonic The Hedgehog 4 Episode 1: AoB 1 Ring = 999 Rings
+name: AoB 1 Ring = 999 Rings
 mode: once
 aob 409D000C392003E7380003E72F800000419C0150A01E176CB13E176A7D2402147D200734 419D000C392003E7380003E72F800000419C0150A01E176CB13E176A7D2402147D200734
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Free SupeSonic
+name: AoB Free SupeSonic
 mode: once
 aob 409E0014A00A176A7C0007342F800031 60000000A00A176A7C0007342F80FFFF
 aob 3929FFFF7D200734B13E176A2F800000 392900007D200734B13E176A2F80FFFF
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Rings Never Decrease
+name: AoB Rings Never Decrease
 mode: once
 aob 7D0930507C070378 7CC833787C070378
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Lives Never Decrease
+name: AoB Lives Never Decrease
 mode: once
 aob 3929FFFF2F890000913E0028 392900002F890000913E0028
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Max Lives on Gain + Lose
+name: AoB Max Lives on Gain + Lose
 mode: once
 aob 2B8003E8419D0020 2B8003E848000020
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Freeze Time
+name: AoB Freeze Time
 mode: once
 aob 39290001913E000C 39290000913E000C
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Freeze Special Stage Timer
+name: AoB Freeze Special Stage Timer
 mode: once
 aob 3809FFFF901E000C 38090000901E000C
 
-name: Sonic The Hedgehog 4 Episode 1: AoB Free Super Sonic
+name: AoB Free Super Sonic
 mode: once
 aob 409E0014A00A176A7C0007342F800031 60000000A00A176A7C0007342F80FFFF
 aob 3929FFFF7D200734B13E176A2F800000 392900007D200734B13E176A2F80FFFF

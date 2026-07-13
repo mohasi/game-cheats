@@ -1,10 +1,10 @@
 # Metal Gear Solid - Peace Walker HD
 
-name: Metal Gear Solid Peacewalker: Camouflage 100%
+name: Camouflage 100%
 mode: once
 w32 005C536C 2C0603E8
 w32 005C5374 38C003E8
 
-name: Metal Gear Solid Peacewalker: AoB Camouflage 100%
+name: AoB Camouflage 100%
 mode: once
 aob 2C06FC184080000838C0FC182C0603E840810008 2C06FC184080000838C003E82C0603E840810008

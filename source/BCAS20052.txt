@@ -1,46 +1,42 @@
 # Ratchet &amp;amp; Clank: Quest for Booty
 
-name: Ratchet & Clank Quest For Booty: Max Exp
+name: Exp Max
 mode: once
 w32 009CEAE0 05F5E0FF
 
-name: Ratchet & Clank Quest For Booty: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 379C1C74 41A00000
 w32 379C17F4 41200000
 w32 38B57874 41500000
 w32 38B63EF4 41200000
 
-name: Ratchet & Clank Quest For Booty: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 000A08F8 ED6B2028
 w32 000A08FC D07E0004
 
-name: Ratchet & Clank Quest For Booty: Memory Max Bolts
+name: Memory Max Bolts
 mode: once
 w32 009CEAE4 05F5E0FF
 
-name: Ratchet & Clank Quest For Booty: ASM Max Bolts
+name: ASM Max Bolts
 mode: once
 w32 0017E7A4 910B0274
 
-name: Ratchet & Clank Quest For Booty: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w32 009CE8A0 42C80000
 
-name: Ratchet & Clank Quest For Booty: ASM Infinite Ammo
+name: ASM Infinite Ammo
 mode: once
 w32 0034E658 60000000
 
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: Exp Max
-mode: once
-w32 009CEAE0 05F5E0FF
-
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: Bolts 99999999
+name: Bolts 99999999
 mode: once
 w32 009CEAE4 05F5E0FF
 
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 009CE88C 42C80000
 w32 009CE8A0 42C80000
@@ -49,106 +45,31 @@ w32 009CE8C8 42C80000
 w32 009CE8DC 42C80000
 w32 009CE8F0 42C80000
 
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: Infinite Ammo
+name: Infinite Ammo
 mode: once
 w32 0034E538 60000000
 
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: Pickup A Bolt For Lots of Bolts
+name: Pickup A Bolt For Lots of Bolts
 mode: once
 w32 00184D28 93AB0274
 
-name: Ratchet And Clank Future Alla Ricerca Del Tesoro: 1 Hit Kill For All Bosses And Most Enemies
+name: 1 Hit Kill For All Bosses And Most Enemies
 mode: once
 w32 00185990 D1030004
 
-name: Ratchet And Clank Future Caça Ao Tesouro: Exp Max
-mode: once
-w32 009CEAE0 05F5E0FF
-
-name: Ratchet And Clank Future Caça Ao Tesouro: Bolts 99999999
+name: Bolts 99999999
 mode: once
 w32 009CEAE4 05F5E0FF
 
-name: Ratchet And Clank Future Caça Ao Tesouro: Infinite Ammo
-mode: once
-w32 009CE88C 42C80000
-w32 009CE8A0 42C80000
-w32 009CE8B4 42C80000
-w32 009CE8C8 42C80000
-w32 009CE8DC 42C80000
-w32 009CE8F0 42C80000
-
-name: Ratchet And Clank Future Caça Ao Tesouro: Infinite Ammo
-mode: once
-w32 0034E538 60000000
-
-name: Ratchet And Clank Future Caça Ao Tesouro: Pickup A Bolt For Lots of Bolts
-mode: once
-w32 00184D28 93AB0274
-
-name: Ratchet And Clank Future Caça Ao Tesouro: 1 Hit Kill For All Bosses And Most Enemies
-mode: once
-w32 00185990 D1030004
-
-name: Ratchet And Clank Future En Busca Del Tesoro: Exp Max
-mode: once
-w32 009CEAE0 05F5E0FF
-
-name: Ratchet And Clank Future En Busca Del Tesoro: Bolts 99999999
+name: Bolts 99999999
 mode: once
 w32 009CEAE4 05F5E0FF
 
-name: Ratchet And Clank Future En Busca Del Tesoro: Infinite Ammo
-mode: once
-w32 009CE88C 42C80000
-w32 009CE8A0 42C80000
-w32 009CE8B4 42C80000
-w32 009CE8C8 42C80000
-w32 009CE8DC 42C80000
-w32 009CE8F0 42C80000
-
-name: Ratchet And Clank Future En Busca Del Tesoro: Infinite Ammo
-mode: once
-w32 0034E538 60000000
-
-name: Ratchet And Clank Future En Busca Del Tesoro: Pickup A Bolt For Lots of Bolts
-mode: once
-w32 00184D28 93AB0274
-
-name: Ratchet And Clank Future En Busca Del Tesoro: 1 Hit Kill For All Bosses And Most Enemies
-mode: once
-w32 00185990 D1030004
-
-name: Ratchet And Clank Future Quest For Booty: Exp Max
-mode: once
-w32 009CEAE0 05F5E0FF
-
-name: Ratchet And Clank Future Quest For Booty: Bolts 99999999
+name: Bolts 99999999
 mode: once
 w32 009CEAE4 05F5E0FF
 
-name: Ratchet And Clank Future Quest For Booty: Infinite Ammo
-mode: once
-w32 009CE88C 42C80000
-w32 009CE8A0 42C80000
-w32 009CE8B4 42C80000
-w32 009CE8C8 42C80000
-w32 009CE8DC 42C80000
-w32 009CE8F0 42C80000
-
-name: Ratchet And Clank Future Quest For Booty: Infinite Health
+name: Infinite Health
 mode: once
 w32 0018CD6C C3FF0008
 w32 0018CD78 D3FF0004
-
-name: Ratchet And Clank Future Quest For Booty: Infinite Ammo
-mode: once
-w32 0034E538 60000000
-
-name: Ratchet And Clank Future Quest For Booty: Pickup A Bolt For Lots of Bolts
-mode: once
-w32 00184D28 93AB0274
-
-name: Ratchet And Clank Future Quest For Booty: 1 Hit Kill For All Bosses And Most Enemies
-mode: once
-w32 00185990 D1030004

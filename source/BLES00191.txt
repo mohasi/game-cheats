@@ -1,14 +1,14 @@
 # BlackSite
 
-name: Blacksite Area 51: ASM Infinite Ammo + No Reload
+name: ASM Infinite Ammo + No Reload
 mode: once
 w32 00057778 38090000
 
-name: Blacksite Area 51: ASM Infinite Grenade
+name: ASM Infinite Grenade
 mode: once
 w32 0067EEB4 39690000
 
-name: Blacksite Area 51: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 52008F30 52008F30
 w32 52008F34 52008F30
@@ -16,7 +16,7 @@ w32 52E1D1A4 3F800000
 w32 52E1D1EC 3F800000
 w32 5203FB54 101E0444
 
-name: Blacksite Area 51: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 00061AE8 60000000
 w32 000D1CD8 60000000

@@ -15,19 +15,3 @@ w32 483A1348 00000064
 name: ASM Unknown Code 1
 mode: once
 w32 00BB27D0 60000064
-
-name: Test Drive Unlimited 2 tv01.03: Memory Lot Of Money On Gain
-mode: once
-w32 45BE0EEC 0000C350
-
-name: Test Drive Unlimited 2 tv01.03: ASM Lot Of Money On Gain
-mode: once
-w32 0074F1FC 9118002C
-
-name: Test Drive Unlimited 2 tv01.03: Memory Unknown Code 1
-mode: once
-w32 483A1348 00000064
-
-name: Test Drive Unlimited 2 tv01.03: ASM Unknown Code 1
-mode: once
-w32 00BB27D0 60000064

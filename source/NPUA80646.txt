@@ -1,79 +1,79 @@
 # Ratchet - Deadlocked HD
 
-name: Ratchet Deadlocked: Infinite Health
+name: Infinite Health
 mode: once
 w32 002FA954 40820168
 
-name: Ratchet Deadlocked: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 41820168A0A304202C0500004082015CC0440000FC0110004CC01382 40820168A0A304202C0500004082015CC0440000FC0110004CC01382
 
-name: Ratchet Deadlocked: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 010D7250 41200000
 
-name: Ratchet Deadlocked: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 002FAA7C 60000000
 
-name: Ratchet Deadlocked: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w32 00B2B7E8 000000BB
 
-name: Ratchet Deadlocked: ASM Infinite Ammo
+name: ASM Infinite Ammo
 mode: once
 w32 002D371C 7CA62810
 w32 002D3730 60000000
 
-name: Ratchet Deadlocked: Memory Lot Of Bolts On Gain
+name: Memory Lot Of Bolts On Gain
 mode: once
 w32 009C32E8 000F5953
 
-name: Ratchet Deadlocked: ASM Many Bolts On Gain
+name: ASM Many Bolts On Gain
 mode: once
 w32 002B2424 904332E8
 
-name: Ratchet Deadlocked: ASM Many Bolts On Buy
+name: ASM Many Bolts On Buy
 mode: once
 w32 00626B3C 904532E8
 
-name: Ratchet Deadlocked: Memory Max Level On 1 Kill
+name: Memory Max Level On 1 Kill
 mode: once
 w32 009C32F0 0000001D
 
-name: Ratchet Deadlocked: ASM Max Level On 1 Kill
+name: ASM Max Level On 1 Kill
 mode: once
 w32 001E3910 90150008
 
-name: Ratchet Deadlocked: Memory Easy Max Level For Guns (1 Level Per Kill)
+name: Memory Easy Max Level For Guns (1 Level Per Kill)
 mode: once
 w32 00B2B830 00000063
 
-name: Ratchet Deadlocked: ASM Easy Max Level For Guns (1 Level Per Kill)
+name: ASM Easy Max Level For Guns (1 Level Per Kill)
 mode: once
 w32 002D3988 90460A34
 
-name: Ratchet Deadlocked: Memory Infinite Health (Non Ratchet)
+name: Memory Infinite Health (Non Ratchet)
 mode: once
 w32 01108838 42C80000
 
-name: Ratchet Deadlocked: ASM Infinite Health (Non Ratchet)
+name: ASM Infinite Health (Non Ratchet)
 mode: once
 w32 003525CC 60000000
 
-name: Ratchet Deadlocked: Memory Infinite Time (Hoverbike)
+name: Memory Infinite Time (Hoverbike)
 mode: once
 w32 449944A4 0186000A
 
-name: Ratchet Deadlocked: ASM Infinite Time (Hoverbike)
+name: ASM Infinite Time (Hoverbike)
 mode: once
 w32 0071CF04 60000000
 
-name: Ratchet Deadlocked: Memory Infinite Time (Rodator)
+name: Memory Infinite Time (Rodator)
 mode: once
 w32 449B558C 00000DED
 
-name: Ratchet Deadlocked: ASM Infinite Time (Rodator)
+name: ASM Infinite Time (Rodator)
 mode: once
 w32 0071CE94 60000000
 w32 0071CEA4 30840000

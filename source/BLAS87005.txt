@@ -1,334 +1,5 @@
 # Tales of Zestiria
 
-name: Tales Of Zesteria: 99,999,999 Gald
-mode: once
-w32 11A585F0 05F5E0FF
-
-name: Tales Of Zesteria: Max Money
-mode: once
-w32 0017BF90 90C30000
-
-name: Tales Of Zesteria: Max Items On Change Or Use
-mode: once
-w32 001D1DB4 7F45F92E
-
-name: Tales Of Zesteria: Items Do Not Reduce From Selling Or Fusion
-mode: once
-w32 001CD888 60000000
-
-name: Tales Of Zesteria: Do Not Need Keys To Open Treasure Chests
-mode: once
-w32 0043AD60 2C030000
-w32 0043AD64 41810008
-w32 0043AD68 38600001
-w32 0043AD6C 4BD968A4
-w32 001D15C4 4826979C
-
-name: Tales Of Zesteria: Instant Max Level On Exp Change
-mode: once
-w32 0018DFD4 9083001C
-
-name: Tales Of Zesteria: AP 999
-mode: once
-w32 0017D09C 3B0003E7
-
-name: Tales Of Zesteria: Burst Gauge Max
-mode: once
-w32 00188D2C 90E60014
-
-name: Tales Of Zesteria: Instant Master Skill on Use
-mode: once
-w32 00191E3C 60000000
-
-name: Tales Of Zesteria: Easy Title Mastery
-mode: once
-w32 0017EB98 60000000
-
-name: Tales Of Zesteria: Instant Title Master
-mode: once
-w32 0016D3D8 60000000
-
-name: Tales Of Zesteria: Max Equip Proficiency
-mode: once
-w32 001CE50C 60000000
-
-name: Tales Of Zesteria: Faster Support Skill Mastery
-mode: once
-w32 001B1270 EC221028
-
-name: Tales Of Zesteria: Instant Learn Battle Actions
-mode: once
-w32 0017D684 41810008
-
-name: Tales Of Zesteria: Instant Activate Support Skill
-mode: once
-w32 000D95CC 30830000
-
-name: Tales Of Zesteria: Infinite WindStepping Skill
-mode: once
-w32 001AFF98 FC201090
-
-name: Tales Of Zesteria: Luring Skill Instant Max Kills
-mode: once
-w32 001651D0 41810008
-
-name: Tales Of Zesteria: Infinite Fusion Points Support Skill
-mode: once
-w32 001ADD18 41810008
-
-name: Tales Of Zesteria: Infinite Health + SC
-mode: once
-w32 01873B00 3DE01300
-w32 01873B04 7C037840
-w32 01873B08 4180001C
-w32 01873B0C 60000000
-w32 01873B10 60000000
-w32 01873B14 D0230010
-w32 01873B18 3DE00000
-w32 01873B1C 4A91504C
-w32 01873B20 60000000
-w32 01873B24 D0430010
-w32 01873B28 3DE00000
-w32 01873B2C 4A91503C
-w32 01873B30 3DE01200
-w32 01873B34 7C037840
-w32 01873B38 4180001C
-w32 01873B3C 60000000
-w32 01873B40 3DE01300
-w32 01873B44 7C037840
-w32 01873B48 4181000C
-w32 01873B4C 48000018
-w32 01873B50 60000000
-w32 01873B54 7CA72814
-w32 01873B58 3DE00000
-w32 01873B5C 4A914E98
-w32 01873B60 60000000
-w32 01873B64 80A32BFC
-w32 01873B68 3DE00000
-w32 01873B6C 4A914E88
-w32 001889F0 496EB140
-w32 00188B64 496EAF9C
-
-name: Tales Of Zesteria: Equips Benefit All Mods
-mode: once
-w32 0015DA58 3C60FFFF
-w32 0015DA5C 6063FFFF
-w32 0015DA60 48000008
-w32 0015DA64 80A40000
-
-name: Tales Of Zesteria: Ability Upgrade +32
-mode: once
-w32 001894AC 33C30020
-w32 001895F8 30660020
-w32 00189740 33C30020
-w32 0018988C 30660020
-w32 001899D4 33C30020
-
-name: Tales Of Zesteria: Ability Upgrade +2000
-mode: once
-w32 001894AC 3BC007D0
-w32 001895F8 386007D0
-w32 00189740 3BC007D0
-w32 0018988C 386007D0
-w32 001899D4 3BC007D0
-
-name: Tales Of Zesteria: Infinite HP
-mode: once
-w32 017CFFF0 80630000
-w32 017CFFF4 3880270F
-w32 017CFFF8 9083000C
-w32 017CFFFC 4A9B88F8
-w32 001888F0 49647700
-
-name: Tales Of Zesteria: AoB Max Money
-mode: once
-aob 90A300004E8000208063000880630048 90C300004E8000208063000880630048
-
-name: Tales Of Zesteria: AoB Max Items On Change Or Use
-mode: once
-aob 7C85F92E7C8320004C42234241820010 7F45F92E7C8320004C42234241820010
-
-name: Tales Of Zesteria: AoB Items Do Not Reduce From Selling Or Fusion
-mode: once
-aob 7C1AD80040800008635B0000637C0000 7C1AD80060000000635B0000637C0000
-
-name: Tales Of Zesteria: AoB Do Not Need Keys To Open Treasure Chests
-mode: once
-aob 382100C04E80002000000000000000000000000000000000 382100C04E8000202C03000041810008386000014BD968A4
-aob 7C6307B4480000104BFFFEDD7C630034 7C6307B44826979C4BFFFEDD7C630034
-
-name: Tales Of Zesteria: AoB Instant Max Level On Exp Change
-mode: once
-aob 9243001CE80101407C0803A6CB410100 9083001CE80101407C0803A6CB410100
-
-name: Tales Of Zesteria: AoB AP 999
-mode: once
-aob 7C1AC000930418584080004438600557 3B0003E7930418584080004438600557
-
-name: Tales Of Zesteria: AoB Burst Gauge Max
-mode: once
-aob 91460014408000086145000078A426E4 90E60014408000086145000078A426E4
-
-name: Tales Of Zesteria: AoB Instant Master Skill on Use
-mode: once
-aob 4081000838C02706308400E890C70000 6000000038C02706308400E890C70000
-
-name: Tales Of Zesteria: AoB Easy Title Mastery
-mode: once
-aob 408100083BA0001463BC000093830008E80100B07C0803A6 600000003BA0001463BC000093830008E80100B07C0803A6
-
-name: Tales Of Zesteria: AoB Instant Title Master
-mode: once
-aob 83E100F42C1F00009061012C4182005457E307FE2C0300004082003857FF003C83FF00002C1F000041820028 83E100F42C1F00009061012C4182005457E307FE2C0300004082003857FF003C83FF00002C1F000060000000
-
-name: Tales Of Zesteria: AoB Max Equip Proficiency
-mode: once
-aob 7C1C28004081000860BC000063850000 7C1C28006000000060BC000063850000
-
-name: Tales Of Zesteria: AoB Faster Support Skill Mastery
-mode: once
-aob D03B0004C0430000FC01100041810238 EC221028C0430000FC01100041810238
-
-name: Tales Of Zesteria: AoB Instant Learn Battle Actions
-mode: once
-aob 60A5967F7C03280040810008 60A5967F7C03280041810008
-
-name: Tales Of Zesteria: AoB Instant Activate Support Skill
-mode: once
-aob 3083FFFF63C300007C8407B4480A303D 3083000063C300007C8407B4480A303D
-
-name: Tales Of Zesteria: AoB Infinite WindStepping Skill
-mode: once
-aob 38A5FF24C0430004EC220828C0450000 38A5FF24C0430004FC201090C0450000
-
-name: Tales Of Zesteria: AoB Luring Skill Instant Max Kills
-mode: once
-aob 2C0300C840810008386000C890650004 2C0300C841810008386000C890650004
-
-name: Tales Of Zesteria: AoB Infinite Fusion Points Support Skill
-mode: once
-aob 40810008388000C86085000080630008 41810008388000C86085000080630008
-
-name: Tales Of Zestieria: Sleigh Garde Max
-mode: once
-w32 127B0030 3B9AC9FF
-
-name: Tales Of Zestieria: Sleigh HP
-mode: once
-w32 127B494C 0000270F
-
-name: Tales Of Zestieria: Sleigh Offensive Power
-mode: once
-w32 127B4958 0000270F
-
-name: Tales Of Zestieria: Sleigh Defense Power
-mode: once
-w32 127B495C 0000270F
-
-name: Tales Of Zestieria: Sleigh Surgical Attack Force
-mode: once
-w32 127B4960 0000270F
-
-name: Tales Of Zestieria: Sleigh Operative Defense Force
-mode: once
-w32 127B4964 0000270F
-
-name: Tales Of Zestieria: Sleigh Concentration
-mode: once
-w32 127B4968 0000270F
-
-name: Tales Of Zestieria: Rose HP
-mode: once
-w32 127B8C7C 0000270F
-
-name: Tales Of Zestieria: Rose Offensive Power
-mode: once
-w32 127B8C88 0000270F
-
-name: Tales Of Zestieria: Rose Defense Power
-mode: once
-w32 127B8C8C 0000270F
-
-name: Tales Of Zestieria: Rose Surgical Attack Force
-mode: once
-w32 127B8C90 0000270F
-
-name: Tales Of Zestieria: Rose Operative Defense Force
-mode: once
-w32 127B8C94 0000270F
-
-name: Tales Of Zestieria: Rose Concentration
-mode: once
-w32 127B8C98 0000270F
-
-name: Tales Of Zestieria: Edna HP
-mode: once
-w32 127C86FC 0000270F
-
-name: Tales Of Zestieria: Edna Offensive Power
-mode: once
-w32 127C8708 0000270F
-
-name: Tales Of Zestieria: Edna Defense Power
-mode: once
-w32 127C870C 0000270F
-
-name: Tales Of Zestieria: Edna Surgical Attack Force
-mode: once
-w32 127C8710 0000270F
-
-name: Tales Of Zestieria: Edna Operative Defense Force
-mode: once
-w32 127C8714 0000270F
-
-name: Tales Of Zestieria: Edna Concentration
-mode: once
-w32 127C8718 0000270F
-
-name: Tales Of Zestieria: Merongumi 15
-mode: once
-w8 125E3E23 0F
-
-name: Tales Of Zestieria: Elk Seal 15
-mode: once
-w8 125E3E2B 0F
-
-name: Tales Of Zestieria: Hour Glass 15
-mode: once
-w8 125E3E3B 0F
-
-name: Tales Of Zestieria: Shark Bottle 15
-mode: once
-w8 125E3E3F 0F
-
-name: Tales Of Zestieria: Arcana Bottle 15
-mode: once
-w8 125E3E43 0F
-
-name: Tales Of Zestieria: Red Sage 15
-mode: once
-w8 125E3E67 0F
-
-name: Tales Of Zestieria: Red Lavender 15
-mode: once
-w8 125E3E6B 0F
-
-name: Tales Of Zestieria: Red Bell Base Over Nu 15
-mode: once
-w8 125E3E6F 0F
-
-name: Tales Of Zestieria: Red Rose Marie 15
-mode: once
-w8 125E3E73 0F
-
-name: Tales Of Zestieria: Red Saffron 15
-mode: once
-w8 125E3E77 0F
-
-name: Tales Of Zestieria: Red Chamomile 15
-mode: once
-w8 125E3E7B 0F
-
 name: 99,999,999 Gald
 mode: once
 w32 11A585F0 05F5E0FF
@@ -469,14 +140,6 @@ w32 017CFFF8 9083000C
 w32 017CFFFC 4A9B88F8
 w32 001888F0 49647700
 
-name: 999 Combos After Battle
-mode: once
-w32 000FAD6C 388003E7
-
-name: Battle Time = 00 00 00
-mode: once
-w32 000E4608 60000000
-
 name: AoB Max Money
 mode: once
 aob 90A300004E8000208063000880630048 90C300004E8000208063000880630048
@@ -545,6 +208,150 @@ aob 2C0300C840810008386000C890650004 2C0300C841810008386000C890650004
 name: AoB Infinite Fusion Points Support Skill
 mode: once
 aob 40810008388000C86085000080630008 41810008388000C86085000080630008
+
+name: Sleigh Garde Max
+mode: once
+w32 127B0030 3B9AC9FF
+
+name: Sleigh HP
+mode: once
+w32 127B494C 0000270F
+
+name: Sleigh Offensive Power
+mode: once
+w32 127B4958 0000270F
+
+name: Sleigh Defense Power
+mode: once
+w32 127B495C 0000270F
+
+name: Sleigh Surgical Attack Force
+mode: once
+w32 127B4960 0000270F
+
+name: Sleigh Operative Defense Force
+mode: once
+w32 127B4964 0000270F
+
+name: Sleigh Concentration
+mode: once
+w32 127B4968 0000270F
+
+name: Rose HP
+mode: once
+w32 127B8C7C 0000270F
+
+name: Rose Offensive Power
+mode: once
+w32 127B8C88 0000270F
+
+name: Rose Defense Power
+mode: once
+w32 127B8C8C 0000270F
+
+name: Rose Surgical Attack Force
+mode: once
+w32 127B8C90 0000270F
+
+name: Rose Operative Defense Force
+mode: once
+w32 127B8C94 0000270F
+
+name: Rose Concentration
+mode: once
+w32 127B8C98 0000270F
+
+name: Edna HP
+mode: once
+w32 127C86FC 0000270F
+
+name: Edna Offensive Power
+mode: once
+w32 127C8708 0000270F
+
+name: Edna Defense Power
+mode: once
+w32 127C870C 0000270F
+
+name: Edna Surgical Attack Force
+mode: once
+w32 127C8710 0000270F
+
+name: Edna Operative Defense Force
+mode: once
+w32 127C8714 0000270F
+
+name: Edna Concentration
+mode: once
+w32 127C8718 0000270F
+
+name: Merongumi 15
+mode: once
+w8 125E3E23 0F
+
+name: Elk Seal 15
+mode: once
+w8 125E3E2B 0F
+
+name: Hour Glass 15
+mode: once
+w8 125E3E3B 0F
+
+name: Shark Bottle 15
+mode: once
+w8 125E3E3F 0F
+
+name: Arcana Bottle 15
+mode: once
+w8 125E3E43 0F
+
+name: Red Sage 15
+mode: once
+w8 125E3E67 0F
+
+name: Red Lavender 15
+mode: once
+w8 125E3E6B 0F
+
+name: Red Bell Base Over Nu 15
+mode: once
+w8 125E3E6F 0F
+
+name: Red Rose Marie 15
+mode: once
+w8 125E3E73 0F
+
+name: Red Saffron 15
+mode: once
+w8 125E3E77 0F
+
+name: Red Chamomile 15
+mode: once
+w8 125E3E7B 0F
+
+name: Max Items On Change Or Use
+mode: once
+w32 001D1DB4 7F45F92E
+
+name: Instant Master Skill on Use
+mode: once
+w32 00191E3C 60000000
+
+name: Max Equip Proficiency
+mode: once
+w32 001CE50C 60000000
+
+name: Infinite Fusion Points Support Skill
+mode: once
+w32 001ADD18 41810008
+
+name: 999 Combos After Battle
+mode: once
+w32 000FAD6C 388003E7
+
+name: Battle Time = 00 00 00
+mode: once
+w32 000E4608 60000000
 
 name: AoB 999 Combos After Battle
 mode: once
@@ -859,17 +666,9 @@ name: Max Items On Change
 mode: once
 w32 001D1DB4 7F45F92E
 
-name: Instanty Learn Battle Actions
-mode: once
-w32 0017D684 41810008
-
 name: Infinite Fusion Points
 mode: once
 w32 001ADD18 41810008
-
-name: 99,999,999 Gold
-mode: once
-w32 11A585F0 05F5E0FF
 
 name: Max In Garde Change
 mode: once
@@ -1108,126 +907,6 @@ w32 00433538 2C030000
 w32 0043353C 41810008
 w32 00433540 38600001
 w32 00433544 4BD9B7EC
-
-name: Sleigh Garde Max
-mode: once
-w32 127B0030 3B9AC9FF
-
-name: Sleigh HP
-mode: once
-w32 127B494C 0000270F
-
-name: Sleigh Offensive Power
-mode: once
-w32 127B4958 0000270F
-
-name: Sleigh Defense Power
-mode: once
-w32 127B495C 0000270F
-
-name: Sleigh Surgical Attack Force
-mode: once
-w32 127B4960 0000270F
-
-name: Sleigh Operative Defense Force
-mode: once
-w32 127B4964 0000270F
-
-name: Sleigh Concentration
-mode: once
-w32 127B4968 0000270F
-
-name: Rose HP
-mode: once
-w32 127B8C7C 0000270F
-
-name: Rose Offensive Power
-mode: once
-w32 127B8C88 0000270F
-
-name: Rose Defense Power
-mode: once
-w32 127B8C8C 0000270F
-
-name: Rose Surgical Attack Force
-mode: once
-w32 127B8C90 0000270F
-
-name: Rose Operative Defense Force
-mode: once
-w32 127B8C94 0000270F
-
-name: Rose Concentration
-mode: once
-w32 127B8C98 0000270F
-
-name: Edna HP
-mode: once
-w32 127C86FC 0000270F
-
-name: Edna Offensive Power
-mode: once
-w32 127C8708 0000270F
-
-name: Edna Defense Power
-mode: once
-w32 127C870C 0000270F
-
-name: Edna Surgical Attack Force
-mode: once
-w32 127C8710 0000270F
-
-name: Edna Operative Defense Force
-mode: once
-w32 127C8714 0000270F
-
-name: Edna Concentration
-mode: once
-w32 127C8718 0000270F
-
-name: Merongumi 15
-mode: once
-w8 125E3E23 0F
-
-name: Elk Seal 15
-mode: once
-w8 125E3E2B 0F
-
-name: Hour Glass 15
-mode: once
-w8 125E3E3B 0F
-
-name: Shark Bottle 15
-mode: once
-w8 125E3E3F 0F
-
-name: Arcana Bottle 15
-mode: once
-w8 125E3E43 0F
-
-name: Red Sage 15
-mode: once
-w8 125E3E67 0F
-
-name: Red Lavender 15
-mode: once
-w8 125E3E6B 0F
-
-name: Red Bell Base Over Nu 15
-mode: once
-w8 125E3E6F 0F
-
-name: Red Rose Marie 15
-mode: once
-w8 125E3E73 0F
-
-name: Red Saffron 15
-mode: once
-w8 125E3E77 0F
-
-name: Red Chamomile 15
-mode: once
-w8 125E3E7B 0F
 
 name: Invincibility For You Only
 mode: once

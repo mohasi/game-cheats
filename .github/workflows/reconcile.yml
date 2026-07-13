@@ -1,7 +1,7 @@
 # keeps compiled/ up to date after any merge: re-materializes it from source (picking up merged
 # cheat contributions, preserving the existing tally) and folds any new votes into the tally.
 #
-# triggered AFTER validate-votes finishes (workflow_run fires even when the merge was done by
+# triggered AFTER validation finishes (workflow_run fires even when the merge was done by
 # GITHUB_TOKEN - a plain push:paths trigger would NOT, because GITHUB_TOKEN pushes don't start new
 # workflow runs). Hourly cron is a backstop; workflow_dispatch is the manual button.
 #
@@ -14,7 +14,7 @@ name: reconcile
 
 on:
   workflow_run:
-    workflows: [validate-votes]
+    workflows: [validation]
     types: [completed]
   schedule:
     - cron: '17 * * * *'

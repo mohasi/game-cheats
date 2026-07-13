@@ -1,36 +1,36 @@
 # Silent Hill: HD Edition
 
-name: Silent Hill 2: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 00132448 38A00000
 w32 001B59D0 38A00000
 
-name: Silent Hill 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 002824D0 41800014
 w32 0001FC84 4082083C
 
-name: Silent Hill 2: Reload 65535
+name: Reload 65535
 mode: once
 w32 001328B4 38A0FFFF
 w32 001328CC 38A0FFFF
 
-name: Silent Hill 2: Enemy Caught
+name: Enemy Caught
 mode: once
 w32 000D7028 41820050
 
-name: Silent Hill 2: Infinite Reload
+name: Infinite Reload
 mode: once
 w32 0006E3E0 38800000
 
-name: Silent Hill 2: AoB Infinite Reload
+name: AoB Infinite Reload
 mode: once
 aob 38800001480B52D1600000003860000138800004987E053C989E04997C1BE000 38800000480B52D1600000003860000138800004987E053C989E04997C1BE000
 
-name: Silent Hill 3: Pick Up 999
+name: Pick Up 999
 mode: once
 w32 001C0938 38800000
 
-name: Silent Hill 3: No Damager
+name: No Damager
 mode: once
 w32 0013620C 3CA0BF80

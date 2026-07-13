@@ -1,23 +1,23 @@
 # Oneechanbara Z: Kagura with NoNoNo!
 
-name: Onechanbara Z Kagura With NoNoNo!: Infinite Items
+name: Infinite Items
 mode: once
 w32 0018A77C 30C30000
 
-name: Onechanbara Z Kagura With NoNoNo!: 99999999 Orbs
+name: 99999999 Orbs
 mode: once
 w32 00189EDC 3CA005F5
 w32 00189EE0 60A5E0FF
 
-name: Onechanbara Z Kagura With NoNoNo!: AoB Infinite Items
+name: AoB Infinite Items
 mode: once
 aob 30C3FFFF386000017CC5212E48000008 30C30000386000017CC5212E48000008
 
-name: Onechanbara Z Kagura With NoNoNo!: AoB 99999999 Orbs
+name: AoB 99999999 Orbs
 mode: once
 aob 2C0500004180000860A4000060650000 3CA005F560A5E0FF60A4000060650000
 
-name: Onechanbara Z Kagura With NoNoNo!: Infinite Health For All Party Character + One Hit Kills Enemies
+name: Infinite Health For All Party Character + One Hit Kills Enemies
 mode: once
 w32 0007E2A4 60000000
 w32 00074A9C 60000000
@@ -25,11 +25,11 @@ w32 001901FC 60000000
 w32 00157270 60000000
 w32 00157274 60000000
 
-name: Onechanbara Z Kagura With NoNoNo!: Sword + Chain-Saw Never Fills With Blood
+name: Sword + Chain-Saw Never Fills With Blood
 mode: once
 w32 0007F714 4800003C
 
-name: Onechanbara Z Kagura With NoNoNo!: Max Yellow Orbs On Gain
+name: Max Yellow Orbs On Gain
 mode: once
 w32 005B56B0 3C803B9A
 w32 005B56B4 6084C9FF
@@ -37,7 +37,7 @@ w32 005B56B8 90850348
 w32 005B56BC 4BBD32C8
 w32 00188980 4842CD30
 
-name: Onechanbara Z Kagura With NoNoNo!: Infinite Items Usage
+name: Infinite Items Usage
 mode: once
 w32 005B56C4 80C50004
 w32 005B56C8 90C50008

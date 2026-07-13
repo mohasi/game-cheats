@@ -1,31 +1,31 @@
 # Assassin's Creed II
 
-name: Assassin's Creed 2: Money 999999
+name: Money 999999
 mode: once
 w32 00A3BFAC 60000000
 w32 00A45ACC 913F0010
 
-name: Assassin's Creed 2: Infinite HP
+name: Infinite HP
 mode: once
 w32 006100D0 801F005C
 
-name: Assassin's Creed 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 00609174 60000000
 
-name: Assassin's Creed 2: Infinite Money
+name: Infinite Money
 mode: once
 w32 00A4C27C 60000000
 
-name: Assassin's Creed 2: AoB Infinite Health
+name: AoB Infinite Health
 mode: once
 aob 801F00587FC3F378900900084BFFFDD52F9D0000419C0168801F006C 600000007FC3F378900900084BFFFDD52F9D0000419C0168801F006C
 
-name: Assassin's Creed 2: AoB Infinite Money
+name: AoB Infinite Money
 mode: once
 aob 7C1E005038600001901F00104BFFFF80396300047C0802A6F821FF81 6000000038600001901F00104BFFFF80396300047C0802A6F821FF81
 
-name: Assassin's Creed 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 00609130 60000000
 w32 00609134 60000000
@@ -35,29 +35,29 @@ w32 0060917C 60000000
 w32 00609190 60000000
 w32 0060919C 60000000
 
-name: Assassin's Creed 2: Lot Of Money On Gain
+name: Lot Of Money On Gain
 mode: once
 w32 00A4C284 60000000
 w32 00A548AC 915F0010
 
-name: Assassin's Creed 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 0060F94C 801F005C
 
-name: Assassin's Creed 2: Money 999999
+name: Money 999999
 mode: once
 w32 00A3B2F4 60000000
 w32 00A4539C 913F0010
 
-name: Assassin's Creed 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 00607A14 60000000
 
-name: Assassin's Creed 2: Infinite Money
+name: Infinite Money
 mode: once
 w32 00A4ABE4 60000000
 
-name: Assassin's Creed 2: Infinite Health
+name: Infinite Health
 mode: once
 w32 006079D0 60000000
 w32 006079D4 60000000
@@ -67,7 +67,7 @@ w32 00607A1C 60000000
 w32 00607A30 60000000
 w32 00607A3C 60000000
 
-name: Assassin's Creed 2: Lot Of Money On Gain
+name: Lot Of Money On Gain
 mode: once
 w32 00A4ABF4 60000000
 w32 00A55F44 915F0010

@@ -1,6 +1,6 @@
 # Sniper Elite III
 
-name: Sniper Elite 3: Infinite Ammo + Bottomless Clip
+name: Infinite Ammo + Bottomless Clip
 mode: once
 w32 007890F4 60000000
 w32 00788ED8 60000000

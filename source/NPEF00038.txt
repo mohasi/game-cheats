@@ -1,9 +1,9 @@
 # Silent Hill (PSX)
 
-name: Silent Hill: Invincible
+name: Invincible
 mode: once
 w32 007FCA3C 9A010010
 
-name: Silent Hill: AoB Invincible
+name: AoB Invincible
 mode: once
 aob 9A01621000000000FC00828C0000000096014018 9A01001000000000FC00828C0000000096014018

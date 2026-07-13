@@ -1,66 +1,66 @@
 # Dead Island: Game of the Year Edition
 
-name: Dead Island GOTY: Damager 0 (Player)
+name: Damager 0 (Player)
 mode: once
 w32 00C4F8C8 60000000
 
-name: Dead Island GOTY: Player No Hit
+name: Player No Hit
 mode: once
 w32 00C4F950 4182029C
 
-name: Dead Island GOTY: Max And Infinite Health
+name: Max And Infinite Health
 mode: once
 w32 00C2CC3C FC200890
 
-name: Dead Island GOTY: Max And Infinite Stamina
+name: Max And Infinite Stamina
 mode: once
 w32 00C4F758 FC20F890
 
-name: Dead Island GOTY: Max And Infinite Durability
+name: Max And Infinite Durability
 mode: once
 w32 008E4F00 48000024
 
-name: Dead Island GOTY: Max And Infinite Flashlight
+name: Max And Infinite Flashlight
 mode: once
 w32 00CF7EB8 C3FF002C
 
-name: Dead Island GOTY: Infinite Ammo And No Reload
+name: Infinite Ammo And No Reload
 mode: once
 w32 00D52DC0 60000000
 
-name: Dead Island GOTY: Infinite Ammo In Inventory After Reload
+name: Infinite Ammo In Inventory After Reload
 mode: once
 w32 00C539DC 7CA507B4
 
-name: Dead Island GOTY: Max Money On Gain
+name: Max Money On Gain
 mode: once
 w32 00C1BB84 3FE03B9A
 w32 00C1BB88 63FFC9FF
 w32 00C1BB8C 63E30000
 w32 00C1BB90 63E40000
 
-name: Dead Island GOTY: Infinite Money After Spending
+name: Infinite Money After Spending
 mode: once
 w32 00C4C154 7C6307B4
 w32 00C5B9B0 7C6307B4
 
-name: Dead Island GOTY: Max Items On Gain If You Already Have At Least 1
+name: Max Items On Gain If You Already Have At Least 1
 mode: once
 w32 00C1B918 7CA32014
 
-name: Dead Island GOTY: Infinite Items On Sell, Throw, Give, And Use If You Have More Than 1
+name: Infinite Items On Sell, Throw, Give, And Use If You Have More Than 1
 mode: once
 w32 00C1FB50 60000000
 
-name: Dead Island GOTY: Max Rage On Gain
+name: Max Rage On Gain
 mode: once
 w32 00C2D544 FC203890
 
-name: Dead Island GOTY: Max XP And Level On Gain
+name: Max XP And Level On Gain
 mode: once
 w32 00C9F734 60000000
 
-name: Dead Island GOTY: Level Up To Next Level After Gaining XP
+name: Level Up To Next Level After Gaining XP
 mode: once
 w32 00C9F6F4 80A30040
 w32 00C9F6FC 83E30044
@@ -68,14 +68,14 @@ w32 00C9F700 7CA5F814
 w32 00C9F704 90A3003C
 w32 00C9F708 60000000
 
-name: Dead Island GOTY: 1 Hit Kills
+name: 1 Hit Kills
 mode: once
 w32 007D60EC EFE10828
 
-name: Dead Island: Player Damage 0
+name: Player Damage 0
 mode: once
 w32 00C3DF40 00000000
 
-name: Dead Island: Player 1 Invincible
+name: Player 1 Invincible
 mode: once
 w32 00C3DFB4 408202B0

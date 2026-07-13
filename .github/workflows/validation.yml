@@ -12,7 +12,7 @@
 # the copy on main, never a PR branch's copy. safe because validation only inspects the
 # PR through the API — it never checks out or executes anything from the PR.
 
-name: validate-votes
+name: validation
 
 on:
   pull_request_target:
@@ -23,7 +23,7 @@ permissions:
   pull-requests: write   # comment + close
 
 jobs:
-  validate-votes:
+  validation:
     runs-on: ubuntu-latest
     steps:
       - name: validate and merge
@@ -41,7 +41,7 @@ jobs:
               + '[A-Z]{4}[0-9]{5}/'                                            // titleId, e.g. BCES01742
               + '[0-9]{2}\\.[0-9]{2}/'                                         // version, e.g. 01.12
               + '[0-9a-f]{8}/'                                                 // cheatHash (computed, not stored)
-              + '(AOB_FOUND|AOB_MISSING|CHEAT_WORKED|CHEAT_FAILED)'              // event
+              + '(CHEAT_WORKED|CHEAT_FAILED)'                                  // event (worked/failed marks only)
               + '-[a-z0-9]{2,12}'                                              // platform, e.g. ps3
               + '-[0-9a-f]{8,32}$'                                             // random nonce (hex)
             );
@@ -51,7 +51,7 @@ jobs:
             const CHEAT_LINE = new RegExp(
               '^(# .{1,120}'                                                   // game-title / comment lines
               + '|same-as: [A-Z]{4}[0-9]{5}'
-              + '|name: .{1,80}'
+              + '|name: .{1,40}'
               + '|mode: (once|constant)'
               + '|w8 [0-9A-Fa-f]{8} [0-9A-Fa-f]{2}'
               + '|w16 [0-9A-Fa-f]{8} [0-9A-Fa-f]{4}'
@@ -59,6 +59,21 @@ jobs:
               + '|aob [0-9A-Fa-f]{4,128} [0-9A-Fa-f]{4,128}'
               + '|)$'                                                          // blank separator lines
             );
+
+            // cheat identity = FNV-1a of the op lines (working-val stripped), byte-for-byte the same
+            // as reconcile.py and the plugin. used to reject duplicate cheat contributions.
+            const OP_TOKENS = ['w8', 'w16', 'w32', 'aob'];
+            const fnv1a32 = (s) => { let h = 2166136261 >>> 0; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619) >>> 0; } return (h >>> 0).toString(16).padStart(8, '0'); };
+            const cheatHashes = (text) => {                    // Map<hash, count>, one entry per name block
+               const counts = new Map(); let ops = [];
+               const flush = () => { if (ops.length) { const h = fnv1a32(ops.join('\n')); counts.set(h, (counts.get(h) || 0) + 1); } ops = []; };
+               for (const line of (text + '\nname: _end').split('\n')) {
+                  if (line.startsWith('name: ')) flush();
+                  else if (OP_TOKENS.includes(line.split(' ', 1)[0])) ops.push(line.replace(/\s+working-val=\S+$/, ''));
+               }
+               return counts;
+            };
+            const addedLines = (file) => (file.patch || '').split('\n').filter(l => l.startsWith('+') && !l.startsWith('+++')).map(l => l.slice(1).replace(/\r$/, ''));
 
             const pr = context.payload.pull_request;
             const repo = { owner: context.repo.owner, repo: context.repo.repo };
@@ -77,11 +92,21 @@ jobs:
             }
 
             if (allVotes) {
-               // votes: new empty-ish files at strict paths
+               // votes: new files at strict paths, with a validated payload
                for (const file of files) {
                   if (file.status !== 'added') problems.push(`${file.filename}: votes may only ADD files (got '${file.status}')`);
-                  if (!VOTE_PATH.test(file.filename)) problems.push(`${file.filename}: not a valid vote path`);
                   if (file.additions > MAX_VOTE_LINES) problems.push(`${file.filename}: too large (${file.additions} lines)`);
+                  if (!VOTE_PATH.test(file.filename)) { problems.push(`${file.filename}: not a valid vote path`); continue; }
+                  // payload grammar: CHEAT_FAILED has an empty body; CHEAT_WORKED is one <opIdx>=<hex> line per w32 op
+                  const event = file.filename.split('/').pop().split('-')[0];
+                  const body = addedLines(file).filter(l => l.length);
+                  if (event === 'CHEAT_FAILED' && body.length) problems.push(`${file.filename}: CHEAT_FAILED must have an empty body`);
+                  if (event === 'CHEAT_WORKED') {
+                     if (!body.length) problems.push(`${file.filename}: CHEAT_WORKED must carry at least one working-val line`);
+                     for (const line of body) {
+                        if (!/^\d+=[0-9A-Fa-f]{2,8}$/.test(line)) { problems.push(`${file.filename}: bad working-val line "${line.slice(0, 40)}"`); break; }
+                     }
+                  }
                }
             } else {
                // cheat contributions. alias files are untouchable; edits to existing cheats are
@@ -118,6 +143,22 @@ jobs:
                   if (file.status === 'modified' && added.some(l => l.startsWith('same-as:'))) problems.push(`${file.filename}: same-as can only be introduced in a new file`);
                   for (const line of added) {
                      if (!CHEAT_LINE.test(line)) { problems.push(`${file.filename}: invalid line "${line.slice(0, 60)}"`); break; }
+                  }
+
+                  // duplicate-cheat guard: an added cheat must not repeat code already in the file,
+                  // nor appear twice in the submission. identity is the op-line hash.
+                  const addedHashes = cheatHashes(added.join('\n'));
+                  if (addedHashes.size) {
+                     let baseHashes = new Map();
+                     if (file.status !== 'added') {
+                        try {
+                           const base = await github.rest.repos.getContent({ ...repo, path: file.filename, ref: pr.base.sha });
+                           baseHashes = cheatHashes(Buffer.from(base.data.content, 'base64').toString('utf-8'));
+                        } catch (e) {}
+                     }
+                     for (const [h, n] of addedHashes) {
+                        if (n + (baseHashes.get(h) || 0) > 1) { problems.push(`${file.filename}: duplicate cheat — code ${h} already exists or is repeated`); break; }
+                     }
                   }
                }
             }

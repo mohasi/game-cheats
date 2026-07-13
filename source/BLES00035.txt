@@ -1,6 +1,6 @@
 # F.E.A.R.: First Encounter Assault Recon
 
-name: F.E.A.R.: Mostly Full Brightness
+name: Mostly Full Brightness
 mode: once
 w32 001DE890 60000000
 w32 001DE894 60000000
@@ -9,7 +9,7 @@ w32 001DE934 60000000
 w32 001DE93C 60000000
 w32 001DE940 60000000
 
-name: F.E.A.R.: Infinite Starting Focus Capacity
+name: Infinite Starting Focus Capacity
 mode: once
 w32 005D9C60 3C007F80
 w32 005D9C64 901B0064
@@ -17,38 +17,38 @@ w32 005DBFCC 3C007F80
 w32 005DBFD0 901B0064
 w32 005DBFD4 480D3241
 
-name: F.E.A.R.: Focus Always Starts Decreasing From Full
+name: Focus Always Starts Decreasing From Full
 mode: once
 w32 005DC278 60000000
 
-name: F.E.A.R.: Nothing Attacks
+name: Nothing Attacks
 mode: once
 w32 0084F194 60000000
 w32 008557B4 60000000
 w32 008557C4 60000000
 w32 008558AC 60000000
 
-name: F.E.A.R.: Flashlight Battery Never Decreases
+name: Flashlight Battery Never Decreases
 mode: once
 w32 0034997C 60000000
 
-name: F.E.A.R.: Ammo + Grenades Never Decrease
+name: Ammo + Grenades Never Decrease
 mode: once
 w32 0035F944 60000000
 w32 0044E6A0 813F01FC
 w32 00869744 60000000
 
-name: F.E.A.R.: Slow Motion Never Decreases
+name: Slow Motion Never Decreases
 mode: once
 w32 0057BF48 3C607FF0
 w32 0057BF70 907C0008
 
-name: F.E.A.R.: Medical Kits Do Not Decrease
+name: Medical Kits Do Not Decrease
 mode: once
 w32 0035E87C 3920000A
 w32 005E0984 3800000A
 
-name: F.E.A.R.: Your Health Never Decreases, Enemies Die From Any Damage
+name: Your Health Never Decreases, Enemies Die From Any Damage
 mode: once
 w32 00F0E5C0 893F0084
 w32 00F0E5C4 2F890000
@@ -67,7 +67,7 @@ w32 00F0E648 813F0158
 w32 00F0E64C 4B9F5070
 w32 009036B8 4860AF08
 
-name: F.E.A.R.: Your Health Never Decreases
+name: Your Health Never Decreases
 mode: once
 w32 00F0E5C0 893F0084
 w32 00F0E5C4 2F890000

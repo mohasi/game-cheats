@@ -1,94 +1,5 @@
 # Prince of Persia Trilogy
 
-name: Prince Of Persia 1 The Sands Of Time: Memory Infinite Health
-mode: once
-w32 1507F974 00000064
-
-name: Prince Of Persia 1 The Sands Of Time: ASM Infinite Health
-mode: once
-w32 00457D58 60000000
-w32 0054719C 60000000
-
-name: Prince Of Persia 1 The Sands Of Time: Memory Infinite Sands
-mode: once
-w32 1507F6B4 00000004
-
-name: Prince Of Persia 1 The Sands Of Time: ASM Infinite Sands
-mode: once
-w32 005B3DF8 39290000
-
-name: Prince Of Persia 1 The Sands Of Time: Memory Infinite Rewind
-mode: once
-w32 10E9584C 00895440
-
-name: Prince Of Persia 1 The Sands Of Time: ASM Infinite Rewind
-mode: once
-w32 0008D6B0 60000000
-
-name: Prince Of Persia 1 The Sands Of Time: Memory Infinite Bullet Time Slot
-mode: once
-w32 15080480 00000002
-
-name: Prince Of Persia 1 The Sands Of Time: ASM Infinite Bullet Time Slot
-mode: once
-w32 005B3F40 39290000
-
-name: Prince Of Persia 2 War Within: Memory Infinite Health
-mode: once
-w32 1492B2A4 00000096
-
-name: Prince Of Persia 2 War Within: ASM Infinite Health
-mode: once
-w32 00436BF0 60000000
-
-name: Prince Of Persia 2 War Within: Memory Infinite Sands
-mode: once
-w32 1492BA74 00000006
-
-name: Prince Of Persia 2 War Within: ASM Infinite Sands
-mode: once
-w32 006ACA4C 60000000
-
-name: Prince Of Persia 2 War Within: Memory Infinite Rewind
-mode: once
-w32 10DFFB4C 006ACFC0
-
-name: Prince Of Persia 2 War Within: ASM Infinite Rewind
-mode: once
-w32 00A3F260 60000000
-
-name: Prince Of Persia 3 The Two Thrones: Memory Infinite Health
-mode: once
-w32 14A18BB0 00000096
-
-name: Prince Of Persia 3 The Two Thrones: ASM Infinite Health
-mode: once
-w32 0090AABC 60000000
-
-name: Prince Of Persia 3 The Two Thrones: Memory Infinite Sands
-mode: once
-w32 14A19608 00000006
-
-name: Prince Of Persia 3 The Two Thrones: ASM Infinite Sands
-mode: once
-w32 00935DB4 60000000
-
-name: Prince Of Persia 3 The Two Thrones: Memory Infinite Secondary Weapon
-mode: once
-w32 152A234C 00000064
-
-name: Prince Of Persia 3 The Two Thrones: ASM Infinite Secondary Weapon
-mode: once
-w32 00661370 60000000
-
-name: Prince Of Persia Trilogy 3D: Two Thrones Unlock FPS (PSXPlace)
-mode: once
-w32 0009381C 60000000
-
-name: Prince Of Persia Trilogy 3D: Warrior Within Unlock FPS (PSXPlace)
-mode: once
-w32 00824E10 60000000
-
 name: Memory Infinite Health
 mode: once
 w32 1507F974 00000064
@@ -169,3 +80,11 @@ w32 152A234C 00000064
 name: ASM Infinite Secondary Weapon
 mode: once
 w32 00661370 60000000
+
+name: Two Thrones Unlock FPS (PSXPlace)
+mode: once
+w32 0009381C 60000000
+
+name: Warrior Within Unlock FPS (PSXPlace)
+mode: once
+w32 00824E10 60000000

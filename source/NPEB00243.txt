@@ -21,25 +21,3 @@ w32 009AAEFC B00905E6
 name: P1 Invincible
 mode: once
 w32 31019E84 00420000
-
-name: NEOGEO Station Metal Slug: Infinite Lives + Bombs
-mode: once
-w32 009A9490 9A8A0001
-w32 0026F1B0 2B850120
-w32 0026F1B4 409E0008
-w32 0026F1B8 3A80FFFF
-w32 0026F1BC 9A8B04C0
-w32 0026F1C0 489E9956
-w32 009E9950 4826F1B2
-
-name: NEOGEO Station Metal Slug: Infinite Arms
-mode: once
-w32 009A95F4 B0AB0000
-
-name: NEOGEO Station Metal Slug: Infinite Health For Tanks
-mode: once
-w32 009AAEFC B00905E6
-
-name: NEOGEO Station Metal Slug: P1 Invincible
-mode: once
-w32 31019E84 00420000

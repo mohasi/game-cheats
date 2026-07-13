@@ -1,6 +1,6 @@
 # X-Men
 
-name: X-Men Arcade: Memory 255 HP
+name: Memory 255 HP
 mode: once
 w8 345A1B2E FF
 w8 345A1BAE FF
@@ -9,7 +9,7 @@ w8 345A1CAE FF
 w8 345A1D2E FF
 w8 345A1DAE FF
 
-name: X-Men Arcade: Memory 255 Mutant Power
+name: Memory 255 Mutant Power
 mode: once
 w8 345A1B3E FF
 w8 345A1BBE FF
@@ -18,7 +18,7 @@ w8 345A1CBE FF
 w8 345A1D3E FF
 w8 345A1DBE FF
 
-name: X-Men Arcade: P1 Max + Infinite HP
+name: P1 Max + Infinite HP
 mode: once
 w32 001840C0 800B0000
 w32 001840C4 88C30000
@@ -27,7 +27,7 @@ w32 001840CC 98C30000
 w32 001840D0 4803363A
 w32 00033634 481840C2
 
-name: X-Men Arcade: P1 Max + Infinite Lives
+name: P1 Max + Infinite Lives
 mode: once
 w32 001840A0 800B0000
 w32 001840A4 88C30001
@@ -36,7 +36,7 @@ w32 001840AC 98C30001
 w32 001840B0 4803266A
 w32 00032664 481840A2
 
-name: X-Men Arcade: P1 Invincibility
+name: P1 Invincibility
 mode: once
 w32 001840E8 800B0000
 w32 001840EC 88C30004
@@ -47,7 +47,7 @@ w32 001840FC 98C30005
 w32 00184100 48033422
 w32 0003341C 481840EA
 
-name: X-Men Arcade: P1 Max + Infinite Mutant Power
+name: P1 Max + Infinite Mutant Power
 mode: once
 w32 0018412C 800B0000
 w32 00184130 88C30000

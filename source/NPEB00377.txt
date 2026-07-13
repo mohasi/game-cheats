@@ -1,6 +1,6 @@
 # Hydrophobia - Prophecy
 
-name: Hydrophobia: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 00DE6F08 00000000
 w32 00DEB478 00000000
@@ -10,7 +10,7 @@ w32 00DEB494 00000000
 w32 00DFF454 00000000
 w32 108C0C7C 00000000
 
-name: Hydrophobia: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 000B91B8 60000000
 w32 000B91BC 60000000
@@ -19,7 +19,7 @@ w32 001697C0 60000000
 w32 0022F8CC 60000000
 w32 0022F8D0 60000000
 
-name: Hydrophobia: Memory Unknown Code 1
+name: Memory Unknown Code 1
 mode: once
 w32 00DEB440 00000000
 w32 00DFF458 00000000
@@ -61,7 +61,7 @@ w32 1210B48C 3F800000
 w32 1221240C 3F800000
 w32 30129328 00000000
 
-name: Hydrophobia: ASM Unknown Code 1
+name: ASM Unknown Code 1
 mode: once
 w32 0001D488 60000000
 w32 0001CBA0 60000000
@@ -78,7 +78,7 @@ w32 00120064 60000000
 w32 00120060 60000000
 w32 00120058 60000000
 
-name: Hydrophobia: Memory Unknown Code 2
+name: Memory Unknown Code 2
 mode: once
 w32 1220002C 00000009
 w32 12200458 00000009
@@ -87,7 +87,7 @@ w32 1223A8D8 00000009
 w32 172EA4B0 00000009
 w32 172EA8DC 00000009
 
-name: Hydrophobia: ASM Unknown Code 2
+name: ASM Unknown Code 2
 mode: once
 w32 000B8B34 FB2BFFF9
 

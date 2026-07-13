@@ -1,70 +1,70 @@
 # Lightning Returns - Final Fantasy XIII - Japanese Voice Pack
 
-name: Lightning Returns Final Fantasy XIII: Invincible + Can Use Magic
+name: Invincible + Can Use Magic
 mode: once
 w32 00107C98 807E0030
 
-name: Lightning Returns Final Fantasy XIII: Invincible + Magic
+name: Invincible + Magic
 mode: once
 w32 00105678 807E0030
 
-name: Lightning Returns Final Fantasy XIII: Invincible + Auto-Guard
+name: Invincible + Auto-Guard
 mode: once
 w32 00116AAC 807E0030
 
-name: Lightning Returns Final Fantasy XIII: Infinite Energy Points
+name: Infinite Energy Points
 mode: once
 w32 0063EFB8 912828E8
 
-name: Lightning Returns Final Fantasy XIII: Infinite Dash Gauge
+name: Infinite Dash Gauge
 mode: once
 w32 00217BA8 D0440014
 
-name: Lightning Returns Final Fantasy XIII: Gil Never Decreases on Buy
+name: Gil Never Decreases on Buy
 mode: once
 w32 0063ED44 7D034378
 
-name: Lightning Returns Final Fantasy XIII: Freeze Enemy Movement
+name: Freeze Enemy Movement
 mode: once
 w32 000E041C 40800028
 
-name: Lightning Returns Final Fantasy XIII: Time Freezes
+name: Time Freezes
 mode: once
 w32 00227938 7C9F2378
 
-name: Lightning Returns Final Fantasy XIII: Time Runs Backwards
+name: Time Runs Backwards
 mode: once
 w32 00227938 7FE62010
 
-name: Lightning Returns Final Fantasy XIII: AoB Invincible + Can Use Magic
+name: AoB Invincible + Can Use Magic
 mode: once
 aob 8064000490A68B107C1F18004082005090A4000448000048 807E003090A68B107C1F18004082005090A4000448000048
 
-name: Lightning Returns Final Fantasy XIII: AoB Freeze Enemy Movement
+name: AoB Freeze Enemy Movement
 mode: once
 aob 41800028636300004800D89D7C1F180040810010 40800028636300004800D89D7C1F180040810010
 
-name: Lightning Returns Final Fantasy XIII: Infinite Dash Gauge
+name: Infinite Dash Gauge
 mode: once
 w32 00219838 D0440014
 
-name: Lightning Returns Final Fantasy XIII: Invincible + Can Use Magic
+name: Invincible + Can Use Magic
 mode: once
 w32 00107268 807E0030
 
-name: Lightning Returns Final Fantasy XIII: Infinite GP + EP
+name: Infinite GP + EP
 mode: once
 w32 00641B58 912828E8
 
-name: Lightning Returns Final Fantasy XIII: Freeze Enemy Movement
+name: Freeze Enemy Movement
 mode: once
 w32 000E200C 40800028
 
-name: Lightning Returns Final Fantasy XIII: Infinite ATB
+name: Infinite ATB
 mode: once
 w32 000EFCF4 60000000
 
-name: Lightning Returns Final Fantasy XIII: Infinite HP
+name: Infinite HP
 mode: once
 w32 000EF5EC 49011C93
 w32 01011C90 937E02E0
@@ -75,35 +75,35 @@ w32 01011CA0 820F030C
 w32 01011CA4 920F02E0
 w32 01011CA8 480EF5F3
 
-name: Lightning Returns Final Fantasy XIII: AoB Infinite Gil ON (Stops Earning Money as side-effect)
+name: AoB Infinite Gil ON (Stops Earning Money as side-effect)
 mode: once
 aob 7C6818147C6307B47CA518107CE338107CA5FE767D032010 7D0343787C6307B47CA518107CE338107CA5FE767D032010
 
-name: Lightning Returns Final Fantasy XIII: AoB Infinite Dash Gauge
+name: AoB Infinite Dash Gauge
 mode: once
 aob D0240014C0450004FC0110004CC113824186002060860000 D0440014C0450004FC0110004CC113824186002060860000
 
-name: Lightning Returns Final Fantasy XIII: AoB Time Does Not Decrease
+name: AoB Time Does Not Decrease
 mode: once
 aob 7FE4301488632840E88528482C030000408200343C600023 7C9F237888632840E88528482C030000408200343C600023
 
-name: Lightning Returns Final Fantasy XIII: AoB Invincible + Can Use Magic
+name: AoB Invincible + Can Use Magic
 mode: once
 aob 548306F62C0300004182001053E406F63BA00001989E0291 807E00302C0300004182001053E406F63BA00001989E0291
 
-name: Lightning Returns Final Fantasy XIII: AoB Infinite GP + EP
+name: AoB Infinite GP + EP
 mode: once
 aob 906828E84E8000203C80011D786317643CA0000160A505D8 912828E84E8000203C80011D786317643CA0000160A505D8
 
-name: Lightning Returns Final Fantasy XIII: AoB Freeze Enemy Movement
+name: AoB Freeze Enemy Movement
 mode: once
 aob 41800028636300004800D89D7C1F18004081001063630000 40800028636300004800D89D7C1F18004081001063630000
 
-name: Lightning Returns Final Fantasy XIII: AoB Infinite ATB
+name: AoB Infinite ATB
 mode: once
 aob 937C031C408500207C7AD8102C03000041810014 60000000408500207C7AD8102C03000041810014
 
-name: Lightning Returns Final Fantasy XIII: AoB Infinite HP
+name: AoB Infinite HP
 mode: once
 aob 000126030001261F0001262F0001263E000126F800000000000000000000000000000000000000000000000000000000 000126030001261F0001262F0001263E000126F8937E02E03DE0528D61EFB86881EF0000820F030C920F02E0480EDA03
 aob 63C30000937E02E04BFF23ED63C30000 63C300004900E98F4BFF23ED63C30000

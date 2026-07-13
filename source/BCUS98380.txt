@@ -1,14 +1,14 @@
 # Ratchet &amp;amp; Clank: Full Frontal Assault
 
-name: Ratchet And Clank Full Frontal Assault: 1P Invincible Mode
+name: 1P Invincible Mode
 mode: once
 w32 00050250 60000000
 
-name: Ratchet And Clank Full Frontal Assault: AoB 1P Invincible Mode
+name: AoB 1P Invincible Mode
 mode: once
 aob 33BD9008C3C30010309C00F0FC20F09063A300007884002048752311337B0001 60000000C3C30010309C00F0FC20F09063A300007884002048752311337B0001
 
-name: Ratchet And Clank Full Frontal Assault: Enter Unlockables To Obtain All Skill Points
+name: Enter Unlockables To Obtain All Skill Points
 mode: once
 w32 00316BB0 81210078
 w32 00316BB8 55291838
@@ -17,7 +17,7 @@ w32 00316BC0 7C632378
 w32 00316BC4 7C7F492A
 w32 00316BC8 60830000
 
-name: Ratchet And Clank Full Frontal Assault: Unlock Cheats
+name: Unlock Cheats
 mode: once
 w32 00C35B34 80030820
 w32 00C35B38 64000307
@@ -28,7 +28,7 @@ w32 00C35B64 80630820
 w32 00C35B68 482BC54A
 w32 002BC544 48C35B36
 
-name: Ratchet And Clank Full Frontal Assault: Have All Gold Bolts
+name: Have All Gold Bolts
 mode: once
 w32 00C35B8C 7C002378
 w32 00C35B90 F8050000
@@ -44,15 +44,15 @@ w32 00C35BE4 93B9081C
 w32 00C35BE8 4856313E
 w32 00563138 48C35BBA
 
-name: Ratchet And Clank Full Frontal Assault: All Weapons Are Manual Rapid Fire
+name: All Weapons Are Manual Rapid Fire
 mode: once
 w32 004E35A0 48000008
 
-name: Ratchet And Clank Full Frontal Assault: Ratchet Has A Massive Damage Scale
+name: Ratchet Has A Massive Damage Scale
 mode: once
 w32 002BC728 44FA0000
 
-name: Ratchet And Clank Full Frontal Assault: Have All Weapons
+name: Have All Weapons
 mode: once
 w32 00112B44 60A50001
 w32 00112B48 98BB0010
@@ -109,7 +109,7 @@ w32 00C76448 D023000C
 w32 00C7644C 484D3C76
 w32 004D3C70 48C76422
 
-name: Ratchet And Clank Full Frontal Assault: Max Bolts
+name: Max Bolts
 mode: once
 w32 00C72E60 3C00001C
 w32 00C72E64 6000D910
@@ -126,22 +126,22 @@ w32 00C72E8C 93FE0024
 w32 00C72E90 48540C62
 w32 00540C5C 48C35EA6
 
-name: Ratchet And Clank Full Frontal Assault: Ammo Never Decreases
+name: Ammo Never Decreases
 mode: once
 w32 004CC0B4 60000000
 
-name: Ratchet And Clank Full Frontal Assault: Use A Weapon On An Enemy To Max Its Level
+name: Use A Weapon On An Enemy To Max Its Level
 mode: once
 w32 004CC290 D03F0008
 w32 004CC294 C3FF0008
 
-name: Ratchet And Clank Full Frontal Assault: Use A Weapon On An Enemy To Max Its Level To 5
+name: Use A Weapon On An Enemy To Max Its Level To 5
 mode: once
 w32 004CC3C4 D03F0008
 w32 004CC3C8 C3FF0008
 w32 004CC3CC 38600004
 
-name: Ratchet And Clank Full Frontal Assault: Ratchet Is Invincible
+name: Ratchet Is Invincible
 mode: once
 w32 00C42A00 3C6000E6
 w32 00C42A04 80632930
@@ -157,7 +157,7 @@ w32 00C42A28 63230000
 w32 00C42A2C 4804ECF2
 w32 0004ECEC 48C42A02
 
-name: Ratchet And Clank Full Frontal Assault: Ratchet's Health Never Decreases
+name: Ratchet's Health Never Decreases
 mode: once
 w32 00C6D210 3C6000E6
 w32 00C6D214 80632930
@@ -178,7 +178,7 @@ w32 00C6D24C 38600001
 w32 00C6D250 4854116E
 w32 00541168 48C6D212
 
-name: Ratchet And Clank Full Frontal Assault: Hold X To Fly
+name: Hold X To Fly
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163
@@ -200,12 +200,12 @@ w32 0056C280 48C35A86
 w32 002CADDC 48C35AB2
 w32 001C1120 4800003C
 
-name: Ratchet And Clank Full Frontal Assault: Time Never Increases
+name: Time Never Increases
 mode: once
 w32 00561D80 C0230000
 w32 00561D88 D0240000
 
-name: Ratchet And Clank Full Frontal Assault: Position Modifier
+name: Position Modifier
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163
@@ -279,7 +279,7 @@ w32 00C7C66C C09E00A4
 w32 00C7C670 4E800020
 w32 001C13AC 48C7C573
 
-name: Ratchet And Clank Full Frontal Assault: Weapon Properties Modifier
+name: Weapon Properties Modifier
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163

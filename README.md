@@ -51,12 +51,30 @@ the `same-as:` pointer and edit that file instead. For a brand-new game, start t
 existing cheats are welcome too and get human-reviewed before merging. Never touch `compiled/` -
 it is regenerated from `source/`.
 
+## Data quality
+
+The imported set (from Artemis) has been cleaned up:
+
+- **Deduped** - many games listed the same cheat two or three times under different names (a
+  game-title-prefixed copy next to a bare one, plurals, reordered words). The redundant copies
+  were removed and the clearest name kept. Cheats that shared identical code but described
+  genuinely different effects were left alone for manual review, not merged.
+- **Game-title prefixes removed** - names no longer repeat the game name (`Final Fantasy X
+  Remaster: Infinite HP` became just `Infinite HP`), so they stay short enough to fit the on-screen
+  menu.
+- **Names fixed** - clear spelling mistakes corrected (e.g. `Invinciblity`, `Enemes`, `Colisseum`)
+  and mangled characters repaired (corrupted quote/colon symbols in a few titles). Item and
+  character names the spell-checker didn't recognise were deliberately left untouched.
+
+No cheat codes were changed by any of this - only names and duplicate entries. Identity is the
+code hash, so renaming a cheat never affects its votes or scores.
+
 ## How the feedback loop works
 
 - **Consoles read** `compiled/<their serial>.txt` directly (one conditional GET).
-- **Consoles report** anonymously: AoB pattern found/missing (automatic) and works/broken
-  (user-pressed) land as empty files under `votes/` via auto-validated pull requests. No console
-  ids, no accounts - nothing links two votes to the same machine.
+- **Consoles report** anonymously: the player marks a cheat worked or failed, which lands as a
+  small file under `votes/` via an auto-validated pull request. No console ids, no accounts -
+  nothing links two votes to the same machine.
 - **Reconcile** (run by the maintainer or a workflow) folds votes into the `score` lines in
   `source/`, recompiles, and prunes the queue. Scores are advisory: untested is shown as unknown,
   never as broken.

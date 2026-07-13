@@ -1,23 +1,23 @@
 # Sega Classics - Altered Beast
 
-name: Altered Beast: Memory Invincible
+name: Memory Invincible
 mode: once
 w32 35C46C3C E0000044
 
-name: Altered Beast: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 35C46C48 00005000
 
-name: Altered Beast: Memory Infinite Lives
+name: Memory Infinite Lives
 mode: once
 w32 35C48C18 65000100
 
-name: Altered Beast: Invincible
+name: Invincible
 mode: once
 w32 00038B54 60000000
 w32 00038B50 60000000
 
-name: Altered Beast: Infinite Health + Lives
+name: Infinite Health + Lives
 mode: once
 w32 00038B10 60000000
 w32 00038B78 60000000

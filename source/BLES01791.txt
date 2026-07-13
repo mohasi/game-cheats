@@ -1,16 +1,16 @@
 # Painkiller: Hell &amp;amp; Damnation
 
-name: PainKiller Hell & Damnation: Memory Infinite Ammo
+name: Memory Infinite Ammo
 mode: once
 w32 12094160 00000064
 w32 13FC4C90 00000064
 w32 142B1240 00000064
 
-name: PainKiller Hell & Damnation: ASM Infinite Ammo
+name: ASM Infinite Ammo
 mode: once
 w32 00055880 7CC63378
 
-name: PainKiller Hell & Damnation: Memory Infinite Health
+name: Memory Infinite Health
 mode: once
 w32 119FE484 00000064
 w32 12ED02F4 00000064
@@ -20,28 +20,28 @@ w32 14413544 00000064
 w32 145646C4 000000C8
 w32 14AA9594 00000064
 
-name: PainKiller Hell & Damnation: ASM Infinite Health
+name: ASM Infinite Health
 mode: once
 w32 000580BC 7C40FFAE
 
-name: PainKiller Hell & Damnation: Memory Infinite Shield
+name: Memory Infinite Shield
 mode: once
 w32 1456598C 00000064
 w32 14AAA85C 00000064
 
-name: PainKiller Hell & Damnation: ASM Infinite Shield
+name: ASM Infinite Shield
 mode: once
 w32 000580BC 7C40FFAE
 
-name: Painkiller Hell And Damnation: No Damage From Enemies
+name: No Damage From Enemies
 mode: once
 w32 0051B448 60000000
 
-name: Painkiller Hell And Damnation: AoB No Damage From Enemies
+name: AoB No Damage From Enemies
 mode: once
 aob 4BFFE951807F00D02C030000418201F4809F00C0C3FF00CCC07F00C4FC1FF000 60000000807F00D02C030000418201F4809F00C0C3FF00CCC07F00C4FC1FF000
 
-name: Painkiller Hell And Damnation: God Mode
+name: God Mode
 mode: once
 w32 0046B55C 806301E8
 w32 0046B560 2C030000
@@ -54,6 +54,6 @@ w32 0046B578 4182000C
 w32 0046B57C 679C4000
 w32 0046B580 938401DC
 
-name: Painkiller Hell And Damnation: AoB God Mode
+name: AoB God Mode
 mode: once
 aob 6064000038600000808401E82C04000041820018808401DC54840FFE2C0400004182000838600001 806301E82C0300004182002060640000838401DC57830FFE2C0300004182000C679C4000938401DC

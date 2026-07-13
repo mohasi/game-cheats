@@ -1,55 +1,55 @@
 # Macross 30: Ginga o Tsunagu Utagoe
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite Bullets
+name: Infinite Bullets
 mode: once
 w32 002C04F4 60000000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite Booster
+name: Infinite Booster
 mode: once
 w32 00255D00 3BBD0000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Max Money
+name: Max Money
 mode: once
 w32 004D4820 2F9D0000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: 99 Items On Gain
+name: 99 Items On Gain
 mode: once
 w32 004DD3B0 38000063
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite Anti-Gauge
+name: Infinite Anti-Gauge
 mode: once
 w32 0023BD5C 2F890000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite SP Gauge
+name: Infinite SP Gauge
 mode: once
 w32 0024B1F8 30000000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Items Do Not Reduce
+name: Items Do Not Reduce
 mode: once
 w32 004DE5C8 60000000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: No Maximum TP On Planes
+name: No Maximum TP On Planes
 mode: once
 w32 0045BBCC 60000000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Max Additional Equipment
+name: Max Additional Equipment
 mode: once
 w32 004668BC 392000FF
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite SP
+name: Infinite SP
 mode: once
 w32 0024B1F8 30000000
 w32 002335B0 2F800000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Infinite Items
+name: Infinite Items
 mode: once
 w32 004D45C8 60000000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: Strengthening Equipment
+name: Strengthening Equipment
 mode: once
 w32 004668BC 392000FF
 
-name: Macross 30 Ginga O Tsunagi Utagoe: All Items In Item Box
+name: All Items In Item Box
 mode: once
 w16 32B6FF52 0000
 w16 32B70318 0001
@@ -68,38 +68,38 @@ w16 32B71234 03E7
 w16 32B715FA 03E7
 w16 32B719C0 03E7
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Infinite Bullets
+name: AoB Infinite Bullets
 mode: once
 aob 7C0B00502F800000419C00AC900A0270 600000002F800000419C00AC900A0270
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Infinite Booster
+name: AoB Infinite Booster
 mode: once
 aob 7FBD02142F9D0707419D007038600001 3BBD00002F9D0707419D007038600001
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Max Money
+name: AoB Max Money
 mode: once
 aob 7F9D480093BF005C409D0020913F005C 2F9D000093BF005C409D0020913F005C
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB 99 Items On Gain
+name: AoB 99 Items On Gain
 mode: once
 aob 7C1C021480A21AC83B800000901E0004 3800006380A21AC83B800000901E0004
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Infinite Anti-Gauge
+name: AoB Infinite Anti-Gauge
 mode: once
 aob 7F890000912B0004409DF124900B0004 2F890000912B0004409DF124900B0004
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Infinite SP Gauge
+name: AoB Infinite SP Gauge
 mode: once
 aob 7C1F00502F800000901E4490409C000C 300000002F800000901E4490409C000C
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Items Do Not Reduce
+name: AoB Items Do Not Reduce
 mode: once
 aob 7C1D0050900A00044BFFFEC42F840000 60000000900A00044BFFFEC42F840000
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB No Maximum TP On Planes
+name: AoB No Maximum TP On Planes
 mode: once
 aob 419D0A3489390000392900015520063E 6000000089390000392900015520063E
 
-name: Macross 30 Ginga O Tsunagi Utagoe: AoB Strengthening Equipment
+name: AoB Strengthening Equipment
 mode: once
 aob 392900015520063E993E00007F805840 392000FF5520063E993E00007F805840

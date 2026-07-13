@@ -1,15 +1,15 @@
 # Sonic Adventure 2
 
-name: Sonic Adventure 2 Battle: Game Time Always High
+name: Game Time Always High
 mode: once
 w32 0094DAF4 7F7F7F7F
 w32 0094DAF8 7F7F7F7F
 
-name: Sonic Adventure 2 Battle: 9 Lives
+name: 9 Lives
 mode: once
 w32 0094DB40 00000009
 
-name: Sonic Adventure 2 Battle: 999 Coins
+name: 999 Coins
 mode: once
 w32 0094DB44 000003E7
 
@@ -33,16 +33,3 @@ name: ASM Infinite Rings
 mode: once
 w32 001AB3C8 60000000
 w32 001AB3CC 60000000
-
-name: Game Time Always High
-mode: once
-w32 0094DAF4 7F7F7F7F
-w32 0094DAF8 7F7F7F7F
-
-name: 9 Lives
-mode: once
-w32 0094DB40 00000009
-
-name: 999 Coins
-mode: once
-w32 0094DB44 000003E7

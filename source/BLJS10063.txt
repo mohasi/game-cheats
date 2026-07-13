@@ -1,5 +1,5 @@
 # Makai Senki Disgaea 3: Raspberyl-hen Hajimemashita.
 
-name: Makai Senki Disgaea 3 Append Disc: HL 99999999999
+name: HL 99999999999
 mode: once
 w32 00E8C3C4 3B9AC9FF

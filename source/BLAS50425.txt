@@ -36,16 +36,3 @@ aob 41980084FF816800409D0078FC206890E8010090EBE100707C0803A6 40980084FF816800409
 name: AoB Shadow Clone mode+hit fire,spoke,ice+houser
 mode: once
 aob 409EFE405469103A897F00183AC000017D3A4A14 600000005469103A897F00183AC000017D3A4A14
-
-name: Warriors Orochi 3: Infinite Musou (max work)
-mode: once
-w32 0014DFE8 40980084
-
-name: Warriors Orochi 3: Shadow Clone mode+hit fire,spoke,ice+houser
-mode: once
-w32 00274F28 60000000
-
-name: Warriors Orochi 3: Infinite Health
-mode: once
-w32 0010E138 818100D8
-w32 0010E140 409D000C

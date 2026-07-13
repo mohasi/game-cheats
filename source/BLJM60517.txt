@@ -1,26 +1,26 @@
 # Dark Souls with Artorias of the Abyss Edition
 
-name: Dark Souls: Soul 999999999
+name: Soul 999999999
 mode: once
 w32 00B21024 3C003B9A
 w32 00B21028 6000C9FF
 
-name: Dark Souls: Infinite Items
+name: Infinite Items
 mode: once
 w32 00B00498 38000063
 
-name: Dark Souls: Humanity 99
+name: Humanity 99
 mode: once
 w32 003F1654 38000063
 
-name: Dark Souls: Infinite Stamina
+name: Infinite Stamina
 mode: once
 w32 0045BB24 901F0028
 
-name: Dark Souls: Level 0
+name: Level 0
 mode: once
 w32 009CD2A8 39200000
 
-name: Dark Souls: Level 9999
+name: Level 9999
 mode: once
 w32 009CD2A8 3920270F
