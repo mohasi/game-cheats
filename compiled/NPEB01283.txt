@@ -1,6 +1,7 @@
 # Grand Theft Auto V
 
 name: Infinite Health (Disable Invincibility)
+score NPUB31154 01.27: 25 0+ 1-
 mode: once
 w32 0107B8F0 3C605000
 w32 0107B8F4 907F00C0
