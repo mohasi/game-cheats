@@ -92,8 +92,9 @@ mode: once
 w32 001340BC 917D0070
 
 name: Z Points Never Decreases
+score BLUS30966 01.00: 75 1+ 0-
 mode: once
-w32 001EB59C 30840000
+w32 001EB59C 30840000 working-val=90090000:1
 
 name: Unlock All Characters
 mode: once
