@@ -28,8 +28,9 @@ mode: once
 w32 0177D578 60000000
 
 name: Max + Infinite Breath
+score BLES01882 01.04: 75 1+ 0-
 mode: once
-w32 0177881C C0090084
+w32 0177881C C0090084 working-val=6463C584:1
 
 name: Max + Infinite Player Ship Resistance
 mode: once
