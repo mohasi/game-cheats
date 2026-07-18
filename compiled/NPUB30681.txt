@@ -1,10 +1,12 @@
 # Zack Zero
 
 name: Memory Infinite Special Attack
+author: jgduff1
 mode: once
 w32 306FFB38 42C80000
 
 name: ASM Infinite Special Attack
+author: jgduff1
 mode: once
 w32 00115A0C 60000000
 w32 00117A1C 60000000
@@ -12,17 +14,21 @@ w32 00117B54 60000000
 w32 00117CDC 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 306FFEB4 42C80000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 001159B8 60000000
 
 name: Memory Big Scores + Max Level On Start
+author: jgduff1
 mode: once
 w32 308C7AD4 00000D03
 
 name: ASM Big Scores + Max Level On Start
+author: jgduff1
 mode: once
 w32 0007457C 90430004

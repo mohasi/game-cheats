@@ -1,6 +1,7 @@
 # Golden Axe: Beast Rider
 
 name: Damage Fully Refills Health
+author: GuitarMan
 mode: once
 w32 008D3940 3DE04281
 w32 008D3944 7DEF7A14
@@ -31,6 +32,7 @@ w32 008D39A4 4806C722
 w32 0006C71C 488D3942
 
 name: Select Magic To Fully Refill Magic + Magic Never Decreases On Use
+author: GuitarMan
 mode: once
 w32 008D39F0 A0A103EE
 w32 008D39F4 280509C4
@@ -52,6 +54,7 @@ w32 008D3A30 4806BFBA
 w32 0006BFB4 488D39F2
 
 name: Infinite Magic
+author: GuitarMan
 mode: once
 w32 008D3964 280B0080
 w32 008D3968 40820020
@@ -67,10 +70,12 @@ w32 008D398C 4806BFBA
 w32 0006BFB4 488D3966
 
 name: Invincible To Some Physical Attacks
+author: GuitarMan
 mode: once
 w32 0075A2C4 60000000
 
 name: View Status For The Current Time Being 00:00
+author: GuitarMan
 mode: once
 w32 008D3AE0 A0A1000C
 w32 008D3AE4 28058781
@@ -90,10 +95,12 @@ w32 008D3B18 4806C11E
 w32 0006C118 488D3AE2
 
 name: Memory Gold
+author: jgduff1
 mode: once
 w32 30902FAC 447A0000
 
 name: ASM Gold
+author: jgduff1
 mode: once
 w32 0006B304 919E0004
 w32 0006B30C 93FE0000

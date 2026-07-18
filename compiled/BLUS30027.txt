@@ -1,18 +1,22 @@
 # Armored Core 4
 
 name: Cash 999,999,999 [01.01]
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1063D4E0 3B9AC9FF
 
 name: Cash 999,999,999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 107097E0 3B9AC9FF
 
 name: Infinite Ammo
+author: xtatu
 mode: once
 w32 00A5D284 60000000
 
 name: Infinite Energy
+author: xtatu
 mode: once
 w32 00A4A1A4 C0030008
 w32 00A4A1A8 60000000

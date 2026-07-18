@@ -1,22 +1,27 @@
 # Dragon Ball: Raging Blast
 
 name: 9,999,999 Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 340BD434 0098967F
 
 name: 999 Stars
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 340C8434 000003E7
 
 name: D Point 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 340D5C34 0098967F
 
 name: Star 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 340E0C34 000003E7
 
 name: Infinite Health + Ki
+author: Hiei-YYH
 mode: once
 w32 005FDB80 2C170000
 w32 005FDB84 40820018
@@ -30,6 +35,7 @@ w32 005FDBA0 4E800020
 w32 000D7D14 48525E6D
 
 name: Max D-Point On Gain
+author: Hiei-YYH
 mode: once
 w32 00405D4C 60000000
 w32 001607F4 60000000

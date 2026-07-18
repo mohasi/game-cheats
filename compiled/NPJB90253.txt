@@ -1,17 +1,21 @@
 # Naruto Shippuden: Ultimate Ninja Storm 2
 
 name: 9,999,999 Ryo Once Win in Ultimate Adventure
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0056B6F4 60000000
 
 name: 999,999 SP Once Win
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0056B724 901E93EC
 
 name: Play Time 999:59:59 Once Win in Ultimate Adventure
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0056B71C 93DE93E8
 
 name: AoB 9,999,999 Ryo
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 7C0022147F804800409D0008 7C0022144800000448000004

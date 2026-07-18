@@ -1,20 +1,24 @@
 # Mist of Chaos
 
 name: Sell Something For Max Money
+author: xtatu
 mode: once
 w32 0005ADD8 9003005C
 
 name: During World Map Warlords Can Be Used Many Times
+author: xtatu
 mode: once
 w32 0005E24C 60000000
 w32 0005E5CC 60000000
 w32 0005E28C 60000000
 
 name: 999 Remaining Reinforcements On World Map
+author: xtatu
 mode: once
 w16 1925749A 03E7
 
 name: +9 Figures Reinforce And Strengthen
+author: xtatu
 mode: once
 w32 0005ECFC 38000009
 w32 0005ED84 38000009

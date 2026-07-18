@@ -1,13 +1,16 @@
 # Winning Post 7 2013
 
 name: Infinite Money
+author: games24.blog.fc2.com/blog-entry-206.html
 mode: once
 w32 000E291C 7C1E0378
 
 name: Infinite Money 2
+author: games24.blog.fc2.com/blog-entry-206.html
 mode: once
 w32 000E2950 7C1E0378
 
 name: AoB Infinite Money
+author: games24.blog.fc2.com/blog-entry-206.html
 mode: once
 aob 419D00084099001CE8010090EBC10070 7C1E03784099001CE8010090EBC10070

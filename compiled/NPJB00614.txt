@@ -1,38 +1,46 @@
 # Gatling Gears
 
 name: Infinite Life + Grenades + Missiles + Spark Shots
+author: jgduff1
 mode: once
 w32 002E7204 7C0E0050
 w32 002E720C 90090008
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 46F3A4AC 000007D0
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002E5BF8 60000000
 w32 002E5C00 7C0E0050
 
 name: Memory Max Bolts
+author: jgduff1
 mode: once
 w32 446A0D6C 000F423F
 w32 46E5F554 000F423F
 w32 46E5F61C 000F423F
 
 name: Lots Of Bolt On Gain
+author: jgduff1
 mode: once
 w32 002DF60C F9A30038
 
 name: Memory Max + Infinite Gold
+author: jgduff1
 mode: once
 w32 483993B8 00000008
 
 name: Max + Infinite Gold On Buy
+author: jgduff1
 mode: once
 w32 0003D4A0 7D440214
 w32 0003D4A4 91430008
 
 name: Max XP On Gain + Unlock All
+author: jgduff1
 mode: once
 w32 002DF9D8 904302FC

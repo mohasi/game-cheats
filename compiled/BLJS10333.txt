@@ -1,11 +1,13 @@
 # BlazBlue: Central Fiction
 
 name: Memory Max + Infinite Money
+author: jgduff1
 mode: once
 w32 00CB1578 0000F1A8
 w32 00D09E58 000071A8
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 014B3CDC 41488000
 w32 01C84EA4 00000064
@@ -21,6 +23,7 @@ w32 39F17B88 00002710
 w32 39F1C85C 00002710
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002AB554 60000000
 w32 002AB550 60000000
@@ -32,5 +35,6 @@ w32 002AB53C 60000000
 w32 002AB4F0 60000000
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 002A5DEC 60000000

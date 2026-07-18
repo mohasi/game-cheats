@@ -1,44 +1,54 @@
 # Resident Evil: Operation Raccoon City
 
 name: Almost Nothing Attacks
+author: bungholio
 mode: once
 w32 0052C9E4 60000000
 
 name: Nothing Moves
+author: bungholio
 mode: once
 w32 004A9348 60000000
 
 name: All Enemies Are Displayed On The Map
+author: bungholio
 mode: once
 w32 003066F8 60000000
 
 name: Infinite Ammo + Items + Bottomless Clip
+author: Medo
 mode: once
 w32 002AA254 60000000
 w32 002AA5A0 60000000
 
 name: Infinite Exp
+author: Medo
 mode: once
 w32 00A65E94 307F0004
 
 name: Infinite Special
+author: Medo
 mode: once
 w32 001207A0 60000000
 
 name: Infinite Ammo + Items + Bottomless Clip
+author: Medo
 mode: once
 w32 002B9F1C 60000000
 w32 002BA258 60000000
 
 name: Infinite Exp
+author: Medo
 mode: once
 w32 00A816E8 307F0004
 
 name: Infinite Special
+author: Medo
 mode: once
 w32 00128350 60000000
 
 name: Freeplay Has All Levels On All Difficulties
+author: bungholio
 mode: once
 w32 011DF4FC 1CB90008
 w32 011DF500 7CA52214
@@ -53,14 +63,17 @@ w32 004354F4 491DF4FE
 w32 0022AE98 38830030
 
 name: Can View All Gallery Items
+author: bungholio
 mode: once
 w32 0036EDFC 48000020
 
 name: 9,999 Cameras Destroyed and Intel Picked Up On Change
+author: bungholio
 mode: once
 w32 00775434 3920270F
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 01211040 3D200145
 w32 01211044 8129DF3C
@@ -78,6 +91,7 @@ w32 01211070 485ECE56
 w32 005ECE50 49211042
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 01211094 80E40034
 w32 01211098 7D053B96
@@ -102,25 +116,30 @@ w32 012110E0 485A82B2
 w32 005A82AC 49211096
 
 name: Dogs Can Not Grab Anything
+author: bungholio
 mode: once
 w32 00AFF324 4E800020
 
 name: Large Shooting Range
+author: bungholio
 mode: once
 w32 002AB23C 3C0044FA
 w32 002AB248 90030000
 
 name: Improved Accuracy
+author: bungholio
 mode: once
 w32 00305E24 39400000
 w32 00305E28 915F0068
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 002AA340 60000000
 w32 002AA390 60000000
 
 name: Show Everything On Minimap
+author: bungholio
 mode: once
 w32 003787AC 38800001
 w32 0037DC7C 39C00004
@@ -128,26 +147,32 @@ w32 003812B0 38600001
 w32 00305714 38600001
 
 name: AoB Almost Nothing Attacks
+author: bungholio
 mode: once
 aob C3E2F250D3F5006C C3E2F25060000000
 
 name: AoB Nothing Moves
+author: bungholio
 mode: once
 aob 991D0C14D19D0C18 991D0C1460000000
 
 name: AoB All Enemies Are Displayed On The Map
+author: bungholio
 mode: once
 aob 1040038CD0360058 1040038C60000000
 
 name: AoB Infinite Ammo, Infinite Items + Bottomless Clip
+author: Medo
 mode: once
 aob 90BE001C80A60018F841002880C5000080450004 6000000080A60018F841002880C5000080450004
 aob 90DF00247FC428144BFE 600000007FC428144BFE
 
 name: AoB Infinite Exp
+author: Medo
 mode: once
 aob 807F00043B400001907D000063430000E80100D07C0803A6 307F00043B400001907D000063430000E80100D07C0803A6
 
 name: AoB Infinite Special
+author: Medo
 mode: once
 aob D02300104186000838A000012C8500002C060000 600000004186000838A000012C8500002C060000

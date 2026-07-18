@@ -1,37 +1,46 @@
 # Galaga Legions DX
 
 name: Infinite Lives
+author: optantic, ported by crapulecorp
 mode: once
 w32 000E5D2C 30840000
 
 name: Infinite Time
+author: optantic, ported by crapulecorp
 mode: once
 w32 000E7C98 30630000
 
 name: Infinite Time (Time Attack Mode)
+author: optantic, ported by crapulecorp
 mode: once
 w32 000E7C78 30630000
 
 name: AoB Infinite Lives
+author: optantic, ported by crapulecorp
 mode: once
 aob A083CE303084FFFF7C8507342C050000 A083CE30308400007C8507342C050000
 
 name: AoB Infinite Time
+author: optantic, ported by crapulecorp
 mode: once
 aob 3CA000653063FFFF80C408309065CE58 3CA000653063000080C408309065CE58
 
 name: AoB Infinite Time (Time Attack Mode)
+author: optantic, ported by crapulecorp
 mode: once
 aob 3C8000653063FFFF9064CE4C3C600065 3C800065306300009064CE4C3C600065
 
 name: Infinite Lives
+author: optantic
 mode: once
 w8 0064CE31 05
 
 name: Infinite Time
+author: optantic
 mode: once
 w8 0064CE58 01
 
 name: Infinite Time (Time Attack Mode)
+author: optantic
 mode: once
 w8 0064CE4C 01

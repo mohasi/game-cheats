@@ -1,13 +1,16 @@
 # Street Fighter III - 3rd Strike - Online Edition
 
 name: 1P Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BCC708 00A000A0
 
 name: 1P Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00CCE738 00030003
 
 name: 2P HP Set 0
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BCCB7C 00000000

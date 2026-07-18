@@ -1,6 +1,7 @@
 # Condemned 2: Bloodshot
 
 name: Infinite Health
+author: bungholio
 mode: once
 w32 0107D988 3C007F80
 w32 0107D98C 901F0014
@@ -10,6 +11,7 @@ w32 0107D998 4B3F0180
 w32 0046DB14 48C0FE74
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 002A430C 60000000
 w32 002CEC78 60000000
@@ -17,23 +19,28 @@ w32 0051106C 60000000
 w32 005338BC 38600002
 
 name: Weapons Never Break
+author: bungholio
 mode: once
 w32 0050DE98 60000000
 
 name: Chain Meter Never Decreases And Easy Gold Level
+author: bungholio
 mode: once
 w32 0089B934 3B60012C
 
 name: Sprint Never Decreases
+author: bungholio
 mode: once
 w32 0028A0B0 60000000
 
 name: AoB Infinite Health
+author: bungholio
 mode: once
 aob 010BF9C00000000000000000000000000000000000000000 010BF9C03C007F80901F0014901F0018C3FF00184B3F0180
 aob 552907FEC3FF0018 552907FE48C0FE74
 
 name: AoB Ammo Never Decreases
+author: bungholio
 mode: once
 aob 7F865040409D0008 7F86504060000000
 aob 2F800000917F00B0 2F80000060000000
@@ -41,18 +48,22 @@ aob 3929FFFF913A0044 3929FFFF60000000
 aob 7863002080630000E8010090 7863002038600002E8010090
 
 name: AoB Weapons Never Break
+author: bungholio
 mode: once
 aob 809A000C901A00C4 809A000C60000000
 
 name: AoB Chain Meter Never Decreases And Easy Gold Level
+author: bungholio
 mode: once
 aob 7C9C23787C7F1B787CBB2B78 7C9C23787C7F1B783B60012C
 
 name: AoB Sprint Never Decreases
+author: bungholio
 mode: once
 aob FF810000D03F05A4 FF81000060000000
 
 name: Infinite Health
+author: bungholio
 mode: once
 w32 0107D988 3C007F80
 w32 0107D98C 901F0014
@@ -62,6 +73,7 @@ w32 0107D998 4B3F0188
 w32 0046DB1C 48C0FE6C
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 002A4324 60000000
 w32 002CECA0 60000000
@@ -69,18 +81,22 @@ w32 00511074 60000000
 w32 005338C4 38600002
 
 name: Weapons Never Break
+author: bungholio
 mode: once
 w32 0050DEA0 60000000
 
 name: Chain Meter Never Decreases And Easy Gold Level
+author: bungholio
 mode: once
 w32 0089B93C 3B60012C
 
 name: Sprint Never Decreases
+author: bungholio
 mode: once
 w32 0028A0C8 60000000
 
 name: AoB Infinite Health
+author: bungholio
 mode: once
 aob 010BF9C00000000000000000000000000000000000000000 010BF9C03C007F80901F0014901F0018C3FF00184B3F0188
 aob 552907FEC3FF0018 552907FE48C0FE6C

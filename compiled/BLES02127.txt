@@ -1,16 +1,19 @@
 # Under Night In-Birth: Exe:Late
 
 name: Player 1 Invincible
+author: eltyran84
 mode: once
 w32 00951D04 00002904
 w32 00951D08 00002904
 
 name: 1 Hit Kills
+author: eltyran84
 mode: once
 w32 00952408 00000000
 w32 0095240C 00000000
 
 name: Player 1 Infinite Power
+author: eltyran84
 mode: once
 w32 00952D1C 00004E20
 w32 00951D20 00004E20

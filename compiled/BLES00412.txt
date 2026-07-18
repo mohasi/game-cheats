@@ -1,10 +1,12 @@
 # The Lord of the Rings: Conquest
 
 name: Memory Infinite Fury
+author: jgduff1
 mode: once
 w32 3840B8A4 42C80000
 
 name: ASM Infinite Fury
+author: jgduff1
 mode: once
 w32 00834804 60000000
 w32 00834870 EC020028

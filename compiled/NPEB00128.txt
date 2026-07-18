@@ -1,30 +1,37 @@
 # Zombie Apocalypse
 
 name: Life 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BCFA18 00000064
 
 name: Zombie Grabs And Get 99 Lives
+author: cagao123
 mode: once
 w32 00176FB8 38840063
 
 name: Huge Score On Kill
+author: cagao123
 mode: once
 w32 00157588 60000000
 
 name: Combo Score Multiplier 999x
+author: cagao123
 mode: once
 w32 001533CC 419D000C
 
 name: Invincible After Dying
+author: cagao123
 mode: once
 w32 001E984C 905F077C
 
 name: Infinite Ammo Increase 999
+author: cagao123
 mode: once
 w32 002079E8 380903E7
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 009AED74 3A000001
 w32 009AED78 9A0305A3
@@ -33,13 +40,16 @@ w32 009AED80 4804270E
 w32 00042708 489AED76
 
 name: AoB Zombie Grabs And Get 99 Lives
+author: cagao123
 mode: once
 aob 3884FFFF2F840000 388400632F840000
 
 name: AoB Huge Score On kill
+author: cagao123
 mode: once
 aob 409C000C7D0440F8 600000007D0440F8
 
 name: AoB Combo Score Multiplier 999x
+author: cagao123
 mode: once
 aob 7D244A142F8903E791230018409D000C 7D244A142F8903E791230018419D000C

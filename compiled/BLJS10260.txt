@@ -1,61 +1,75 @@
 # The Idolmaster: One for All
 
 name: Max Manny On Win
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 000E9EF0 4800009C
 
 name: Max Voltage Gauge
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 0001727C C03A037C
 
 name: Idle Level Levels Down
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 000EF104 3BA0FFFF
 
 name: Lesson Effect Duration Never Decreases
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 00113170 38090000
 w32 00113190 38090000
 w32 001131B0 38090000
 
 name: Back 1 Week
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 000B3A58 3924FFFF
 
 name: Do Not Advance Weekly
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 000B3A58 39240000
 
 name: 999 SP After Exiting The Skill Acquisition Screen
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 w32 000E5530 38C003E7
 
 name: AoB Max Manny On Win
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 4199009C4815630560000000809F0CC4 4800009C4815630560000000809F0CC4
 
 name: AoB Max Voltage Gauge
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob C03A0378C01E019CFC810000408600A0 C03A037CC01E019CFC810000408600A0
 
 name: AoB Idle Level Levels Down
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 3BBC00017FA407B493BB001048144F65 3BA000017FA407B493BB001048144F65
 
 name: AoB Lesson Effect Duration Never Decreases
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 3809FFFF2C0000009003001C40820008 380900002C0000009003001C40820008
 aob 3809FFFF2C8000009003002040860008 380900002C8000009003002040860008
 aob 3809FFFF2F80000090030024409EFE48 380900002F80000090030024409EFE48
 
 name: AoB Back 1 Week
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 39240001816A000C91230038800B007C 3924FFFF816A000C91230038800B007C
 
 name: AoB Do Not Advance Weekly
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 39240001816A000C91230038800B007C 39240000816A000C91230038800B007C
 
 name: AoB 999 SP After Exiting The Skill Acquisition Screen
+author: games24.blog.fc2.com/blog-entry-237.html
 mode: once
 aob 80DF012898FF00267C6803A6EBC10070 38C003E798FF00267C6803A6EBC10070

@@ -1,11 +1,13 @@
 # Tom Clancy's Splinter Cell: Double Agent
 
 name: Ammo Never Decreases
+author: dron_3
 mode: once
 w32 00508670 60000000
 w32 00508678 60000000
 
 name: Increased Accuracy
+author: dron_3
 mode: once
 w32 0046A7C0 EC0D6828
 w32 0046A7CC D01F08C4
@@ -13,6 +15,7 @@ w32 004C9844 EC0D6828
 w32 004C9850 D01F08C4
 
 name: Invisibility
+author: dron_3
 mode: once
 w32 004A252C 39600001
 w32 004A2530 7960C9AC
@@ -20,23 +23,28 @@ w32 004A2534 90090628
 w32 004A2538 48000234
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 004A34B4 3C604396
 w32 004A34B8 906906B4
 
 name: AoB Ammo Never Decreases
+author: dron_3
 mode: once
 aob 396BFFFF807F0850394AFFFF 60000000807F085060000000
 
 name: AoB Increased Accuracy
+author: dron_3
 mode: once
 aob EC0D2028FC000210FF806000D1BF08C4 EC0D6828FC000210FF806000D01F08C4
 aob EC0D4028FC000210FF806000D1BF08C4 EC0D6828FC000210FF806000D01F08C4
 
 name: AoB Invisibility
+author: dron_3
 mode: once
 aob 78093FE34082023C813A07001D290084 396000017960C9AC9009062848000234
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob FF806800409D027C 3C604396906906B4

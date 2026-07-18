@@ -1,14 +1,17 @@
 # Ratchet &amp;amp; Clank: Full Frontal Assault
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 00050250 60000000
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 33BD9008C3C30010309C00F0FC20F09063A300007884002048752311337B0001 60000000C3C30010309C00F0FC20F09063A300007884002048752311337B0001
 
 name: Enter Unlockables To Obtain All Skill Points
+author: bungholio
 mode: once
 w32 00316BB0 81210078
 w32 00316BB8 55291838
@@ -18,6 +21,7 @@ w32 00316BC4 7C7F492A
 w32 00316BC8 60830000
 
 name: Unlock Cheats
+author: bungholio
 mode: once
 w32 00C35B34 80030820
 w32 00C35B38 64000307
@@ -29,6 +33,7 @@ w32 00C35B68 482BC54A
 w32 002BC544 48C35B36
 
 name: Have All Gold Bolts
+author: bungholio
 mode: once
 w32 00C35B8C 7C002378
 w32 00C35B90 F8050000
@@ -45,14 +50,17 @@ w32 00C35BE8 4856313E
 w32 00563138 48C35BBA
 
 name: All Weapons Are Manual Rapid Fire
+author: bungholio
 mode: once
 w32 004E35A0 48000008
 
 name: Ratchet Has A Massive Damage Scale
+author: bungholio
 mode: once
 w32 002BC728 44FA0000
 
 name: Have All Weapons
+author: bungholio
 mode: once
 w32 00112B44 60A50001
 w32 00112B48 98BB0010
@@ -110,6 +118,7 @@ w32 00C7644C 484D3C76
 w32 004D3C70 48C76422
 
 name: Max Bolts
+author: bungholio
 mode: once
 w32 00C72E60 3C00001C
 w32 00C72E64 6000D910
@@ -127,21 +136,25 @@ w32 00C72E90 48540C62
 w32 00540C5C 48C35EA6
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 004CC0B4 60000000
 
 name: Use A Weapon On An Enemy To Max Its Level
+author: bungholio
 mode: once
 w32 004CC290 D03F0008
 w32 004CC294 C3FF0008
 
 name: Use A Weapon On An Enemy To Max Its Level To 5
+author: bungholio
 mode: once
 w32 004CC3C4 D03F0008
 w32 004CC3C8 C3FF0008
 w32 004CC3CC 38600004
 
 name: Ratchet Is Invincible
+author: bungholio
 mode: once
 w32 00C42A00 3C6000E6
 w32 00C42A04 80632930
@@ -158,6 +171,7 @@ w32 00C42A2C 4804ECF2
 w32 0004ECEC 48C42A02
 
 name: Ratchet's Health Never Decreases
+author: bungholio
 mode: once
 w32 00C6D210 3C6000E6
 w32 00C6D214 80632930
@@ -179,6 +193,7 @@ w32 00C6D250 4854116E
 w32 00541168 48C6D212
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163
@@ -201,11 +216,13 @@ w32 002CADDC 48C35AB2
 w32 001C1120 4800003C
 
 name: Time Never Increases
+author: bungholio
 mode: once
 w32 00561D80 C0230000
 w32 00561D88 D0240000
 
 name: Position Modifier
+author: bungholio
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163
@@ -280,6 +297,7 @@ w32 00C7C670 4E800020
 w32 001C13AC 48C7C573
 
 name: Weapon Properties Modifier
+author: bungholio
 mode: once
 w32 00C35A84 807D0058
 w32 00C35A88 3CA00163

@@ -1,14 +1,17 @@
 # Hyperdimension Neptunia mk2
 
 name: Max Gold On Gain
+author: Medo
 mode: once
 w32 001C65BC 4800000C
 
 name: Max EXP On Gain
+author: Medo
 mode: once
 w32 001BF248 939C0028
 
 name: Max Status on Level Up
+author: Medo
 mode: once
 w32 001BF3E0 3B40270F
 w32 001BF414 3B4000C8
@@ -24,5 +27,6 @@ w32 001BF5E8 3B60270F
 w32 001BF624 3B60000A
 
 name: Player + Enemy Max Damage
+author: xtatu
 mode: once
 w32 0012B2FC 409D0010

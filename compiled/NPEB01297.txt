@@ -1,6 +1,7 @@
 # Strider
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 011DC130 C02300E4
 w32 011DC134 82030074
@@ -11,10 +12,12 @@ w32 011DC144 4E800020
 w32 000EFDAC 490EC384
 
 name: Infinite Plasma Energy
+author: Hiei-YYH
 mode: once
 w32 004A0F7C C0240008
 
 name: Quick Charge Strike
+author: Hiei-YYH
 mode: once
 w32 004B2C44 3BA00023
 w32 004B3A98 38A00024

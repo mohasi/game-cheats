@@ -1,17 +1,21 @@
 # Winning Post 8 2015
 
 name: Money Never Decreases
+author: games24.blog.fc2.com/blog-entry-251.html, games24.blog.fc2.com/blog-entry-259.html
 mode: once
 w32 0014F6D8 60000000
 
 name: AoB Money Never Decreases
+author: games24.blog.fc2.com/blog-entry-251.html, games24.blog.fc2.com/blog-entry-259.html
 mode: once
 aob 7FC3012EE8010090EBC1007038210080 60000000E8010090EBC1007038210080
 
 name: 99 Amulets After Gain
+author: games24.blog.fc2.com/blog-entry-259.html
 mode: once
 w32 0014F8A0 3BC00063
 
 name: AoB 99 Amulets After Gain
+author: games24.blog.fc2.com/blog-entry-259.html
 mode: once
 aob 7C9E23782B040063419D00084099001C 3BC000632B040063419D00084099001C

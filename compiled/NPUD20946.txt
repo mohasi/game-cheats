@@ -1,67 +1,82 @@
 # Grand Theft Auto: San Andreas
 
 name: AoB Infinite Ammo
+author: JgDuff
 mode: once
 aob 3065FFFF907B0008807B000C2F0361A82C0300004081004C2C9D00004198000C 30650000907B0008807B000C2F0361A82C0300004081004C2C9D00004198000C
 aob 3063FFFF907B000C807B00082C9F0000929B00042C030000408200E0807B000C 30630000907B000C807B00082C9F0000929B00042C030000408200E0807B000C
 
 name: AoB Max Infinite Money On Start
+author: JgDuff
 mode: once
 aob 93F700B84080000860E6000090D700BCE80101F07C0803A6CB0101A0CB2101A8 90D700B84080000860E6000090D700BCE80101F07C0803A6CB0101A0CB2101A8
 
 name: AoB Never Have More Than 1 Star Cop
+author: JgDuff
 mode: once
 aob 909F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4 923F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4
 
 name: AoB Cop Ignore You
+author: JgDuff
 mode: once
 aob C02605403863302CC0430000FC0110004181000C3BE0051648000688887C000C 600000003863302CC0430000FC0110004181000C3BE0051648000688887C000C
 
 name: AoB Max Health Bar Level
+author: JgDuff
 mode: once
 aob FCC1282833C10080FC26096EC0A50540C0DD0024EC220072EC42193AEC210132 6000000033C10080FC26096EC0A50540C0DD0024EC220072EC42193AEC210132
 
 name: ASM Infinite Ammo In Car
+author: jgduff1
 mode: once
 w32 006251D0 30650000
 w32 00625228 30650000
 
 name: ASM Max Money On Start
+author: jgduff1
 mode: once
 w32 0036619C 90D700B8
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 003646D0 60000000
 
 name: ASM Never Have More Than 1 Star
+author: jgduff1
 mode: once
 w32 0038055C 923F002C
 
 name: ASM Cops Ignore You
+author: jgduff1
 mode: once
 w32 00533878 60000000
 
 name: ASM Max Health Bar Level
+author: jgduff1
 mode: once
 w32 00114268 60000000
 w32 00114284 60000000
 
 name: ASM Infinite Armor
+author: jgduff1
 mode: once
 w32 002816E4 EC211028
 w32 002816E8 60000000
 w32 002816F4 EC220828
 
 name: AoB Never Have More Than 1 Star
+author: JgDuff
 mode: once
 aob 909F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4 923F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4
 
 name: AoB Cops Ignore You
+author: JgDuff
 mode: once
 aob C02605403863381CC0430000FC0110004181000C3BE0051648000688887C000C 600000003863381CC0430000FC0110004181000C3BE0051648000688887C000C
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 32FD969C 000000C3
 w32 32FD9910 000003E7
@@ -70,20 +85,24 @@ w32 33075E88 000003E7
 w32 33075E8C 000003E7
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 006237D4 30650000
 w32 0062382C 30630000
 
 name: Memory Max Money On Start
+author: jgduff1
 mode: once
 w32 00A78790 3B9AC9FF
 w32 00A78794 3B9AC9FF
 
 name: ASM Max Money On Start
+author: jgduff1
 mode: once
 w32 00365EBC 90D700B8
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 32FD9870 42FE0000
 w32 32FDC430 42FA0000
@@ -95,28 +114,34 @@ w32 330851C0 43010000
 w32 3324080C 42FE0000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 003643F0 60000000
 
 name: Memory Never Have More Than 1 Star
+author: jgduff1
 mode: once
 w32 3177BEBC 00000000
 w32 32DEAD00 00000000
 
 name: ASM Never Have More Than 1 Star
+author: jgduff1
 mode: once
 w32 00380264 923F002C
 
 name: Memory Cops Ignore You
+author: jgduff1
 mode: once
 w32 32FD9870 43700000
 w32 3324080C 43700000
 
 name: ASM Cops Ignore You
+author: jgduff1
 mode: once
 w32 00533088 60000000
 
 name: Memory Max Health Bar Level
+author: jgduff1
 mode: once
 w32 32FD9870 43700000
 w32 32FDC430 43700000
@@ -126,109 +151,132 @@ w32 330851C0 43700000
 w32 3324080C 43700000
 
 name: ASM Max Health Bar Level
+author: jgduff1
 mode: once
 w32 00114150 60000000
 w32 0011416C 60000000
 
 name: Memory Infinite Armor
+author: jgduff1
 mode: once
 w32 32E5C26C 00000005
 w32 330776C8 42C80000
 
 name: ASM Infinite Armor
+author: jgduff1
 mode: once
 w32 002815BC EC211028
 w32 002815C0 60000000
 w32 002815CC EC220828
 
 name: AoB Never Have More Then 1 Star Cop
+author: JgDuff
 mode: once
 aob 909F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4 923F002C989F001A987F0019B0BF001C4800007841840044207E00017C6307B4
 
 name: AoB Cop Ignore You
+author: JgDuff
 mode: once
 aob C02605403863307CC0430000FC0110004181000C3BE0051648000688887C000C 600000003863307CC0430000FC0110004181000C3BE0051648000688887C000C
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 006241E4 30650000
 w32 0062423C 30630000
 
 name: ASM Max Health Bar Level
+author: jgduff1
 mode: once
 w32 00114268 60000000
 w32 00114274 60000000
 
 name: Infinite Health
+author: Azagthoth
 mode: once
 w32 00364690 D0230540
 
 name: Memory Max Money
+author: Azagthoth
 mode: once
 w32 00A78850 05F5E0FF
 w32 00A78854 05F5E0FF
 
 name: Infinite Ammo
+author: Azagthoth
 mode: once
 w32 006241E8 60000000
 w32 00624240 60000000
 
 name: Infinite Ammo In Car
+author: Azagthoth
 mode: once
 w32 006251D4 60000000
 w32 0062522C 60000000
 
 name: Tires Never Pop
+author: Azagthoth
 mode: once
 w32 0057E6E0 60000000
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00623824 30650000
 w32 0062387C 30630000
 
 name: ASM Max Money On Start
+author: jgduff1
 mode: once
 w32 00365EDC 90D700B8
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00364410 60000000
 
 name: ASM Never Have More Than 1 Star
+author: jgduff1
 mode: once
 w32 00380284 923F002C
 
 name: ASM Cops Ignore You
+author: jgduff1
 mode: once
 w32 005330D8 60000000
 
 name: ASM Max Health Bar Level
+author: jgduff1
 mode: once
 w32 00114170 60000000
 w32 0011418C 60000000
 
 name: ASM Infinite Armor
+author: jgduff1
 mode: once
 w32 002815DC EC211028
 w32 002815E0 60000000
 w32 002815EC EC220828
 
 name: ASM Infinite Ammo In Car BLES 01.01
+author: jgduff1
 mode: once
 w32 006251D0 30650000
 w32 00625228 30650000
 
 name: Memory Never Have More Than 1 Police Star
+author: jgduff1
 mode: once
 w32 3177BEBC 00000000
 w32 32DEAD00 00000000
 
 name: ASM Never Have More Than 1 Police Star
+author: jgduff1
 mode: once
 w32 00380264 923F002C
 
 name: ASM Max Health Bar Level
+author: jgduff1
 mode: once
 w32 00114150 FDA12828
 w32 0011416C 60000000

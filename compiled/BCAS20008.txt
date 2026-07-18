@@ -1,13 +1,16 @@
 # Enchant Arm
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C9A30 2B090000
 
 name: CP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C5E84 60000000
 
 name: SP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0029A5F0 60000000

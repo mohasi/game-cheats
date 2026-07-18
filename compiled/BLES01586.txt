@@ -1,22 +1,27 @@
 # Of Orcs and Men
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00662668 EC1EF828
 
 name: Infinite Health + Select Refill Health
+author: jgduff1
 mode: once
 w32 00667DA8 EDAD07B2
 w32 00667DAC D13E0B48
 
 name: Max Exp
+author: jgduff1
 mode: once
 w32 00662568 EC1F0028
 
 name: Max Points
+author: jgduff1
 mode: once
 w32 00222F68 98490000
 
 name: Infinite + Max Rage On 1 Hit
+author: jgduff1
 mode: once
 w32 00662674 FF9F6000

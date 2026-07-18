@@ -1,6 +1,7 @@
 # The Saboteur
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 00441DE8 3D2044FA
 w32 00441DEC 913F0DC4
@@ -9,30 +10,37 @@ w32 00442090 907F0DC4
 w32 00442094 60000000
 
 name: Infinite Ammo And Throwables And No Reload
+author: FBML
 mode: once
 w32 005829D8 60000000
 
 name: Suspicion Meter Never Increases And Instantly Fully Cools down
+author: FBML
 mode: once
 w32 00079624 FC006090
 
 name: Max And Infinite Contraband Money On Gain, Buy, Or Repair
+author: FBML
 mode: once
 w32 00211544 48000064
 
 name: AoB Max And Infinite Health
+author: FBML
 mode: once
 aob 409E0008D03F0DC4 3D2044FA913F0DC4
 aob D3FF0DC42F890000419EFE30 3C6044FA907F0DC460000000
 
 name: AoB Infinite Ammo And Throwables And No Reload
+author: FBML
 mode: once
 aob 3929FFFF913F0020419EFEA8 60000000913F0020419EFEA8
 
 name: AoB Suspicion Meter Never Increases And Instantly Fully Cools down
+author: FBML
 mode: once
 aob FC00602EEDA0F028 FC006090EDA0F028
 
 name: AoB Max And Infinite Contraband Money On Gain, Buy, Or Repair
+author: FBML
 mode: once
 aob 419D00647F844840 480000647F844840

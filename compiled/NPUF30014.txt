@@ -1,15 +1,18 @@
 # New Adventure Island
 
 name: Memory Infinite Health Time
+author: jgduff1
 mode: once
 w8 383AF6D2 0C
 w8 383AFB47 0C
 
 name: Memory Big Scores On Gain
+author: jgduff1
 mode: once
 w8 383AF6D7 FF
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w8 004D25C0 02
 w8 004D25C2 02

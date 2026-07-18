@@ -1,17 +1,21 @@
 # Chikyuu Boueigun 4
 
 name: Infinite Ammo
+author: jijibecali, games24.blog.fc2.com/blog-entry-182.html
 mode: once
 w32 003681CC 60000000
 
 name: Infinite Wing Energy
+author: jijibecali, games24.blog.fc2.com/blog-entry-182.html
 mode: once
 w32 002E9954 60000000
 
 name: AoB Infinite Ammo
+author: jijibecali, games24.blog.fc2.com/blog-entry-182.html
 mode: once
 aob 3084FFFF2C040000909A06E041810064 600000002C040000909A06E041810064
 
 name: AoB Infinite Wing + Shooting Energy
+author: jijibecali, games24.blog.fc2.com/blog-entry-182.html
 mode: once
 aob EC211828C0430114FC011000D0230118 60000000C0430114FC011000D0230118

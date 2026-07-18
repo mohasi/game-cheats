@@ -1,15 +1,18 @@
 # Sky Fighter
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 35151E80 40140000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 00197958 60000000
 w32 00197960 60000000
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 34A3B3BC 35392E39
 w32 34A3B3C0 37363031

@@ -1,6 +1,7 @@
 # Sonic The Hedgehog 4 - Episode II
 
 name: Free Super Sonic
+author: dron_3
 mode: once
 w32 00159DC4 60000000
 w32 00159DD0 2F80FFFF
@@ -8,62 +9,77 @@ w32 00164F4C 39290000
 w32 00164F58 2F80FFFF
 
 name: Rings Never Decrease
+author: dron_3
 mode: once
 w32 001FAA64 7CE53B78
 
 name: Max Rings on Gain
+author: dron_3
 mode: once
 w32 0015D1C0 60000000
 
 name: Lives Never Decrease
+author: dron_3
 mode: once
 w32 001B2B3C 39290000
 
 name: Max Lives on Gain
+author: dron_3
 mode: once
 w32 0015972C 48000018
 
 name: Freeze Time
+author: dron_3
 mode: once
 w32 001B2BF8 39290000
 
 name: Special Stage Freeze Time
+author: dron_3
 mode: once
 w32 0035A9C4 60000000
 
 name: Special Stage Max Rings
+author: dron_3
 mode: once
 w32 0035B3A4 392003E7
 
 name: AoB Free Super Sonic
+author: dron_3
 mode: once
 aob 409EFFCCA00B003E7C0007342F800031 60000000A00B003E7C0007342F80FFFF
 aob 3929FFFF7D200734B13A003E2F800000 392900007D200734B13A003E2F80FFFF
 
 name: AoB Rings Never Decrease
+author: dron_3
 mode: once
 aob 7CBE38507C060378 7CE53B787C060378
 
 name: AoB Max Rings on Gain
+author: dron_3
 mode: once
 aob 409D000C392003E7 60000000392003E7
 
 name: AoB Lives Never Decrease
+author: dron_3
 mode: once
 aob 3929FFFF913F0038801F0038 39290000913F0038801F0038
 
 name: AoB Max Lives on Gain
+author: dron_3
 mode: once
 aob 2F8003E7419D0018 2F8003E748000018
 
 name: AoB Freeze Time
+author: dron_3
 mode: once
 aob 39290001913F0014 39290000913F0014
 
 name: AoB Special Stage Freeze Time
+author: dron_3
 mode: once
 aob 2B898C9E38090001419D000890030000 2B898C9E38090001419D000860000000
 
 name: AoB Special Stage Max Rings
+author: dron_3
 mode: once
 aob 382100707C0803A639290001 382100707C0803A6392003E7

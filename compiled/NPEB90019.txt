@@ -1,6 +1,7 @@
 # Clive Barker's Jericho
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 56A8F4B8 0000002D
 w32 55EED7A4 000003E0
@@ -9,6 +10,7 @@ w32 56A8F688 00000005
 w32 56E1F1B8 0000000C
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 000D98A8 60000000
 w32 000DE574 60000000
@@ -16,21 +18,25 @@ w32 000DE6BC 60000000
 w32 000D9B64 60000000
 
 name: Memory Infinite Clip
+author: jgduff1
 mode: once
 w32 56A8F8BC 000003E7
 w32 56A8F688 00000005
 
 name: ASM Infinite Clip
+author: jgduff1
 mode: once
 w32 000DC444 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 56EEE760 0000004B
 w32 575C2B10 0000004B
 w32 576A6550 0000004B
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000CA07C 60000000
 w32 000CA094 60000000

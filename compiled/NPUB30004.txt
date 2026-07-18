@@ -1,16 +1,19 @@
 # Mortal Kombat II
 
 name: P1 Infinite Health
+author: optantic
 mode: once
 w8 53B8C870 A1
 w8 53B8CC2E A1
 
 name: Infinite Fatality Time After Finish Him
+author: optantic
 mode: once
 w8 53B8E12B 01
 w8 53B8E209 01
 
 name: Infinite Health P1
+author: GuitarMan
 mode: once
 w32 0014ED60 280AC05A
 w32 0014ED64 4082000C
@@ -21,6 +24,7 @@ w32 0014ED74 480175A6
 w32 000175A0 4814ED62
 
 name: Press Start To Kill P2
+author: GuitarMan
 mode: once
 w32 0014ED84 280AC1D8
 w32 0014ED88 40820020
@@ -36,6 +40,7 @@ w32 0014EDAC 480174AE
 w32 000174A8 4814ED86
 
 name: Infinite Time + Fatality Time
+author: GuitarMan
 mode: once
 w32 0014EDD0 A3670008
 w32 0014EDD4 281B0B00
@@ -54,6 +59,7 @@ w32 0014EE04 48036C8E
 w32 00036C88 4814EDD2
 
 name: Easy Moves Press R1
+author: GuitarMan
 mode: once
 w32 0014EE20 A0C90002
 w32 0014EE24 28068FF5

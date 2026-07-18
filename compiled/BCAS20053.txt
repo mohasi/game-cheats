@@ -1,11 +1,13 @@
 # Disgaea 3: Absence of Justice
 
 name: Infinite Actions In Battle
+author: bungholio
 mode: once
 w32 0015096C 90830430
 w32 00150970 4BF44359
 
 name: Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 000D0F80 8817042F
 w32 000D0F84 2F800000
@@ -15,6 +17,7 @@ w32 000D0F90 48000008
 w32 000D0F94 E80B09D0
 
 name: Infinite SP For You, 0 SP For Enemies
+author: bungholio
 mode: once
 w32 0013CE80 880A042F
 w32 0013CE84 2F800000
@@ -24,456 +27,565 @@ w32 0013CE90 3C000000
 w32 0013CE94 F80B09C8
 
 name: Can Control Anything In Battle
+author: bungholio
 mode: once
 w32 00150918 60000000
 w32 00150928 60000000
 
 name: Special Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00038A34 60000000
 
 name: Normal Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00038CB4 60000000
 
 name: All Normal Attacks Miss
+author: bungholio
 mode: once
 w32 0003733C 60000000
 
 name: Sell An Item For The Max Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 w32 00087AF4 60000000
 
 name: Rank A And B Created Or Reincarnated Characters Do Not Need Approval
+author: bungholio
 mode: once
 w32 001B2B00 60000000
 
 name: All Homeroom Representatives Love You
+author: bungholio
 mode: once
 w32 001A7544 38007FFF
 w32 001A75CC 38007FFF
 
 name: Mystery Gate Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00064568 38000001
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 1 HP
+author: bungholio
 mode: once
 w32 0007E194 38000001
 
 name: Class World Dropouts Start With 1 HP
+author: bungholio
 mode: once
 w32 0008A258 38000001
 
 name: Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 000FBF8C 38000001
 
 name: Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 0010DA1C 38000001
 
 name: Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 0012BB24 38000001
 
 name: Homeroom Representatives Start With 1 HP
+author: bungholio
 mode: once
 w32 001A74A0 38000001
 
 name: Mystery Gate Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 0006445C 38000000
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 w32 0007E19C 38000000
 
 name: Class World Dropouts Start With 0 SP
+author: bungholio
 mode: once
 w32 0008A264 38000000
 
 name: Item World Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 000FBF98 38000000
 
 name: Story Mode Enemy Base Panel Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 0010DA28 38000000
 
 name: Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 0012BB30 38000000
 
 name: Homeroom Representatives Start With 0 SP
+author: bungholio
 mode: once
 w32 001A74AC 38000000
 
 name: In Battle Character Aptitudes Are 255
+author: bungholio
 mode: once
 w32 0007A1F4 38E000FF
 
 name: In Battle Character Aptitudes Are 0
+author: bungholio
 mode: once
 w32 0007A1F4 38E00000
 
 name: In Battle Character Elemental Resistances Are 99
+author: bungholio
 mode: once
 w32 0007C2B8 38000063
 
 name: In Battle Character Elemental Resistances Are 0
+author: bungholio
 mode: once
 w32 0007C2B8 38000000
 
 name: In Battle Character Move Ranges Are 127
+author: bungholio
 mode: once
 w32 0007C324 60000000
 w32 0007C328 3800007F
 
 name: In Battle Character Jump Heights Are 127
+author: bungholio
 mode: once
 w32 0007A5FC 60000000
 w32 0007A600 3B40007F
 
 name: In Battle Character Counter Attack Counts Are 255
+author: bungholio
 mode: once
 w32 0007C2FC 60000000
 w32 0007C300 380000FF
 
 name: In Battle Character Throwing Distances Are 255
+author: bungholio
 mode: once
 w32 0007C310 60000000
 w32 0007C314 380000FF
 
 name: In Battle Character Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 0007C338 60000000
 w32 0007C33C 3800007F
 
 name: In Battle Character Critical Rates Are 127%
+author: bungholio
 mode: once
 w32 0007A630 3929007F
 
 name: All Skills At Level 99
+author: bungholio
 mode: once
 w32 00077E7C 2F850000
 
 name: In Battle Character Skill Boost Levels Are 9
+author: bungholio
 mode: once
 w32 00077E14 60000000
 w32 00077E18 38000009
 
 name: New Item Rarities Are Legendary
+author: bungholio
 mode: once
 w32 0007420C 38600002
 w32 00074210 60000000
 
 name: New Item MV Values Are 127
+author: bungholio
 mode: once
 w32 00074160 3800007F
 
 name: New Item JMP Values Are 127
+author: bungholio
 mode: once
 w32 00074168 3800007F
 
 name: New Item Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 00074140 3800007F
 
 name: New Item Critical Hit Rates Are 255%
+author: bungholio
 mode: once
 w32 00074148 380000FF
 
 name: New Item Innocent Levels Are 19998, Yellow, And Transferable
+author: bungholio
 mode: once
 w32 000745CC 60000000
 w32 000745D0 38004E1F
 
 name: New Item Innocent Populations Are Full
+author: bungholio
 mode: once
 w32 000745E0 2F9A0008
 
 name: New Item Population Capacities Are 8
+author: bungholio
 mode: once
 w32 00074324 38000008
 
 name: Newly Created Or Reincarnated Characters Start With Max Mana
+author: bungholio
 mode: once
 w32 0007DA10 3C000099
 
 name: Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 0018C9D0 3C000098
 w32 0018C9D4 6000967F
 
 name: Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 0018CA50 3C000098
 w32 0018CA54 6000967F
 
 name: Buy A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 w32 0018CE8C 3C000098
 w32 0018CE90 6000967F
 
 name: Buy Something From The Skill World For Max Mana
+author: bungholio
 mode: once
 w32 0019097C 3C000098
 w32 00190980 6000967F
 
 name: Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 w32 001AC804 3C000098
 w32 001AC808 6000967F
 
 name: Enter The Reincarnate Or Create A New Character Menus For Max Mana
+author: bungholio
 mode: once
 w32 001B28B0 3C000098
 w32 001B28B4 6000967F
 
 name: Max Mana After Multiple Units Kill Anything Together
+author: bungholio
 mode: once
 w32 000D2BC4 60000000
 
 name: Max Mana After Tower Attacks
+author: bungholio
 mode: once
 w32 000D1DD0 60000000
 
 name: Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 w32 000D3FB0 60000000
 
 name: Max EXP After Using A Healing Or Support Special
+author: bungholio
 mode: once
 w32 000D4FEC 60000000
 
 name: Max EXP From Group + Tower Attacks
+author: bungholio
 mode: once
 w32 000D3944 60000000
 
 name: AoB Infinite Actions In Battle
+author: bungholio
 mode: once
 aob 4BF48D7D60000000 908304304BF48D79
 
 name: AoB Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 aob 540918387D2907B47D344A14E80B09C0E92900087C090050 8817042F2F800000419E000C3800000048000008E80B09D0
 
 name: AoB Infinite SP For You, 0 SP For Enemies
+author: bungholio
 mode: once
 aob 8127083C7D2907B4E80B09C87C090050F80B09C8816A0074 880A042F2F800000E80B09D8419E00083C000000F80B09C8
 
 name: AoB Can Control Anything In Battle
+author: bungholio
 mode: once
 aob 480000C8880B042F7C1C07742C1C000040820064 60000000880B042F7C1C07742C1C000060000000
 
 name: AoB All Normal Attacks Miss
+author: bungholio
 mode: once
 aob 7F64DB784BFFFA09 7F64DB7860000000
 
 name: AoB Sell An Item For The Max Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 aob 409D0008F81F03A0 60000000F81F03A0
 
 name: AoB Rank A And B Created Or Reincarnated Characters Do Not Need Approval
+author: bungholio
 mode: once
 aob 409E00208122C050 600000008122C050
 
 name: AoB All Homeroom Representatives Love You
+author: bungholio
 mode: once
 aob 7C004A14B01C041848000088 38007FFFB01C041848000088
 aob 7C004A14B01C0418813C0284 38007FFFB01C0418813C0284
 
 name: AoB Mystery Gate Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 4801519960000000813D000081290074E80909D0 4801519960000000813D00008129007438000001
 
 name: AoB Item World Geoblocks, Treasure Chests, And Innocents Start With 1 HP
+author: bungholio
 mode: once
 aob 4BFFB571881F0AD7981D01A7881F0AD8981D01AAE81F09D0 4BFFB571881F0AD7981D01A7881F0AD8981D01AA38000001
 
 name: AoB Class World Dropouts Start With 1 HP
+author: bungholio
 mode: once
 aob B0090AB6813D0074E80909D0 B0090AB6813D007438000001
 
 name: AoB Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 419E02B888090AD7981F01A788090AD8981F01AAE80909D0 419E02B888090AD7981F01A788090AD8981F01AA38000001
 
 name: AoB Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 4BF6BCE160000000813E0074E80909D0 4BF6BCE160000000813E007438000001
 
 name: AoB Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 60000000813C0074E80909D0 60000000813C007438000001
 
 name: AoB Homeroom Representatives Start With 1 HP
+author: bungholio
 mode: once
 aob 981C01AAE80909D0 981C01AA38000001
 
 name: AoB Mystery Gate Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C8807D0000 38000000F80909C8807D0000
 
 name: AoB Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 aob E81F09D8F81F09C8A09F0AB07FA3EB787C8407344801FF19 38000000F81F09C8A09F0AB07FA3EB787C8407344801FF19
 
 name: AoB Class World Dropouts Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C888DE0ADA 38000000F80909C888DE0ADA
 
 name: AoB Item World Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C82FBB0000 38000000F80909C82FBB0000
 
 name: AoB Story Mode Enemy Base Panel Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C838180001 38000000F80909C838180001
 
 name: AoB Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C838140001 38000000F80909C838140001
 
 name: AoB Homeroom Representatives Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C8923C0284 38000000F80909C8923C0284
 
 name: AoB In Battle Character Aptitudes Are 255
+author: bungholio
 mode: once
 aob 2FA000FF409D0008 2FA000FF38E000FF
 
 name: AoB In Battle Character Aptitudes Are 0
+author: bungholio
 mode: once
 aob 2FA000FF409D0008 2FA000FF38E00000
 
 name: AoB In Battle Character Elemental Resistances Are 99
+author: bungholio
 mode: once
 aob 2FA00063409D0008 2FA0006338000063
 
 name: AoB In Battle Character Elemental Resistances Are 0
+author: bungholio
 mode: once
 aob 2FA00063409D0008 2FA0006338000000
 
 name: AoB In Battle Character Move Ranges Are 127
+author: bungholio
 mode: once
 aob 409D000C38000020 600000003800007F
 
 name: AoB In Battle Character Jump Heights Are 127
+author: bungholio
 mode: once
 aob 409D00083B400063 600000003B40007F
 
 name: AoB In Battle Character Counter Attack Counts Are 255
+author: bungholio
 mode: once
 aob 409D000C3800000998180AC9 60000000380000FF98180AC9
 
 name: AoB In Battle Character Throwing Distances Are 255
+author: bungholio
 mode: once
 aob 409D000C3800000998180ACA88180AC7 60000000380000FF98180ACA88180AC7
 
 name: AoB In Battle Character Attack Ranges Are 127
+author: bungholio
 mode: once
 aob 409D000C3800000998180AD6 600000003800007F98180AD6
 
 name: AoB In Battle Character Critical Rates Are 127%
+author: bungholio
 mode: once
 aob 3929000599380B22 3929007F99380B22
 
 name: AoB All Skills At Level 99
+author: bungholio
 mode: once
 aob 480000102F850062 480000102F850000
 
 name: AoB In Battle Character Skill Boost Levels Are 9
+author: bungholio
 mode: once
 aob 409D000C3800000998090000 600000003800000998090000
 
 name: AoB New Item Rarities Are Legendary
+author: bungholio
 mode: once
 aob 409D00183860000848044419 386000026000000048044419
 
 name: AoB New Item MV Values Are 127
+author: bungholio
 mode: once
 aob A00300CE981E00EC 3800007F981E00EC
 
 name: AoB New Item JMP Values Are 127
+author: bungholio
 mode: once
 aob 880300AF981E00ED 3800007F981E00ED
 
 name: AoB New Item Attack Ranges Are 127
+author: bungholio
 mode: once
 aob 880300AE981E00EF 3800007F981E00EF
 
 name: AoB New Item Critical Hit Rates Are 255%
+author: bungholio
 mode: once
 aob 880300B1981E00F2 380000FF981E00F2
 
 name: AoB New Item Innocent Levels Are 19998, Yellow, And Transferable
+author: bungholio
 mode: once
 aob 409E000C38000001901C0000 6000000038004E1F901C0000
 
 name: AoB New Item Innocent Populations Are Full
+author: bungholio
 mode: once
 aob 7C1A07B47F99D000 7C1A07B42F9A0008
 
 name: AoB New Item Population Capacities Are 8
+author: bungholio
 mode: once
 aob 381F000478000620 381F000438000008
 
 name: AoB Newly Created Or Reincarnated Characters Start With Max Mana
+author: bungholio
 mode: once
 aob 981B0ADD38000000 981B0ADD3C000099
 
 name: AoB Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF71B1 3C0000986000967F901C0A707F83E3787FA4EB784BFF71B1
 
 name: AoB Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF71E9 3C0000986000967F901C0A707F83E3787FA4EB784BFF71E9
 
 name: AoB Buy A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1D0050901C0A7038010080 3C0000986000967F901C0A7038010080
 
 name: AoB Buy Something From The Skill World For Max Mana
+author: bungholio
 mode: once
 aob 801E0A707C1F0050901E0A70893E0B2F 3C0000986000967F901E0A70893E0B2F
 
 name: AoB Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 aob 80070A707C03005090070A708122C3C0 3C0000986000967F90070A708122C3C0
 
 name: AoB Enter The Reincarnate Or Create A New Character Menus For Max Mana
+author: bungholio
 mode: once
 aob 80090A707C1B0050 3C0000986000967F
 
 name: AoB Max Mana After Multiple Units Kill Anything Together
+author: bungholio
 mode: once
 aob 7C00921478000020901F0A703D2000986129967F7F804840409D0008 7C00921478000020901F0A703D2000986129967F7F80484060000000
 
 name: AoB Max Mana After Tower Attacks
+author: bungholio
 mode: once
 aob 807F00743D2000986129967F80030A707F804840409D0008 807F00743D2000986129967F80030A707F80484060000000
 
 name: AoB Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 aob 409D0008F92B00008122A070 60000000F92B00008122A070
 
 name: AoB Max EXP After Using A Healing Or Support Special
+author: bungholio
 mode: once
 aob 409D0008F92B0000A01C0078 60000000F92B0000A01C0078
 
 name: AoB Max EXP From Group + Tower Attacks
+author: bungholio
 mode: once
 aob 409D0008F9230000 60000000F9230000
 
 name: Infinite Actions In Battle
+author: bungholio
 mode: once
 w32 00155E04 90830430
 w32 00155E08 4BF44359
 
 name: Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 000D2D88 8817042F
 w32 000D2D8C 2F800000
@@ -483,6 +595,7 @@ w32 000D2D98 48000008
 w32 000D2D9C E80B09D0
 
 name: Infinite SP For You, 0 SP For Enemies
+author: bungholio
 mode: once
 w32 00142428 880A042F
 w32 0014242C 2F800000
@@ -492,230 +605,283 @@ w32 00142438 3C000000
 w32 0014243C F80B09C8
 
 name: Special Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00038600 60000000
 
 name: Normal Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00038880 60000000
 
 name: All Normal Attacks Miss
+author: bungholio
 mode: once
 w32 00036FC8 60000000
 
 name: Sell An Item For The Max Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 w32 0018F1D0 60000000
 
 name: Rank A And B Created Or Reincarnated Characters Do Not Need Approval
+author: bungholio
 mode: once
 w32 001BF14C 60000000
 
 name: All Homeroom Representatives Love You
+author: bungholio
 mode: once
 w32 001B1708 38007FFF
 w32 001B1790 38007FFF
 
 name: Mystery Gate Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00065208 38000001
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 1 HP
+author: bungholio
 mode: once
 w32 0007EE34 38000001
 
 name: Class World Dropouts Start With 1 HP
+author: bungholio
 mode: once
 w32 0008AF38 38000001
 
 name: Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 000FF06C 38000001
 
 name: Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00110C78 38000001
 
 name: Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00131548 38000001
 
 name: Homeroom Representatives Start With 1 HP
+author: bungholio
 mode: once
 w32 001B1664 38000001
 
 name: Mystery Gate Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 00065218 38000000
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 w32 0007EE3C 38000000
 
 name: Class World Dropouts Start With 0 SP
+author: bungholio
 mode: once
 w32 0008AF44 38000000
 
 name: Item World Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 000FF078 38000000
 
 name: Story Mode Enemy Base Panel Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 00110C84 38000000
 
 name: Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 00131554 38000000
 
 name: Homeroom Representatives Start With 0 SP
+author: bungholio
 mode: once
 w32 001B1670 38000000
 
 name: In Battle Characters Aptitudes Are 255
+author: bungholio
 mode: once
 w32 0007AE94 38E000FF
 
 name: In Battle Characters Aptitudes Are 0
+author: bungholio
 mode: once
 w32 0007AE94 38E00000
 
 name: In Battle Characters Elemental Resistances Are 99
+author: bungholio
 mode: once
 w32 0007CF58 38000063
 
 name: In Battle Characters Elemental Resistances Are 0
+author: bungholio
 mode: once
 w32 0007CF58 38000000
 
 name: In Battle Characters Move Ranges Are 127
+author: bungholio
 mode: once
 w32 0007CFC4 60000000
 w32 0007CFC8 3800007F
 
 name: In Battle Characters Jump Heights Are 127
+author: bungholio
 mode: once
 w32 0007B29C 60000000
 w32 0007B2A0 3B40007F
 
 name: In Battle Characters Counter Attack Counts Are 255
+author: bungholio
 mode: once
 w32 0007CF9C 60000000
 w32 0007CFA0 380000FF
 
 name: In Battle Characters Throwing Distances Are 255
+author: bungholio
 mode: once
 w32 0007CFB0 60000000
 w32 0007CFB4 380000FF
 
 name: In Battle Characters Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 0007CFD8 60000000
 w32 0007CFDC 3800007F
 
 name: In Battle Characters Critical Rates Are 127%
+author: bungholio
 mode: once
 w32 0007B2D0 3929007F
 
 name: In Battle Characters Skill Levels Are 99
+author: bungholio
 mode: once
 w32 00078B1C 2F850000
 
 name: In Battle Characters Skill Boost Levels Are 9
+author: bungholio
 mode: once
 w32 00078AB4 60000000
 w32 00078AB8 38000009
 
 name: New Item MV Values Are 127
+author: bungholio
 mode: once
 w32 00074E00 3800007F
 
 name: New Item JMP Values Are 127
+author: bungholio
 mode: once
 w32 00074E08 3800007F
 
 name: New Item Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 00074DE0 3800007F
 
 name: New Item Critical Hit Rates Are 255%
+author: bungholio
 mode: once
 w32 00074DE8 380000FF
 
 name: New Items Innocents Are Always Rare
+author: bungholio
 mode: once
 w32 00074EAC 38600002
 w32 00074EB0 60000000
 w32 00074EB4 48045581
 
 name: New Items Innocent Levels Are 19998, Yellow, And Transferable
+author: bungholio
 mode: once
 w32 0007526C 60000000
 w32 00075270 38004E1F
 
 name: New Item Innocent Populations Are Full
+author: bungholio
 mode: once
 w32 00075280 2F9A0008
 
 name: New Item Population Capacities Are 8
+author: bungholio
 mode: once
 w32 00074FC4 38000008
 
 name: Newly Created Or Reincarnated Characters Start With Max Mana
+author: bungholio
 mode: once
 w32 0007E6B0 3C000099
 
 name: Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 00194BCC 3C000098
 w32 00194BD0 6000967F
 
 name: Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 00194C4C 3C000098
 w32 00194C50 6000967F
 
 name: Buy A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 w32 00195070 3C000098
 w32 00195074 6000967F
 
 name: Buy Something From The Skill World For Max Mana
+author: bungholio
 mode: once
 w32 001997DC 3C000098
 w32 001997E0 6000967F
 
 name: Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 w32 001B8E78 3C000098
 w32 001B8E7C 6000967F
 
 name: Enter The Reincarnate Or Create A New Character Menus For Max Mana
+author: bungholio
 mode: once
 w32 001BEF20 3C000098
 w32 001BEF24 6000967F
 
 name: Max Mana After Multiple Units Kill Anything Together
+author: bungholio
 mode: once
 w32 000D49CC 60000000
 
 name: Max Mana After Tower Attacks
+author: bungholio
 mode: once
 w32 000D4780 60000000
 
 name: Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 w32 000D5DB8 60000000
 
 name: Max EXP After Using A Healing Or Support Special
+author: bungholio
 mode: once
 w32 000D6CFC 60000000
 
 name: Max EXP From Group And Tower Attacks
+author: bungholio
 mode: once
 w32 000D574C 60000000
 
 name: Temporary Stat Boosts Last Forever
+author: bungholio
 mode: once
 w32 0014C254 39290000
 w32 0014C2A4 39290000
@@ -723,26 +889,31 @@ w32 0014C2F0 39290000
 w32 0014C34C 39290000
 
 name: Magichange Uses Never Decrease
+author: bungholio
 mode: once
 w32 0014B6DC 38090000
 
 name: Can Use All Weapon-Specific Skills Without Correct Equipment
+author: bungholio
 mode: once
 w32 000787A4 88030165
 w32 00138BE0 881F0165
 w32 0013F658 88030165
 
 name: Unlimited Create A Character Or Reincarnate Bonus Points
+author: bungholio
 mode: once
 w32 001BB4EC 60000000
 w32 001BB558 60000000
 w32 001BBD04 38000000
 
 name: Unlimited Dispatch
+author: bungholio
 mode: once
 w32 00134E08 60000000
 
 name: Press Select To Instantly Win A Stage
+author: bungholio
 mode: once
 w32 00238190 8809042F
 w32 00238194 3D2001A8
@@ -754,6 +925,7 @@ w32 002381A8 481786E6
 w32 001786E0 48238192
 
 name: Can Control Anything
+author: bungholio
 mode: once
 w32 00155DB0 60000000
 w32 00155DC0 60000000
@@ -761,18 +933,22 @@ w32 00151A88 60000000
 w32 00151A94 4800019C
 
 name: Max Hospital HP Healed From Any HP Healed
+author: bungholio
 mode: once
 w32 001902A0 60000000
 
 name: Max Hospital SP Regained From Any SP Regained
+author: bungholio
 mode: once
 w32 001902B8 60000000
 
 name: Max Hospital Revives From 1 Revive
+author: bungholio
 mode: once
 w32 00190288 60000000
 
 name: Never Skipped Any Item World Levels
+author: bungholio
 mode: once
 w32 00237E7C 912BFFFC
 w32 00237E80 912B0000
@@ -780,6 +956,7 @@ w32 00237E84 48173902
 w32 001738FC 48237E7E
 
 name: Always Killed All Encountered Enemies
+author: bungholio
 mode: once
 w32 00237EA4 912B0000
 w32 00237EA8 912B0004
@@ -787,16 +964,19 @@ w32 00237EAC 4807EF6E
 w32 0007EF68 48237EA6
 
 name: Item General, Item King, And Item God Always Defeated
+author: bungholio
 mode: once
 w32 0017E0B4 38000001
 
 name: Bonus Gauge Always Full
+author: bungholio
 mode: once
 w32 0007B690 3BA00009
 w32 0007B6A0 B3A967F4
 w32 0007B6A4 48048629
 
 name: Evility Modifier
+author: bungholio
 mode: once
 w32 00240790 3CC001A8
 w32 00240794 8806A827
@@ -828,6 +1008,7 @@ w32 000B3408 48240792
 w32 000E4E6C 60000000
 
 name: Special Skill Modifier
+author: bungholio
 mode: once
 w32 00246010 3C6001A8
 w32 00246014 8883A827
@@ -897,74 +1078,92 @@ w32 0023FD3C 480E972A
 w32 000E9724 4823FD0A
 
 name: AoB Infinite Actions In Battle
+author: bungholio
 mode: once
 aob 4BF4435D60000000 908304304BF44359
 
 name: AoB Sell An Item For The Maximum Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 aob 409D0008F81F03A0 60000000F81F03A0
 
 name: AoB Rank A And B Created Or Reincarnated Characters Do Not Need Approval To Be Created
+author: bungholio
 mode: once
 aob 409E00208122CEE8 600000008122CEE8
 
 name: AoB Class World Player Clone Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob B0090AB6813F0074E80909D0 B0090AB6813F007438000001
 
 name: AoB Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 419E03E888090AD7981F01A788090AD8981F01AAE80909D0 419E03E888090AD7981F01A788090AD8981F01AA38000001
 
 name: AoB Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 4BF6972560000000813E0074E80909D0 4BF6972560000000813E007438000001
 
 name: AoB Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 813B0074E80909D0 813B007438000001
 
 name: AoB Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 aob E81F09D8F81F09C8A09F0AB07FA3EB787C8407344801FCF1 38000000F81F09C8A09F0AB07FA3EB787C8407344801FCF1
 
 name: AoB Class World Player Clone Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C888DD0ADA 38000000F80909C888DD0ADA
 
 name: AoB Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C838120001 38000000F80909C838120001
 
 name: AoB New Item Rarities Are Legendary
+author: bungholio
 mode: once
 aob 409D00183860000848045581 386000026000000048045581
 
 name: AoB Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF4A2D 3C0000986000967F901C0A707F83E3787FA4EB784BFF4A2D
 
 name: AoB Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF4A65 3C0000986000967F901C0A707F83E3787FA4EB784BFF4A65
 
 name: AoB Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 aob 80070A707C03005090070A708122D308 3C0000986000967F90070A708122D308
 
 name: AoB Enter The Reincarnate Or Create A New Character Menus For Max Mana
+author: bungholio
 mode: once
 aob 80040A707C1D0050 3C0000986000967F
 
 name: AoB Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 aob 409D0008F92B00008122A3F0 60000000F92B00008122A3F0
 
 name: AoB Max EXP From Group And Tower Attacks
+author: bungholio
 mode: once
 aob 409D0008F9230000 60000000F9230000
 
 name: AoB Temporary Stat Boosts Last Forever
+author: bungholio
 mode: once
 aob 7C0903A6892A00007D2907743929FFFF 7C0903A6892A00007D29077439290000
 aob 7D2903A6892A00007D2907743929FFFF 7D2903A6892A00007D29077439290000
@@ -972,72 +1171,87 @@ aob 38E00003892A00007D2907743929FFFF 38E00003892A00007D29077439290000
 aob 7D6903A6892A00007D2907743929FFFF 7D6903A6892A00007D29077439290000
 
 name: AoB Magichange Uses Never Decrease
+author: bungholio
 mode: once
 aob 419E01043809FFFF 419E010438090000
 
 name: AoB Can Use All Weapon-Specific Skills Without Correct Equipment
+author: bungholio
 mode: once
 aob 89230165881D0AD7 8923016588030165
 aob 419D0944893F0165881E0AD7 419D0944893F0165881F0165
 aob 812A007488090AD7 812A007488030165
 
 name: AoB Unlimited Create A Character Or Reincarnate Bonus Points
+author: bungholio
 mode: once
 aob 800900002F800000409D00C8 800900002F80000060000000
 aob 7C0B07B47F835800419D0010 7C0B07B47F83580060000000
 aob 409E03E88122D3C8 409E03E838000000
 
 name: AoB Unlimited Dispatch
+author: bungholio
 mode: once
 aob 893E67FC3929FFFF 893E67FC60000000
 
 name: AoB Press Select To Instantly Win A Stage
+author: bungholio
 mode: once
 aob 0026030C00000000000000000000000000000000000000000000000000000000 0026030C8809042F3D2001A88929A81E2F890000419E000838000000481786E6
 aob 813B00008809042F 813B000048238192
 
 name: AoB Can Control Anything
+author: bungholio
 mode: once
 aob 480000C8880B042F7C1C07742C1C000040820064 60000000880B042F7C1C07742C1C000060000000
 aob 419D0010C002BC14FF9F0000409C019C 60000000C002BC14FF9F00004800019C
 
 name: AoB Max Hospital HP Healed From Any HP Healed
+author: bungholio
 mode: once
 aob 916967908162C5D0E922C8A0E80B03B87FA04800409D0008 916967908162C5D0E922C8A0E80B03B87FA0480060000000
 
 name: AoB Max Hospital SP Regained From Any SP Regained
+author: bungholio
 mode: once
 aob 409D0008F92B03C07FA3EB78 60000000F92B03C07FA3EB78
 
 name: AoB Max Hospital Revives From 1 Revive
+author: bungholio
 mode: once
 aob 800967907F805800409D0008 800967907F80580060000000
 
 name: AoB Never Skipped Any Item World Levels
+author: bungholio
 mode: once
 aob EBE5F72F000000000000000000000000 EBE5F72F912BFFFC912B000048173902
 aob 912B0000880A67FD2F800003409E01B4 48237E7E880A67FD2F800003409E01B4
 
 name: AoB Always Killed All Encountered Enemies
+author: bungholio
 mode: once
 aob 00260390000000000000000000000000 00260390912B0000912B00044807EF6E
 aob 912B0000386000004800000838600000E80100D07C0803A6EB210070EB410078EB610080EB810088EBA10090EBC10098EBE100A0CBA100A8CBC100B0CBE100B8382100C04E800020F821FF517C0802A6FBA10098FBC100A0FBE100A8F80100C07C7D1B787C8C23787CA62B78800101247C0807B480E1012C3BC00000816294C0380000A07C0903A61C1E04987C005A14781F0020881F01A57C0507742C05000041820018381E00017C1E07B44200FFDC3BC0FFFF48000044B3DF01C8F9410070F9010078F8E100807FE3FB787FA4EB787D8563787D2A4B784BFFFCD9 48237EA6386000004800000838600000E80100D07C0803A6EB210070EB410078EB610080EB810088EBA10090EBC10098EBE100A0CBA100A8CBC100B0CBE100B8382100C04E800020F821FF517C0802A6FBA10098FBC100A0FBE100A8F80100C07C7D1B787C8C23787CA62B78800101247C0807B480E1012C3BC00000816294C0380000A07C0903A61C1E04987C005A14781F0020881F01A57C0507742C05000041820018381E00017C1E07B44200FFDC3BC0FFFF48000044B3DF01C8F9410070F9010078F8E100807FE3FB787FA4EB787D8563787D2A4B784BFFFCD9
 
 name: AoB Item General, Item King, And Item God Always Defeated
+author: bungholio
 mode: once
 aob 600000008122C3A438000000 600000008122C3A438000001
 
 name: AoB Bonus Gauge Always Full
+author: bungholio
 mode: once
 aob A3A967F47F03C3783880008238A000004804862D60000000 3BA000097F03C3783880008238A00000B3A967F448048629
 
 name: AoB Evility Modifier
+author: bungholio
 mode: once
 aob 57000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 57000000000000003CC001A88806A8272F800000419E0054A3E300088806A8193D0001F989280224980802242F800000419E00147F890040419E00303BFFFFFF480000248806A81B89280225980802252F800000419E00147F890040419E000C3BFF0001B3E300087C9F2378480B340E
 aob F80101A07C9F2378 F80101A048240792
 aob 7D29F21479230020A00300082F800000419E0014 7D29F21479230020A00300082F80000060000000
 
 name: AoB Special Skill Modifier
+author: bungholio
 mode: once
 aob 8294828F000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 8294828F00000000000000003C6001A88883A8272F840000419E006C8883A81C3CA001F92F840000419E001838800001B085022838800000B085022648000048A10502288883A81988E5022A9885022A2F840000419E00187F843840419E00281D080002B10502284800001C8883A81A2F840000419E0010A0C502267D083378B10502267FA307B4480A75623CC001A83D0001F98806A8282F800000419E0010A0C80226B0C9000C480000188806A8252F800000419E000CA0C9000CB0C8022648139A9E
 aob 0000007F8E7792E8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0000007F8E7792E8000000003CC001A83D0001F98806A8282F800000419E0010A0C80226B0DD0008480000188806A8252F800000419E000CA0DD0008B0C80226480E972A
@@ -1046,11 +1260,13 @@ aob A12901407D2907345529083C392907D07D2907B47D3E4A14A069000C7C630734 A12901407D2
 aob 60000000A07D0008 4823FD0AA07D0008
 
 name: Infinite Actions In Battle
+author: bungholio
 mode: once
 w32 001859A4 90830438
 w32 001859A8 4BF269FD
 
 name: Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 000E7250 88170437
 w32 000E7254 2F800000
@@ -1060,6 +1276,7 @@ w32 000E7260 48000008
 w32 000E7264 E80B09D0
 
 name: Infinite SP For You, 0 SP For Enemies
+author: bungholio
 mode: once
 w32 0016F984 880A0437
 w32 0016F988 2F800000
@@ -1069,366 +1286,453 @@ w32 0016F994 3C000000
 w32 0016F998 F80B09C8
 
 name: Can Control Anything In Battle
+author: bungholio
 mode: once
 w32 00185950 60000000
 w32 00185960 60000000
 
 name: Special Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00040C14 60000000
 
 name: Normal Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00040F58 60000000
 
 name: All Normal Attacks Miss
+author: bungholio
 mode: once
 w32 0003F538 60000000
 
 name: Sell An Item For The Max Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 w32 001CB364 60000000
 
 name: Rank A And B Created Or Reincarnated Characters Do Not Need Approval
+author: bungholio
 mode: once
 w32 001FEC34 60000000
 
 name: All Homeroom Representatives Love You
+author: bungholio
 mode: once
 w32 001F05C8 38007FFF
 w32 001F0650 38007FFF
 
 name: Mystery Gate Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00070248 38000001
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 1 HP
+author: bungholio
 mode: once
 w32 0008CE9C 38000001
 
 name: Class World Dropouts Start With 1 HP
+author: bungholio
 mode: once
 w32 0009BA68 38000001
 
 name: Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00119314 38000001
 
 name: Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 00134094 38000001
 
 name: Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 w32 001566AC 38000001
 
 name: Homeroom Representatives Start With 1 HP
+author: bungholio
 mode: once
 w32 001F0524 38000001
 
 name: Mystery Gate Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 00070258 38000000
 
 name: Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 w32 0008CEA4 38000000
 
 name: Class World Dropouts Start With 0 SP
+author: bungholio
 mode: once
 w32 0009BA74 38000000
 
 name: Item World Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 00119320 38000000
 
 name: Story Mode Enemy Base Panel Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 001340A0 38000000
 
 name: Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 w32 001566B8 38000000
 
 name: Homeroom Representatives Start With 0 SP
+author: bungholio
 mode: once
 w32 001F0538 38000000
 
 name: In Battle Character Aptitudes Are 255
+author: bungholio
 mode: once
 w32 00088B10 38E000FF
 
 name: In Battle Character Aptitudes Are 0
+author: bungholio
 mode: once
 w32 00088B10 38E00000
 
 name: In Battle Character Elemental Resistances Are 99
+author: bungholio
 mode: once
 w32 0008AD24 38000063
 
 name: In Battle Character Elemental Resistances Are 0
+author: bungholio
 mode: once
 w32 0008AD24 38000000
 
 name: In Battle Character Move Ranges Are 127
+author: bungholio
 mode: once
 w32 0008AD90 60000000
 w32 0008AD94 3800007F
 
 name: In Battle Character Jump Heights Are 127
+author: bungholio
 mode: once
 w32 00088F18 60000000
 w32 00088F1C 3B40007F
 
 name: In Battle Character Counter Attack Counts Are 255
+author: bungholio
 mode: once
 w32 0008AD68 60000000
 w32 0008AD6C 380000FF
 
 name: In Battle Character Throwing Distances Are 255
+author: bungholio
 mode: once
 w32 0008AD7C 60000000
 w32 0008AD80 380000FF
 
 name: In Battle Character Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 0008ADA4 60000000
 w32 0008ADA8 3800007F
 
 name: In Battle Character Critical Rates Are 127%
+author: bungholio
 mode: once
 w32 00088F4C 3929007F
 
 name: In Battle Character Skill Levels Are 99
+author: bungholio
 mode: once
 w32 000860F4 2F850000
 
 name: In Battle Character Skill Boost Levels Are 9
+author: bungholio
 mode: once
 w32 00086080 60000000
 w32 00086084 38000009
 
 name: New Item Rarities Are Legendary
+author: bungholio
 mode: once
 w32 00080380 38600002
 w32 00080384 60000000
 
 name: New Item MV Values Are 127
+author: bungholio
 mode: once
 w32 000808D4 3800007F
 
 name: New Item JMP Values Are 127
+author: bungholio
 mode: once
 w32 000808DC 3800007F
 
 name: New Item Attack Ranges Are 127
+author: bungholio
 mode: once
 w32 000808B4 3800007F
 
 name: New Item Critical Hit Rates Are 255%
+author: bungholio
 mode: once
 w32 000808BC 380000FF
 
 name: New Item Innocent Levels Are 19998, Yellow, And Transferable
+author: bungholio
 mode: once
 w32 00080D40 60000000
 w32 00080D44 38004E1F
 
 name: New Item Innocent Populations Are Full
+author: bungholio
 mode: once
 w32 00080D54 2F9A0008
 
 name: New Item Population Capacities Are 8
+author: bungholio
 mode: once
 w32 0008A094 38000008
 
 name: Newly Created Or Reincarnated Characters Start With Max Mana
+author: bungholio
 mode: once
 w32 0008C714 3C000099
 
 name: Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 001D0FE0 3C000098
 w32 001D0FE4 6000967F
 
 name: Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 001D1060 3C000098
 w32 001D1064 6000967F
 
 name: Buy A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 w32 001D1484 3C000098
 w32 001D1488 6000967F
 
 name: Buy Something From The Skill World For Max Mana
+author: bungholio
 mode: once
 w32 001D5BF0 3C000098
 w32 001D5BF4 6000967F
 
 name: Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 w32 001F86E8 3C000098
 w32 001F86EC 6000967F
 
 name: Enter The Reincarnate Or Create A New Character Menus For Max Mana
+author: bungholio
 mode: once
 w32 001FEA08 3C000098
 w32 001FEA0C 6000967F
 
 name: Max Mana After Multiple Units Kill Anything Together
+author: bungholio
 mode: once
 w32 000E9028 60000000
 
 name: Max Mana After Tower Attacks
+author: bungholio
 mode: once
 w32 000E8000 60000000
 
 name: Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 w32 000EC02C 60000000
 
 name: Max EXP After Using A Healing Or Support Special
+author: bungholio
 mode: once
 w32 000EC02C 60000000
 
 name: Max EXP From Group + Tower Attacks
+author: bungholio
 mode: once
 w32 000E9E40 60000000
 
 name: AoB Max Mana After Battle
+author: bungholio
 mode: once
 aob 800B0A707F804840409D0008912B0A7080760074 800B0A707F890040409D0008912B0A7080760074
 
 name: AoB New Items Innocent Levels Are 19998, Yellow, And Transferable
+author: bungholio
 mode: once
 aob A01C00042F800048409E000C38000001 A01C00042F8000486000000038004E1F
 
 name: AoB Sell An Item For The Maximum Amount Of HL (9,999,999,999,999 HL)
+author: bungholio
 mode: once
 aob E802D4B87FBD0000409D0008 E802D4B87FBD000060000000
 
 name: AoB Infinite Actions In Battle
+author: bungholio
 mode: once
 aob 4BF26A0160000000 908304384BF269FD
 
 name: AoB Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 aob 55C918387D2907B47D344A14E80B09C0E92900087C090050 881704372F800000419E000C3800000048000008E80B09D0
 
 name: AoB Infinite SP For You, 0 SP For Enemies
+author: bungholio
 mode: once
 aob 812708807D2907B4E80B09C87C090050F80B09C8816A0074 880A04372F800000E80B09D8419E00083C000000F80B09C8
 
 name: AoB Can Control Anything In Battle
+author: bungholio
 mode: once
 aob 480000C8880B04377C1C07742C1C000040820064 60000000880B04377C1C07742C1C000060000000
 
 name: AoB Rank A And B Created Or Reincarnated Characters Do Not Need Approval
+author: bungholio
 mode: once
 aob 409E00208122DBF8 600000008122DBF8
 
 name: AoB All Homeroom Representatives Love You
+author: bungholio
 mode: once
 aob 7C004A14B01C042048000088 38007FFFB01C042048000088
 aob 7C004A14B01C0420813C0290 38007FFFB01C0420813C0290
 
 name: AoB Mystery Gate Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 480179C960000000813D000081290074E80909D0 480179C960000000813D00008129007438000001
 
 name: AoB Item World Geoblocks, Treasure Chests, And Innocents Start With 1 HP
+author: bungholio
 mode: once
 aob 4BFFAD79881F0AD7981D01A7881F0AD8981D01AAE81F09D0 4BFFAD79881F0AD7981D01A7881F0AD8981D01AA38000001
 
 name: AoB Class World Dropouts Start With 1 HP
+author: bungholio
 mode: once
 aob B0090AB6813F0074E80909D0 B0090AB6813F007438000001
 
 name: AoB Item World Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 419E07D888090AD7981F01A788090AD8981F01AAE80909D0 419E07D888090AD7981F01A788090AD8981F01AA38000001
 
 name: AoB Story Mode Enemy Base Panel Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 4BF53B7960000000813E0074E80909D0 4BF53B7960000000813E007438000001
 
 name: AoB Story Mode Enemies Start With 1 HP
+author: bungholio
 mode: once
 aob 4BF3156160000000813A0074E80909D0 4BF3156160000000813A007438000001
 
 name: AoB Item World Geoblocks, Treasure Chests, And Innocents Start With 0 SP
+author: bungholio
 mode: once
 aob E81F09D8F81F09C8A09F0AB07FA3EB787C84073448024461 38000000F81F09C8A09F0AB07FA3EB787C84073448024461
 
 name: AoB Class World Dropouts Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C888DD0ADA 38000000F80909C888DD0ADA
 
 name: AoB Story Mode Enemies Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C8E9210098 38000000F80909C8E9210098
 
 name: AoB Homeroom Representatives Start With 0 SP
+author: bungholio
 mode: once
 aob E80909D8F80909C8923C0290 38000000F80909C8923C0290
 
 name: AoB In Battle Character Jump Heights Are 127
+author: bungholio
 mode: once
 aob 409D00083A800063 600000003A800063
 
 name: AoB In Battle Character Counter Attack Counts Are 255
+author: bungholio
 mode: once
 aob 409D000C3800000998190AC9 60000000380000FF98190AC9
 
 name: AoB In Battle Character Throwing Distances Are 255
+author: bungholio
 mode: once
 aob 409D000C3800000998190ACA88190AC7 60000000380000FF98190ACA88190AC7
 
 name: AoB In Battle Character Attack Ranges Are 127
+author: bungholio
 mode: once
 aob 409D000C3800000998190AD6 600000003800007F98190AD6
 
 name: AoB In Battle Character Critical Rates Are 127%
+author: bungholio
 mode: once
 aob 3929000599390B22 3929007F99390B22
 
 name: AoB In Battle Character Skill Levels Are 99
+author: bungholio
 mode: once
 aob 480000102F850062 480000102F850000
 
 name: AoB New Item Rarities Are Legendary
+author: bungholio
 mode: once
 aob 409D0018386000084804C5B9 38600002600000004804C5B9
 
 name: AoB Boost A Non Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF391D 3C0000986000967F901C0A707F83E3787FA4EB784BFF391D
 
 name: AoB Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 801C0A707C1F0050901C0A707F83E3787FA4EB784BFF3955 3C0000986000967F901C0A707F83E3787FA4EB784BFF3955
 
 name: AoB Homeroom Stuff Maxes Out Mana
+author: bungholio
 mode: once
 aob 80070A707C03005090070A708122E038 3C0000986000967F90070A708122E038
 
 name: AoB Use Only 1 Unit To Kill Anything To Max Out EXP
+author: bungholio
 mode: once
 aob 409D0008F92B00008122A828 60000000F92B00008122A828
 
 name: AoB Infinite HP (Also affects enemies)
+author: CodeFreak
 mode: once
 aob 7C090050F80B09C0 7C09005060000000
 
 name: AoB Max Mana After Battle
+author: CodeFreak
 mode: once
 aob 800B0A707F804840409D0008912B0A7080770074 800B0A707F890040409D0008912B0A7080770074
 
 name: AoB Infinite SP (Also affects enemies)
+author: CodeFreak
 mode: once
 aob F80B09C8816A0074880B0B2389270607 60000000816A0074880B0B2389270607
 
 name: AoB Something 99,999
+author: CodeFreak
 mode: once
 aob F8090000813A000081690074 FAC90000813A000081690074

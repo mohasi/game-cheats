@@ -1,9 +1,11 @@
 # Shin Sangoku Musou 7 Empires
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 00883474 4E800020
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob F821FF717C0802A6F80100A0FBE10088607F00003061007048344635 4E8000207C0802A6F80100A0FBE10088607F00003061007048344635

@@ -1,29 +1,36 @@
 # 007 Legends
 
 name: No Damage From Enemy Bullets Or Melee
+author: DANNY G
 mode: once
 w32 001FCC10 60000000
 
 name: Dumb AI
+author: DANNY G
 mode: once
 w32 00029F00 60000000
 
 name: AoB No Damage From Enemy Bullets Or Melee
+author: DANNY G
 mode: once
 aob 4BFFE94D7C6307742F830000419E0010813F003C39290001913F003CE8010090EBE1 600000007C6307742F830000419E0010813F003C39290001913F003CE8010090EBE1
 
 name: AoB Dumb AI
+author: DANNY G
 mode: once
 aob 682AFBC10080FBE10088D01D01984BFEEEFD600000007C63 682AFBC10080FBE10088600000004BFEEEFD600000007C63
 
 name: No Damage From Enemy Bullets Or Melee
+author: DANNY G
 mode: once
 w32 001FBFC4 60000000
 
 name: No Damage From Enemy Bullets Or Melee
+author: DANNY G
 mode: once
 w32 001FCC1C 60000000
 
 name: Dumb AI
+author: DANNY G
 mode: once
 w32 00029F0C 60000000

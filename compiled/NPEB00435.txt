@@ -1,55 +1,67 @@
 # Beyond Good and Evil HD
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 316ED3DC C0A053C0
 w32 31CC6424 42A00000
 
 name: ASM Infinite Health
+author: jgduff
 mode: once
 w32 002B1338 60000000
 
 name: Memory Max + Infinite Credits
+author: jgduff1
 mode: once
 w32 31CC6434 000F423F
 
 name: ASM Infinite Credits After Buying
+author: jgduff
 mode: once
 w32 0034D6F0 60000000
 w32 004BCF2C 60000000
 w32 00A2235C 81290000
 
 name: ASM Infinite Items For Jade
+author: jgduff
 mode: once
 w32 00533690 39290000
 
 name: ASM Infinite Items For Pey'j
+author: jgduff
 mode: once
 w32 006BF46C 38090000
 
 name: Memory 99 Starkos
+author: jgduff1
 mode: once
 w32 31CC6C0C 00000063
 
 name: Memory Infinite Boost On Boat
+author: jgduff1
 mode: once
 w32 31CC6C28 00000063
 w32 31CC6DB8 00000063
 
 name: ASM Infinite Boost On Boat
+author: jgduff1
 mode: once
 w32 00324230 39290000
 
 name: Memory Infinite P.O.D. On Boat
+author: jgduff1
 mode: once
 w32 31CC6BD0 00000063
 w32 31CC6D60 0000005F
 
 name: ASM Infinite P.O.D. On Boat
+author: jgduff1
 mode: once
 w32 003232A4 39290000
 
 name: Memory 99 Blue Pearls
+author: jgduff1
 mode: once
 w32 31CC6C48 00000063
 w32 31CCA7B0 00000063

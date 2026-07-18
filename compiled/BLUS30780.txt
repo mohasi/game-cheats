@@ -1,13 +1,16 @@
 # The Bureau: XCOM Declassified
 
 name: Infinite Ammo + Grenades
+author: DANNY G
 mode: once
 w32 0073F874 60000000
 
 name: AoB Infinite Ammo + Grenades
+author: DANNY G
 mode: once
 aob 90BF0D4063E300004BFFFEAD807F0D407C6307B4E80100907C0803A6 6000000063E300004BFFFEAD807F0D407C6307B4E80100907C0803A6
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 01FB8D14 00000000

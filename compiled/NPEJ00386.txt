@@ -1,46 +1,56 @@
 # Rogue Legacy
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 332F680C 0000034E
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000728A4 90BF01AC
 
 name: Memory Invincible
+author: jgduff1
 mode: once
 w32 332F680C 0000034E
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 0022C018 90BC0250
 
 name: Memory Infinite Magic
+author: jgduff1
 mode: once
 w32 332F78E4 42700000
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 0020E0D8 60000000
 w32 0020E0DC 60000000
 
 name: Memory Max + Infinite Coin
+author: jgduff1
 mode: once
 w32 33960AD0 00000014
 
 name: ASM Max + Infinite Coin
+author: jgduff1
 mode: once
 w32 0023EAA4 38A0270F
 w32 0023EAA8 90030010
 
 name: Infinite HP + Infinite Mana + Invincible
+author: Randy97Killa
 mode: once
 w32 0020E0DC 60000000
 w32 0021DA74 60000000
 w32 002318EC 60000000
 
 name: Max Gold On Gain
+author: Randy97Killa
 mode: once
 w32 00AF12AC 3CA03B9A
 w32 00AF12B0 60A5C9FF
@@ -49,30 +59,36 @@ w32 00AF12B8 4B74D7F4
 w32 0023EAA8 488B2804
 
 name: AoB Infinite HP + Infinite Mana + Invincible
+author: Randy97Killa
 mode: once
 aob 3C800021607F00003864E0B4D03F01C4 3C800021607F00003864E0B460000000
 aob 634300004BFF0645306100D8485BD4F5 6343000060000000306100D8485BD4F5
 aob 4BFFBAB5306103B4485543E960000000 60000000306103B4485543E960000000
 
 name: AoB Max Gold On Gain
+author: Randy97Killa
 mode: once
 aob 00080008000800080080000000000000000000000000000000000000 0008000800080008008000003CA03B9A60A5C9FF90A300104B74D7F4
 aob 7C6307B44E80002038A000002C040000418000086085000090A300104E800020 7C6307B44E80002038A000002C0400004180000860850000488B28044E800020
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00070F4C 90BF01AC
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 0022A680 90BC0250
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 0020C740 60000000
 w32 0020C744 60000000
 
 name: ASM Max + Infinite Coin
+author: jgduff1
 mode: once
 w32 0023D10C 38A0270F
 w32 0023D110 90030010

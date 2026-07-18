@@ -1,22 +1,27 @@
 # Viking: Battle for Asgard
 
 name: Memory Lot + Infinite Gold On Gain
+author: jgduff1
 mode: once
 w32 10227890 0000001F
 
 name: ASM Lot + Infinite Gold On Gain
+author: jgduff1
 mode: once
 w32 003F1868 919E0404
 
 name: Memory Instant Max Health After Battle
+author: jgduff1
 mode: once
 w32 45B0BF38 0096000A
 
 name: ASM Instant Max Health After Battle
+author: jgduff1
 mode: once
 w32 00262EB0 B13F0038
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 40623FB0 00000000
 w32 45B0BF38 0096000A
@@ -33,30 +38,36 @@ w32 47C0326C 00000000
 w32 47C22BD8 000000D3
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00266400 7FA44850
 w32 0026641C B01F0038
 
 name: Memory Max Special Attack On 1 Hit
+author: jgduff1
 mode: once
 w32 10167728 00000044
 w32 102E9828 05010500
 w32 47C22BF8 00000005
 
 name: ASM Max Special Attack On 1 Hit
+author: jgduff1
 mode: once
 w32 003A22FC 98030000
 w32 003A22F0 39690005
 
 name: Memory Infinite Potion
+author: jgduff1
 mode: once
 w32 102278A4 00000003
 
 name: ASM Infinite Potion
+author: jgduff1
 mode: once
 w32 0018AF54 39290000
 
 name: Memory Infinite Magic
+author: jgduff1
 mode: once
 w32 400C4200 438AD77E
 w32 400C4208 C3102ACC
@@ -86,6 +97,7 @@ w32 48FC29D8 408EFA35
 w32 48FC2A10 408EFA35
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 004E5334 60000000
 w32 004E533C 60000000
@@ -101,39 +113,48 @@ w32 006A1D68 92AC000C
 w32 006A1D6C 92AC0004
 
 name: Memory Infinite Hatchet
+author: jgduff1
 mode: once
 w32 102278AC 00000008
 
 name: ASM Infinite Hatchet
+author: jgduff1
 mode: once
 w32 0019E158 39290000
 
 name: Memory Infinite Bomb
+author: jgduff1
 mode: once
 w32 102278B4 00000003
 w32 1042DB74 00000003
 
 name: Infinite Bombs
+author: jgduff1
 mode: once
 w32 0019E10C 39290000
 
 name: Infinite Hatchets
+author: jgduff1
 mode: once
 w32 0019E158 39290000
 
 name: Max Special Attack On 1 Hit
+author: jgduff1
 mode: once
 w32 003A22F0 39690005
 w32 003A22FC 98030000
 
 name: Infinite Potion
+author: jgduff1
 mode: once
 w32 0018AF54 39290000
 
 name: Instant Max Health After Battle
+author: jgduff1
 mode: once
 w32 00262EB0 B13F0038
 
 name: Max + Infinite Gold On Gain
+author: jgduff1
 mode: once
 w32 003F1868 919E0404

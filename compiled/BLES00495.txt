@@ -1,6 +1,7 @@
 # Eat Lead: The Return of Matt Hazard
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 00298CBC 60000000
 w32 004A6F64 7C005A14

@@ -1,79 +1,98 @@
 # Resident Evil 6
 
 name: Max Money On Gain
+author: ciao1102
 mode: once
 w32 01036F70 3880FFFF
 
 name: Max Moral
+author: ciao1102
 mode: once
 w32 01483F10 38000063
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 009A5BE8 905F0058
 
 name: AoB Max Money On Gain
+author: ciao1102
 mode: once
 aob 7C9E02147F841840 3880FFFF7F841840
 
 name: AoB Max Moral
+author: ciao1102
 mode: once
 aob 7C0022147C9E2378 380000637C9E2378
 
 name: Invincible Mode 1
+author: xtatu
 mode: once
 w32 00272FC4 418101C0
 
 name: Invincible Mode 3
+author: xtatu
 mode: once
 w32 00828EA8 418206C0
 
 name: Infinite Stamina
+author: xtatu
 mode: once
 w32 0082B654 00000000
 
 name: Invincible Mode
+author: xtatu
 mode: once
 w32 0025B254 418101C0
 
 name: Invincible Mode 2
+author: xtatu
 mode: once
 w32 0024EA54 41810074
 
 name: Max Skill Points On Gain
+author: Skiller
 mode: once
 w32 00779D2C 60000000
 
 name: Max Score In Mercenaries Always S Rank
+author: Skiller
 mode: once
 w32 001688FC 60000000
 
 name: Always 0 Deaths Campaigns
+author: Skiller
 mode: once
 w32 006E6068 3C800000
 w32 006E607C 909C0018
 
 name: Max Kills Campaigns
+author: Skiller
 mode: once
 w32 006E608C 60000000
 
 name: Infinite Energy + Stamina
+author: xtatu
 mode: once
 w32 007EAAE0 00000000
 
 name: Zombie + Dog No Attack
+author: xtatu
 mode: once
 w32 007E6F70 4182000C
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 007E709C 4082000C
 
 name: Infinite Ammo + No Reload + Grenade
+author: vosman
 mode: once
 w32 00B7F0CC 60000000
 
 name: Zombies Can Not Grab
+author: xtatu
 mode: once
 w32 00475408 41812AF0
 w32 00475410 418106CC
@@ -81,28 +100,34 @@ w32 0047541C 418106C0
 w32 00475424 418124A0
 
 name: Zombie + Dog No Attack
+author: xtatu
 mode: once
 w32 007E6F70 4182000C
 
 name: AoB Counter Anything Anywhere
+author: puzzle
 mode: once
 aob 607F00002C1F0066418200E02C1F00457FFE07B4 3BE000352C1F0066418200E02C1F00457FFE07B4
 aob 4182067C4186056C419A0394419E01FC2C030001 4800067C4186056C419A0394419E01FC2C030001
 aob 607F00002C1F00664182003C63A3000063E40000 3BE000222C1F00664182003C63A3000063E40000
 
 name: Infinite Ammo + Items
+author: vosman
 mode: once
 w32 00BD20CC 60000000
 
 name: Infinite Ammo + No Reload + Grenade
+author: vosman
 mode: once
 w32 00B7F0C0 60000000
 
 name: Zombie And Dog No Attack
+author: xtatu
 mode: once
 w32 007E6F70 4182000C
 
 name: Any Damage Kills
+author: bungholio
 mode: once
 w32 014043CC A0830F0E
 w32 014043D0 48000020
@@ -115,36 +140,44 @@ w32 01404420 4865B6FE
 w32 0065B6F8 494043CE
 
 name: Invincible From Melee Attacks
+author: bungholio
 mode: once
 w32 007E7084 48000040
 
 name: Can Not Be Grabbed By Zombies
+author: bungholio
 mode: once
 w32 004720E0 480008E0
 
 name: Can Not Be Grabbed By Dogs
+author: bungholio
 mode: once
 w32 004AB55C 480000D8
 
 name: Can Not Be Grabbed By Noga-Let (The upside-down flying guys)
+author: bungholio
 mode: once
 w32 0063EA40 4E800020
 
 name: Action Bar Timer Thing Does Not Decrease
+author: bungholio
 mode: once
 w32 000D4900 60000000
 w32 000D4DEC 60000000
 
 name: Action Bar Meter Instantly Full From Any Joystick Movement
+author: bungholio
 mode: once
 w32 000D49E4 C03E002C
 w32 000D4ED4 C03E002C
 
 name: Automatically Open Doors, Execute Counters, Pickup Items
+author: bungholio
 mode: once
 w32 000D6350 38600001
 
 name: Automatically Execute Most Counters
+author: bungholio
 mode: once
 w32 01404524 2F9E0200
 w32 01404528 409E0014
@@ -155,6 +188,7 @@ w32 01404540 480D3CCE
 w32 000D3CC8 49404526
 
 name: Automatically Do Things That Are Not Team Things
+author: bungholio
 mode: once
 w32 014044A0 2F9E2000
 w32 014044A4 419E0014
@@ -165,6 +199,7 @@ w32 014044BC 480D3CD2
 w32 000D3CCC 494044A2
 
 name: Automatically Pick Up Items
+author: bungholio
 mode: once
 w32 014044F8 2F9E8000
 w32 014044FC 409E0014
@@ -175,51 +210,63 @@ w32 01404514 480D3CFE
 w32 000D3CF8 494044FA
 
 name: Automatically Interact With Some Things
+author: bungholio
 mode: once
 w32 000D6368 38600001
 
 name: Automatically Dodge Crate On Plane While Climbing
+author: bungholio
 mode: once
 w32 000D6398 38600001
 
 name: Automatically Complete Grab Button Mashers
+author: bungholio
 mode: once
 w32 000D63B4 38600001
 
 name: Automatically Complete Button Mashers
+author: bungholio
 mode: once
 w32 000D63D0 38600001
 
 name: Automatically Complete Grab Joystick Movers
+author: bungholio
 mode: once
 w32 000D63EC 38600001
 
 name: Automatically Turn Cranks
+author: bungholio
 mode: once
 w32 000D6408 38600001
 
 name: Automatically Avoided Train, Ducked While In Cart, Some Attack On Deborah
+author: bungholio
 mode: once
 w32 000D6440 38600001
 
 name: Automatically Do Rotating Wheel Timed Button Pressed
+author: bungholio
 mode: once
 w32 000D6478 38600001
 
 name: Automatically Complete Grab Timed Button Presses Perfectly
+author: bungholio
 mode: once
 w32 000D4208 38600001
 w32 000D423C 48000008
 
 name: Max Many Things
+author: bungholio
 mode: once
 w32 00B710EC 60000000
 
 name: 10x Enemies Killed Increment
+author: bungholio
 mode: once
 w32 0017C2F4 3084000A
 
 name: 0 Deaths
+author: bungholio
 mode: once
 w32 0140436C 7C0802A6
 w32 01404370 3CA00002
@@ -238,6 +285,7 @@ mode: once
 w32 006F3110 60000000
 
 name: Using The Last Of Something Does Not Remove It
+author: bungholio
 mode: once
 w32 01404314 7C0802A6
 w32 01404318 3C800072
@@ -250,74 +298,92 @@ w32 0140434C 48B7F246
 w32 00B7F240 49404316
 
 name: Records Weapon Max Enemies Killed
+author: bungholio
 mode: once
 w32 00C81270 60C50000
 
 name: Records Weapon Max Shots Fired Or Used
+author: bungholio
 mode: once
 w32 00C812E4 60000000
 
 name: Records Weapon Max Shots That Hit
+author: bungholio
 mode: once
 w32 00C81410 60E60000
 
 name: Records Weapon Max Head Shots
+author: bungholio
 mode: once
 w32 00C814CC 60C50000
 
 name: Records Weapon Max Reloads
+author: bungholio
 mode: once
 w32 00C8153C 60C50000
 
 name: Records Weapon Max Quick Shots
+author: bungholio
 mode: once
 w32 00C815AC 60C50000
 
 name: Records Enemy Type Killed
+author: bungholio
 mode: once
 w32 00C81658 60C50000
 
 name: Records 0 Times Killed By Enemy Type
+author: bungholio
 mode: once
 w32 00C816B0 38A0FFFF
 
 name: Timer
+author: bungholio
 mode: once
 w32 00B2FE74 4800002C
 
 name: Mercenaries 10x Enemies Defeated Increment
+author: bungholio
 mode: once
 w32 0017C2F4 3084000A
 
 name: Mercenaries 10x Combo Counter
+author: bungholio
 mode: once
 w32 00168928 30A5000A
 
 name: Mercenaries Combo Does Not Break From The Timer
+author: bungholio
 mode: once
 w32 0016761C 60000000
 
 name: Mercenaries Combo Timer Never Decreases
+author: bungholio
 mode: once
 w32 00167F74 60000000
 
 name: Mercenaries Bonus Timer Never Decreases
+author: bungholio
 mode: once
 w32 001675BC 60000000
 
 name: Mercenaries 10x Bonus Combo Increment
+author: bungholio
 mode: once
 w32 00168598 30A5000A
 
 name: Jet Timer Does Not Decrease
+author: bungholio
 mode: once
 w32 00B2FDA0 60000000
 
 name: Infinite Health
+author: bungholio
 mode: once
 w32 0076429C 60000000
 
 name: L3 + X To Toggle To Disable Many Grabs
+author: bungholio
 mode: once
 w32 01440948 F821FFF1
 w32 0144094C F8610000
@@ -352,19 +418,23 @@ w32 01440944 490801B2
 w32 010801AC 49440912
 
 name: Oxygen Never Decreases
+author: bungholio
 mode: once
 w32 007652EC C03F3064
 
 name: Time Always 0
+author: bungholio
 mode: once
 w32 00B71098 90830000
 
 name: Buying Skills Does Not Decrease Skill Points
+author: bungholio
 mode: once
 w32 006F2DC8 60000000
 w32 006F3110 60000000
 
 name: Unlock Ada's Campaign And Save It
+author: bungholio
 mode: once
 w32 01404550 80A400AC
 w32 01404554 60A50004
@@ -374,6 +444,7 @@ w32 01404560 48C805CE
 w32 00C805C8 49404552
 
 name: Unlock All Chapters
+author: bungholio
 mode: once
 w32 01440830 38800001
 w32 01440834 90830000
@@ -382,6 +453,7 @@ w32 0144083C 48C818B6
 w32 00C818B0 49440832
 
 name: Unlock All Mercenaries Stages
+author: bungholio
 mode: once
 w32 01440840 388003FF
 w32 01440844 90830968
@@ -390,6 +462,7 @@ w32 0144084C 4817617A
 w32 00176174 49440842
 
 name: View Mercenaries DLC Level List
+author: bungholio
 mode: once
 w32 01440850 7CA42030
 w32 01440854 80030020
@@ -400,6 +473,7 @@ w32 001B18EC 49440852
 w32 001B18F0 80630020
 
 name: Unlock All Mercenaries Characters
+author: bungholio
 mode: once
 w32 01440910 8009096C
 w32 01440914 7C004378
@@ -408,57 +482,70 @@ w32 0144091C 481762F6
 w32 001762F0 49440912
 
 name: AoB Action Bar Timer Thing Doesn't Decrease
+author: bungholio
 mode: once
 aob 609D000060BF000080636090C0630078807E007CEC2110FAFC01F800D03E003C 609D000060BF000080636090C0630078807E007CEC2110FAFC01F80060000000
 aob 386388F4C3E30004C024006CEFBF08243C600198C03E003C80636090C0430078EFBD00B2EC21E82AFC01F800D03E003C 386388F4C3E30004C024006CEFBF08243C600198C03E003C80636090C0430078EFBD00B2EC21E82AFC01F80060000000
 aob 38638E00C3E30004C024006CEFBF08243C600198C03E003C80636090C0430078EFBD00B2EC21E82AFC01F800D03E003C 38638E00C3E30004C024006CEFBF08243C600198C03E003C80636090C0430078EFBD00B2EC21E82AFC01F80060000000
 
 name: AoB Action Bar Meter Instantly Full From Any Joystick Movement
+author: bungholio
 mode: once
 aob 4182000CEC21282A 4182000CC03E002C
 aob EC6300B2EC21182A EC6300B2C03E002C
 
 name: AoB Automatically Complete Grab Button Mashers
+author: bungholio
 mode: once
 aob 38C000004BFFE875 38C0000038600001
 
 name: AoB Automatically Complete Button Mashers
+author: bungholio
 mode: once
 aob 38C000004BFFE6F1 38C0000038600001
 
 name: AoB Automatically Complete Grab Joystick Movers
+author: bungholio
 mode: once
 aob 38C000004BFFE32D 38C0000038600001
 
 name: AoB Automatically Turn Cranks
+author: bungholio
 mode: once
 aob 38C000004BFFE0E9 38C0000038600001
 
 name: AoB Automatically Avoided Train, Ducked While In Cart, Some Attack On Deborah
+author: bungholio
 mode: once
 aob 38C000004BFFDBD9 38C0000038600001
 
 name: AoB Automatically Do Rotating Wheel Timed Button Pressed
+author: bungholio
 mode: once
 aob 38C000004BFFD7E1 38C0000038600001
 
 name: AoB Automatically Complete Grab Timed Button Presses Perfectly
+author: bungholio
 mode: once
 aob 408200D8807E000CC03E003CD0230068807E000C808300242C04000C2C84001340820084C03E003CC05E0040FC0110004CC1138241860008 38600001807E000CC03E003CD0230068807E000C808300242C04000C2C84001340820084C03E003CC05E0040FC0110004CC1138248000008
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 010E5B18 60000000
 w32 010E5B2C 60000000
 
 name: Invincible Mode 1
+author: xtatu
 mode: once
 w32 00272994 418101C0
 
 name: Invincible Mode 3
+author: xtatu
 mode: once
 w32 00828EB8 418206C0
 
 name: Infinite Stamina
+author: xtatu
 mode: once
 w32 0082B664 00000000

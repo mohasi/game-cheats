@@ -1,59 +1,73 @@
 # Dead Island: Riptide
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 00C04F68 00000000
 
 name: Invincibility
+author: xtatu
 mode: once
 w32 00C04FF0 408221D0
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 00BF155C FC200890
 
 name: Max And Infinite Stamina
+author: FBML
 mode: once
 w32 00BC7B3C FC20F890
 
 name: Max XP And Level On Gain
+author: FBML
 mode: once
 w32 00C50D90 60000000
 
 name: Max Level On Gain For Hand And Weapons
+author: FBML
 mode: once
 w32 00C57868 48000008
 w32 00C578B4 60000000
 
 name: Max And Infinite Flashlight
+author: FBML
 mode: once
 w32 00CAEF80 C3FF002C
 
 name: Max And Infinite Weapon Durability
+author: FBML
 mode: once
 w32 008757B0 FFE00890
 
 name: Infinite Ammo And No Reload
+author: FBML
 mode: once
 w32 00D0C184 60000000
 
 name: Infinite Ammo In Inventory After Reload
+author: FBML
 mode: once
 w32 00C0991C 7CA507B4
 
 name: Max Items, Tools, And Special Ammo On Gain If You Already Have Some
+author: FBML
 mode: once
 w32 00BCED8C 7C651B78
 
 name: Infinite Items And Tools On Use Or Sell If You Have More Than 1
+author: FBML
 mode: once
 w32 00BCC29C 31070000
 
 name: Max Rag On Gain
+author: FBML
 mode: once
 w32 00BCA6A8 FC200890
 
 name: Max Money On Gain
+author: FBML
 mode: once
 w32 00BCF204 3F603B9A
 w32 00BCF208 637BC9FF
@@ -62,43 +76,53 @@ w32 00BCF228 63630000
 w32 00BCF22C 63640000
 
 name: Infinite Money After Buying, Repairing, Or Upgrading
+author: FBML
 mode: once
 w32 00C01DC4 7C6307B4
 w32 00C11B5C 7C6307B4
 
 name: 1 Hit Kills
 score BLES01739 01.01: 75 1+ 0-
+author: FBML
 mode: once
 w32 0077E218 EFDDE828 working-val=FBE100C0:1
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 00C067E0 00000000
 
 name: Invincibility
+author: xtatu
 mode: once
 w32 00C06868 408221D0
 
 name: Speed Punch Or Knock
+author: xtatu
 mode: once
 w32 00CDD0F8 4E800020
 
 name: Zombies Do Not Grab
+author: xtatu
 mode: once
 w32 0077DB58 4E800020
 
 name: Developer Menu
+author: dron_3
 mode: once
 w32 01027FC4 9BE3CA81
 
 name: AoB Developer Menu
+author: dron_3
 mode: once
 aob 8863CA812C03000040820008 9BE3CA812C03000040820008
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 00C0CEB0 00000000
 
 name: Invincibility
+author: xtatu
 mode: once
 w32 00C0CF38 408221D0

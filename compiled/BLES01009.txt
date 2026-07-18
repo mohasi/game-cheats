@@ -1,5 +1,6 @@
 # Mindjack
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 003D9728 60000000

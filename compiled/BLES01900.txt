@@ -1,5 +1,6 @@
 # Ultra Street Fighter IV
 
 name: P1 hit anywhere
+author: rambooo9000
 mode: once
 w32 000B3068 4E800020

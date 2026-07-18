@@ -1,14 +1,17 @@
 # Twisted Metal
 
 name: Infinite Health
+author: Skiller
 mode: once
 w32 0050837C C0430010
 w32 00508380 D0430028
 
 name: Infinite Ammo
+author: Skiller
 mode: once
 w32 0031FBA8 60000000
 
 name: Infinite Turbo
+author: Skiller
 mode: once
 w32 001C9EBC 60000000

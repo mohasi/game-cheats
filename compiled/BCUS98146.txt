@@ -1,108 +1,133 @@
 # White Knight Chronicles: International Edition
 
 name: HP + MP Recover When Drawing Weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 00512424 8009005C
 w32 00512428 2F800001
 
 name: Gain Or Lose Items To Get 255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 003BDDB8 380000FF
 
 name: AC Max When Attacking Enemies (Not Combo)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 00519A40 3C0042C8
 w32 00519A44 90091560
 
 name: Use Skill Points To Gain Skill Points
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 0036E160 60000000
 w32 0036E184 60000000
 
 name: Max Gold On Gain Or Loss
+author: xilium
 mode: once
 w32 003CC66C 48000008
 
 name: AoB HP + MP Recover When Drawing Weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob C009005CFF80E800 8009005C2F800001
 
 name: AoB Max Item After Second Item (Storage)
+author: Hazado
 mode: once
 aob 7C1602147F801800 380000FF7F801800
 
 name: AoB Max GP On Gain
+author: hyper2k
 mode: once
 aob 801B02F87C004A14901B02F8 3C0005F56000E0FF901B02F8
 
 name: AoB Gain Or Lose Items To Get 255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 880B00007C1C0050 880B0000380000FF
 
 name: AoB AC Max When Attacking Enemies (Not Combo)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob EC01002AD0091560 3C0042C890091560
 
 name: AoB Use Skill Points To Gain Skill Points
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 2B800004409D000838000004 2B8000046000000038000004
 aob 5400043E7F9D0040409D00087C1D0378 5400043E7F9D0040600000007C1D0378
 
 name: AoB Max Gold On Gain Or Loss
+author: xilium
 mode: once
 aob 7F805800409D000891630080 48000008409D000891630080
 
 name: AoB 1 Kill Max Exp
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 7F830000419D0168 7F8300007C030378
 
 name: AoB Gain 10x Items (Only From Monster)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 7F98D800812B0008914B002839290001 7F98D800812B0008914B00283929000A
 
 name: AoB Gain 100x Items (Only From Monster)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 7F98D800812B0008914B002839290001 7F98D800812B0008914B002839290064
 
 name: AoB Enchance Without Materials
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 aob 419D0EE0891E18624BFFFF9C801E00BC 60000000891E18624BFFFF9C801E00BC
 
 name: AoB Get Max Guild Points On Gain
+author: hyper2k
 mode: once
 aob 801B02F87C004A14901B02F8 3C0005F56000E0FF901B02F8
 
 name: AoB 1 Kill For Full HP + MP + AC
+author: krustytoe
 mode: once
 aob 8123002C7C9C2378 8123002C1F6400FF
 
 name: AoB Infinite Items (Character Inventory)
+author: Medo
 mode: once
 aob 5463063E2F830000409E0174 1F6400FF2F83000060000000
 
 name: AoB Max Items In Quest Loot + Max Money
+author: Medo
 mode: once
 aob 7CBA2B787CDD3378918100B87C0802A6F80100C081690000812B0054 1FC300017CDD3378918100B87C0802A6F80100C081690000812B0054
 
 name: HP + MP Recover When Drawing Weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 00512F54 8009005C
 w32 00512F58 2F800001
 
 name: Gain Or Lose Items To Get 255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 003BE8D8 380000FF
 
 name: AC Max When Attacking Enemies (Not Combo)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 0051A568 3C0042C8
 w32 0051A56C 90091560
 
 name: Use Skill Points To Gain Skill Points
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50
 mode: once
 w32 0036EC78 60000000
 w32 0036EC9C 60000000
 
 name: Max Gold On Gain Or Loss
+author: xilium
 mode: once
 w32 003CD34C 48000008

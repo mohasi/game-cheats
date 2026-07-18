@@ -1,16 +1,19 @@
 # Class of Heroes 2G
 
 name: All Max XP
+author: SHAkA
 mode: once
 w32 37391544 10000008
 w32 373916D4 10000008
 w32 37391754 10000008
 
 name: Money
+author: SHAkA
 mode: once
 w32 02DC5914 000184AB
 
 name: Dorm Items Set 1 to 500
+author: Skiller
 mode: once
 w32 00550C5C 01F40000
 w32 00550C60 00000163
@@ -515,6 +518,7 @@ w32 00553348 0001F363
 w32 0055335C 0001F463
 
 name: Dorm Item Set 501 to 1000
+author: Skiller
 mode: once
 w32 00550C5C 01F40000
 w32 00550C60 0001F563
@@ -1019,6 +1023,7 @@ w32 00553348 0003E763
 w32 0055335C 0003E863
 
 name: Dorm Item Set 1001 to 1500
+author: Skiller
 mode: once
 w32 00550C5C 01F40000
 w32 00550C60 0003E963
@@ -1523,6 +1528,7 @@ w32 00553348 0005DB63
 w32 0055335C 0005DC63
 
 name: Dorm Item Set 1501 to 1686
+author: Skiller
 mode: once
 w32 00550C5C 00B90000
 w32 00550C60 0005DD63
@@ -2027,25 +2033,31 @@ w32 00553348 00000000
 w32 0055335C 00000000
 
 name: Max Money In Buy + Sell
+author: JorgeFFC
 mode: once
 w32 001337AC 40800008
 
 name: No Consume BP In Creation (Enroll Option)
+author: JorgeFFC
 mode: once
 w32 0011E248 60000000
 
 name: Max Item On Use (Battle + Map)
+author: JorgeFFC
 mode: once
 w32 00051278 4181000C
 
 name: AoB Max Money In Buy + Sell
+author: JorgeFFC
 mode: once
 aob 7C2428004180000860A4000090830000 7C2428004080000860A4000090830000
 
 name: AoB No Consume BP In Creation (Enroll Option)
+author: JorgeFFC
 mode: once
 aob 2C1C000598837014418200902C1C0004 2C1C000560000000418200902C1C0004
 
 name: AoB Max Item On Use (Battle + Map)
+author: JorgeFFC
 mode: once
 aob 2C1D00632C9D00004081000C3BA00063 2C1D00632C9D00004181000C3BA00063

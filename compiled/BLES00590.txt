@@ -1,17 +1,21 @@
 # G.I. Joe The Rise Of Cobra
 
 name: Infinite HP Man
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 3712E90C 3F800000
 
 name: Infinite Grenade Man
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 3712E924 000F
 
 name: Infinite HP Woman
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 3712EA1C 3F800000
 
 name: Infinite Grenade Woman
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 3712EA34 000F

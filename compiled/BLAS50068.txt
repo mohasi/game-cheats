@@ -1,18 +1,22 @@
 # Shin Sangoku Musou 5
 
 name: Limited Time Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005B7C98 00000000
 
 name: Always 9999 K.O
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005AE710 0000270F
 
 name: Deeds 99999 While Gaining
+author: Skiller
 mode: once
 w32 002D1F24 60000000
 
 name: All Characters' Status Are Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0003C9A4 60000000
 w32 0003C9C4 60000000
@@ -23,15 +27,18 @@ w32 0003CA44 60000000
 w32 0003CA64 60000000
 
 name: Items Last Forever
+author: xtatu
 mode: once
 w32 004CA40C 54160000
 w32 004CA410 54E10000
 
 name: Max Musou
+author: xtatu
 mode: once
 w32 004C9C50 3F7A0000
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 00167F60 4E800020
 w32 00168364 4E800020

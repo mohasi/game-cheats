@@ -1,5 +1,6 @@
 # Need for Speed: ProStreet
 
 name: Cash
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 513D71B0 05F5E0FF

@@ -1,6 +1,7 @@
 # Enslaved: Odyssey to the West
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00A01D3C 28030001
 w32 00A01E94 28050001
@@ -8,6 +9,7 @@ w32 008863DC 38600001
 w32 00A0E24C 38600001
 
 name: God Mode
+author: dron_3
 mode: once
 w32 0029A234 83C3024C
 w32 0029A238 67DE4000
@@ -16,10 +18,12 @@ w32 0029A240 83C303E8
 w32 0029A244 57DE9FFE
 
 name: Debug Menu (Select + Start) And Debug Camera (L3 + R3)
+author: dron_3
 mode: once
 w32 014FBF54 38600000
 
 name: Invincibility For Monkey And Trip
+author: bungholio
 mode: once
 w32 01653D80 3C8001A2
 w32 01653D84 8084EC78
@@ -39,6 +43,7 @@ w32 01653DB8 4951C2F6
 w32 0151C2F0 49653D82
 
 name: Invincibility For Monkey
+author: bungholio
 mode: once
 w32 01653D80 3C8001A2
 w32 01653D84 8084EC78
@@ -55,6 +60,7 @@ w32 01653DAC 4951C2F6
 w32 0151C2F0 49653D82
 
 name: Damage Fully Refills Shield
+author: bungholio
 mode: once
 w32 0160E900 3FA001A2
 w32 0160E904 83BDEC78
@@ -74,6 +80,7 @@ w32 0160E938 48065776
 w32 00065770 4960E902
 
 name: Damage Fully Refills Health For Monkey And Trip
+author: bungholio
 mode: once
 w32 015F9120 3FA001A2
 w32 015F9124 83BDEC78
@@ -96,6 +103,7 @@ w32 015F9164 48066DA6
 w32 00066DA0 495F9122
 
 name: Damage Fully Refills Health For Monkey
+author: bungholio
 mode: once
 w32 015F9120 3FA001A2
 w32 015F9124 83BDEC78
@@ -112,6 +120,7 @@ w32 015F914C 48066DA6
 w32 00066DA0 495F9122
 
 name: Trip's Decoy Has No Reload Time
+author: bungholio
 mode: once
 w32 018020E0 EC220828
 w32 018020E4 3FA001A2
@@ -134,6 +143,7 @@ w32 01802124 48065772
 w32 0006576C 498020E2
 
 name: Trip's EMPs Always Ready
+author: bungholio
 mode: once
 w32 01698140 D0250000
 w32 01698144 3D2001A2
@@ -159,6 +169,7 @@ w32 016981C0 480D3D46
 w32 000D3D40 49698142
 
 name: Boat And Submarine Health Never Decrease
+author: bungholio
 mode: once
 w32 0166D030 38000000
 w32 0166D034 6400D003
@@ -174,6 +185,7 @@ w32 0166D058 480655DA
 w32 000655D4 4966D032
 
 name: Leviathan Energy Never Decreases
+author: bungholio
 mode: once
 w32 0166D740 EC22082A
 w32 0166D744 38000000
@@ -189,6 +201,7 @@ w32 0166D768 480655D6
 w32 000655D0 4966D742
 
 name: Ammo Always Full + Max Tech Orbs
+author: bungholio
 mode: once
 w32 017FB230 3C6001A2
 w32 017FB234 8063EC78
@@ -231,6 +244,7 @@ w32 017FB2C4 480D273E
 w32 000D2738 497FB232
 
 name: Enemy Reinforcement Timer Never Decreases
+author: bungholio
 mode: once
 w32 01680650 3C6001A2
 w32 01680654 8063EC78
@@ -263,6 +277,7 @@ w32 0168073C 489E1D5E
 w32 009E1D58 49680652
 
 name: Distance Timer Never Decreases
+author: bungholio
 mode: once
 w32 01684DB0 FC25186E
 w32 01684DB4 3FA001A2
@@ -279,6 +294,7 @@ w32 01684DDC 48066DA2
 w32 00066D9C 49684DB2
 
 name: Infinite Stun Blast Duration
+author: bungholio
 mode: once
 w32 017D7DA0 3CA001A2
 w32 017D7DA4 80A5EC78
@@ -305,6 +321,7 @@ w32 017D7DF4 480D3D32
 w32 000D3D2C 497D7DA2
 
 name: Stun Blast Has Massive Effect Range
+author: bungholio
 mode: once
 w32 017F0BA0 3C6001A2
 w32 017F0BA4 8063EC78
@@ -331,6 +348,7 @@ w32 017F0BF4 480D3D36
 w32 000D3D30 497F0BA2
 
 name: Stun Blast Can Hit Multiple Enemies
+author: bungholio
 mode: once
 w32 017FCD00 3FA001A2
 w32 017FCD04 83BDEC78
@@ -357,6 +375,7 @@ w32 017FCD54 4805127E
 w32 00051278 497FCD02
 
 name: Plasma Penetration On
+author: bungholio
 mode: once
 w32 017FD670 3FA001A2
 w32 017FD674 83BDEC78
@@ -383,6 +402,7 @@ w32 017FD6C4 48051282
 w32 0005127C 497FD672
 
 name: Massive Plasma Damage
+author: bungholio
 mode: once
 w32 017FE160 3CC001A2
 w32 017FE164 80C6EC78
@@ -403,6 +423,7 @@ w32 017FE19C 489C06B6
 w32 009C06B0 497FE162
 
 name: Quickest Staff Firing Rate
+author: bungholio
 mode: once
 w32 017FBF00 3C8001A2
 w32 017FBF04 8084EC78
@@ -427,6 +448,7 @@ w32 017FBF4C 480D3D2E
 w32 000D3D28 497FBF02
 
 name: Button Enable Code
+author: bungholio
 mode: once
 w32 017FB110 3FE001A1
 w32 017FB114 3BA00000
@@ -467,6 +489,7 @@ w32 00A2564C 497FB126
 w32 00A28BC8 497FBA02
 
 name: Press L2 + O For 3rd Staff Firing Mode
+author: bungholio
 mode: once
 w32 01653670 80770000
 w32 01653674 3FE001A1
@@ -490,6 +513,7 @@ w32 016536B8 480D5D36
 w32 000D5D30 49653672
 
 name: Position Modifier
+author: bungholio
 mode: once
 w32 017D7950 3FE001A2
 w32 017D7954 83FFEC78
@@ -567,18 +591,22 @@ w32 003715B4 497D7952
 w32 00509838 497D7A2A
 
 name: You Can Always Control The Camera And Are Invincible Against Fire
+author: bungholio
 mode: once
 w32 005BAFE0 4E800020
 
 name: Enemies Can See And Shoot Through Walls
+author: bungholio
 mode: once
 w32 005B9EF8 00000000
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 806303E854639FFE2C030000418200083BC00001 83C3024C67DE400093C3024C83C303E857DE9FFE
 
 name: God Mode
+author: dron_3
 mode: once
 w32 0029AC04 83C3024C
 w32 0029AC08 67DE4000
@@ -587,10 +615,12 @@ w32 0029AC10 83C303E8
 w32 0029AC14 57DE9FFE
 
 name: Debug Menu (Select + Start) And Debug Camera (L3 + R3)
+author: dron_3
 mode: once
 w32 0150BB34 38600000
 
 name: Infinite Health For All Party Character
+author: Randy97Killa
 mode: once
 w32 00722560 3C004F00
 w32 00722564 901F00B8
@@ -599,10 +629,12 @@ w32 0072256C 4B9418B8
 w32 00063E20 486BE740
 
 name: Infinite Special On Use
+author: Randy97Killa
 mode: once
 w32 00053610 60600000
 
 name: Max Score On Gain
+author: Randy97Killa
 mode: once
 w32 0076E7D8 3C003B9A
 w32 0076E7DC 6000C9FF
@@ -611,10 +643,12 @@ w32 0076E7E4 4B8C177C
 w32 0002FF5C 4873E87C
 
 name: AoB Infinite Health For All Party Character
+author: Randy97Killa
 mode: once
 aob FFFF000000000000FFFFFFFFFFFF000000000000000000000000000000000000 FFFF000000000000FFFFFFFFFFFF00003C004F00901F00B8901F00BC4B9418B8
 aob 82BE8014833E80184BFFFE9060000000C03F00BCEC21E028484C8AF160000000 82BE8014833E80184BFFFE9060000000C03F00BCEC21E028484C8AF160000000
 
 name: AoB Infinite Special On Use
+author: Randy97Killa
 mode: once
 aob A00300D47C8B23785409043E7F844840419C001038000000B00300D44E800020 606000007C8B23785409043E7F844840419C001038000000B00300D44E800020

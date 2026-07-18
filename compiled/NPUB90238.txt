@@ -1,10 +1,12 @@
 # Overlord II
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 18272B64 45D0631C
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0035B6CC 60000000
 w32 0035B6D0 60000000
@@ -12,20 +14,24 @@ w32 0035B6D4 EC01F828
 w32 0035B6E0 60000000
 
 name: Memory Max Treasury On Gain + Buy (All)
+author: jgduff1
 mode: once
 w32 005869E0 3C807FFF
 w32 005869F8 3C807FFF
 w32 0058ABE0 3C807FFF
 
 name: Memory Yellow Orbs
+author: jgduff1
 mode: once
 w32 10413244 0000000F
 
 name: ASM 30x Yellow Orbs
+author: jgduff1
 mode: once
 w32 0058785C 3804001E
 
 name: Max Treasury On Gain + Buy (All)
+author: Medo
 mode: once
 w32 0058ABE0 3C807FFF
 w32 005869E0 3C807FFF

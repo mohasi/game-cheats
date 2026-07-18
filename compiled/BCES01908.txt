@@ -1,46 +1,57 @@
 # Ratchet &amp;amp; Clank: Nexus
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 001E6E04 D3BD0000
 
 name: Infinite Ammo
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 w32 00495CC8 60000000
 
 name: Infinite Raritanium
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 w32 004EFA8C 60000000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob D3BF0038D3FF003CFC220072 D3BD0000D3FF003CFC220072
 
 name: AoB Infinite Ammo
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 aob FC23106ED03F0010E80100A07C0803A6 60000000D03F0010E80100A07C0803A6
 
 name: AoB Infinite Raritanium
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 aob 7C651810907E1050806400002C030013 60000000907E1050806400002C030013
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 001E7354 D3BD0000
 
 name: Infinite Ammo
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 w32 00496EA8 60000000
 
 name: Infinite Raritanium
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 w32 004F0D2C 60000000
 
 name: AoB Infinite Raritanium
+author: flynhigh09, games24.blog.fc2.com/blog-entry-214.html
 mode: once
 aob 7C651810907E1050806400002C030013 60000000D03F0010E80100A07C0803A6
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 0069A550 38A00001
 w32 0069A564 38600001

@@ -1,6 +1,7 @@
 # Fast Draw Showdown
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0004D4E0 39290000
 w32 0004D4EC 7D38412E

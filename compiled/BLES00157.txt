@@ -1,30 +1,37 @@
 # Haze
 
 name: No Reload
+author: dron_3
 mode: once
 w32 00338544 38000063
 
 name: Infinite Ammo + Grenades + Nectar
+author: dron_3
 mode: once
 w32 00395864 3960044A
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0005328C 60000000
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 817C00007C1B0050 817C000038000063
 
 name: AoB Infinite Ammo + Grenades + Nectar
+author: dron_3
 mode: once
 aob 7F8320007D641850 7F8320003960044A
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 801F0124D19F0110 801F012460000000
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 007411A8 38600001
 w32 00742D10 38600001

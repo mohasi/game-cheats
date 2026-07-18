@@ -1,9 +1,11 @@
 # Prince of Persia
 
 name: Memory Spheres x60
+author: jgduff1
 mode: once
 w16 10CF268E 003C
 
 name: ASM Spheres x60
+author: jgduff1
 mode: once
 w32 008C3024 396B003C

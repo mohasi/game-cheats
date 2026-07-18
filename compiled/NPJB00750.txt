@@ -1,9 +1,11 @@
 # MotoGP 15
 
 name: Memory Max Exp + Unlock All Pilots + Moto + Stable + Photos + Videos On Exp Gain
+author: jgduff1
 mode: once
 w32 3486F068 00000791
 
 name: ASM Max Exp + Unlock All Pilots + Moto + Stable + Photos + Videos On Exp Gain
+author: jgduff1
 mode: once
 w32 010315D0 7C802014

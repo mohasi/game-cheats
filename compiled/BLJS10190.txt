@@ -1,36 +1,43 @@
 # Borderlands 2
 
 name: Max + Infinite Money + Black Market Money On Buy
+author: Medo
 mode: once
 w32 00672834 3D607FFF
 w32 00672838 91690014
 
 name: Max + Infinite Skill Points + Badass Token On Use
+author: Medo
 mode: once
 w32 0002D880 380003E7
 w32 0002D884 900B0000
 
 name: Infinite Ammo + Grenades
+author: Medo
 mode: once
 w32 00493CCC 60000000
 w32 00493CD0 D00B0070
 
 name: Max + Infinite Money + Black Market Money On Buy
+author: Medo
 mode: once
 w32 00677FA4 3D607FFF
 w32 00677FA8 91690014
 
 name: Max + Infinite Money + Black Market Money On Sale
+author: Medo
 mode: once
 w32 00677F74 3C007FFF
 w32 00677F78 90090014
 
 name: Max + Infinite Skill Points + Badass Token
+author: Medo
 mode: once
 w32 0002D7D8 380000FF
 w32 0002D7DC 900B0000
 
 name: Instant Level Max (No Kill Or Exp Required)
+author: Medo
 mode: once
 w32 0067B06C 7BCB0020
 w32 0067B070 7B690020
@@ -39,9 +46,11 @@ w32 0067B078 7FE3FB78
 w32 0067B07C 38000001
 
 name: Unlock FPS (PSXPlace) [Tested]
+author: FlexBy, RPCS3
 mode: once
 w32 001EF34C 60000000
 
 name: Unlock FPS v01.15 (RPCS3)
+author: FlexBy, RPCS3
 mode: once
 w32 001EF34C 60000000

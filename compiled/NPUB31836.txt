@@ -1,38 +1,47 @@
 # Legend of Heroes, The - Trails of Cold Steel II
 
 name: Max And Infinite CP
+author: blog.livedoor.jp/games_cheat/archives/15461568.html ported by plp27
 mode: once
 w32 00067174 B0BE02D8
 
 name: Max And Infinite Sepith
+author: blog.livedoor.jp/games_cheat/archives/15461568.html ported by plp27
 mode: once
 w32 00227958 3C600001
 w32 0022795C 6063869F
 
 name: Max Mira On Sell
+author: JorgeFFC ported by aoshi22
 mode: once
 w32 002279A8 40810008
 
 name: Cut Sepith Cost On Exchange
+author: JorgeFFC ported by aoshi22
 mode: once
 w32 00227968 60000000
 
 name: Max And Infinite EP
+author: games24.blog.fc2.com/blog-entry-195.html ported by aoshi22
 mode: once
 w32 0006E2B8 B0BE02D4
 
 name: No Reduce Brave Points
+author: blog.livedoor.jp/games_cheat/archives/15461568.html ported by aoshi22
 mode: once
 w32 002F82DC 38800005
 
 name: Increase Item Counts By 1 By Using Them
+author: games24.blog.fc2.com/blog-entry-195.html ported by aoshi22
 mode: once
 w32 0021F8D0 7CA42B78
 
 name: Permanent Buffs
+author: games24.blog.fc2.com/blog-entry-195.html ported by aoshi22
 mode: once
 w32 000949E8 30630000
 
 name: Infinite Fishing Bait
+author: games24.blog.fc2.com/blog-entry-195.html ported by aoshi22
 mode: once
 w32 0023DB14 30860000

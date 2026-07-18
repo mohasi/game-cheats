@@ -1,9 +1,11 @@
 # Pure
 
 name: Memory Infinite Boost
+author: jgduff1
 mode: once
 w32 39B8AD40 3F800000
 
 name: ASM Infinite Boost
+author: jgduff1
 mode: once
 w32 001E7954 60000000

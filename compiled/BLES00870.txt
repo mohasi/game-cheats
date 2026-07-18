@@ -1,6 +1,7 @@
 # Tiger Woods PGA Tour 11
 
 name: P1 + Player Always 1 Stroke
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30A9D470 00000001
 w32 30A9D474 00000001
@@ -22,5 +23,6 @@ w32 30A9D4B0 00000001
 w32 30A9D4B4 00000001
 
 name: Player 99999900 XP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30EB5AB8 05F5E09C

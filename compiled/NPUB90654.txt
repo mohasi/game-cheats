@@ -1,17 +1,21 @@
 # Elevator Action Deluxe
 
 name: Infinite Health
+author: optantic
 mode: once
 w8 010897A3 03
 
 name: Lots of Time
+author: optantic
 mode: once
 w8 0129C3B8 03
 
 name: 0 Time Used
+author: optantic
 mode: once
 w32 0005DFCC 60000000
 
 name: 0 Death
+author: optantic
 mode: once
 w32 00013BBC 60000000

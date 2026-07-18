@@ -1,6 +1,7 @@
 # Siren - Blood Curse - Episode 9
 
 name: Infinite Health For You + Allies
+author: bungholio
 mode: once
 w32 0060A49C 886A049F
 w32 0060A4A0 2F830000
@@ -15,10 +16,12 @@ w32 0060A4F8 4BE0C1DC
 w32 004166D0 481F3DCC
 
 name: Infinite Ammo Usage
+author: xtatu
 mode: once
 w32 0014AFCC 93BE0374
 
 name: Invisible, Hold L2 To Be Visible
+author: bungholio
 mode: once
 w32 0060A3EC 3C60007F
 w32 0060A3F0 886307BB
@@ -31,18 +34,22 @@ w32 0060A424 4BACD224
 w32 000D7644 48532DA8
 
 name: Enemies Can Not See You
+author: xtatu
 mode: once
 w32 006275C0 42C80000
 
 name: Melee Attacks Do No Damage
+author: bungholio
 mode: once
 w32 0042698C 60000000
 
 name: Bullets Do No Damage
+author: bungholio
 mode: once
 w32 004288D4 60000000
 
 name: Some Attacks Do No Damage
+author: bungholio
 mode: once
 w32 00428448 60000000
 w32 0042558C 60000000
@@ -54,18 +61,22 @@ w32 00427DA4 60000000
 w32 00427EE8 60000000
 
 name: Flying Shibito Do Not Move
+author: bungholio
 mode: once
 w32 004476CC 60000000
 
 name: Small Brightness Boost
+author: bungholio
 mode: once
 w32 00061298 60000000
 
 name: Black And White Visuals
+author: bungholio
 mode: once
 w32 00061290 60000000
 
 name: AoB Infinite Health For You + Allies
+author: bungholio
 mode: once
 aob 007A5D4000000000000000000000000000000000 007A5D40886A049F2F830000409E005048000020
 aob 007A5B0800000000000000000000000000000000 007A5B083C607F80906A0004906A000848000020
@@ -73,28 +84,34 @@ aob 007A5BE00000000000000000 007A5BE0C00A00084BE0C1DC
 aob C00A0008FC00001E 481F3DCCFC00001E
 
 name: AoB Infinite Ammo Usage
+author: xtatu
 mode: once
 aob 909E0374801F00002F800000419C0098813E000081690140800B0000F84100287C0903A6 939E0374801F00002F800000419C0098813E000081690140800B0000F84100287C0903A6
 
 name: AoB Invisible, Hold L2 To Be Visible
+author: bungholio
 mode: once
 aob 007A5D8000000000000000000000000000000000 007A5D803C60007F886307BB7063001048000020
 aob 007A5BE400000000000000000000000000000000 007A5BE42F830010409E00087D4050CE4BACD224
 aob 1000034C7D4050CE 1000034C48532DAC
 
 name: AoB Melee Attacks Do No Damage
+author: bungholio
 mode: once
 aob FC00581880090144392100802F800000D0060008 FC00581880090144392100802F80000060000000
 
 name: AoB Bullets Do No Damage
+author: bungholio
 mode: once
 aob FC00601880090144392100802F800000D0060008 FC00601880090144392100802F80000060000000
 
 name: AoB Flying Shibito Do Not Move
+author: bungholio
 mode: once
 aob 100DD6EA7C0049CED0230050 100DD6EA7C0049CE60000000
 
 name: Some Attacks Do No Damage
+author: bungholio
 mode: once
 w32 0042558C 60000000
 w32 004255C8 60000000
@@ -106,5 +123,6 @@ w32 00427EE8 60000000
 w32 00428448 60000000
 
 name: No Move Enemy Attack
+author: xtatu
 mode: once
 w32 003762F8 419E000C

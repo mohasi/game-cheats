@@ -1,9 +1,11 @@
 # NeverDead
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 0076CC30 60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 aob D1A300044E8000202C2400007C0802A6 600000004E8000202C2400007C0802A6

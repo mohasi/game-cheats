@@ -1,14 +1,17 @@
 # CellFactor - Psychokinetic Wars
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w16 14813A52 0041
 w16 14813FFA 0041
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000A9494 7FC73050
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00E011D4 D29D098C

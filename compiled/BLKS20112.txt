@@ -1,17 +1,21 @@
 # Cross Edge
 
 name: Max Gold After Battle
+author: sayde
 mode: once
 w32 00064EAC 60000000
 
 name: Max EP After Battle
+author: sayde
 mode: once
 w32 00064F5C 60000000
 
 name: Max TP After Battle
+author: Vencint
 mode: once
 w32 0006500C 60000000
 
 name: Max PP After Battle
+author: Vencint
 mode: once
 w32 000650BC 60000000

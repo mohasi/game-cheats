@@ -1,18 +1,22 @@
 # Yakuza: Dead Souls
 
 name: Infinite Money
+author: jijibecali
 mode: once
 w32 01537E08 1F000000
 
 name: Max Exp
+author: jijibecali
 mode: once
 w32 0154BDBC 00FF0000
 
 name: 255 Balls
+author: jijibecali
 mode: once
 w8 0154BDC6 FF
 
 name: Have Items
+author: jijibecali
 mode: once
 w8 01534DD5 09
 w16 01534DD6 0000

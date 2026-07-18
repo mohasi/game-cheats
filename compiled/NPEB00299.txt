@@ -1,6 +1,7 @@
 # Rush'N Attack - Ex-Patriot
 
 name: HP Increaser
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010120 3CE00001
 w32 00010124 93A701F0
@@ -22,6 +23,7 @@ w32 00BFE968 4B4117B9
 w32 009743B8 4B69BD78
 
 name: 99 Ammo + Grenades
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C9CB34 38800063
 w32 00C9CB3C 909E02F8

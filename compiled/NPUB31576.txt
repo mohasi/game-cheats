@@ -1,14 +1,17 @@
 # Tears to Tiara II: Heir of the Overlord
 
 name: Max Money
+author: JorgeFFC
 mode: once
 w32 00BAEE04 3B9AC9FF
 
 name: Hamil HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA8A66 1388
 
 name: Hamil All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA8A6C 270F
 w16 00BA8A6E 270F
@@ -19,18 +22,22 @@ w16 00BA8A76 270F
 w16 00BA8A78 0063
 
 name: Hamil Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8A51 63
 
 name: Hamil Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8A4D 63
 
 name: Tarte HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA8C2E 1388
 
 name: Tarte All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA8C34 270F
 w16 00BA8C36 270F
@@ -41,18 +48,22 @@ w16 00BA8C3E 270F
 w16 00BA8C40 0063
 
 name: Tarte Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8C19 63
 
 name: Tarte Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8C15 63
 
 name: Dion HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA8DF6 1388
 
 name: Dion All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA8DFC 270F
 w16 00BA8DFE 270F
@@ -63,18 +74,22 @@ w16 00BA8E06 270F
 w16 00BA8E08 0063
 
 name: Dion Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8DE1 63
 
 name: Dion Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8DDD 63
 
 name: Enneads HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA8EDA 1388
 
 name: Enneads All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA8EE0 270F
 w16 00BA8EE2 270F
@@ -85,18 +100,22 @@ w16 00BA8EEA 270F
 w16 00BA8EEC 0063
 
 name: Enneads Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8EC5 63
 
 name: Enneads Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8EC1 63
 
 name: Monomachus HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA8FBE 1388
 
 name: Monomachus All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA8FC4 270F
 w16 00BA8FC6 270F
@@ -107,18 +126,22 @@ w16 00BA8FCE 270F
 w16 00BA8FD0 0063
 
 name: Monomachus Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8FA9 63
 
 name: Monomachus Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA8FA5 63
 
 name: Charis HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA90A2 1388
 
 name: Charis All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA90A8 270F
 w16 00BA90AA 270F
@@ -129,18 +152,22 @@ w16 00BA90B2 270F
 w16 00BA90B4 0063
 
 name: Charis Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA908D 63
 
 name: Charis Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9089 63
 
 name: Chalcus HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA98A6 1388
 
 name: Chalcus All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA98AC 270F
 w16 00BA98AE 270F
@@ -151,18 +178,22 @@ w16 00BA98B6 270F
 w16 00BA98B8 0063
 
 name: Chalcus Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9891 63
 
 name: Chalcus Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA988D 63
 
 name: Noa The Elephant HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA998A 1388
 
 name: Noa The Elephant All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA9990 270F
 w16 00BA9992 270F
@@ -173,18 +204,22 @@ w16 00BA999A 270F
 w16 00BA999C 0063
 
 name: Noa The Elephant Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9975 63
 
 name: Noa The Elephant Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9971 63
 
 name: Quadriga HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9A6E 1388
 
 name: Quadriga All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA9A6E 1388
 w16 00BA9A74 270F
@@ -196,10 +231,12 @@ w16 00BA9A7E 270F
 w16 00BA9A80 0063
 
 name: Kleito HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9186 1388
 
 name: Kleito All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA918C 270F
 w16 00BA918E 270F
@@ -210,18 +247,22 @@ w16 00BA9196 270F
 w16 00BA9198 0063
 
 name: Kleito Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9171 63
 
 name: Kleito Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA916D 63
 
 name: Artio HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA926A 1388
 
 name: Artio Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9270 270F
 w16 00BA9272 270F
@@ -232,18 +273,22 @@ w16 00BA927A 270F
 w16 00BA927C 0063
 
 name: Artio Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9255 63
 
 name: Artio Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9251 63
 
 name: Mox HP 5000
+author: JorgeFFC
 mode: once
 w16 00BAA18E 1388
 
 name: Mox Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BAA194 270F
 w16 00BAA196 270F
@@ -254,18 +299,22 @@ w16 00BAA19E 270F
 w16 00BAA1A0 0063
 
 name: Mox Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA179 63
 
 name: Mox Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA175 63
 
 name: Elissa HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA934E 1388
 
 name: Elissa All Stats Maxed
+author: JorgeFFC
 mode: once
 w16 00BA9354 270F
 w16 00BA9356 270F
@@ -276,18 +325,22 @@ w16 00BA935E 270F
 w16 00BA9360 0063
 
 name: Elissa Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9339 63
 
 name: Elissa Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9335 63
 
 name: Daphnis HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9432 1388
 
 name: Daphnis Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9438 270F
 w16 00BA943A 270F
@@ -298,18 +351,22 @@ w16 00BA9442 270F
 w16 00BA9444 0063
 
 name: Daphnis Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA941D 63
 
 name: Daphnis Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9419 63
 
 name: Aemelia HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9516 1388
 
 name: Aemelia Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA951C 270F
 w16 00BA951E 270F
@@ -320,18 +377,22 @@ w16 00BA9526 270F
 w16 00BA9528 0063
 
 name: Aemelia Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9501 63
 
 name: Aemelia Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA94FD 63
 
 name: Laelius HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA95FA 1388
 
 name: Laelius Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9600 270F
 w16 00BA9602 270F
@@ -342,18 +403,22 @@ w16 00BA960A 270F
 w16 00BA960C 0063
 
 name: Laelius Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA95E5 63
 
 name: Laelius Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA95E1 63
 
 name: Aruru HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9B52 1388
 
 name: Aruru Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9B58 270F
 w16 00BA9B5A 270F
@@ -364,18 +429,22 @@ w16 00BA9B62 270F
 w16 00BA9B64 0063
 
 name: Aruru Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9B3D 63
 
 name: Aruru Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9B39 63
 
 name: Arawn HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9C36 1388
 
 name: Arawn Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9C3C 270F
 w16 00BA9C3E 270F
@@ -386,18 +455,22 @@ w16 00BA9C46 270F
 w16 00BA9C48 0063
 
 name: Arawn Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9C21 63
 
 name: Arawn Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9C1D 63
 
 name: Riannon HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9D1A 1388
 
 name: Riannon Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9D20 270F
 w16 00BA9D22 270F
@@ -408,18 +481,22 @@ w16 00BA9D2A 270F
 w16 00BA9D2C 0063
 
 name: Riannon Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9D05 63
 
 name: Riannon Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9D01 63
 
 name: Malvy HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9DFE 1388
 
 name: Malvy Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9E04 270F
 w16 00BA9E06 270F
@@ -430,18 +507,22 @@ w16 00BA9E0E 270F
 w16 00BA9E10 0063
 
 name: Malvy Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9DE9 63
 
 name: Malvy Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9DE5 63
 
 name: Alisia HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9EE2 1388
 
 name: Alisia Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9EE8 270F
 w16 00BA9EEA 270F
@@ -452,18 +533,22 @@ w16 00BA9EF2 270F
 w16 00BA9EF4 0063
 
 name: Alisia Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9ECD 63
 
 name: Alisia Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9EC9 63
 
 name: Peggy HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA9FC6 1388
 
 name: Peggy Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA9FCC 270F
 w16 00BA9FCE 270F
@@ -474,18 +559,22 @@ w16 00BA9FD6 270F
 w16 00BA9FD8 0063
 
 name: Peggy Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9FB1 63
 
 name: Peggy Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA9FAD 63
 
 name: Beard HP 5000
+author: JorgeFFC
 mode: once
 w16 00BAA0AA 1388
 
 name: Beard Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BAA0B0 270F
 w16 00BAA0B2 270F
@@ -496,18 +585,22 @@ w16 00BAA0BA 270F
 w16 00BAA0BC 0063
 
 name: Beard Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA095 63
 
 name: Beard Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA091 63
 
 name: Saul HP 5000
+author: JorgeFFC
 mode: once
 w16 00BA96DE 1388
 
 name: Saul Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BA96E4 270F
 w16 00BA96E6 270F
@@ -518,18 +611,22 @@ w16 00BA96EE 270F
 w16 00BA96F0 0063
 
 name: Saul Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA96C9 63
 
 name: Saul Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BA96C5 63
 
 name: Phaenna HP 5000
+author: JorgeFFC
 mode: once
 w16 00BAA272 1388
 
 name: Phaenna Max All Stats
+author: JorgeFFC
 mode: once
 w16 00BAA278 270F
 w16 00BAA27A 270F
@@ -540,2289 +637,2861 @@ w16 00BAA282 270F
 w16 00BAA284 0063
 
 name: Phaenna Skill Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA25D 63
 
 name: Phaenna Exp 99 (1 Exp = 1 Level)
+author: JorgeFFC
 mode: once
 w8 00BAA259 63
 
 name: Have Hermit Shell
+author: JorgeFFC
 mode: once
 w8 00BAEB2F 63
 
 name: Have Scorpion Tail
+author: JorgeFFC
 mode: once
 w8 00BAEB6B 63
 
 name: Have Spring Hare's Ear
+author: JorgeFFC
 mode: once
 w8 00BAEB6F 63
 
 name: Have Garnet
+author: JorgeFFC
 mode: once
 w8 00BAEB7B 63
 
 name: Have Papyrus Page A
+author: JorgeFFC
 mode: once
 w8 00BAEB97 63
 
 name: Have Papyrus Page B
+author: JorgeFFC
 mode: once
 w8 00BAEB9B 63
 
 name: Have Copper Ore
+author: JorgeFFC
 mode: once
 w8 00BAEBA7 63
 
 name: Have Iron Ore
+author: JorgeFFC
 mode: once
 w8 00BAEBAB 63
 
 name: Have Steel ore
+author: JorgeFFC
 mode: once
 w8 00BAEBAF 63
 
 name: Have Damascus Ore
+author: JorgeFFC
 mode: once
 w8 00BAEBB3 63
 
 name: Have Elfin Tear
+author: JorgeFFC
 mode: once
 w8 00BAEBB7 63
 
 name: Have Platinum Ore
+author: JorgeFFC
 mode: once
 w8 00BAEBBB 63
 
 name: Have Spinel
+author: JorgeFFC
 mode: once
 w8 00BAEBBF 63
 
 name: Have Lazurite
+author: JorgeFFC
 mode: once
 w8 00BAEB7F 63
 
 name: Have Valks
+author: JorgeFFC
 mode: once
 w8 00BAEBDF 63
 
 name: Have Cadmia
+author: JorgeFFC
 mode: once
 w8 00BAEBE3 63
 
 name: Have Golden Wheat
+author: JorgeFFC
 mode: once
 w8 00BAEC47 63
 
 name: Have Touchstone Beginner
+author: JorgeFFC
 mode: once
 w8 00BAEC07 63
 
 name: Have Touchstone Intermediate
+author: JorgeFFC
 mode: once
 w8 00BAEC0B 63
 
 name: Have Copper Sword
+author: JorgeFFC
 mode: once
 w8 00BADCD3 63
 
 name: Have Brass Sword
+author: JorgeFFC
 mode: once
 w8 00BADCD7 63
 
 name: Have Crude Sword
+author: JorgeFFC
 mode: once
 w8 00BADCDB 63
 
 name: Have Iron Sword
+author: JorgeFFC
 mode: once
 w8 00BADCDF 63
 
 name: Have Iron Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADCE3 63
 
 name: Have Iron Sword +2
+author: JorgeFFC
 mode: once
 w8 00BADCE7 63
 
 name: Have Steel Sword
+author: JorgeFFC
 mode: once
 w8 00BADCEB 63
 
 name: Have Damascus Sword
+author: JorgeFFC
 mode: once
 w8 00BADCEF 63
 
 name: Have Damascus Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADCF3 63
 
 name: Have Damascus Sword+2
+author: JorgeFFC
 mode: once
 w8 00BADCF7 63
 
 name: Have Platinum Sword
+author: JorgeFFC
 mode: once
 w8 00BADCFB 63
 
 name: Have Elfin Sword
+author: JorgeFFC
 mode: once
 w8 00BADCFF 63
 
 name: Have Elfin Sword+1
+author: JorgeFFC
 mode: once
 w8 00BADD03 63
 
 name: Have Elfin Sword +2
+author: JorgeFFC
 mode: once
 w8 00BADD07 63
 
 name: Have Silver Sword
+author: JorgeFFC
 mode: once
 w8 00BADD0B 63
 
 name: Have Golden Sword
+author: JorgeFFC
 mode: once
 w8 00BADD0F 63
 
 name: Have Golden Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADD13 63
 
 name: Have Golden Sword +2
+author: JorgeFFC
 mode: once
 w8 00BADD17 63
 
 name: Have Amber Gold Sword
+author: JorgeFFC
 mode: once
 w8 00BADD1B 63
 
 name: Have Gladius
+author: JorgeFFC
 mode: once
 w8 00BADD1F 63
 
 name: Have Gladius +1
+author: JorgeFFC
 mode: once
 w8 00BADD23 63
 
 name: Have Gladius +2
+author: JorgeFFC
 mode: once
 w8 00BADD27 63
 
 name: Have Claidheamh Mor
+author: JorgeFFC
 mode: once
 w8 00BADD2B 63
 
 name: Have Claidheamh Mor +1
+author: JorgeFFC
 mode: once
 w8 00BADD2F 63
 
 name: Have Claidheamh Mor +2
+author: JorgeFFC
 mode: once
 w8 00BADD33 63
 
 name: Have Ascalon
+author: JorgeFFC
 mode: once
 w8 00BADD37 63
 
 name: Have Spada Legatos
+author: JorgeFFC
 mode: once
 w8 00BADD3B 63
 
 name: Have Bealgalltach
+author: JorgeFFC
 mode: once
 w8 00BADD3F 63
 
 name: Have Beallgatach +1
+author: JorgeFFC
 mode: once
 w8 00BADD43 63
 
 name: Have Beallgatach +2
+author: JorgeFFC
 mode: once
 w8 00BADD47 63
 
 name: Have Moralltach
+author: JorgeFFC
 mode: once
 w8 00BADD4B 63
 
 name: Have Kaledvouc'h
+author: JorgeFFC
 mode: once
 w8 00BADD4F 63
 
 name: Have Kaledvouc'h +1
+author: JorgeFFC
 mode: once
 w8 00BADD53 63
 
 name: Have Kaledvouc'h +2
+author: JorgeFFC
 mode: once
 w8 00BADD57 63
 
 name: Have Dark Arondight
+author: JorgeFFC
 mode: once
 w8 00BADD5B 63
 
 name: Have Holy Arondight
+author: JorgeFFC
 mode: once
 w8 00BADD5F 63
 
 name: Have Caliburn +2
+author: JorgeFFC
 mode: once
 w8 00BADD63 63
 
 name: Have Caliburn +3
+author: JorgeFFC
 mode: once
 w8 00BADD67 63
 
 name: Have Caliburn +4
+author: JorgeFFC
 mode: once
 w8 00BADD6B 63
 
 name: Have Fragarach
+author: JorgeFFC
 mode: once
 w8 00BADD6F 63
 
 name: Have Hrotti
+author: JorgeFFC
 mode: once
 w8 00BADD73 63
 
 name: Have Sword of Findias
+author: JorgeFFC
 mode: once
 w8 00BADD77 63
 
 name: Have Melqart's Sword
+author: JorgeFFC
 mode: once
 w8 00BADD7B 63
 
 name: Have Melqart's Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADD7F 63
 
 name: Have Melqart's Sword +2
+author: JorgeFFC
 mode: once
 w8 00BADD83 63
 
 name: Have Melqart Sword +3
+author: JorgeFFC
 mode: once
 w8 00BADD87 63
 
 name: Have Melqart Sword +4
+author: JorgeFFC
 mode: once
 w8 00BADD8B 63
 
 name: Have Melqart Sword +5
+author: JorgeFFC
 mode: once
 w8 00BADD8F 63
 
 name: Have Melqart's Holy Sword
+author: JorgeFFC
 mode: once
 w8 00BADD93 63
 
 name: Have Plage Sword
+author: JorgeFFC
 mode: once
 w8 00BADD97 63
 
 name: Have Plague Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADD9B 63
 
 name: Have Plague Sword +2
+author: JorgeFFC
 mode: once
 w8 00BADD9F 63
 
 name: Have Heretic Sword
+author: JorgeFFC
 mode: once
 w8 00BADDA3 63
 
 name: Have Heretic Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADDA7 63
 
 name: Have Massacre
+author: JorgeFFC
 mode: once
 w8 00BADDAB 63
 
 name: Have Massacre +1
+author: JorgeFFC
 mode: once
 w8 00BADDAF 63
 
 name: Have Barca Sword
+author: JorgeFFC
 mode: once
 w8 00BADDB3 63
 
 name: Have Hero-King's Sword
+author: JorgeFFC
 mode: once
 w8 00BADDB7 63
 
 name: Have Copper Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDC3 63
 
 name: Have Brass Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDC7 63
 
 name: Have Brass Greatsword +1
+author: JorgeFFC
 mode: once
 w8 00BADDCB 63
 
 name: Have Buster Sword
+author: JorgeFFC
 mode: once
 w8 00BADDCF 63
 
 name: Have Buster Sword +1
+author: JorgeFFC
 mode: once
 w8 00BADDD3 63
 
 name: Have Steel Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDD7 63
 
 name: Have Defender
+author: JorgeFFC
 mode: once
 w8 00BADDDB 63
 
 name: Have Defender +1
+author: JorgeFFC
 mode: once
 w8 00BADDDF 63
 
 name: Have Defender +2
+author: JorgeFFC
 mode: once
 w8 00BADDE3 63
 
 name: Have Platinum Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDE7 63
 
 name: Have Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDEB 63
 
 name: Have Greatsword +1
+author: JorgeFFC
 mode: once
 w8 00BADDEF 63
 
 name: Have Greatsword +2
+author: JorgeFFC
 mode: once
 w8 00BADDF3 63
 
 name: Have Silver Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDF7 63
 
 name: Have Golden Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDFB 63
 
 name: Have Amber Gold Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADDFF 63
 
 name: Have Amber Gold Greatsword +1
+author: JorgeFFC
 mode: once
 w8 00BADE03 63
 
 name: Have Amber Gold Greatsword +2
+author: JorgeFFC
 mode: once
 w8 00BADE07 63
 
 name: Have Amber Gold Greatsword +3
+author: JorgeFFC
 mode: once
 w8 00BADE0B 63
 
 name: Have Dragonsbane Sword
+author: JorgeFFC
 mode: once
 w8 00BADE0F 63
 
 name: Have Zanbatou
+author: JorgeFFC
 mode: once
 w8 00BADE13 63
 
 name: Have Zanbatou +1
+author: JorgeFFC
 mode: once
 w8 00BADE17 63
 
 name: Have Ambition Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADE1F 63
 
 name: Have Elfin Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADE23 63
 
 name: Have Answerer
+author: JorgeFFC
 mode: once
 w8 00BADE27 63
 
 name: Have Answerer +1
+author: JorgeFFC
 mode: once
 w8 00BADE2B 63
 
 name: Have Elfin Greatsword(Error on game?)
+author: JorgeFFC
 mode: once
 w8 00BADE2F 63
 
 name: Have Real Judgment
+author: JorgeFFC
 mode: once
 w8 00BADE33 63
 
 name: Have Judgment +2
+author: JorgeFFC
 mode: once
 w8 00BADE37 63
 
 name: Have Judgment +3
+author: JorgeFFC
 mode: once
 w8 00BADE3B 63
 
 name: Have Laevateinn
+author: JorgeFFC
 mode: once
 w8 00BADE3F 63
 
 name: Have Tanit's Greatsword
+author: JorgeFFC
 mode: once
 w8 00BADE43 63
 
 name: Have Tanit's Greatsword +1
+author: JorgeFFC
 mode: once
 w8 00BADE47 63
 
 name: Have Tanit's Greatsword +2
+author: JorgeFFC
 mode: once
 w8 00BADE4B 63
 
 name: Have Tanit's Greatsword +3
+author: JorgeFFC
 mode: once
 w8 00BADE4F 63
 
 name: Have Tanit's Greatsword +4
+author: JorgeFFC
 mode: once
 w8 00BADE53 63
 
 name: Have Tanit's Greatsword +5
+author: JorgeFFC
 mode: once
 w8 00BADE57 63
 
 name: Have Tanit's Greatsword +6
+author: JorgeFFC
 mode: once
 w8 00BADE5B 63
 
 name: Have Tanit's Fake Sword
+author: JorgeFFC
 mode: once
 w8 00BADE5F 63
 
 name: Have Tanit's Holy Sword
+author: JorgeFFC
 mode: once
 w8 00BADE63 63
 
 name: Have Sword of Nihility
+author: JorgeFFC
 mode: once
 w8 00BADE67 63
 
 name: Have Sword of Nihility +1
+author: JorgeFFC
 mode: once
 w8 00BADE6B 63
 
 name: Have Sword of Nihility +2
+author: JorgeFFC
 mode: once
 w8 00BADE6F 63
 
 name: Have Fencing Blades
+author: JorgeFFC
 mode: once
 w8 00BADE8B 63
 
 name: Have Sharp Blades
+author: JorgeFFC
 mode: once
 w8 00BADE8F 63
 
 name: Have Cutlasses
+author: JorgeFFC
 mode: once
 w8 00BADE93 63
 
 name: Have Cutlasses +1
+author: JorgeFFC
 mode: once
 w8 00BADE97 63
 
 name: Have Cutlasses +2
+author: JorgeFFC
 mode: once
 w8 00BADE9B 63
 
 name: Have Hunting Blades
+author: JorgeFFC
 mode: once
 w8 00BADE9F 63
 
 name: Have Master's Blades
+author: JorgeFFC
 mode: once
 w8 00BADEA3 63
 
 name: Have Tribal Blades
+author: JorgeFFC
 mode: once
 w8 00BADEA7 63
 
 name: Have Tribal Blades +1
+author: JorgeFFC
 mode: once
 w8 00BADEAB 63
 
 name: Have Tribal Blades +2
+author: JorgeFFC
 mode: once
 w8 00BADEAF 63
 
 name: Have Skull Crusher
+author: JorgeFFC
 mode: once
 w8 00BADEB3 63
 
 name: Have Anamnesis Blade
+author: JorgeFFC
 mode: once
 w8 00BADEB7 63
 
 name: Have Cyclone Blades
+author: JorgeFFC
 mode: once
 w8 00BADEBB 63
 
 name: Have Mercenary's Blades
+author: JorgeFFC
 mode: once
 w8 00BADEBF 63
 
 name: Have Mercenary's Blades +1
+author: JorgeFFC
 mode: once
 w8 00BADEC3 63
 
 name: Have Mercenary's Blades +2
+author: JorgeFFC
 mode: once
 w8 00BADEC7 63
 
 name: Have Reaper's Blades
+author: JorgeFFC
 mode: once
 w8 00BADECB 63
 
 name: Have Heartbreaker
+author: JorgeFFC
 mode: once
 w8 00BADECF 63
 
 name: Have Rumble Rush +1
+author: JorgeFFC
 mode: once
 w8 00BADED3 63
 
 name: Have Rumble Rush +2
+author: JorgeFFC
 mode: once
 w8 00BADED7 63
 
 name: Have Giant's Blades
+author: JorgeFFC
 mode: once
 w8 00BADEDB 63
 
 name: Have Team Sieger
+author: JorgeFFC
 mode: once
 w8 00BADEDF 63
 
 name: Have Team Sieger +1
+author: JorgeFFC
 mode: once
 w8 00BADEE3 63
 
 name: Have Rune Scimitars
+author: JorgeFFC
 mode: once
 w8 00BADEE7 63
 
 name: Have Rune Scimitars +1
+author: JorgeFFC
 mode: once
 w8 00BADEEB 63
 
 name: Have Rune Scimitars +2
+author: JorgeFFC
 mode: once
 w8 00BADEEF 63
 
 name: Have Rune Scimitars +3
+author: JorgeFFC
 mode: once
 w8 00BADEF3 63
 
 name: Have Valhalla Blade
+author: JorgeFFC
 mode: once
 w8 00BADEF7 63
 
 name: Have Copper Spear
+author: JorgeFFC
 mode: once
 w8 00BADF13 63
 
 name: Have Brass Spear
+author: JorgeFFC
 mode: once
 w8 00BADF17 63
 
 name: Have Iron Spear
+author: JorgeFFC
 mode: once
 w8 00BADF1B 63
 
 name: Have Iron Spear +1
+author: JorgeFFC
 mode: once
 w8 00BADF1F 63
 
 name: Have Iron Spear +2
+author: JorgeFFC
 mode: once
 w8 00BADF23 63
 
 name: Have Steel Spear
+author: JorgeFFC
 mode: once
 w8 00BADF27 63
 
 name: Have Damascus Spear
+author: JorgeFFC
 mode: once
 w8 00BADF2B 63
 
 name: Have Platinum Spear
+author: JorgeFFC
 mode: once
 w8 00BADF2F 63
 
 name: Have Platinum Spear +1
+author: JorgeFFC
 mode: once
 w8 00BADF33 63
 
 name: Have Platinum Spear +2
+author: JorgeFFC
 mode: once
 w8 00BADF37 63
 
 name: Have Hasta
+author: JorgeFFC
 mode: once
 w8 00BADF3B 63
 
 name: Have Battle Fork
+author: JorgeFFC
 mode: once
 w8 00BADF3F 63
 
 name: Have Elfin Spear
+author: JorgeFFC
 mode: once
 w8 00BADF43 63
 
 name: Have Elfin Spear +1
+author: JorgeFFC
 mode: once
 w8 00BADF47 63
 
 name: Have Elfin Spear +2
+author: JorgeFFC
 mode: once
 w8 00BADF4B 63
 
 name: Have Silver Spear
+author: JorgeFFC
 mode: once
 w8 00BADF4F 63
 
 name: Have Golden Spear
+author: JorgeFFC
 mode: once
 w8 00BADF53 63
 
 name: Have Trident
+author: JorgeFFC
 mode: once
 w8 00BADF57 63
 
 name: Have Trident +1
+author: JorgeFFC
 mode: once
 w8 00BADF5B 63
 
 name: Have Trident +2
+author: JorgeFFC
 mode: once
 w8 00BADF5F 63
 
 name: Have Trident +3
+author: JorgeFFC
 mode: once
 w8 00BADF63 63
 
 name: Have Amber Gold Spear
+author: JorgeFFC
 mode: once
 w8 00BADF67 63
 
 name: Have Pillum Legatos
+author: JorgeFFC
 mode: once
 w8 00BADF6B 63
 
 name: Have Ga-Boi
+author: JorgeFFC
 mode: once
 w8 00BADF6F 63
 
 name: Have Ga-Derg
+author: JorgeFFC
 mode: once
 w8 00BADF73 63
 
 name: Have Rhongomyniad
+author: JorgeFFC
 mode: once
 w8 00BADF77 63
 
 name: Have Apollyon
+author: JorgeFFC
 mode: once
 w8 00BADF7B 63
 
 name: Have Omega Apollyon
+author: JorgeFFC
 mode: once
 w8 00BADF7F 63
 
 name: Have Apollyon +2
+author: JorgeFFC
 mode: once
 w8 00BADF83 63
 
 name: Have Apollyon +3
+author: JorgeFFC
 mode: once
 w8 00BADF87 63
 
 name: Have Gae Bolg
+author: JorgeFFC
 mode: once
 w8 00BADF8B 63
 
 name: Have Reaper's Spear
+author: JorgeFFC
 mode: once
 w8 00BADF8F 63
 
 name: Have Cypher +1
+author: JorgeFFC
 mode: once
 w8 00BADF93 63
 
 name: Have Brionac
+author: JorgeFFC
 mode: once
 w8 00BADF97 63
 
 name: Have Brionac +1
+author: JorgeFFC
 mode: once
 w8 00BADF9B 63
 
 name: Have Plague Spear
+author: JorgeFFC
 mode: once
 w8 00BADF9F 63
 
 name: Have Plague Spear +1
+author: JorgeFFC
 mode: once
 w8 00BADFA3 63
 
 name: Have Pissar
+author: JorgeFFC
 mode: once
 w8 00BADFA7 63
 
 name: Have Pissar +1
+author: JorgeFFC
 mode: once
 w8 00BADFAB 63
 
 name: Have Bronze Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFC7 63
 
 name: Have Platinum Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFCB 63
 
 name: Have Platinum Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BADFCF 63
 
 name: Have Platinum Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BADFD3 63
 
 name: Have Elfin Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFD7 63
 
 name: Have War Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFDB 63
 
 name: Have Silver Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFDF 63
 
 name: Have Stardust Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFE3 63
 
 name: Have Stardust Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BADFE7 63
 
 name: Have Stardust Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BADFEB 63
 
 name: Have Heavy Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFEF 63
 
 name: Have Golden Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFF3 63
 
 name: Have Golden Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BADFF7 63
 
 name: Have Golden Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BADFFB 63
 
 name: Have Cyclone Hammer
+author: JorgeFFC
 mode: once
 w8 00BADFFF 63
 
 name: Have Earthdragon Hammer
+author: JorgeFFC
 mode: once
 w8 00BAE003 63
 
 name: Have Earthdragon Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BAE007 63
 
 name: Have Earthdragon Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BAE00B 63
 
 name: Have Guardian Hammer
+author: JorgeFFC
 mode: once
 w8 00BAE00F 63
 
 name: Have Guardian Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BAE013 63
 
 name: Have Guardian Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BAE017 63
 
 name: Have Gaia Crusher
+author: JorgeFFC
 mode: once
 w8 00BAE01B 63
 
 name: Have Dark Scepter
+author: JorgeFFC
 mode: once
 w8 00BAE01F 63
 
 name: Have Giant's Hammer
+author: JorgeFFC
 mode: once
 w8 00BAE023 63
 
 name: Have One-Ton Hammer
+author: JorgeFFC
 mode: once
 w8 00BAE027 63
 
 name: Have One-Ton Hammer +1
+author: JorgeFFC
 mode: once
 w8 00BAE02B 63
 
 name: Have One-Ton Hammer +2
+author: JorgeFFC
 mode: once
 w8 00BAE02F 63
 
 name: Have One-Ton Hammer +3
+author: JorgeFFC
 mode: once
 w8 00BAE033 63
 
 name: Have Yagrush
+author: JorgeFFC
 mode: once
 w8 00BAE037 63
 
 name: Have Ayamur
+author: JorgeFFC
 mode: once
 w8 00BAE03B 63
 
 name: Have Ayamur Magna
+author: JorgeFFC
 mode: once
 w8 00BAE03F 63
 
 name: Have Massacre Labrys
+author: JorgeFFC
 mode: once
 w8 00BAE043 63
 
 name: Have Lia Fail
+author: JorgeFFC
 mode: once
 w8 00BAE047 63
 
 name: Have Destined Lia Fail
+author: JorgeFFC
 mode: once
 w8 00BAE04B 63
 
 name: Have Lia Fail +2
+author: JorgeFFC
 mode: once
 w8 00BAE04F 63
 
 name: Have Lia Fail +3
+author: JorgeFFC
 mode: once
 w8 00BAE053 63
 
 name: Have Goibniu Hammer
+author: JorgeFFC
 mode: once
 w8 00BAE057 63
 
 name: Have Bone Bow
+author: JorgeFFC
 mode: once
 w8 00BAE073 63
 
 name: Have Short Bow
+author: JorgeFFC
 mode: once
 w8 00BAE077 63
 
 name: Have Hunter's Bow
+author: JorgeFFC
 mode: once
 w8 00BAE07B 63
 
 name: Have Hunter's Bow +1
+author: JorgeFFC
 mode: once
 w8 00BAE07F 63
 
 name: Have Hunter's Bow +2
+author: JorgeFFC
 mode: once
 w8 00BAE083 63
 
 name: Have Strong Bow
+author: JorgeFFC
 mode: once
 w8 00BAE087 63
 
 name: Have Long Bow
+author: JorgeFFC
 mode: once
 w8 00BAE08B 63
 
 name: Have Long Bow +1
+author: JorgeFFC
 mode: once
 w8 00BAE08F 63
 
 name: Have Long Bow +2
+author: JorgeFFC
 mode: once
 w8 00BAE093 63
 
 name: Have Mistletoe Bow
+author: JorgeFFC
 mode: once
 w8 00BAE097 63
 
 name: Have Damascus Bow
+author: JorgeFFC
 mode: once
 w8 00BAE09B 63
 
 name: Have Pterodactyl Bow
+author: JorgeFFC
 mode: once
 w8 00BAE09F 63
 
 name: Have Jet-Black Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0A3 63
 
 name: Have Jet-Black Bow +1
+author: JorgeFFC
 mode: once
 w8 00BAE0A7 63
 
 name: Have Jet-Black Bow +2
+author: JorgeFFC
 mode: once
 w8 00BAE0AB 63
 
 name: Have Jet-Black Bow +3
+author: JorgeFFC
 mode: once
 w8 00BAE0AF 63
 
 name: Have Jet-Black Bow +4
+author: JorgeFFC
 mode: once
 w8 00BAE0B3 63
 
 name: Have Bull's Eye Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0B7 63
 
 name: Have Platinum Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0BB 63
 
 name: Have Elfin Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0BF 63
 
 name: Have Silver Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0C3 63
 
 name: Have Silver Bow +1
+author: JorgeFFC
 mode: once
 w8 00BAE0C7 63
 
 name: Have Silver Bow +2
+author: JorgeFFC
 mode: once
 w8 00BAE0CB 63
 
 name: Have Golden Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0CF 63
 
 name: Have Blue Sky Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0D3 63
 
 name: Have Blue Sky Bow +1
+author: JorgeFFC
 mode: once
 w8 00BAE0D7 63
 
 name: Have Blue Sky Bow +2
+author: JorgeFFC
 mode: once
 w8 00BAE0DB 63
 
 name: Have Sylph's Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0DF 63
 
 name: Have Tempestlord Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0E3 63
 
 name: Have Cernunnos Bow
+author: JorgeFFC
 mode: once
 w8 00BAE0E7 63
 
 name: Have Bow of Aengus
+author: JorgeFFC
 mode: once
 w8 00BAE0EB 63
 
 name: Have Songbow of Aengus
+author: JorgeFFC
 mode: once
 w8 00BAE0EF 63
 
 name: Have Bow of Aengus +2
+author: JorgeFFC
 mode: once
 w8 00BAE0F3 63
 
 name: Have Bow of Esus
+author: JorgeFFC
 mode: once
 w8 00BAE0F7 63
 
 name: Have Astral Al-Nasr
+author: JorgeFFC
 mode: once
 w8 00BAE0FB 63
 
 name: Have Grand Al-Nasr
+author: JorgeFFC
 mode: once
 w8 00BAE0FF 63
 
 name: Have Astral Al-Nasr +2
+author: JorgeFFC
 mode: once
 w8 00BAE103 63
 
 name: Have Astral Al-Nasr +3
+author: JorgeFFC
 mode: once
 w8 00BAE107 63
 
 name: Have Barca Bow
+author: JorgeFFC
 mode: once
 w8 00BAE10B 63
 
 name: Have Birch Staff
+author: JorgeFFC
 mode: once
 w8 00BAE28B 63
 
 name: Have Hazel Staff
+author: JorgeFFC
 mode: once
 w8 00BAE28F 63
 
 name: Have Mistletoe Staff
+author: JorgeFFC
 mode: once
 w8 00BAE293 63
 
 name: Have Mistletoe Staff +1
+author: JorgeFFC
 mode: once
 w8 00BAE297 63
 
 name: Have Mistletoe Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE29B 63
 
 name: Have Vision Staff
+author: JorgeFFC
 mode: once
 w8 00BAE29F 63
 
 name: Have Elfin Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2A3 63
 
 name: Have Elfin Staff +1
+author: JorgeFFC
 mode: once
 w8 00BAE2A7 63
 
 name: Have Elfin Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE2AB 63
 
 name: Have Staff of Giants
+author: JorgeFFC
 mode: once
 w8 00BAE2AF 63
 
 name: Have Dragonfang Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2B3 63
 
 name: Have Dragonfang Staff +1
+author: JorgeFFC
 mode: once
 w8 00BAE2B7 63
 
 name: Have Dragonfang Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE2BB 63
 
 name: Have Dragonfang Staff +3
+author: JorgeFFC
 mode: once
 w8 00BAE2BF 63
 
 name: Have Dragonfang Staff +4
+author: JorgeFFC
 mode: once
 w8 00BAE2C3 63
 
 name: Have Dragonfang Staff +5
+author: JorgeFFC
 mode: once
 w8 00BAE2C7 63
 
 name: Have Sage Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2CB 63
 
 name: Have Sage Staff +1
+author: JorgeFFC
 mode: once
 w8 00BAE2CF 63
 
 name: Have Sage Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE2D3 63
 
 name: Have Sage Staff +3
+author: JorgeFFC
 mode: once
 w8 00BAE2D7 63
 
 name: Have Sage Staff +4
+author: JorgeFFC
 mode: once
 w8 00BAE2DB 63
 
 name: Have Sage Staff +5
+author: JorgeFFC
 mode: once
 w8 00BAE2DF 63
 
 name: Have Prophet Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2E3 63
 
 name: Have Druidic Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2E7 63
 
 name: Have Staff of Judgment
+author: JorgeFFC
 mode: once
 w8 00BAE2EB 63
 
 name: Have Eternal Spring
+author: JorgeFFC
 mode: once
 w8 00BAE2EF 63
 
 name: Have Staff of Wisdom
+author: JorgeFFC
 mode: once
 w8 00BAE2F3 63
 
 name: Have Underworld Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2F7 63
 
 name: Have Sephirot Staff
+author: JorgeFFC
 mode: once
 w8 00BAE2FB 63
 
 name: Have Profane Sephirot
+author: JorgeFFC
 mode: once
 w8 00BAE2FF 63
 
 name: Have Sephirot Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE303 63
 
 name: Have Sephirot Staff +3
+author: JorgeFFC
 mode: once
 w8 00BAE307 63
 
 name: Have Dragongod Staff
+author: JorgeFFC
 mode: once
 w8 00BAE30B 63
 
 name: Have Golden Dragongod
+author: JorgeFFC
 mode: once
 w8 00BAE30F 63
 
 name: Have Harlot Staff +2
+author: JorgeFFC
 mode: once
 w8 00BAE313 63
 
 name: Have Harlot Staff +3
+author: JorgeFFC
 mode: once
 w8 00BAE317 63
 
 name: Have Caduceus
+author: JorgeFFC
 mode: once
 w8 00BAE31B 63
 
 name: Have Heretic Staff
+author: JorgeFFC
 mode: once
 w8 00BAE31F 63
 
 name: Have Heaven Corona
+author: JorgeFFC
 mode: once
 w8 00BAE323 63
 
 name: Have Emperor Staff
+author: JorgeFFC
 mode: once
 w8 00BAE327 63
 
 name: Have Elegy Flute
+author: JorgeFFC
 mode: once
 w8 00BAE32B 63
 
 name: Have Tome of Converts
+author: JorgeFFC
 mode: once
 w8 00BAE343 63
 
 name: Have Elfin Diary
+author: JorgeFFC
 mode: once
 w8 00BAE347 63
 
 name: Have Tome of Lismore
+author: JorgeFFC
 mode: once
 w8 00BAE34B 63
 
 name: Have Tome of Imlaw
+author: JorgeFFC
 mode: once
 w8 00BAE34F 63
 
 name: Have Tome of Ocheri
+author: JorgeFFC
 mode: once
 w8 00BAE353 63
 
 name: Have Tome of Giants
+author: JorgeFFC
 mode: once
 w8 00BAE357 63
 
 name: Have Tome of Tohomach
+author: JorgeFFC
 mode: once
 w8 00BAE35B 63
 
 name: Have Tome of Tohomach +1
+author: JorgeFFC
 mode: once
 w8 00BAE35F 63
 
 name: Have Tome of Dea
+author: JorgeFFC
 mode: once
 w8 00BAE363 63
 
 name: Have Tome of Ephetra
+author: JorgeFFC
 mode: once
 w8 00BAE367 63
 
 name: Have Tome of Ephetra +1
+author: JorgeFFC
 mode: once
 w8 00BAE36B 63
 
 name: Have Book of Taliesin
+author: JorgeFFC
 mode: once
 w8 00BAE36F 63
 
 name: Have Tome of Togal
+author: JorgeFFC
 mode: once
 w8 00BAE373 63
 
 name: Have Togal Testament
+author: JorgeFFC
 mode: once
 w8 00BAE377 63
 
 name: Have Book of Mago
+author: JorgeFFC
 mode: once
 w8 00BAE37B 63
 
 name: Have Vitruvius
+author: JorgeFFC
 mode: once
 w8 00BAE37F 63
 
 name: Have Throwing Dagger
+author: JorgeFFC
 mode: once
 w8 00BAE123 63
 
 name: Have Slayer
+author: JorgeFFC
 mode: once
 w8 00BAE127 63
 
 name: Have Slayer +1
+author: JorgeFFC
 mode: once
 w8 00BAE12B 63
 
 name: Have Slayer +2
+author: JorgeFFC
 mode: once
 w8 00BAE12F 63
 
 name: Have Stilleto
+author: JorgeFFC
 mode: once
 w8 00BAE133 63
 
 name: Have Misericorde
+author: JorgeFFC
 mode: once
 w8 00BAE137 63
 
 name: Have Mercenary Knife
+author: JorgeFFC
 mode: once
 w8 00BAE13B 63
 
 name: Have Mercenary Knife +1
+author: JorgeFFC
 mode: once
 w8 00BAE13F 63
 
 name: Have Mercenary Knife +2
+author: JorgeFFC
 mode: once
 w8 00BAE143 63
 
 name: Have Elfin Knife
+author: JorgeFFC
 mode: once
 w8 00BAE147 63
 
 name: Have Flying Fan
+author: JorgeFFC
 mode: once
 w8 00BAE14B 63
 
 name: Have Spartan Knife
+author: JorgeFFC
 mode: once
 w8 00BAE14F 63
 
 name: Have Spartan Knife +1
+author: JorgeFFC
 mode: once
 w8 00BAE153 63
 
 name: Have Spartan Knife +2
+author: JorgeFFC
 mode: once
 w8 00BAE157 63
 
 name: Have Spartan Knife +3
+author: JorgeFFC
 mode: once
 w8 00BAE15B 63
 
 name: Have Death Marker
+author: JorgeFFC
 mode: once
 w8 00BAE15F 63
 
 name: Have Shadowcutter
+author: JorgeFFC
 mode: once
 w8 00BAE163 63
 
 name: Have Dragon Edge
+author: JorgeFFC
 mode: once
 w8 00BAE167 63
 
 name: Have Dragon Edge +1
+author: JorgeFFC
 mode: once
 w8 00BAE16B 63
 
 name: Have Dragon Edge +2
+author: JorgeFFC
 mode: once
 w8 00BAE16F 63
 
 name: Have Rose Thron
+author: JorgeFFC
 mode: once
 w8 00BAE173 63
 
 name: Have Sidewinder
+author: JorgeFFC
 mode: once
 w8 00BAE177 63
 
 name: Have Sidewinder +1
+author: JorgeFFC
 mode: once
 w8 00BAE17B 63
 
 name: Have Nightmare
+author: JorgeFFC
 mode: once
 w8 00BAE17F 63
 
 name: Have Deep Nightmare
+author: JorgeFFC
 mode: once
 w8 00BAE183 63
 
 name: Have Nightmare +2
+author: JorgeFFC
 mode: once
 w8 00BAE187 63
 
 name: Have Crimson Rose
+author: JorgeFFC
 mode: once
 w8 00BAE18B 63
 
 name: Have Photon Blade
+author: JorgeFFC
 mode: once
 w8 00BAE18F 63
 
 name: Have Radical Fangs
+author: JorgeFFC
 mode: once
 w8 00BAE1AB 63
 
 name: Have Weak Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1AF 63
 
 name: Have Normal Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1B3 63
 
 name: Have Good Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1B7 63
 
 name: Have Great Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1BB 63
 
 name: Have Strong Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1BF 63
 
 name: Have Strong Fang +1
+author: JorgeFFC
 mode: once
 w8 00BAE1C3 63
 
 name: Have Sturdy Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1C7 63
 
 name: Have Sturdy Fang +1
+author: JorgeFFC
 mode: once
 w8 00BAE1CB 63
 
 name: Have Sturdy Fang +2
+author: JorgeFFC
 mode: once
 w8 00BAE1CF 63
 
 name: Have Mammoth's Tusk
+author: JorgeFFC
 mode: once
 w8 00BAE1D3 63
 
 name: Have Monstrous Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1D7 63
 
 name: Have War God Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1DB 63
 
 name: Have Holy God Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1DF 63
 
 name: Have Cursed Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1E3 63
 
 name: Have Cursed Fang +1
+author: JorgeFFC
 mode: once
 w8 00BAE1E7 63
 
 name: Have Splendid Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1EB 63
 
 name: Have Splendid Fang +1
+author: JorgeFFC
 mode: once
 w8 00BAE1EF 63
 
 name: Have Cerberus Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1F3 63
 
 name: Have Crom Cruach Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1F7 63
 
 name: Have God-Beast Fang
+author: JorgeFFC
 mode: once
 w8 00BAE1FB 63
 
 name: Have Hammer Hand
+author: JorgeFFC
 mode: once
 w8 00BAE217 63
 
 name: Have Hammer Knuckle
+author: JorgeFFC
 mode: once
 w8 00BAE21B 63
 
 name: Have Knuckle Duster
+author: JorgeFFC
 mode: once
 w8 00BAE21F 63
 
 name: Have Magical Hand
+author: JorgeFFC
 mode: once
 w8 00BAE223 63
 
 name: Have Magical Hand +1
+author: JorgeFFC
 mode: once
 w8 00BAE227 63
 
 name: Have Drill Punch
+author: JorgeFFC
 mode: once
 w8 00BAE22B 63
 
 name: Have Drill Punch +1
+author: JorgeFFC
 mode: once
 w8 00BAE22F 63
 
 name: Have Boost Knuckle
+author: JorgeFFC
 mode: once
 w8 00BAE233 63
 
 name: Have Boost Knuckle +1
+author: JorgeFFC
 mode: once
 w8 00BAE237 63
 
 name: Have Boost Knuckle +2
+author: JorgeFFC
 mode: once
 w8 00BAE23B 63
 
 name: Have Death Hand
+author: JorgeFFC
 mode: once
 w8 00BAE23F 63
 
 name: Have Titan Hand
+author: JorgeFFC
 mode: once
 w8 00BAE243 63
 
 name: Have Spartan Knuckle
+author: JorgeFFC
 mode: once
 w8 00BAE247 63
 
 name: Have Kaiser Knuckle
+author: JorgeFFC
 mode: once
 w8 00BAE24B 63
 
 name: Have Kaiser Knuckle M
+author: JorgeFFC
 mode: once
 w8 00BAE24F 63
 
 name: Have Kaiser Knuckle A
+author: JorgeFFC
 mode: once
 w8 00BAE253 63
 
 name: Have Miracle Drill
+author: JorgeFFC
 mode: once
 w8 00BAE257 63
 
 name: Have Miracle Drill +1
+author: JorgeFFC
 mode: once
 w8 00BAE25B 63
 
 name: Have Diabolos
+author: JorgeFFC
 mode: once
 w8 00BAE25F 63
 
 name: Have Atlas Fist
+author: JorgeFFC
 mode: once
 w8 00BAE263 63
 
 name: Have Atlas Fist +1
+author: JorgeFFC
 mode: once
 w8 00BAE267 63
 
 name: Have Great Crusher
+author: JorgeFFC
 mode: once
 w8 00BAE26B 63
 
 name: Have Atlas Crusher
+author: JorgeFFC
 mode: once
 w8 00BAE26F 63
 
 name: Have Straw Hat
+author: JorgeFFC
 mode: once
 w8 00BAE46B 63
 
 name: Have Feathered Hat
+author: JorgeFFC
 mode: once
 w8 00BAE46F 63
 
 name: Have Black Hood
+author: JorgeFFC
 mode: once
 w8 00BAE473 63
 
 name: Have Wizard's Hat
+author: JorgeFFC
 mode: once
 w8 00BAE477 63
 
 name: Have Fancy Katyusha
+author: JorgeFFC
 mode: once
 w8 00BAE47B 63
 
 name: Have Tiara
+author: JorgeFFC
 mode: once
 w8 00BAE47F 63
 
 name: Have Crown of Thorns
+author: JorgeFFC
 mode: once
 w8 00BAE483 63
 
 name: Have Primula Circlet
+author: JorgeFFC
 mode: once
 w8 00BAE487 63
 
 name: Have Twilight Crown
+author: JorgeFFC
 mode: once
 w8 00BAE48B 63
 
 name: Have Muses' Crown
+author: JorgeFFC
 mode: once
 w8 00BAE48F 63
 
 name: Have Fluid Headgear
+author: JorgeFFC
 mode: once
 w8 00BAE493 63
 
 name: Have Godess Ribbon
+author: JorgeFFC
 mode: once
 w8 00BAE497 63
 
 name: Have Copper Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4AF 63
 
 name: Have Iron Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4B3 63
 
 name: Have Steel Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4B7 63
 
 name: Have Elfin Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4BB 63
 
 name: Have Golden Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4BF 63
 
 name: Have Amber Gold Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4C3 63
 
 name: Have War Elf's Crown
+author: JorgeFFC
 mode: once
 w8 00BAE4C7 63
 
 name: Have Gladiator's Galea
+author: JorgeFFC
 mode: once
 w8 00BAE4CB 63
 
 name: Have Spirit Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4CF 63
 
 name: Have Harbinger Helmet
+author: JorgeFFC
 mode: once
 w8 00BAE4D3 63
 
 name: Have Helm of Light
+author: JorgeFFC
 mode: once
 w8 00BAE4D7 63
 
 name: Have Linen Robe
+author: JorgeFFC
 mode: once
 w8 00BAE4EF 63
 
 name: Have Cotton Robe
+author: JorgeFFC
 mode: once
 w8 00BAE4F3 63
 
 name: Have Robe of Sages
+author: JorgeFFC
 mode: once
 w8 00BAE4F7 63
 
 name: Have Calm Robe
+author: JorgeFFC
 mode: once
 w8 00BAE4FB 63
 
 name: Have Gorgeous Dress
+author: JorgeFFC
 mode: once
 w8 00BAE4FF 63
 
 name: Have Silk Dress
+author: JorgeFFC
 mode: once
 w8 00BAE503 63
 
 name: Have Black Clothes
+author: JorgeFFC
 mode: once
 w8 00BAE507 63
 
 name: Have Swordsman's Coat
+author: JorgeFFC
 mode: once
 w8 00BAE50B 63
 
 name: Have Elfin Robe
+author: JorgeFFC
 mode: once
 w8 00BAE50F 63
 
 name: Have Robe of Stars
+author: JorgeFFC
 mode: once
 w8 00BAE513 63
 
 name: Have Maid's Appron
+author: JorgeFFC
 mode: once
 w8 00BAE517 63
 
 name: Have Gown of Rule
+author: JorgeFFC
 mode: once
 w8 00BAE51B 63
 
 name: Have Chameleon Robe
+author: JorgeFFC
 mode: once
 w8 00BAE51F 63
 
 name: Have Bloodstained Dress
+author: JorgeFFC
 mode: once
 w8 00BAE523 63
 
 name: Have Robe of Life
+author: JorgeFFC
 mode: once
 w8 00BAE527 63
 
 name: Have Diabolical Cloak
+author: JorgeFFC
 mode: once
 w8 00BAE52B 63
 
 name: Have Spprigan Vest
+author: JorgeFFC
 mode: once
 w8 00BAE52F 63
 
 name: Have Archwizard Robe
+author: JorgeFFC
 mode: once
 w8 00BAE533 63
 
 name: Have Agony Mantle
+author: JorgeFFC
 mode: once
 w8 00BAE537 63
 
 name: Have Cloth Armor
+author: JorgeFFC
 mode: once
 w8 00BAE54B 63
 
 name: Have Chainmail
+author: JorgeFFC
 mode: once
 w8 00BAE54F 63
 
 name: Have Steel Chainamil
+author: JorgeFFC
 mode: once
 w8 00BAE553 63
 
 name: Have Platinum Chainmail
+author: JorgeFFC
 mode: once
 w8 00BAE557 63
 
 name: Have Lorica Hamata
+author: JorgeFFC
 mode: once
 w8 00BAE55B 63
 
 name: Have Silver Chainmail
+author: JorgeFFC
 mode: once
 w8 00BAE55F 63
 
 name: Have Golden Chainmail
+author: JorgeFFC
 mode: once
 w8 00BAE563 63
 
 name: Have Amber Gold Chainmail
+author: JorgeFFC
 mode: once
 w8 00BAE567 63
 
 name: Have Lorica Squamata
+author: JorgeFFC
 mode: once
 w8 00BAE56B 63
 
 name: Have Brave Mail
+author: JorgeFFC
 mode: once
 w8 00BAE56F 63
 
 name: Have Mirage Vest
+author: JorgeFFC
 mode: once
 w8 00BAE573 63
 
 name: Have Samiel Doublet
+author: JorgeFFC
 mode: once
 w8 00BAE577 63
 
 name: Have Shirt of Goibniu
+author: JorgeFFC
 mode: once
 w8 00BAE57B 63
 
 name: Have Shroud of Light
+author: JorgeFFC
 mode: once
 w8 00BAE57F 63
 
 name: Have Leather Armor
+author: JorgeFFC
 mode: once
 w8 00BAE593 63
 
 name: Have Bronze Armor
+author: JorgeFFC
 mode: once
 w8 00BAE597 63
 
 name: Have Brass Armor
+author: JorgeFFC
 mode: once
 w8 00BAE59B 63
 
 name: Have Iron Armor
+author: JorgeFFC
 mode: once
 w8 00BAE59F 63
 
 name: Have Steel Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5A3 63
 
 name: Have Damascus Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5A7 63
 
 name: Have Platinum Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5AB 63
 
 name: Have Segmentata
+author: JorgeFFC
 mode: once
 w8 00BAE5AF 63
 
 name: Have Elfin Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5B3 63
 
 name: Have Silver Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5B7 63
 
 name: Have Golden Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5BB 63
 
 name: Have Amber Gold Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5BF 63
 
 name: Have Valiant
+author: JorgeFFC
 mode: once
 w8 00BAE5C3 63
 
 name: Have Relic Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5C7 63
 
 name: Have Macha's Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5CB 63
 
 name: Have Esus's Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5CF 63
 
 name: Have Black Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5D3 63
 
 name: Have Light Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5D7 63
 
 name: Have Spirit Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5DB 63
 
 name: Have Miraculous Armor
+author: JorgeFFC
 mode: once
 w8 00BAE5DF 63
 
 name: Have Chainmail Glove
+author: JorgeFFC
 mode: once
 w8 00BAE5F3 63
 
 name: Have Bronze Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE5F7 63
 
 name: Have Steel Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE5FB 63
 
 name: Have Elfin Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE5FF 63
 
 name: Have Titan Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE603 63
 
 name: Have Dragon Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE607 63
 
 name: Have Amber Gold Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE60B 63
 
 name: Have Glacier Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE60F 63
 
 name: Have Manhunt Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE613 63
 
 name: Have Cursed Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE617 63
 
 name: Have Holy Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE61B 63
 
 name: Have Earth Gauntlet
+author: JorgeFFC
 mode: once
 w8 00BAE61F 63
 
 name: Have Timber Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE633 63
 
 name: Have Launch Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE637 63
 
 name: Have Gaudy Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE63B 63
 
 name: Have Warrior Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE63F 63
 
 name: Have Heroic Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE643 63
 
 name: Have Shooter's Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE647 63
 
 name: Have Mage's Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE64B 63
 
 name: Have Exorcits Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE64F 63
 
 name: Have Thief's Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE653 63
 
 name: Have Comet Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE657 63
 
 name: Have Demonic Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE65B 63
 
 name: Have Master's Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE65F 63
 
 name: Have Draconic Mitts
+author: JorgeFFC
 mode: once
 w8 00BAE663 63
 
 name: Have Draupnir
+author: JorgeFFC
 mode: once
 w8 00BAE667 63
 
 name: Have Red Steel Band
+author: JorgeFFC
 mode: once
 w8 00BAE66B 63
 
 name: Have Antimagic Bracelet
+author: JorgeFFC
 mode: once
 w8 00BAE66F 63
 
 name: Have Quartz Ring
+author: JorgeFFC
 mode: once
 w8 00BAE683 63
 
 name: Have Fluorite RIng
+author: JorgeFFC
 mode: once
 w8 00BAE687 63
 
 name: Have Pearl Ring
+author: JorgeFFC
 mode: once
 w8 00BAE68B 63
 
 name: Have Iris Ring
+author: JorgeFFC
 mode: once
 w8 00BAE68F 63
 
 name: Have Crystalline Ring
+author: JorgeFFC
 mode: once
 w8 00BAE693 63
 
 name: Have Steadfast Ring
+author: JorgeFFC
 mode: once
 w8 00BAE697 63
 
 name: Have Emerald Ring
+author: JorgeFFC
 mode: once
 w8 00BAE69B 63
 
 name: Have Black Pearl Ring
+author: JorgeFFC
 mode: once
 w8 00BAE69F 63
 
 name: Have Calaina Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6A3 63
 
 name: Have Irisest Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6A7 63
 
 name: Have Aventurine Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6AB 63
 
 name: Have Ultraviolet Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6AF 63
 
 name: Have Hale Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6B3 63
 
 name: Have Ruby Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6B7 63
 
 name: Have Coral Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6BB 63
 
 name: Have Topaz Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6BF 63
 
 name: Have Cheraunia Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6C3 63
 
 name: Have Asterio Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6C7 63
 
 name: Have Selenite Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6CB 63
 
 name: Have Perseus Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6CF 63
 
 name: Have Amber Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6D3 63
 
 name: Have Opal Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6D7 63
 
 name: Have Asteria Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6DB 63
 
 name: Have Adamas Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6DF 63
 
 name: Have Standard Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6E3 63
 
 name: Have Element Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6E7 63
 
 name: Have Ascetic Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6EB 63
 
 name: Have Deadman's Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6EF 63
 
 name: Have Guru's Ring
+author: JorgeFFC
 mode: once
 w8 00BAE6F3 63
 
 name: Have Golem's Eye
+author: JorgeFFC
 mode: once
 w8 00BAE6F7 63
 
 name: Have Tribal Torc
+author: JorgeFFC
 mode: once
 w8 00BAE70F 63
 
 name: Have Slave Torc
+author: JorgeFFC
 mode: once
 w8 00BAE713 63
 
 name: Have Smith Torc
+author: JorgeFFC
 mode: once
 w8 00BAE717 63
 
 name: Have Thief Torc
+author: JorgeFFC
 mode: once
 w8 00BAE71B 63
 
 name: Have Storyteller Torc
+author: JorgeFFC
 mode: once
 w8 00BAE71F 63
 
 name: Have Hermit Torc
+author: JorgeFFC
 mode: once
 w8 00BAE723 63
 
 name: Have Golem Torc
+author: JorgeFFC
 mode: once
 w8 00BAE727 63
 
 name: Have Manipulator Torc
+author: JorgeFFC
 mode: once
 w8 00BAE72B 63
 
 name: Have Torc of Life
+author: JorgeFFC
 mode: once
 w8 00BAE72F 63
 
 name: Have Sequoia Torc
+author: JorgeFFC
 mode: once
 w8 00BAE733 63
 
 name: Have Bird Torc
+author: JorgeFFC
 mode: once
 w8 00BAE737 63
 
 name: Have Puppet Torc
+author: JorgeFFC
 mode: once
 w8 00BAE73B 63
 
 name: Have Hand-knitted Scarf
+author: JorgeFFC
 mode: once
 w8 00BAE73F 63
 
 name: Have Miraculous Torc
+author: JorgeFFC
 mode: once
 w8 00BAE743 63
 
 name: Have Squid Ring
+author: JorgeFFC
 mode: once
 w8 00BAE747 63
 
 name: Have Hunting God's Torc
+author: JorgeFFC
 mode: once
 w8 00BAE74B 63
 
 name: Have Holy Torc
+author: JorgeFFC
 mode: once
 w8 00BAE74F 63
 
 name: Have Crab God's Torc
+author: JorgeFFC
 mode: once
 w8 00BAE753 63
 
 name: Have Torc of Ruler
+author: JorgeFFC
 mode: once
 w8 00BAE757 63
 
 name: Have Dark God's Mask
+author: JorgeFFC
 mode: once
 w8 00BAE75B 63
 
 name: Have Worn-Out Socks
+author: JorgeFFC
 mode: once
 w8 00BAE773 63
 
 name: Have Slippers
+author: JorgeFFC
 mode: once
 w8 00BAE777 63
 
 name: Have Sandals
+author: JorgeFFC
 mode: once
 w8 00BAE77B 63
 
 name: Have Wellies
+author: JorgeFFC
 mode: once
 w8 00BAE77F 63
 
 name: Have Imperial Sandals
+author: JorgeFFC
 mode: once
 w8 00BAE783 63
 
 name: Have Boots
+author: JorgeFFC
 mode: once
 w8 00BAE787 63
 
 name: Have Footguards
+author: JorgeFFC
 mode: once
 w8 00BAE78B 63
 
 name: Have Red Shoes
+author: JorgeFFC
 mode: once
 w8 00BAE78F 63
 
 name: Have Jagdlegg
+author: JorgeFFC
 mode: once
 w8 00BAE793 63
 
 name: Have Thief Shoes
+author: JorgeFFC
 mode: once
 w8 00BAE797 63
 
 name: Have Godspeed Boots
+author: JorgeFFC
 mode: once
 w8 00BAE79B 63
 
 name: Have Fancy Knit Socks
+author: JorgeFFC
 mode: once
 w8 00BAE79F 63
 
 name: Have Soaring Feet
+author: JorgeFFC
 mode: once
 w8 00BAE7A3 63
 
 name: Have Spiked Shoes
+author: JorgeFFC
 mode: once
 w8 00BAE7A7 63
 
 name: Have Fine Boots
+author: JorgeFFC
 mode: once
 w8 00BAE7AB 63
 
 name: Have Iron Geta
+author: JorgeFFC
 mode: once
 w8 00BAE7AF 63
 
 name: Have Safety Shoes
+author: JorgeFFC
 mode: once
 w8 00BAE7B3 63
 
 name: Have Chakra Sandals
+author: JorgeFFC
 mode: once
 w8 00BAE7B7 63
 
 name: Have Sandals of Light
+author: JorgeFFC
 mode: once
 w8 00BAE7BB 63
 
 name: AoB Infinite MP
+author: games24.blog.fc2.com/blog-entry-211.html
 mode: once
 aob 7CBF28102C0500004180000860BE0000 600000002C0500004180000860BE0000
 
 name: AoB Always Turn 1
+author: games24.blog.fc2.com/blog-entry-211.html
 mode: once
 aob 30840001B08300703C80000B30630050 30840000B08300703C80000B30630050
 
 name: AoB 999 Skill Points On gain
+author: Friend of a Friend
 mode: once
 aob 2C0300644081000838600064 386003E7386003E7386003E7
 
 name: AoB 99 Items On Gain
+author: Friend of a Friend
 mode: once
 aob 2C0300634081000C38600063 386000633860006338600063
 
 name: AoB All Allies And Enemies On Field Are Set To Level 999
+author: Friend of a Friend
 mode: once
 aob 2C1F0063408100083BE00063 3BE003E73BE003E73BE003E7

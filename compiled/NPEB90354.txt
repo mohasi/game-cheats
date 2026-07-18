@@ -1,11 +1,13 @@
 # Driver: San Francisco
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 01BB95CC 12FEE600
 w32 01BB95C4 1306E480
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 15A2AC54 423C0000
 w32 15A2AC7C 423C0000
@@ -21,6 +23,7 @@ w32 15D95B34 423C0000
 w32 15D95B38 423C0000
 
 name: Memory Unknown Code 3
+author: jgduff1
 mode: once
 w32 15A2AC54 42C80000
 w32 15A2AC7C 42C80000
@@ -78,6 +81,7 @@ w32 15D95B38 42CC0000
 w32 15EFB2A4 00000064
 
 name: Car Health Never Decreases
+author: jgduff1
 mode: once
 w32 003113E4 60000000
 w32 003113E8 60000000
@@ -96,9 +100,11 @@ w32 009BAE28 60000000
 w32 00BF8E5C 60000000
 
 name: Infinite WP (999,999)
+author: jgduff1
 mode: once
 w32 123A612C 3B9AC9FF
 
 name: Max Money On Gain
+author: jgduff1
 mode: once
 w32 0013D260 91E30000

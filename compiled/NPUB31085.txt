@@ -1,57 +1,70 @@
 # Alien Breed
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 00095D24 60000000
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00091A20 60000000
 
 name: Infinite Lives
+author: dron_3
 mode: once
 w32 00093B3C 60000000
 
 name: Infinite Keys
+author: dron_3
 mode: once
 w32 00094DCC 60000000
 
 name: Infinite Credits
+author: dron_3
 mode: once
 w32 00094FE0 3C803B9B
 w32 00094FE4 3084CA00
 w32 00097870 60A40000
 
 name: Infinite Credits
+author: GuitarMan
 mode: once
 w32 00072848 3C8007FF
 w32 00072858 909E0000
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 000919F0 60000000
 
 name: Have All Weapons
+author: GuitarMan
 mode: once
 w32 00093710 7CE71A78
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 3084FFFF90830028 6000000090830028
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 7C6418102C03000090650020 600000002C03000090650020
 
 name: AoB Infinite Lives
+author: dron_3
 mode: once
 aob 3084FFFF2C04FFFF 600000002C04FFFF
 
 name: AoB Infinite Keys
+author: dron_3
 mode: once
 aob 3084FFFF90830024 6000000090830024
 
 name: AoB Infinite Credits
+author: dron_3
 mode: once
 aob 8083000030840064 3C803B9B3084CA00
 aob 7C842810908300004E800020 60A40000908300004E800020

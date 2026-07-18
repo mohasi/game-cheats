@@ -1,53 +1,65 @@
 # Revenge of the Wounded Dragons
 
 name: Memory Big Points On Gain
+author: jgduff1
 mode: once
 w32 33292C88 00002710
 
 name: ASM Big Points On Gain
+author: jgduff1
 mode: once
 w32 002209DC 7D625A14
 w32 002209E4 922A0008
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 35A77898 00000002
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 0020ACD8 39290000
 w32 0020ACE0 913F0498
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 357CB774 42480000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002364C4 60000000
 w32 00236498 EC23002A
 
 name: Memory Instant Dragon Rage
+author: jgduff1
 mode: once
 w32 357B6370 461C4000
 
 name: ASM Instant Dragon Rage
+author: jgduff1
 mode: once
 w32 00267838 EC19002A
 
 name: Memory Infinite Dragon Fury (Always Health Regeneration)
+author: jgduff1
 mode: once
 w32 35AAF480 00000000
 
 name: ASM Infinite Dragon Fury (Always Health Regeneration)
+author: jgduff1
 mode: once
 w32 0026AEE0 60000000
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 374696F4 00000005
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 0026A6A4 396B0000
 w32 0026A6B0 60000000

@@ -1,41 +1,50 @@
 # Dynasty Warriors MULTI RAID Special(Chinese Ver.)
 
 name: Play Time 0'00"00
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00819924 00000000
 
 name: Gold 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00819928 0098967F
 
 name: Timer Always Max In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BD854C 00000000
 
 name: Player Invincible In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00899DC1 40
 
 name: Player Attack + Defense Max In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00899DD4 01F4
 w16 00899DD6 01F4
 
 name: Player Hyper Move In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00899DDC 01F4
 
 name: Player Infinite + Hyper Jump In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00899DE2 01
 w8 00899DE3 00
 w8 00899DE4 32
 
 name: Player 9999 K.O. In Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0087BA34 270F
 
 name: All Officers Have 4 Outfits
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00823011 0F
 w8 00823051 0F
@@ -89,6 +98,7 @@ w8 0087B44D 0F
 w8 00822CF1 0F
 
 name: All Officers Stats Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00823018 03E803E8
 w32 0082301C 03E803E8
@@ -392,6 +402,7 @@ w32 00822D08 01F401F4
 w32 00822D0C 01F401F4
 
 name: Collect All Treasures
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00818CD8 00010001
 w32 00818CDC 00010001

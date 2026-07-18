@@ -1,10 +1,12 @@
 # inFamous - Festival of Blood
 
 name: Infinite Electricity
+author: Hiei-YYH
 mode: once
 w32 0015D190 EDAD002A
 
 name: Infinite Teleport + Fly
+author: Hiei-YYH
 mode: once
 w32 00AB43F0 4A000000
 w32 00AB43EC 4A000000

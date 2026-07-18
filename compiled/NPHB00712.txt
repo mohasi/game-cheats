@@ -1,118 +1,147 @@
 # Sword Art Online: Lost Song
 
 name: Max Money On Sell
+author: goldenfinger
 mode: once
 w32 0052A60C 60000000
 
 name: Max Yuld (Money) On Enemy Killed
+author: JorgeFFC
 mode: once
 w32 0052A7C4 40810008
 
 name: Infinite MP
+author: goldenfinger
 mode: once
 w32 000F1B0C 60000000
 
 name: Alternative Infinite MP
+author: JorgeFFC
 mode: once
 w32 0042B708 60000000
 
 name: Infinite SP (Stamina)
+author: goldenfinger
 mode: once
 w32 00168BC8 D03F1090
 
 name: Alternative Infinite SP (Stamina)
+author: JorgeFFC
 mode: once
 w32 00168BB8 40810008
 
 name: Instant Master Everything On Use
+author: JorgeFFC
 mode: once
 w32 00099B04 40820014
 
 name: Fast Character Level Up
+author: JorgeFFC
 mode: once
 w32 00098F50 4082001C
 
 name: Faster Weapon Mastery
+author: JorgeFFC
 mode: once
 w32 002FA940 40820008
 
 name: Multiple Strikes (Affects Skills too and enemies too)
+author: JorgeFFC
 mode: once
 w32 002FABDC 40820010
 
 name: All Skills Available in All Characters
+author: JorgeFFC
 mode: once
 w32 000986B0 40820300
 
 name: Infinite Items
+author: JorgeFFC
 mode: once
 w32 0052B1B4 4182000C
 
 name: Infinite Union
+author: goldenfinger
 mode: once
 w32 0042E4EC D0630000
 
 name: Enchant 100% Chance
+author: goldenfinger
 mode: once
 w32 007DAD14 38600001
 
 name: AoB Max Money on Sell
+author: goldenfinger
 mode: once
 aob 4181000860C500003C60012D80635830 41810008600000003C60012D80635830
 
 name: AoB Max Yuld (Money) On Enemy Killed
+author: JorgeFFC
 mode: once
 aob 7C0620404181000860C400003C60012D 7C0620404081000860C400003C60012D
 
 name: AoB Infinite MP
+author: goldenfinger
 mode: once
 aob 48000030C05F04783C60000FEC42F828 48000030C05F04783C60000F60000000
 
 name: AoB Alternative Infinite MP
+author: JorgeFFC
 mode: once
 aob C03F0478E8410028FC01100041800008 C03F0478E8410028FC01100060000000
 
 name: AoB Infinite SP (Stamina)
+author: goldenfinger
 mode: once
 aob FFC00890FC40F090D05F1090E80100B0 FFC00890FC40F090D03F1060E80100B0
 
 name: AoB Alternative Infinite SP (Stamina)
+author: JorgeFFC
 mode: once
 aob 4181000848000008FFC00890FC40F090 4081000848000008FFC00890FC40F090
 
 name: AoB Instant Master Everything On Use
+author: JorgeFFC
 mode: once
 aob 60C700002C08000041820014807A0008 60C700002C08000040820014807A0008
 
 name: AoB Fast Character Level Up
+author: JorgeFFC
 mode: once
 aob 4182001C309E032C63C300007884002063E500004BFFF2E5 4082001C309E032C63C300007884002063E500004BFFF2E5
 
 name: AoB Faster Weapon Mastery
+author: JorgeFFC
 mode: once
 aob 7AF700202C0300004182000840860010 7AF700202C0300004082000840860010
 
 name: AoB Multiple Strikes (Affects Skills too and enemies too)
+author: JorgeFFC
 mode: once
 aob 7B7B00202C1B000041820010887E0006 7B7B00202C1B000040820010887E0006
 
 name: AoB All Skills Available in All Characters
+author: JorgeFFC
 mode: once
 aob 2C1900004182030080DC00082C86FFFF 2C1900004082030080DC00082C86FFFF
 
 name: AoB Infinite Items
+author: JorgeFFC
 mode: once
 aob 2C0300004082000C3860000048000110 2C0300004182000C3860000048000110
 
 name: AoB Infinite Union
+author: goldenfinger
 mode: once
 aob D0230000C0440000FC0110004CC01382 D0630000C0440000FC0110004CC01382
 
 name: AoB Enchant 100% Chance
+author: goldenfinger
 mode: once
 aob 78C617643BC000007CA530107C651810 78C617643BC000007CA5301038600001
 
 name: Infinite HP + Infinite MP + Infinite SP
+author: Randy97Killa
 mode: once
 w32 01204B34 3E004F00
 w32 01204B38 9203044C
@@ -127,34 +156,42 @@ w32 01204B58 4E800020
 w32 000F4B94 4910FFA1
 
 name: Infinite HP v2 (test)
+author: Randy97Killa
 mode: once
 w32 000ACDAC 3C004F00
 w32 000ACDB0 90030448
 
 name: Max Money On Sell
+author: goldenfinger, ported by Randy97Killa
 mode: once
 w32 00556120 60000000
 
 name: Instant Master Everything On Use
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 0009D12C 40820014
 
 name: Fast Character Level Up
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 0009C1EC 4082001C
 
 name: Faster Weapon Mastery
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 0030EE64 40820008
 
 name: Multiple Strikes (Affects Skills too and enemies too)
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 0030F104 40820010
 
 name: All Skills Available in All Characters
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 0009BCC8 40820300
 
 name: Infinite Items
+author: JorgeFFC, ported by Randy97Killa
 mode: once
 w32 00556E6C 4182000C

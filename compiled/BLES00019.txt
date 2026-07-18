@@ -1,6 +1,7 @@
 # Untold Legends: Dark Kingdom
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 5378F6B8 000000C8
 w32 543057D8 000000C8
@@ -8,22 +9,26 @@ w32 5658E014 000B4BD1
 w32 57930D84 505EE5B8
 
 name: Max Essence on Gain
+author: GuitarMan
 mode: once
 w32 002A814C 3C0005F5
 w32 002A8150 6000E0FF
 w32 002A8154 60000000
 
 name: Infinite Health + Mana
+author: GuitarMan
 mode: once
 w32 0007C6A4 38000000
 w32 0007C6B4 F81F005C
 
 name: Max StatisticS - Spell Points On Gain
+author: GuitarMan
 mode: once
 w32 002A2174 3D602710
 w32 002A217C 917F00C4
 
 name: P1 Stats Maxed Out
+author: GuitarMan
 mode: once
 w32 00010064 00A1FFFF
 w32 0001006C 00A1FFFF
@@ -40,11 +45,13 @@ w32 00A1D338 483BC1EA
 w32 003BC1E4 48A1D316
 
 name: Can Upgrade Skills No Level Requirement
+author: GuitarMan
 mode: once
 w32 002BF138 38000000
 w32 002ABF58 39600000
 
 name: Invincibility Against Physical Attacks
+author: GuitarMan
 mode: once
 w32 00010064 00A1FFFF
 w32 0001006C 00A1FFFF

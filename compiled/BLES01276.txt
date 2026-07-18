@@ -1,14 +1,17 @@
 # Shadows of the Damned
 
 name: No Move Enemy
+author: xtatu, jgduff1
 mode: once
 w32 00A45810 40800000
 
 name: Hit Anywhere Torch
+author: xtatu
 mode: once
 w32 006007F0 00000000
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 009E0CE4 60000000
 w32 009E0D64 60000000
@@ -17,10 +20,12 @@ w32 009A5E0C 28030001
 w32 009A5F28 38800001
 
 name: AoB No Move Enemy
+author: xtatu
 mode: once
 aob 4082000863E300005064E884908500EC339C0050337B00014BFFFF98E80100B07C0803A6EB610078EB810080EBA10088EBC10090EBE10098 4182000863E300005064E884908500EC339C0050337B00014BFFFF98E80100B07C0803A6EB610078EB810080EBA10088EBC10090EBE10098
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 132D82B8 00000078
 w32 132D83A8 00000078
@@ -30,11 +35,13 @@ w32 13368F50 00000078
 w32 13368FA0 00000078
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0006B270 93DF0000
 w32 0006E698 60000000
 
 name: Memory Infinite White Jewels
+author: jgduff1
 mode: once
 w8 103EFFC3 64
 w32 120C71C0 0000001D
@@ -54,10 +61,12 @@ w8 13368FC3 27
 w32 135E97A0 0000001D
 
 name: ASM Infinite White Jewels
+author: jgduff1
 mode: once
 w32 0006A9AC 60000000
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 132782A8 00000005
 w32 13278398 00000005
@@ -67,6 +76,7 @@ w32 16C303D0 00000005
 w32 16CEF4D0 00000008
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0006AB44 60000000
 w32 0006AB48 93FC0000
@@ -76,18 +86,22 @@ w32 000D5F40 60000000
 w32 00F7A8C8 919E0008
 
 name: Memory No Move Enemy
+author: xtatu, jgduff1
 mode: once
 w32 00A45810 40800000
 
 name: Memory Infinite Drinks
+author: jgduff1
 mode: once
 w32 16D6F304 000003E5
 
 name: ASM Infinite Drinks
+author: jgduff1
 mode: once
 w32 0006A9AC 60000000
 
 name: Memory Max + Infinite Red Diamonds On Use
+author: jgduff1
 mode: once
 w32 103EFFC4 000003E7
 w32 136BF884 00000003
@@ -96,6 +110,7 @@ w32 17321F44 00000003
 w32 1754FD44 00000003
 
 name: ASM Max + Infinite Red Diamonds On Use
+author: jgduff1
 mode: once
 w32 0006A99C 30630000
 w32 0006A9AC 60000000

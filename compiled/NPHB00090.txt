@@ -1,17 +1,21 @@
 # Cuboid
 
 name: P1 Infinite HP
+author: optantic
 mode: once
 w32 801F072C 00900090
 
 name: 45x HP During Every Round
+author: optantic
 mode: once
 w32 801F072C 27102710
 
 name: P1 Infinite Super Meter
+author: optantic
 mode: once
 w8 801F09B4 30
 
 name: P2 Empty Super Meter
+author: optantic
 mode: once
 w8 801F0DB4 00

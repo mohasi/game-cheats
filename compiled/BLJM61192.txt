@@ -1,421 +1,525 @@
 # Shallie no Atelier: Tasogare no Umi no Renkinjutsushi
 
 name: Max Money
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0035FA20 48000010
 
 name: MP Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002916C8 60000000
 
 name: Infinite Items In Combat
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 001A1584 33180000
 w32 003195BC 30630000
 
 name: 99 Items When Bought
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 003580E4 38A00063
 
 name: Unlimited Materials
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00185B70 60000000
 
 name: Effect up to and to formulate
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335B2C 48000008
 
 name: Field Gauge Max On Change
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w32 0010D8B0 48000008
 
 name: Field Event 3
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0010D8A8 7CA62B78
 
 name: Burst Gauge Max On Change
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002AC258 60000000
 
 name: Attack Burst
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002AC240 38A005DC
 
 name: Infinite Burst
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002AC2B8 38A005DC
 
 name: Unlimited Assists
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002965DC 38A00064
 
 name: (MAP moves and varying) Motivation Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0025CDC0 48000008
 
 name: Life Task (Free) Progression Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0035C894 388003E7
 
 name: Motivation
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0025CF78 C044CDB0
 
 name: Infinite Growth Points
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 0008EBF0 38A00000
 
 name: Assist Deathblow Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002ABE50 38A003E8
 
 name: Infinite Deathblows (special skill character)
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002ABE74 38A003E8
 
 name: Infinite Field Burst Assists
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00296394 38A00064
 
 name: Infinite Travel Gates
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00150BB0 30630000
 
 name: Kill 1 For Max Something
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002076FC 707B0008
 w32 00207700 30630000
 
 name: Infinite Fishing Bait
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 000B4604 307E0000
 
 name: 99 PP (Alchemy time)
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 001EB57C 60000000
 
 name: Not a (free) attainment flag ON life task
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w32 00093020 4800007C
 
 name: Flag to advance to the next chapter 1
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w8 00C12A0C 01
 
 name: Flag to advance to the next chapter 2
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w8 00C12A0D 01
 
 name: Life task (free) (free time) attainment flag Chapter 1
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w8 00C13D8C 01
 
 name: Life task (free) (free time) attainment flag Chapter 2
+author: games24.blog.fc2.com/blog-entry-240.html, games24
 mode: once
 w8 00C13D8F 01
 
 name: Create Alchemy Item the real star of hoshi no mi
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800000
 
 name: Create Alchemy Item ore pumpkin
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800001
 
 name: Create Alchemy Item Sherubani wheat
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800005
 
 name: Create Alchemy Item Ogasa strawberry tree
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 3880000D
 
 name: Create Alchemy Item marbled beef
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800017
 
 name: Create Alchemy Item Suragakoa
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800032
 
 name: Create Alchemy Item Sea Sand of twilight
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 3880003D
 
 name: Create Alchemy Item Underground water of silver
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800070
 
 name: Create Alchemy Item Flower of defense
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 38800072
 
 name: Create Alchemy Item dried herbs
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 388000D2
 
 name: Create Alchemy Item neutralizer red
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 388000D6
 
 name: Create Alchemy Item leather
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 388000E1
 
 name: Create Alchemy Item Zetteru
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 388000E2
 
 name: Create Alchemy Item Suterado woven fabric
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 00335E2C 388000E8
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7C7F28107C041800408000087CA4F814 480000107C041800408000087CA4F814
 
 name: AoB MP Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CDF30102C0600004180000860C50000 600000002C0600004180000860C50000
 
 name: AoB Infinite Items In Battle
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 3318FFFF63C30000B31C001CE80100C0 3318000063C30000B31C001CE80100C0
 aob 3063FFFFB064001C2C05000041820084 30630000B064001C2C05000041820084
 
 name: AoB 99 Items When Bought
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CA530107CA4192E4E80002038800000 38A000637CA4192E4E80002038800000
 
 name: AoB Unlimited Materials
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CE7F814FBA100882C07000040800008 60000000FBA100882C07000040800008
 
 name: AoB Effect up to and to formulate
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 4181000848000008FFC00890C3FB0004 4800000848000008FFC00890C3FB0004
 
 name: AoB Field Gauge Max On Change
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 4181000860C5000038C000002C050000 4800000860C5000038C000002C050000
 
 name: AoB Field Event 3
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CC6F0142C06012C4181000860C50000 7CA62B782C06012C4181000860C50000
 
 name: AoB Burst Gauge Max On Change
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 60A4000038A000002C04000041800008 6000000038A000002C04000041800008
 
 name: AoB Attack Burst
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CA520142C0600002C8505DC40820024 38A005DC2C0600002C8505DC40820024
 
 name: AoB Infinite Burst
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CA520142C8505DC40820024388005DC 38A005DC2C8505DC40820024388005DC
 
 name: AoB Unlimited Assists
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 30A5FF9C2C0500644181000860A40000 38A000642C0500644181000860A40000
 
 name: AoB (Map moves and varying) motivation Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 41810008480000103CA042F0FC201090 48000008480000103CA042F0FC201090
 
 name: AoB Life task (free) progression Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7C8620147C85192E4E8000204E800020 388003E77C85192E4E8000204E800020
 
 name: AoB Motivation
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob C044CDC0FC0218004180000848000010 C044CDB0FC0218004180000848000010
 
 name: AoB Infinite Growth Points
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CA628147CBD232EE80100B07C0803A6 38A000007CBD232EE80100B07C0803A6
 
 name: AoB Assist Deathblow Max
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 388000002C0500004180000860A40000 38A003E82C0500004180000860A40000
 
 name: AoB Infinite Deathblows (special skill character)
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 38A000003880000090A3002890A30024 38A003E83880000090A3002890A30024
 
 name: AoB Infinite Field Burst Assists
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7CA530102C0500644181000860A40000 38A000642C0500644181000860A40000
 
 name: AoB Infinite Travel Gates
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 3063FFFFB07A001CE80100D07C0803A6 30630000B07A001CE80100D07C0803A6
 
 name: AoB Kill 1 For Max Something
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 807B000430630001907B0004335A0001 807B000830630000907B0004335A0001
 
 name: AoB Infinite Fishing Bait
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 307EFFFF3C8000BEB07F001C80644B20 307E00003C8000BEB07F001C80644B20
 
 name: AoB 99 PP (Alchemy time)
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 7FE3F8107C1F280093FC12CC80640028 600000007C1F280093FC12CC80640028
 
 name: AoB Not a (free) attainment flag ON life task
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 4181007C83BE0008482C243160000000 4800007C83BE0008482C243160000000
 
 name: AoB Create Alchemy Item the real star of hoshi no mi
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880000263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item ore pumpkin
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880001263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Sherubani wheat
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880005263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Ogasa strawberry tree
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 388000D263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item marbled beef
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880017263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Suragakoa
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880032263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Sea Sand of twilight
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 388003D263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Underground water of silver
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880070263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Flower of defense
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 3880072263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item dried herbs
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 38800D2263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item neutralizer red
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 38800D6263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item leather
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 38800E1263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Zetteru
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 38800E2263C300007C8407344BE68ED1
 
 name: AoB Create Alchemy Item Suterado woven fabric
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob A084000263C300007C8407344BE68ED1 38800E8263C300007C8407344BE68ED1
 
 name: Burst Does Not Decrease The Burst Gauge
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002ABA4C 60000000
 
 name: Requested Number Of Defeats 1
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 w32 002076FC 707B0008
 w32 00207700 30630000
 
 name: AoB Requested Number Of Defeats 1
+author: games24.blog.fc2.com/blog-entry-240.html
 mode: once
 aob 807B000430630001907B0004335A0001 807B000830630000907B0004335A0001
 
 name: Does not decrease MP
+author: games24
 mode: once
 w32 002913F8 60000000
 
 name: Not reduced items (in combat)
+author: games24
 mode: once
 w32 001A12A4 60000000
 
 name: Not reduced material items (preparation time)
+author: games24
 mode: once
 w32 00185890 60000000
 
 name: Effect up to and to formulate
+author: games24
 mode: once
 w32 0033586C 48000008
 
 name: (Map moves and varying) motivation Max
+author: games24
 mode: once
 w32 0025CAF0 48000008
 
 name: Life task (free) progression Max
+author: games24
 mode: once
 w32 0035C5D4 388003E7
 
 name: Not reduced PP (Renkin time)
+author: games24
 mode: once
 w32 001EB2BC 60000000
 
 name: Create Alchemy Item the real star of hoshi no mi
+author: games24
 mode: once
 w32 00335B6C 38800000
 
 name: Create Alchemy Item ore pumpkin
+author: games24
 mode: once
 w32 00335B6C 38800001
 
 name: Create Alchemy Item Sherubani wheat
+author: games24
 mode: once
 w32 00335B6C 38800005
 
 name: Create Alchemy Item Ogasa strawberry tree
+author: games24
 mode: once
 w32 00335B6C 3880000D
 
 name: Create Alchemy Item marbled beef
+author: games24
 mode: once
 w32 00335B6C 38800017
 
 name: Create Alchemy Item Suragakoa
+author: games24
 mode: once
 w32 00335B6C 38800032
 
 name: Create Alchemy Item Sea Sand of twilight
+author: games24
 mode: once
 w32 00335B6C 3880003D
 
 name: Create Alchemy Item Underground water of silver
+author: games24
 mode: once
 w32 00335B6C 38800070
 
 name: Create Alchemy Item Flower of defense
+author: games24
 mode: once
 w32 00335B6C 38800072
 
 name: Create Alchemy Item dried herbs
+author: games24
 mode: once
 w32 00335B6C 388000D2
 
 name: Create Alchemy Item neutralizer red
+author: games24
 mode: once
 w32 00335B6C 388000D6
 
 name: Create Alchemy Item leather
+author: games24
 mode: once
 w32 00335B6C 388000E1
 
 name: Create Alchemy Item Zetteru
+author: games24
 mode: once
 w32 00335B6C 388000E2
 
 name: Create Alchemy Item Suterado woven fabric
+author: games24
 mode: once
 w32 00335B6C 388000E8

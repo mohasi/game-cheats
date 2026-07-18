@@ -1,19 +1,23 @@
 # Saka Tsuku: Pro Soccer Club o Tsukurou!
 
 name: Infinite Money
+author: games24.blog.fc2.com/blog-entry-203.html
 mode: once
 w32 0053F854 48000008
 
 name: Instructions Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-203.html
 mode: once
 w32 002DD83C 30660000
 w32 0023A2BC 30840000
 
 name: Max Director Style Experience
+author: games24.blog.fc2.com/blog-entry-203.html
 mode: once
 w32 00507A4C 7CA4F014
 
 name: Infinite Player Editor Bonus Points
+author: games24.blog.fc2.com/blog-entry-203.html
 mode: once
 w32 003CDFD4 30670000
 w32 003CFA38 30A50000

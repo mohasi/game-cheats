@@ -1,20 +1,24 @@
 # Teenage Mutant Ninja Turtles: Mutants in Manhattan
 
 name: Infinite HP
+author: dron_3
 mode: once
 w32 0019A33C 807E0554
 w32 0019A340 907E0550
 w32 0019A344 4800000C
 
 name: Max BP
+author: dron_3
 mode: once
 w32 00416808 3D203B9A
 w32 0041680C 6129C9FF
 
 name: AoB Infinite HP
+author: dron_3
 mode: once
 aob 807E05502C03000A4181000C 807E0554907E05504800000C
 
 name: AoB Max BP
+author: dron_3
 mode: once
 aob 2C09000041800008 3D203B9A6129C9FF

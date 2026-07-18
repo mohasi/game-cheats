@@ -1,61 +1,73 @@
 # Resident Evil 5: Gold Edition
 
 name: Invincible
+author: puzzle
 mode: once
 w32 009C6FB0 801700D0
 w32 009C6FB4 2F80000F
 w32 009C6FB8 419D006C
 
 name: AoB Invincible
+author: puzzle
 mode: once
 aob 801700C42F800001419E006C6000000038000300EAA10328 801700D02F80000F419D006C6000000038000300EAA10328
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 38879778 0098967F
 
 name: Max Money On Use
+author: Skiller
 mode: once
 w32 00AEA734 7D244B78
 
 name: Max Exchange Points
+author: CodeFreak/PS3UserCheat, Skiller
 mode: once
 w32 3887977C 05F5E0FF
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 0085EEB4 60000000
 w32 0085EF38 60000000
 
 name: Infinite Ammo
+author: xtatu
 mode: once
 w32 001A7AB4 60000000
 w32 001A812C 60000000
 w32 009D2B18 60000000
 
 name: Invincible
+author: puzzle
 mode: once
 w32 009CA308 801700D0
 w32 009CA30C 2F80000F
 w32 009CA310 419D006C
 
 name: Unlock FPS (RPCS3) [Tested]
+author: RPCS3
 mode: once
 w32 00C27CAC 60000000
 w32 00C27CB8 60000000
 
 name: Unlock FPS (PSXPlace) [Tested]
+author: PSXPlace
 mode: once
 w32 00C27964 60000000
 w32 00C27970 60000000
 
 name: Max + Unlimited Health For Both Players
+author: Randy97Killa
 mode: once
 w32 0085FFEC 39202710
 w32 00860030 A13F14A8
 w32 00860034 B13F14A0
 
 name: Max + Unlimited Items (Ammo + Herbs + Eggs + Grenades + Mines)
+author: Randy97Killa
 mode: once
 w32 001ACA30 60000000
 w32 001A8448 3AE003E7
@@ -64,96 +76,117 @@ w32 009DA144 60000000
 w32 009D9B9C 380003E7
 
 name: 9,999 Ammo Never Need To Reload
+author: Randy97Killa
 mode: once
 w32 009D4C50 38002710
 
 name: Max Money On Buy Or Sell (9,999,999)
+author: Randy97Killa
 mode: once
 w32 00AECC44 3C800098
 w32 00AEE018 3D200098
 w32 00AEE01C 6129967F
 
 name: Low Play Times + Make Total Kills (Result)
+author: Randy97Killa
 mode: once
 w32 009BDE00 38A02710
 w32 009BDECC 60000000
 
 name: 9,999,9999 Score On Gain (Lost In NightMare + Desperate Escape)
+author: Randy97Killa
 mode: once
 w32 001AFB4C 3C000098
 w32 001AFB54 6000967F
 
 name: AoB Max Money On Gain
+author: Skiller
 mode: once
 aob 409D00087D204B78901B2F5C881F00202F800000409E0010881700002F800000419EFC98 3C0000986000967F901B2F5C881F00202F800000409E0010881700002F800000419EFC98
 
 name: AoB Infinite Ammo
+author: xtatu
 mode: once
 aob 800400087C05005090040008 800400087C05005060000000
 aob 2F97000092F80008 2F97000060000000
 aob 409E00102F940000929B0008 409E00102F94000060000000
 
 name: AoB Infinite HP
+author: xtatu
 mode: once
 aob B12A0004419C007CA10A0006 60000000419C007CA10A0006
 aob B16A00044BFFFF80 600000004BFFFF80
 
 name: AoB Max Money On Use
+author: Skiller
 mode: once
 aob 800300D86129967F7C840214 800300D86129967F7D244B78
 
 name: AoB Max Exchange Points On Gain
+author: Skiller
 mode: once
 aob 800300DC6129967F7C840214 800300DC6129967F7D244B78
 
 name: AoB Max Vehicle Health
+author: Hiei-YYH
 mode: once
 aob 39000DAC3800000F616B0DFF79390020 39007FFF3800000F616B0DFF79390020
 
 name: Very High Vehicle Health
+author: Hiei-YYH
 mode: once
 w32 00725218 39007FFF
 
 name: 1 Hit Kills
+author: dron_3
 mode: once
 w32 0053F9E8 60000000
 
 name: Mercenaries Max Score
+author: dron_3
 mode: once
 w32 00017608 3FA0000F
 w32 0001760C 63BD423F
 
 name: Mercenaries Combo Never Breaks
+author: dron_3
 mode: once
 w32 0001E924 60000000
 
 name: Mercenaries Max Time
+author: dron_3
 mode: once
 w32 00920964 3D2045B9
 w32 00920968 912B03E4
 
 name: Speedhack 2x
+author: dron_3
 mode: once
 w32 008609FC EC7BD82A
 
 name: Speedhack 4x
+author: dron_3
 mode: once
 w32 008609FC EC7BD82A
 w32 008607C8 EF63182A
 
 name: Mercenaries Time Never Decrease + Combo Never Break
+author: dron_3
 mode: once
 w32 0001E85C C3FE801C
 
 name: Mercenaries Add 45 Seconds By Killing With Melee
+author: dron_3
 mode: once
 w32 0002319C 3880002D
 
 name: Mercenaries Combo Increases By 10
+author: bungholio
 mode: once
 w32 00016E10 3929000A
 
 name: Press Select To Toggle Mercenaries Timer
+author: bungholio
 mode: once
 w32 0139FBD0 3D20386A
 w32 0139FBD4 A1298F22
@@ -179,14 +212,17 @@ w32 0139FC20 4801368A
 w32 00043684 4939FBD2
 
 name: Mercenaries Timer Never Decreases
+author: bungholio
 mode: once
 w32 00013684 60000000
 
 name: Mercenaries Bonus Combo Timer Never Decreases
+author: bungholio
 mode: once
 w32 0001E988 60000000
 
 name: Mercenaries Combo Chain Timer Never Decreases
+author: bungholio
 mode: once
 w32 0001E948 60000000
 
@@ -195,23 +231,28 @@ mode: once
 aob 812A000C39290001 812A000C3929000A
 
 name: AoB Press Select To Toggle Mercenaries Timer
+author: bungholio
 mode: once
 aob 042000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 0420000000000000000000003D20386AA1298F22712900012B8900013D6001ED409E0030A00B06007F890040419E0030B12B0600813F04DC3D6040A07F895840419D00083D607F80917F04DC4800001038000000B00B0600D01F04DC4801368A
 aob 419E02F8D01F04DC 419E02F84939FBD2
 
 name: AoB Mercenaries Timer Never Decreases
+author: bungholio
 mode: once
 aob 419E02F8D01F04DC 419E02F860000000
 
 name: AoB Mercenaries Bonus Combo Timer Never Decreases
+author: bungholio
 mode: once
 aob 816982D4D00B040C 816982D460000000
 
 name: AoB Mercenaries Combo Chain Timer Never Decreases
+author: bungholio
 mode: once
 aob 816982D4D00B0404 816982D460000000
 
 name: Press Select To Toggle Mercenaries Timer
+author: bungholio
 mode: once
 w32 0139FBD0 80C40160
 w32 0139FBD4 3FE001EE
@@ -242,9 +283,11 @@ w32 00C2EFB0 4939FBD2
 w32 00013684 4939FBE2
 
 name: Mercenaries Mode Stage-Ending Kill Counter Never Increases
+author: bungholio
 mode: once
 w32 00022EFC 396B0000
 
 name: AoB Mercenaries Mode Stage-Ending Kill Counter Never Increases
+author: bungholio
 mode: once
 aob 816A0300396B0001916A030081390000 816A0300396B0000916A030081390000

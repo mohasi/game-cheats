@@ -1,14 +1,17 @@
 # Super Street Fighter IV
 
 name: P1 Infinite Super Meter
+author: optantic
 mode: once
 w8 00C63F73 07
 
 name: P1 Infinite Ultra Meter
+author: optantic
 mode: once
 w8 00C63F7F 07
 
 name: P1 Infinite Health
+author: optantic
 mode: once
 w8 00C63F63 07
 w8 00C63F6E 07

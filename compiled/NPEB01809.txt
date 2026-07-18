@@ -1,25 +1,31 @@
 # PES 2014: Pro Evolution Soccer
 
 name: Score 0
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 w32 002BEE24 30840000
 
 name: Infinite Strength Points
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 w32 004D1B5C 60000000
 
 name: AoB Score 0
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 aob 30840001988300504800001888830DC0 30840000988300504800001888830DC0
 
 name: AoB Infinite Strength Points
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 aob 7C641810986600094800009063E30000 60000000986600094800009063E30000
 
 name: Score 0
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 w32 002C52C4 30840000
 
 name: Infinite Strength Points
+author: games24.blog.fc2.com/blog-entry-192.html
 mode: once
 w32 004E04AC 60000000

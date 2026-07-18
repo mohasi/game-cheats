@@ -1,5 +1,6 @@
 # Sega Classics - Streets of Rage II
 
 name: Unlimited Health
+author: Rambo9000
 mode: once
 w32 35B7F660 00680000

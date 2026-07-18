@@ -1,5 +1,6 @@
 # Battlefield Hardline
 
 name: Immortal
+author: rambooo
 mode: once
 aob FC20F89039000020FC60E09038A000A0 FFC0E89039000020FC60E09038A000A0

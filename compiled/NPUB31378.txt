@@ -1,38 +1,47 @@
 # Duke Nukem 3D - Megaton Edition
 
 name: Infinite Health + Armor
+author: jgduff1
 mode: once
 w32 0016DC64 7C1F1B2E
 
 name: Memory Infinite Armor
+author: jgduff1
 mode: once
 w16 023B6CE6 0064
 
 name: Infinite Ammo Semi Auto
+author: jgduff1
 mode: once
 w32 00178C28 B23D029C
 
 name: Infinite Ammo Shotgun
+author: jgduff1
 mode: once
 w32 001795BC 30A40000
 
 name: Infinite Ammo Rifle
+author: jgduff1
 mode: once
 w32 00179704 30840000
 
 name: Infinite Ammo Rocket Launcher
+author: jgduff1
 mode: once
 w32 00179CF0 30E70000
 
 name: Infinite Grenade
+author: jgduff1
 mode: once
 w32 0017911C 30630000
 
 name: Memory Have All Keys
+author: jgduff1
 mode: once
 w16 023B6C8C 0007
 
 name: Memory Have All Items + Infinite Items
+author: jgduff1
 mode: once
 w16 023B6D22 0001
 w16 023B6D22 0002
@@ -48,9 +57,11 @@ w16 023B6CE2 0640
 w16 023B6CF6 00C8
 
 name: Infinite Jet Pack
+author: jgduff1
 mode: once
 w32 001758E4 30640000
 
 name: Infinite Swim Suit
+author: jgduff1
 mode: once
 w32 00175C28 30640000

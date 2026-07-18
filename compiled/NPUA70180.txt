@@ -1,46 +1,57 @@
 # Uncharted 3: Drake's Deception
 
 name: Infinite HP
+author: CodeUnique3
 mode: once
 w32 00479214 60000000
 
 name: Infinite Weapon
+author: CodeUnique3
 mode: once
 w32 006E37A0 39290000
 
 name: 1 Hit Kill
+author: CodeUnique3
 mode: once
 w32 008485E8 38000000
 
 name: Infinite HP
+author: CodeUnique3
 mode: once
 w32 004796EC 60000000
 
 name: Infinite Weapon
+author: CodeUnique3
 mode: once
 w32 006E3C78 60000000
 
 name: 1 Hit Kill
+author: CodeUnique3
 mode: once
 w32 00849304 38000000
 
 name: Infinite HP
+author: CodeUnique3
 mode: once
 w32 00479CDC 60000000
 
 name: Infinite Weapon
+author: CodeUnique3
 mode: once
 w32 006E4288 60000000
 
 name: 1 Hit Kill
+author: CodeUnique3
 mode: once
 w32 00849924 38000000
 
 name: Dev Menu
+author: dron_3, HdHereidme
 mode: once
 w32 00737E4C 38000001
 w32 00737E50 980B2163
 
 name: AoB Dev Menu
+author: dron_3, HdHereidme
 mode: once
 aob 2F800000419E00A4839E8078 38000001980B2163839E8078

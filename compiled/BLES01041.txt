@@ -1,6 +1,7 @@
 # Dead Space 2
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 008F07D4 60000000
 w32 008F1E98 38600001
@@ -8,32 +9,39 @@ w32 008F203C 38600001
 w32 008F39B0 38600001
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 002CE764 4E800020
 
 name: Health Does Not Decrease For Isaac
+author: bungholio
 mode: once
 w32 000BD094 60000000
 
 name: Hardcore Mode Save Count Never Decreases
+author: bungholio
 mode: once
 w32 0045F114 38600000
 w32 0045F154 39200000
 
 name: Beat The Game On Any Difficulty To Unlock The Hand Cannon
+author: bungholio
 mode: once
 w32 0027EAB0 38600004
 w32 003FD94C 38600004
 
 name: Ammo Does Not Decrease
+author: bungholio
 mode: once
 w32 00223E04 60000000
 
 name: Stasis Does Not Decrease
+author: bungholio
 mode: once
 w32 0007366C 60000000
 
 name: Max Stasis Duration
+author: bungholio
 mode: once
 w32 002A4DC8 3C807F7F
 w32 002A4DD8 90980BC8
@@ -41,6 +49,7 @@ w32 002A4DF0 3C007F7F
 w32 002A4E04 90180BC8
 
 name: Infinite Credits
+author: Skiller
 mode: once
 w32 001D38E8 7D204B78
 w32 00226AC4 7D234B78
@@ -48,16 +57,19 @@ w32 002368F0 3C00000F
 w32 002368F4 6000423F
 
 name: Infinite Power Nodes
+author: bungholio
 mode: once
 w32 00226960 3880270F
 w32 00392404 3880270F
 w32 002AF370 3880270F
 
 name: Oxygen Does Not Decrease
+author: bungholio
 mode: once
 w32 002D37F4 60000000
 
 name: Weapons Have Max Damage
+author: bungholio
 mode: once
 w32 001F82C4 3C807F7F
 w32 001F82CC 909F03D8
@@ -65,20 +77,24 @@ w32 001F82DC 3C807F7F
 w32 001F82E4 909F03DC
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 00224034 4BFFFEF8
 
 name: Line Gun Has Large Width
+author: bungholio
 mode: once
 w32 001F86F0 3C604080
 w32 001F86F8 907B0428
 
 name: Line Gun Alt Fire Duration 0
+author: bungholio
 mode: once
 w32 001F870C 3C600000
 w32 001F8714 907B042C
 
 name: Ripper Has Max Duration
+author: bungholio
 mode: once
 w32 001F8660 3C007F7F
 w32 001F8664 901F0404
@@ -86,6 +102,7 @@ w32 001F8670 E80100A0
 w32 001F8674 7C0803A6
 
 name: Contact Beam Has No Charge Time
+author: bungholio
 mode: once
 w32 001F887C 3C000000
 w32 001F8880 901F0404
@@ -93,6 +110,7 @@ w32 001F888C E80100A0
 w32 001F8890 7C0803A6
 
 name: Hold L2 For Zero Gravity
+author: bungholio
 mode: once
 w32 0099C658 3D003083
 w32 0099C65C A108A4BC
@@ -104,59 +122,72 @@ w32 0099C670 4B714BBC
 w32 000B1228 488EB430
 
 name: Open Inventory For 25 Slots
+author: bungholio
 mode: once
 w32 00D91C9C 39200019
 
 name: Hacking Timer Never Decreases
+author: bungholio
 mode: once
 w32 003D3338 60000000
 w32 003D3364 60000000
 
 name: Disable Some Collision Checks
+author: bungholio
 mode: once
 w32 0008A99C 3F607FFF
 
 name: Headless Isaac
+author: bungholio
 mode: once
 w32 002BCAB0 3C000000
 
 name: Lurkers Can Not Move And Disappear
+author: bungholio
 mode: once
 w32 00118548 3C000000
 w32 00119014 3D400000
 
 name: Leapers Can Not Move And Disappear
+author: bungholio
 mode: once
 w32 00118758 3D400000
 w32 00119014 3D400000
 w32 00119F8C 3EA00000
 
 name: Pukers Can Not Spit Long Range Nor Close Range
+author: bungholio
 mode: once
 w32 0011F080 3FE00000
 
 name: Pukers Can Not Spit Long Range
+author: bungholio
 mode: once
 w32 0011F4A8 60000000
 
 name: Infinite Use Of Med Packs + Stasis Packs
+author: bungholio
 mode: once
 w32 00226B34 60000000
 
 name: Inventory Ammo Never Decreases Nor Disappears
+author: bungholio
 mode: once
 w32 001D41FC 60000000
 
 name: Mega Sized Weapon Clips
+author: bungholio
 mode: once
 w32 001F82A0 3C007FFF
 
 name: Enemies Can Not Attack
+author: bungholio
 mode: once
 w32 0011BF18 00000074
 w32 0011BF1C 00000074
 
 name: Enemies Do Not Move Nor Attack
+author: bungholio
 mode: once
 w32 0011BF0C 00000074
 w32 0011BF10 00000074
@@ -171,6 +202,7 @@ w32 0011BF30 00000074
 w32 0011BF34 00000074
 
 name: Enemies Never Approach You
+author: bungholio
 mode: once
 w32 00143850 000000E4
 w32 00143854 000000E4
@@ -188,39 +220,48 @@ w32 00143880 000000E4
 w32 00143884 000000E4
 
 name: Spitters Never Spit
+author: bungholio
 mode: once
 w32 0011F5CC 60000000
 
 name: Lurkers Never Shoot
+author: bungholio
 mode: once
 w32 0011E2B4 60000000
 
 name: Leapers, Lurkers, And Pack Get Stuck On The Ground If They Jump
+author: bungholio
 mode: once
 w32 0011D348 60000000
 
 name: Knocked Down Enemies Can Not Get Back Up
+author: bungholio
 mode: once
 w32 0011C0C4 60000000
 
 name: The Pregnant Necromorph Does Not Release Swarmers
+author: bungholio
 mode: once
 w32 00119E30 60000000
 
 name: Leapers + Swarmers Get Stuck In The Air After They Jump
+author: bungholio
 mode: once
 w32 00118F14 60000000
 
 name: All Enemies Approach You A Lot Lesser
+author: bungholio
 mode: once
 w32 00117E28 60000000
 w32 00117E1C 60000000
 
 name: Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 000A6E9C 60000000
 
 name: Load Game For Insanely High Health + Stasis
+author: bungholio
 mode: once
 w32 0099C658 3D405D5F
 w32 0099C65C 914300E4
@@ -231,32 +272,39 @@ w32 0099C66C 4B70A4EC
 w32 000A6B54 488F5B04
 
 name: AoB Invincibility
+author: bungholio
 mode: once
 aob 4BFFFFBCF821FE51 4BFFFFBC4E800020
 
 name: AoB Hardcore Mode Save Count Never Decreases
+author: bungholio
 mode: once
 aob 813E8008EBC1FFF080690020 813E8008EBC1FFF038600000
 aob 812B002039290001 812B002039200000
 
 name: AoB Beat The Game On Any Difficulty To Unlock The Hand Cannon
+author: bungholio
 mode: once
 aob 481E09DD60000000 481E09DD38600004
 aob 600000002F830004409EFFA0 386000042F830004409EFFA0
 
 name: AoB Ammo Does Not Decrease
+author: bungholio
 mode: once
 aob 4BEEC87D60000000935F038C 4BEEC87D6000000060000000
 
 name: AoB Stasis Does Not Decrease
+author: bungholio
 mode: once
 aob FC006B2ED00300F0 FC006B2E60000000
 
 name: AoB Max Stasis Duration
+author: bungholio
 mode: once
 aob 6000000081381678C01E80082F890000D0380BC8419E0014792900208169000CC00B03C4EC010032EC01002A3C8021467F83E3786084FA9438A0000BD0180BC8 3C807F7F81381678C01E80082F89000090980BC8419E0014792900208169000CC00B03C4EC0100323C007F7F3C8021467F83E3786084FA9438A0000B90180BC8
 
 name: AoB Infinite Credits
+author: Skiller
 mode: once
 aob 409D00087D234B78906B002881790260 600000007D234B78906B002881790260
 aob 7C040050409C000838000000 7C0400503C00000F6000423F
@@ -264,163 +312,201 @@ aob 6129423F7C0022147F804840 6129423F7D204B787F804840
 aob 6129423F800B00287C6302147F834840 6129423F800B00287D234B787F834840
 
 name: AoB Infinite Power Nodes
+author: bungholio
 mode: once
 aob 7D2903A67F83E378805D000478840020 7D2903A67F83E378805D00043880270F
 aob 7C0903A67FE3FB7878840020 7C0903A67FE3FB783880270F
 aob 3883FFFF7D03437878840020 3883FFFF7D0343783880270F
 
 name: AoB Oxygen Does Not Decrease
+author: bungholio
 mode: once
 aob D1BF006CD15F0074 D1BF006C60000000
 
 name: AoB Weapons Have Max Damage
+author: bungholio
 mode: once
 aob 600000007FA3EB78D03F03D87F64DB7838A00006481F39F9600000007FA3EB78D03F03DC 3C807F7F7FA3EB78909F03D87F64DB7838A00006481F39F93C807F7F7FA3EB78909F03DC
 
 name: AoB Rapid Fire
+author: bungholio
 mode: once
 aob FF806800409CFEF8 FF8068004BFFFEF8
 
 name: AoB Line Gun Has Large Width
+author: bungholio
 mode: once
 aob 60000000813B000CD03B0428 3C604080813B000C907B0428
 
 name: AoB Line Gun Alt Fire Duration 0
+author: bungholio
 mode: once
 aob 60000000E80100B0D03B042C 3C600000E80100B0907B042C
 
 name: AoB Ripper Has Max Duration
+author: bungholio
 mode: once
 aob EC00082AE80100A0EBA10078EBC100807C0803A6D01F0404EBE10088382100904E8000205569103A392905C07D2907B47D2A4A14C00900044BFFFFC84BFFFB74 3C007F7F901F0404EBA10078EBC10080E80100A07C0803A6EBE10088382100904E8000205569103A392905C07D2907B47D2A4A14C00900044BFFFFC84BFFFB74
 
 name: AoB Contact Beam Has No Charge Time
+author: bungholio
 mode: once
 aob EC00082AE80100A0EBA10078EBC100807C0803A6D01F0404EBE10088382100904E8000205569103A392905C07D2907B47D2A4A14C00900044BFFFFC82F830000 3C000000901F0404EBA10078EBC10080E80100A07C0803A6EBE10088382100904E8000205569103A392905C07D2907B47D2A4A14C00900044BFFFFC82F830000
 
 name: AoB Hold L2 For Zero Gravity
+author: bungholio
 mode: once
 aob 7C6307B4382100804E8000204E8000204E8000204E8000204E8000204E8000204E8000204E800020 7C6307B4382100804E8000203D003083A108A4BC710802002F880200419E00084B70D3804B70D0B0
 aob FF806800409D02C0 FF806800488F2F3C
 
 name: AoB Open Inventory For 25 Slots
+author: bungholio
 mode: once
 aob 81280BE038FD01E0 3920001938FD01E0
 
 name: AoB Hacking Timer Never Decreases
+author: bungholio
 mode: once
 aob 91210084D16300D8 9121008460000000
 aob FC2C682ED02300D8 FC2C682E60000000
 
 name: AoB Disable Some Collision Checks
+author: bungholio
 mode: once
 aob 3F603F803BA00120 3F607F7F3BA00120
 
 name: AoB Headless Isaac
+author: bungholio
 mode: once
 aob 3C003F807FA8EB78 3C0000007FA8EB78
 
 name: AoB Lurkers Can Not Move And Disappear
+author: bungholio
 mode: once
 aob 936101003C003F80 936101003C000000
 aob 3D403F8082DE94D0 3D40000082DE94D0
 
 name: AoB Leapers Can Not Move And Disappear
+author: bungholio
 mode: once
 aob 3D403F8083FE80F0 3D40000083FE80F0
 aob 3D403F8082DE94D0 3D40000082DE94D0
 aob 3EA03F807F84E378 3EA000007F84E378
 
 name: AoB Pukers Can Not Spit Long Range Nor Close Range
+author: bungholio
 mode: once
 aob 3FE03F807BBD0020 3FE000007BBD0020
 
 name: AoB Pukers Can Not Spit Long Range
+author: bungholio
 mode: once
 aob 419E00244BFFAF79 600000004BFFAF79
 
 name: AoB Inventory Ammo Never Decreases Nor Disappears
+author: bungholio
 mode: once
 aob 93BF02607C0803A6EBA10078EBE10088382100904E8000207C1D0378 600000007C0803A6EBA10078EBE10088382100904E8000207C1D0378
 
 name: AoB Mega Sized Weapon Clips
+author: bungholio
 mode: once
 aob E9610070540007BC 3C007F7F540007BC
 
 name: AoB Enemies Can Not Attack
+author: bungholio
 mode: once
 aob 00000094000000A4 0000007400000074
 
 name: AoB Enemies Do Not Move Nor Attack
+author: bungholio
 mode: once
 aob 00000060000000740000008400000094000000A4000000B4000000C4000000D80000012C0000014C00000168 0000007400000074000000740000007400000074000000740000007400000074000000740000007400000074
 
 name: AoB Enemies Never Approach You
+author: bungholio
 mode: once
 aob 00000084000000E4000002440000060C0000053C000005600000025C000002D4000002E800000334000003F4000004040000046C000004FC 000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4000000E4
 
 name: AoB Spitters Never Spit
+author: bungholio
 mode: once
 aob 7F63DB782F800000409E0038 7F63DB782F80000060000000
 
 name: AoB Lurkers Never Shoot
+author: bungholio
 mode: once
 aob 419D0010FF8D6000409D0040 419D0010FF8D600060000000
 
 name: AoB Leapers, Lurkers, And Pack Get Stuck On The Ground If They Jump
+author: bungholio
 mode: once
 aob 419A00784BFFD0D9 600000004BFFD0D9
 
 name: AoB Knocked Down Enemies Can Not Get Back Up
+author: bungholio
 mode: once
 aob 419A00784BFFD0D9 600000004BFFD0D9
 
 name: AoB The Pregnant Necromorph Does Not Release Swarmers
+author: bungholio
 mode: once
 aob D003092C409D0064 D003092C60000000
 
 name: AoB Leapers + Swarmers Get Stuck In The Air After They Jump
+author: bungholio
 mode: once
 aob FF800800419C01AC FF80080060000000
 
 name: AoB All Enemies Approach You A Lot Lesser
+author: bungholio
 mode: once
 aob 409E00F0807F00A82F83FFFF419E0170 60000000807F00A82F83FFFF60000000
 
 name: AoB Enemies Die From 1 Hit
+author: bungholio
 mode: once
 aob 486B6B3560000000813F000C807B0010380001003D600001901F0100C00900003C0000023D200004D01F00E8901F0118913F010839400000D01F00E4 486B6B3560000000813F000C807B0010380001003D600001901F0100C00900003C0000023D200004D01F00E8901F0118913F01083940000060000000
 
 name: AoB Load Game For Insanely High Health + Stasis
+author: bungholio
 mode: once
 aob 7C6307B4382100804E8000204E8000204E8000204E8000204E8000204E8000204E800020 7C6307B4382100804E8000203D405CDA914300E4914300E8914300F0914300F44B70A4EC
 aob 38000000D02300E4 38000000488F5B04
 
 name: Stalkers Can Not Move And Disappear
+author: bungholio
 mode: once
 w32 00118548 3C000000
 w32 00119014 3D400000
 
 name: Stalkers Never Shoot
+author: bungholio
 mode: once
 w32 0011E2B4 60000000
 
 name: Leapers, Stalkers, And Pack Get Stuck On The Ground If They Jump
+author: bungholio
 mode: once
 w32 0011D348 60000000
 
 name: AoB Stalkers Can Not Move And Disappear
+author: bungholio
 mode: once
 aob 936101003C003F80 936101003C000000
 aob 3D403F8082DE94D0 3D40000082DE94D0
 
 name: AoB Stalkers Never Shoot
+author: bungholio
 mode: once
 aob 419D0010FF8D6000409D0040 419D0010FF8D600060000000
 
 name: AoB Leapers, Stalkers, And Pack Get Stuck On The Ground If They Jump
+author: bungholio
 mode: once
 aob 419A00784BFFD0D9 600000004BFFD0D9
 
 name: AoB Knocked Down Enemies Can Not Get Back Up
+author: bungholio
 mode: once
 aob 83C282D87C7F1B78419E0034 83C282D87C7F1B7860000000

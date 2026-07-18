@@ -1,6 +1,7 @@
 # Dead Space 3
 
 name: Infinite Health + Stasis
+author: Medo
 mode: once
 w32 013278F4 C1A900F4
 w32 013278F8 D1A900F8
@@ -11,6 +12,7 @@ w32 01327908 482F05A7
 w32 002F05A0 493278F7
 
 name: Infinite Stasis
+author: Medo
 mode: once
 w32 013278F4 C1A900F4
 w32 013278F8 D1A90100
@@ -20,46 +22,56 @@ w32 01327904 482F05A7
 w32 002F05A0 493278F7
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 004F2B84 60000000
 
 name: Max Resources On Sell
+author: Medo
 mode: once
 w32 00245144 3C00000F
 w32 00245148 6000423F
 
 name: Max Resources On Buy
+author: Medo
 mode: once
 w32 00245188 3C00000F
 w32 0024518C 6000423F
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 0038A55C 4E800020
 
 name: Infinite Health
+author: CodeUnique3
 mode: once
 w32 0038A874 60000000
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 00195AF8 913F00F8
 w32 00195B08 913F00F4
 
 name: Body Temperature Does Not Decrease
+author: bungholio
 mode: once
 w32 00520278 60000000
 w32 00520294 60000000
 
 name: Oxygen Does Not Decrease
+author: bungholio
 mode: once
 w32 0030F398 60000000
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 004E9298 48000008
 
 name: Max Kinesis Range
+author: bungholio
 mode: once
 w32 0129F378 3C007F80
 w32 0129F37C 90030E38
@@ -68,6 +80,7 @@ w32 0129F384 48322E22
 w32 00322E1C 4929F37A
 
 name: Press L3 + R3 To Toggle No Gravity
+author: bungholio
 mode: once
 w32 013173F0 D1BF0140
 w32 013173F4 3D40019F
@@ -92,140 +105,173 @@ w32 0131743C 481AFDB6
 w32 001AFDB0 493173F2
 
 name: Turret Health Never Decreases
+author: bungholio
 mode: once
 w32 001B2F44 60000000
 
 name: Ship Health Never Decreases
+author: bungholio
 mode: once
 w32 005CD478 60000000
 
 name: Ship Health Timer Never Decreases
+author: bungholio
 mode: once
 w32 00600014 60000000
 
 name: Infinite Stasis Length
+author: bungholio
 mode: once
 w32 00357544 3D207F80
 w32 00357548 9121009C
 
 name: Hacking Timer Never Decreases
+author: bungholio
 mode: once
 w32 00597900 60000000
 w32 0059793C 60000000
 
 name: Instantly Complete Enemy Escape Button Mashers
+author: bungholio
 mode: once
 w32 00058FF8 60000000
 
 name: AoB Infinite Health + Stasis
+author: Medo
 mode: once
 aob BE5000003E83FFEFBF4CFFFC000000000000000000000000000000000000000000000000 BE5000003E83FFEFBF4CFFFCC1A900F4D1A900F8D1A90100D1A90104C1A900FC482F05A7
 aob C1A900FCEDAD0828FD805050ED6A6828 493278F7EDAD0828FD805050ED6A6828
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 aob 93BF0290812B02F480090000F8410028 60000000812B02F480090000F8410028
 
 name: AoB Max Resource On Sell
+author: Medo
 mode: once
 aob 409C00103800FFFF900300004E80002090030000 3C00000F6000423F900300004E80002090030000
 
 name: AoB Max Resource On Buy
+author: Medo
 mode: once
 aob 419D00103800000090030000 3C00000F6000423F90030000
 
 name: AoB Invincibility
+author: bungholio
 mode: once
 aob 4BFFFF78F821FE01 4BFFFF784E800020
 
 name: AoB Enemies Die From Any Damage
+author: bungholio
 mode: once
 aob D01F00F8913F00FC901F012C915F0128D01F00F43C003852807E00103881007060003FC3786300209001007048C08201 913F00F8913F00FC901F012C915F0128913F00F43C003852807E00103881007060003FC3786300209001007048C08201
 
 name: AoB Body Temperature Does Not Decrease
+author: bungholio
 mode: once
 aob D0030060ED890028FDA00050FDAD02AEEC0B4828FD8C4B6EFC005A6ED1830060 60000000ED890028FDA00050FDAD02AEEC0B4828FD8C4B6EFC005A6E60000000
 
 name: AoB Oxygen Does Not Decrease
+author: bungholio
 mode: once
 aob ED4AF828D15F0060 ED4AF82860000000
 
 name: AoB Rapid Fire
+author: bungholio
 mode: once
 aob FC006818FF800800419D0008 FC006818FF80080048000008
 
 name: AoB Max Kinesis Range
+author: bungholio
 mode: once
 aob 0182B74400000000000000000000000000000000 0182B7443C007F8090030E388003058C48322E22
 aob 4E8000208003058C 4E8000204929F37A
 
 name: AoB Press L3 + R3 To Toggle No Gravity
+author: bungholio
 mode: once
 aob C8F1507B0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 C8F1507BD1BF01403D40019FA00AC6783D40020AA14A13007C4A00403D40020A41820020B00A13007000C0002840C00040820010880A130268000001980A1302880A13022840000041820008481AFDBA481AFDB6
 aob FF8D6000D1BF0140 FF8D6000493273F2
 
 name: AoB Turret Health Never Decreases
+author: bungholio
 mode: once
 aob C02101304BFA3AD5 C021013060000000
 
 name: AoB Ship Health Never Decreases
+author: bungholio
 mode: once
 aob 578918389B9E0068 5789183860000000
 
 name: AoB Ship Health Timer Never Decreases
+author: bungholio
 mode: once
 aob FF80F800D01E0068 FF80F80060000000
 
 name: AoB Infinite Stasis Length
+author: bungholio
 mode: once
 aob C00905FCD0010098C1AB0E34D1A1009C C00905FCD00100983D207F809121009C
 
 name: AoB Hacking Timer Never Decreases
+author: bungholio
 mode: once
 aob 91210090D1A300E8 9121009060000000
 aob FD8D032ED18300E8 FD8D032E60000000
 
 name: AoB Instantly Complete Enemy Escape Button Mashers
+author: bungholio
 mode: once
 aob C01F00A8FF806800419C00EC C01F00A8FF80680060000000
 
 name: Infinite Ammo + Bottomless Clip
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 w32 004F3394 60000000
 
 name: Resources Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 w32 00245584 7C090378
 
 name: Oxygen Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 w32 0030FB24 60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob 93BF0290812B02F480090000F84100287C0903A6804900044E800421 60000000812B02F480090000F84100287C0903A6804900044E800421
 
 name: AoB 3 fixed by item use (item screen)
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob 7C004A147FE5FB78901F00044BFBF86DE80101007FE3FB78 380000037FE5FB78901F00044BFBF86DE80101007FE3FB78
 
 name: AoB Resources Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob 7D250050419D001038000000900300004E80002091230000 7C090378419D001038000000900300004E80002091230000
 
 name: AoB 32,000 Resources On Sell
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob 7C002A147F892840409C00103800FFFF900300004E800020 38007D007F892840409C00103800FFFF900300004E800020
 
 name: AoB Oxygen Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob ED4AF828D15F00604BFFFCB8801F00782F800000419EFCA8 60000000D15F00604BFFFCB8801F00782F800000419EFCA8
 
 name: AoB Item does not decrease (normal time) Item can not be discarded
+author: games24.blog.fc2.com/blog-entry-115.html
 mode: once
 aob 7F7C00507B2300207DC57378936E00044BF8FE91800E0004 7F7C02147B2300207DC57378936E00044BF8FE91800E0004
 
 name: Infinite Health + Stasis
+author: Medo
 mode: once
 w32 0132FA74 C1A900F4
 w32 0132FA78 D1A900F8
@@ -236,6 +282,7 @@ w32 0132FA88 4E800020
 w32 002F6138 4932FA77
 
 name: Infinite Stasis + use Stasis to Refill Health
+author: Medo
 mode: once
 w32 0132FA74 3C00461A
 w32 0132FA78 900300F4
@@ -247,46 +294,56 @@ w32 001878FC 4932FA77
 w32 00187900 60000000
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 004F7F38 60000000
 
 name: Max Resource On Sell
+author: Medo
 mode: once
 w32 0024A770 3C00000F
 w32 0024A774 6000423F
 
 name: Max Resource On Buy
+author: Medo
 mode: once
 w32 0024A7B4 3C00000F
 w32 0024A7B8 6000423F
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 0038AE58 4E800020
 
 name: Infinite Health
+author: CodeUnique3
 mode: once
 w32 0038B170 60000000
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 0019AC88 913F00F8
 w32 0019AC98 913F00F4
 
 name: Body Temperature Does Not Decrease
+author: bungholio
 mode: once
 w32 005260A8 60000000
 w32 005260C4 60000000
 
 name: Oxygen Does Not Decrease
+author: bungholio
 mode: once
 w32 00314A7C 60000000
 
 name: AoB Enemies Die From Any Damage
+author: bungholio
 mode: once
 aob D01F00F8913F00FC901F012C915F0128D01F00F43C003852807E00103881007060003FC3786300209001007048C0B291 913F00F8913F00FC901F012C915F0128913F00F43C003852807E00103881007060003FC3786300209001007048C0B291
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00928364 60000000
 w32 00934DFC 38600001

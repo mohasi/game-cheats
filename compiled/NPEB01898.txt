@@ -1,30 +1,36 @@
 # Hyperdimension Neptunia Victory
 
 name: Char 1 HP + SP in Battle
+author: JorgeFFC
 mode: once
 w32 330E8660 0001869F
 w32 330E8668 0000270F
 
 name: Char 2 HP + SP in Battle
+author: JorgeFFC
 mode: once
 w32 330E9070 0001869F
 w32 330E9078 0000270F
 
 name: Char 3 HP + SP in Battle
+author: JorgeFFC
 mode: once
 w32 330E9578 0001869F
 w32 330E9580 0000270F
 
 name: Char 4 HP + SP in Battle
+author: JorgeFFC
 mode: once
 w32 330EC2C0 0001869F
 w32 330EC2C8 0000270F
 
 name: Exe Drive Gauge Always Full
+author: JorgeFFC
 mode: once
 w16 330F702C 0320
 
 name: Neptune All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2728 3B9AC9FF
 w32 330F272C 3B9AC9FF
@@ -55,6 +61,7 @@ w32 330F278C 3B9AC9FF
 w32 330F2790 3B9AC9FF
 
 name: Nepgear All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F29F8 3B9AC9FF
 w32 330F29FC 3B9AC9FF
@@ -85,6 +92,7 @@ w32 330F2A5C 3B9AC9FF
 w32 330F2A60 3B9AC9FF
 
 name: Plutia All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F27B8 3B9AC9FF
 w32 330F27BC 3B9AC9FF
@@ -115,6 +123,7 @@ w32 330F281C 3B9AC9FF
 w32 330F2820 3B9AC9FF
 
 name: Noire All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2848 3B9AC9FF
 w32 330F284C 3B9AC9FF
@@ -145,6 +154,7 @@ w32 330F28AC 3B9AC9FF
 w32 330F28B0 3B9AC9FF
 
 name: Blanc All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F28D8 3B9AC9FF
 w32 330F28DC 3B9AC9FF
@@ -175,6 +185,7 @@ w32 330F293C 3B9AC9FF
 w32 330F2940 3B9AC9FF
 
 name: Vert All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2968 3B9AC9FF
 w32 330F296C 3B9AC9FF
@@ -205,6 +216,7 @@ w32 330F29CC 3B9AC9FF
 w32 330F29D0 3B9AC9FF
 
 name: Peashy All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2A88 3B9AC9FF
 w32 330F2A8C 3B9AC9FF
@@ -235,6 +247,7 @@ w32 330F2AEC 3B9AC9FF
 w32 330F2AF0 3B9AC9FF
 
 name: Uni All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2B18 3B9AC9FF
 w32 330F2B1C 3B9AC9FF
@@ -265,6 +278,7 @@ w32 330F2B7C 3B9AC9FF
 w32 330F2B80 3B9AC9FF
 
 name: Rom All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2BA8 3B9AC9FF
 w32 330F2BAC 3B9AC9FF
@@ -295,6 +309,7 @@ w32 330F2C0C 3B9AC9FF
 w32 330F2C10 3B9AC9FF
 
 name: Ram All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2C38 3B9AC9FF
 w32 330F2C3C 3B9AC9FF
@@ -325,6 +340,7 @@ w32 330F2C9C 3B9AC9FF
 w32 330F2CA0 3B9AC9FF
 
 name: Kid IF All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2CC8 3B9AC9FF
 w32 330F2CCC 3B9AC9FF
@@ -355,6 +371,7 @@ w32 330F2D2C 3B9AC9FF
 w32 330F2D30 3B9AC9FF
 
 name: Kid Compa All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2D58 3B9AC9FF
 w32 330F2D5C 3B9AC9FF
@@ -385,6 +402,7 @@ w32 330F2DBC 3B9AC9FF
 w32 330F2DC0 3B9AC9FF
 
 name: That JP Kanji All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2DE8 3B9AC9FF
 w32 330F2DEC 3B9AC9FF
@@ -415,6 +433,7 @@ w32 330F2E4C 3B9AC9FF
 w32 330F2E50 3B9AC9FF
 
 name: (Past) Falcom All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2E78 3B9AC9FF
 w32 330F2E7C 3B9AC9FF
@@ -445,6 +464,7 @@ w32 330F2EDC 3B9AC9FF
 w32 330F2EE0 3B9AC9FF
 
 name: Falcom All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2F08 3B9AC9FF
 w32 330F2F0C 3B9AC9FF
@@ -475,6 +495,7 @@ w32 330F2F6C 3B9AC9FF
 w32 330F2F70 3B9AC9FF
 
 name: Mages All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F2F98 3B9AC9FF
 w32 330F2F9C 3B9AC9FF
@@ -505,6 +526,7 @@ w32 330F2FFC 3B9AC9FF
 w32 330F3000 3B9AC9FF
 
 name: CyberConnect2 All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F3028 3B9AC9FF
 w32 330F302C 3B9AC9FF
@@ -535,6 +557,7 @@ w32 330F308C 3B9AC9FF
 w32 330F3090 3B9AC9FF
 
 name: Broccoli All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F30B8 3B9AC9FF
 w32 330F30BC 3B9AC9FF
@@ -565,6 +588,7 @@ w32 330F311C 3B9AC9FF
 w32 330F3120 3B9AC9FF
 
 name: MarvelousAQT All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F3148 3B9AC9FF
 w32 330F314C 3B9AC9FF
@@ -595,6 +619,7 @@ w32 330F31AC 3B9AC9FF
 w32 330F31B0 3B9AC9FF
 
 name: Tekken All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 330F31D8 3B9AC9FF
 w32 330F31DC 3B9AC9FF
@@ -625,41 +650,51 @@ w32 330F323C 3B9AC9FF
 w32 330F3240 3B9AC9FF
 
 name: Max Item On Change + Use
+author: JorgeFFC
 mode: once
 w32 00277D68 60000000
 
 name: Max Friendship With 1 Battle Or Any Change
+author: JorgeFFC
 mode: once
 w32 002972BC 60000000
 
 name: Instant Max + Infinite Exe Drive Gauge
+author: JorgeFFC
 mode: once
 w32 00271178 60000000
 
 name: Instant Challenge Clear On Action
+author: JorgeFFC
 mode: once
 w32 0024B4B4 40810024
 
 name: Max Exp After Battle
+author: games24.blog.fc2.com/blog-entry-102.html ported by JorgeFFC
 mode: once
 w32 0019D8CC 60000000
 
 name: Max Money After Battle
+author: games24.blog.fc2.com/blog-entry-102.html ported by JorgeFFC
 mode: once
 w32 0019D95C 60000000
 
 name: AoB Max Item On Change + Use
+author: JorgeFFC
 mode: once
 aob 386000FF7C03C000408000148BDA0003 386000FF7C03C000600000008BDA0003
 
 name: AoB Max Friendship With 1 Battle Or Any Change
+author: JorgeFFC
 mode: once
 aob EBC100A0EBE100A8382100B04E8000207C691B787CE802A6 60000000EBE100A8382100B04E8000207C691B787CE802A6
 
 name: AoB Instant Max + Infinite Exe Drive Gauge
+author: JorgeFFC
 mode: once
 aob 792900207C2900004080000CB12BF92C 792900207C29000060000000B12BF92C
 
 name: AoB Instant Challenge Clear On Action
+author: JorgeFFC
 mode: once
 aob 7C2058004181002490030008E8010090 7C2058004081002490030008E8010090

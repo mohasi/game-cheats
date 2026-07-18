@@ -1,6 +1,7 @@
 # Braid
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 32C0FE4C 00000071
 w32 32C0FEBC 000000B2

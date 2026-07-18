@@ -1,23 +1,28 @@
 # Might &amp; Magic - Clash of Heroes
 
 name: ASM Max Level After 2 Victory (Principal Character Only)
+author: jgduff1
 mode: once
 w32 00075870 B0030016
 
 name: ASM Lot Of Money On Gain
+author: jgduff1
 mode: once
 w32 000757C0 B0030018
 
 name: ASM Lot Of Money + Rocks + Jewels On Gain
+author: jgduff1
 mode: once
 w32 00075840 B003001C
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000AC8D8 60000000
 w32 000AC900 93630BBC
 
 name: ASM Max Level On 1 Victory (Fighters Only)
+author: jgduff1
 mode: once
 w32 00011448 30630005
 w32 000115BC 7C03212E
@@ -32,32 +37,39 @@ w32 00112148 B0070000
 w32 0011216C B0670000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 000757C0 B0030018
 w32 00075800 B003001A
 
 name: ASM Instant Max Spells On Gain
+author: jgduff1
 mode: once
 w32 000A62DC 7CA4F014
 
 name: ASM Infinite Spells
+author: jgduff1
 mode: once
 w32 000A6C34 60000000
 
 name: Memory Max Level After 2 Victory (Principal Character Only)
+author: jgduff1
 mode: once
 w16 008C64EE 0059
 w16 32E8489E 0031
 
 name: Memory Lot Of Money + Rocks + Jewels On Gain
+author: jgduff1
 mode: once
 w16 008C64F0 0336
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w16 356AB98E 000A
 
 name: Memory Max Level On 1 Victory (Fighters Only)
+author: jgduff1
 mode: once
 w16 008C590E 0003
 w16 32376E96 015E
@@ -65,6 +77,7 @@ w16 32E8051A 009A
 w16 32E80532 014F
 
 name: ASM Max Level On 1 Victory (Fighters Only)
+author: jgduff1
 mode: once
 w32 00011448 30630005
 w32 000115BC 7C03212E
@@ -79,9 +92,11 @@ w32 00112148 B0070000
 w32 0011216C B0670000
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w16 008C64F0 0336
 
 name: Memory Instant Max + Infinite Spell On Gain
+author: jgduff1
 mode: once
 w32 32061EBC 3F800000

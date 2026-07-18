@@ -1,6 +1,7 @@
 # Duke Nukem Forever
 
 name: Ammo 99999
+author: Skiller
 mode: once
 w32 0021AF90 839E09CC
 w32 0021AF98 2C9C0000
@@ -10,6 +11,7 @@ w32 0021AFAC 3BA10100
 w32 0021AFB4 917C0988
 
 name: Infinite Ego
+author: Skiller
 mode: once
 w32 00D95000 3D804316
 w32 00D95004 918B0A1C
@@ -19,5 +21,6 @@ w32 00D95010 4B486E40
 w32 0021BE4C 48B791B4
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00486E34 39240002

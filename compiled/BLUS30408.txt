@@ -1,10 +1,12 @@
 # Army of Two: The 40th Day
 
 name: Infinite Ammo + Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001613F0 7CBC2814
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 018EC600 39C07FFF
 w32 018EC604 91DB0304
@@ -13,73 +15,88 @@ w32 018EC60C 4A74B364
 w32 0003796C 498B4C94
 
 name: God Mode
+author: dron_3
 mode: once
 w32 006431F0 5463A7FE
 w32 006431F4 2C030001
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 00156A4C 3C804000
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 546317FE2C0300004182000838800001608300004E80002080A30230 5463A7FE2C0300014182000838800001608300004E80002080A30230
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 809D023054840FFE 3C80400054840FFE
 
 name: Infinite Ammo + No Reload + Infinite Grenades
+author: jgduff1
 mode: once
 w32 00160F9C 93A30050
 w32 00161448 93830040
 
 name: Memory Max Cash
+author: jgduff1
 mode: once
 w32 35089E78 0000C350
 w32 356D6D38 001E8480
 
 name: Lot Of Cash On Gain
+author: jgduff1
 mode: once
 w32 005056CC 60000000
 w32 005056D4 60000000
 
 name: Infinite Ammo + No Reload + Infinite Grenades
+author: jgduff1
 mode: once
 w32 00162A7C 93A30050
 w32 00162F28 93830040
 
 name: Infinite Cash
+author: jgduff1
 mode: once
 w32 0050B84C 60000000
 w32 0050B854 60000000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00046098 7C8F2010
 w32 0004609C 60000000
 w32 00642958 60000000
 
 name: God Mode
+author: dron_3
 mode: once
 w32 00641750 5463A7FE
 w32 00641754 2C030001
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 001563FC 3C804000
 
 name: Infinite Ammo + No Reload + Infinite Grenades
+author: jgduff1
 mode: once
 w32 0016242C 93A30050
 w32 001628D8 93830040
 
 name: Infinite Cash
+author: jgduff1
 mode: once
 w32 0050A534 60000000
 w32 0050A53C 60000000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00045938 7C8F2010
 w32 0004593C 60000000

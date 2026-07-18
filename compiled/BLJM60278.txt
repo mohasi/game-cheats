@@ -1,5 +1,6 @@
 # Ken to Mahou to Gakuen Mono 2G
 
 name: Gold 99999999
+author: SHAkA
 mode: once
 w32 02E29324 05F5E0FF

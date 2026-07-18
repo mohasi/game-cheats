@@ -1,15 +1,18 @@
 # Lollipop Chainsaw
 
 name: Invincible Mode
+author: xtatu
 mode: once
 w32 00099620 00000000
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 008F88F8 38800001
 w32 008F8908 28030001
 
 name: Max Coins On Gain
+author: Hiei-YYH
 mode: once
 w32 0161C100 3FC00098
 w32 0161C104 63DE967F
@@ -23,6 +26,7 @@ w32 0161C120 4E800020
 w32 000A2494 49579C6D
 
 name: Infinite Health + Star Souls
+author: Hiei-YYH
 mode: once
 w32 0161C138 80630028
 w32 0161C13C 2C1D001C
@@ -35,6 +39,7 @@ w32 0161C154 4AA99E90
 w32 000B5FE0 49566158
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 0161C170 80640000
 w32 0161C174 2C030023
@@ -45,10 +50,12 @@ w32 0161C184 4E800020
 w32 000A1F4C 4957A225
 
 name: Unlock FPS (PSXPlace) [Tested]
+author: Nascar1243
 mode: once
 w32 008F8908 28030001
 
 name: Unlock FPS (RPCS3)
+author: RPCS3
 mode: once
 w32 00932F2C 60000000
 w32 00932F8C 60000000

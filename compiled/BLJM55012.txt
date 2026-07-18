@@ -1,53 +1,66 @@
 # Ryuu ga Gotoku 3
 
 name: Money 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012EDD58 3B9AC9FF
 
 name: Max Physical
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012EB964 05780578
 
 name: Infinite Heat
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012EB968 4692E000
 
 name: Experience 999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012EB97C 000F423F
 
 name: 999999999 Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FCFD8 3B9AC9FF
 
 name: Infinite Exp
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FABFC 05F5E0FF
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FABE4 05780578
 
 name: Infinite BP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FABE8 4692E000
 
 name: Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FABE8 4692E000
 
 name: Money 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FD058 3B9AC9FF
 
 name: Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FAC64 05780578
 
 name: Infinite Heat
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FAC68 4692E000
 
 name: Exp 999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012FAC7C 000F423F

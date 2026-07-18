@@ -1,11 +1,13 @@
 # Sacred 2: Fallen Angel
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w16 427A7DAE 0097
 w32 4D005584 43170000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 007FEB44 60000000
 w32 007FEB94 60000000
@@ -13,24 +15,29 @@ w32 00D69574 60000000
 w32 00D69578 60000000
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 413688DC 0000003F
 w32 4153EA8C 0000003F
 
 name: ASM Unknown Code 2
+author: jgduff1
 mode: once
 w32 00EF77C4 90030000
 w32 020D9BBC 90030000
 
 name: Memory Lot Of Gold On Sell
+author: jgduff1
 mode: once
 w32 4199B074 0000000A
 
 name: ASM Lot Of Gold On Sell
+author: jgduff1
 mode: once
 w32 00EEF7EC 90430004
 
 name: Memory Infinite Bottle (In Item Menu)
+author: jgduff1
 mode: once
 w16 41D17506 0003
 w16 42BAC1B0 0003
@@ -39,6 +46,7 @@ w16 4818E954 0003
 w16 4A064650 0020
 
 name: ASM Infinite Bottle (In Item Menu)
+author: jgduff1
 mode: once
 w32 00D07374 93A90004
 w32 00EF04AC B2830010

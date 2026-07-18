@@ -1,6 +1,7 @@
 # Wanted: Weapons of Fate
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 40962F88 41700000
 w32 40B30478 41700000
@@ -8,6 +9,7 @@ w32 40B30480 41700000
 w32 40C8BE18 41700000
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 0048D060 39290000
 w32 00495500 901E0004

@@ -1,18 +1,22 @@
 # Battle Princess of Arcadias
 
 name: Infinite Curative Items
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 w32 001220A4 39290000
 
 name: Infinite Ehancements
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 w32 001852B0 60000000
 
 name: Infinite Weapon Upgrade Materials
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 w32 000129AC 60000000
 
 name: Infinite HP
+author: Randy97Killa
 mode: once
 w32 002EB050 C0370640
 w32 002EB054 D037063C
@@ -21,6 +25,7 @@ w32 002EB05C 4BE51054
 w32 0013C0AC 481AEFA4
 
 name: Infinite SP
+author: Randy97Killa
 mode: once
 w32 002EB07C C0370648
 w32 002EB080 D0370644
@@ -29,38 +34,47 @@ w32 002EB088 4BE51064
 w32 0013C0E8 481AEF94
 
 name: Infinite Items Usage
+author: Randy97Killa
 mode: once
 w32 00121094 38000063
 w32 00121098 900A0004
 
 name: Max Exp On Gain, Instant Lv.99
+author: Randy97Killa
 mode: once
 w32 000CB658 91BF065C
 
 name: Max Gold On Gain Or Sell
+author: Randy97Killa
 mode: once
 w32 000137B4 912A18FC
 
 name: AoB Infinite Curative Items
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 aob 3929FFFF2F890000912B0004409EFDD4 392900002F890000912B0004409EFDD4
 
 name: AoB Infinite Ehancements
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 aob 7D2902142F890063409D000839200063 600000002F890063409D000839200063
 
 name: AoB Infinite Weapon Upgrade Materials
+author: games24.blog.fc2.com/blog-entry-198.html, ported by Sade
 mode: once
 aob 7C0500502F800000419C00B890090010 600000002F800000419C00B890090010
 
 name: AoB Infinite Items Usage
+author: Randy97Killa
 mode: once
 aob 409DFF8C800A00042F800000409DFF807C6907B4550A103A7D614A147D3A4A14 409DFF8C38000063900A0004409DFF807C6907B4550A103A7D614A147D3A4A14
 
 name: AoB Max Exp On Gain, Instant Lv.99
+author: Randy97Killa
 mode: once
 aob FC006818EC00F824FC00001E7C005FAE800100707F604A14937F065C419D0198 FC006818EC00F824FC00001E7C005FAE800100707F604A1491BF065C419D0198
 
 name: AoB Max Gold On Gain Or Sell
+author: Randy97Killa
 mode: once
 aob 7C6A1B78419C005038600017419900207F805840900A18FC419D0024E8010080 7C6A1B78419C005038600017419900207F805840912A18FC419D0024E8010080

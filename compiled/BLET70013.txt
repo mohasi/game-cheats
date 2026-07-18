@@ -1,39 +1,48 @@
 # Assassin's Creed: Brotherhood
 
 name: Infinite HP (Alt)
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0095E308 801F005C
 
 name: Infinite Items
+author: ciao1102
 mode: once
 w32 00F9ADC8 60000000
 
 name: Max Money On Gain
+author: ciao1102
 mode: once
 w32 00FA0708 3880FFFF
 
 name: AoB Infinite Items
+author: ciao1102
 mode: once
 aob 9123000C7D6307B4 600000007D6307B4
 
 name: AoB Max Money On Gain
+author: ciao1102
 mode: once
 aob 7C8402147F892040419C000C 3880FFFF7F892040419C000C
 
 name: Infinite Health
+author: jgduff
 mode: once
 w32 00968B24 939F0058
 
 name: Max + Infinite Money On Gain
+author: jgduff1
 mode: once
 w32 00FA0714 9063000C
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00968B08 60000000
 w32 00968B24 939F0058
 
 name: Max + Infinite Items On Gain
+author: jgduff1
 mode: once
 w32 00022AE0 60000000
 w32 00F9ADBC 60000000
@@ -44,5 +53,6 @@ w32 016E53BC 393F0000
 w32 016E53D4 917E0004
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00960CDC 801F005C

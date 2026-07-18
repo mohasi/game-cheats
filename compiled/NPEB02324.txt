@@ -1,50 +1,62 @@
 # Samurai Warriors 4-II
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 34D27424 00000564
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000AB41C 93520034
 
 name: Memory Infinite Special Attack
+author: jgduff1
 mode: once
 w32 34D2742C 447A0000
 
 name: ASM Infinite Special Attack
+author: jgduff1
 mode: once
 w32 000E0774 60000000
 
 name: Memory Special Attack + Fury Instant Recharge
+author: jgduff1
 mode: once
 w32 34D2742C 447A0000
 
 name: ASM Special Attack + Fury Instant Recharge
+author: jgduff1
 mode: once
 w32 000B5834 D0A8003C
 
 name: Memory Max Level On 1 Hit + High Health + Musou + Attack + Speed + Ride
+author: jgduff1
 mode: once
 w32 008C654C 00000003
 
 name: ASM Max Level On 1 Hit + High Health + Musou + Attack + Speed + Ride
+author: jgduff1
 mode: once
 w32 0011B23C 919B0008
 
 name: Memory Max Gold On Gain
+author: jgduff1
 mode: once
 w32 008C6B40 0000012C
 
 name: ASM Max Gold On Gain
+author: jgduff1
 mode: once
 w32 00038CF0 90446B40
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 341D64A0 000003E8
 
 name: Infinite HP For Currently Controlled Character
+author: Randy97Killa
 mode: once
 w32 00888850 81030030
 w32 00888854 91030034
@@ -53,6 +65,7 @@ w32 0088885C 4E800020
 w32 00284080 486047D1
 
 name: Max + Infinite Musou
+author: Randy97Killa
 mode: once
 w32 0088888C C03C0038
 w32 00888890 D03C003C
@@ -60,6 +73,7 @@ w32 0088889C 4E800020
 w32 000B3FB4 487D48D9
 
 name: Max + Infinite Rage
+author: Randy97Killa
 mode: once
 w32 00888878 C03C0040
 w32 0088887C D03C0044
@@ -67,9 +81,11 @@ w32 00888880 4E800020
 w32 000B3FBC 487D48BD
 
 name: Total Combo Always x9999
+author: Randy97Killa
 mode: once
 w32 000A1B3C 60000000
 
 name: Total K.O.s Always x9999
+author: Randy97Killa
 mode: once
 w32 0003CE08 939F0050

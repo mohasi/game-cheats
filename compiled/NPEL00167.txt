@@ -1,37 +1,46 @@
 # Just Cause 2
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 00715A64 ED800028
 
 name: No Reload
+author: dron_3
 mode: once
 w32 0039A148 39290000
 
 name: Infinite Explosives
+author: dron_3
 mode: once
 w32 002BD358 38A00009
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob ED800372FBE10088 ED800028FBE10088
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 3929FFFF913F01E4 39290000913F01E4
 
 name: AoB Infinite Explosives
+author: dron_3
 mode: once
 aob 7D2907B4F80100A07D6B4A14 38A00009F80100A07D6B4A14
 
 name: Unlock FPS
+author: PSXPlace
 mode: once
 w16 0035D3E4 7800
 
 name: 60 FPS (RPCS3) [Tested]
+author: RPCS3, illusion
 mode: once
 w32 004087A8 38600000
 
 name: Unlock FPS (PSXPlace) [Tested]
+author: RPCS3, illusion
 mode: once
 w32 004087A8 38600000

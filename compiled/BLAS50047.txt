@@ -1,5 +1,6 @@
 # The Club
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00223A54 3800270F

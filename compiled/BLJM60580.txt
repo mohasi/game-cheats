@@ -1,18 +1,22 @@
 # Risen 2: Dark Waters
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 B229C9A0 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000E0064 60000000
 
 name: Memory Infinite + Max Gold
+author: jgduff1
 mode: once
 w32 B247CF1C 000003E7
 w32 B2B040BC 000003E7
 
 name: ASM Infinite + Max Gold
+author: jgduff1
 mode: once
 w32 0007A2E4 903F0024

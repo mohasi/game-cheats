@@ -1,77 +1,94 @@
 # White Knight Chronicles II
 
 name: Gain + Loss of Item Gets 255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003EA5B4 380000FF
 
 name: HP + MP Recover When Drawing Weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 00583EDC 8009005C
 w32 00583EE0 2F800001
 
 name: Unlimited Skill Points
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0038E5D0 60000000
 w32 0038E5F4 60000000
 w32 01048618 60000000
 
 name: Normal Attack Refills AC
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 00591A74 3C0042C8
 w32 00591A78 90091560
 
 name: GPx255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003B83C8 1F6400FF
 
 name: Max Money
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003FBF2C 60000000
 
 name: Max Dahlia
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 003FD69C 4800
 
 name: Max Level Permitted by Guild with 1 Kill
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 003945A0 4800
 
 name: Synthesis without the Materials (Weapons not included)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0085AD64 60000000
 w32 00874CE0 60000000
 w16 008433E0 4BFF
 
 name: Max Money
+author: Medo
 mode: once
 w32 30564500 3B9AC9FF
 
 name: Max Dahlia
+author: Medo
 mode: once
 w32 304DFEBC 3B9AC9FF
 
 name: Max Exp
+author: Medo
 mode: once
 w32 305283E8 7FFFFFFF
 
 name: Max GR
+author: Medo
 mode: once
 w32 305296B8 00C65D3E
 
 name: Infinite HP and MP
+author: Medo
 mode: once
 w32 30528408 270F270F
 
 name: Infinite Action Chips
+author: Medo
 mode: once
 w32 305283E4 000F0020
 
 name: 100% Critical Hit
+author: Medo
 mode: once
 w32 30528440 7FE00003
 w32 30528444 7FE00000
 
 name: Max All Stats Avatar
+author: Medo
 mode: once
 w32 3052840C 270F270F
 w32 30528410 270F270F
@@ -95,6 +112,7 @@ w32 305296E0 73746572
 w32 305296E4 73000000
 
 name: Max Resistances Avatar
+author: Medo
 mode: once
 w32 30528494 63636363
 w32 30528498 63636363
@@ -104,6 +122,7 @@ w32 305284C0 63636363
 w32 305284C8 63636363
 
 name: Max All Stats Avatar Knight
+author: Medo
 mode: once
 w32 30529100 270F270F
 w32 30529104 270F270F
@@ -119,6 +138,7 @@ w32 30529128 270F270F
 w32 3052912C 270F270F
 
 name: Max Resistance Avatar Knight
+author: Medo
 mode: once
 w32 30529190 63636363
 w32 30529194 63636363
@@ -131,6 +151,7 @@ w32 305291C4 64646464
 w32 305291C8 64000000
 
 name: Yulie Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051D3F8 270F270F
 w32 3051D3FC 270F270F
@@ -141,6 +162,7 @@ w32 3051D40C 270F270F
 w32 3051D410 270F270F
 
 name: Leonard Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051C3F8 270F270F
 w32 3051C3FC 270F270F
@@ -151,6 +173,7 @@ w32 3051C40C 270F270F
 w32 3051C410 270F270F
 
 name: Caesar Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 305203F8 270F270F
 w32 305203FC 270F270F
@@ -161,6 +184,7 @@ w32 3052040C 270F270F
 w32 30520410 270F270F
 
 name: Eldore Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051E3F8 270F270F
 w32 3051E3FC 270F270F
@@ -171,6 +195,7 @@ w32 3051E40C 270F270F
 w32 3051E410 270F270F
 
 name: Kara Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051F3F8 270F270F
 w32 3051F3FC 270F270F
@@ -181,6 +206,7 @@ w32 3051F40C 270F270F
 w32 3051F410 270F270F
 
 name: Wizel (White Knight) Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051D0FC 270F270F
 w32 3051D100 270F270F
@@ -198,6 +224,7 @@ w32 3051D12C 270F270F
 w32 3051D130 012C012C
 
 name: Laravayne (Dragon Knight) Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 305210FC 270F270F
 w32 30521100 270F270F
@@ -215,6 +242,7 @@ w32 3052112C 270F270F
 w32 30521130 012C012C
 
 name: Luthia (Moon Maiden) Max Stats and Infinite HP + MP
+author: Medo
 mode: once
 w32 3051E0FC 270F270F
 w32 3051E100 270F270F
@@ -232,100 +260,121 @@ w32 3051E12C 270F270F
 w32 3051E130 012C012C
 
 name: Gain + Loss of Item Gets 255
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003DB50C 380000FF
 
 name: Unlimited Skill Points
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 00380D88 60000000
 w32 00380DAC 60000000
 w32 00FBD5B8 60000000
 
 name: HP + MP Recovery When Drawing Weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0056E6EC 8009005C
 w32 0056E6F0 2F800001
 
 name: Gold Max
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003FBFC0 60000000
 
 name: Dahlia Points Max
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 003FD730 4800
 
 name: Exp Max
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 00394634 4800
 
 name: Synthesis Without The Materials
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0085ADF4 60000000
 w32 00874D00 60000000
 w16 00843470 4BFF
 
 name: Unlimited Skill Points (Have at least 1)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0038E664 60000000
 w32 0038E688 60000000
 w32 01048638 60000000
 
 name: Gain + Loss of item gets 255 (Discard only from Storage & Quest I)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 003EA648 380000FF
 
 name: HP + MP Recovery when drawing weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 00583F70 8009005C
 w32 00583F74 2F800001
 
 name: Normal Attacks Restore AC
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 00591B08 3C0042C8
 
 name: Max Level Permitted by Guild After 1 Kill
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 00394634 4800
 
 name: Synthesis without the Materials (Weapons not included)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0085ADF4 60000000
 w32 00874D00 60000000
 w16 00843470 4BFF
 
 name: AoB Unlimited Skill Points (Have at least 1)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 aob 2B800004409D000838000004 2B8000046000000038000004
 aob 7F9D0040409D00087C1D0378 7F9D0040600000007C1D0378
 aob 7F9D0040409D00087C1D0378 7F9D0040600000007C1D0378
 
 name: AoB Gain + Loss of item gets 255 (Discard only from Storage & Quest I)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 aob 880B00007C1C0050 880B0000380000FF
 
 name: AoB HP + MP Recovery when drawing weapon
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 aob C009005CFF80E800 8009005C2F800001
 
 name: AoB Normal Attacks Restore AC
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 aob EC0D002AD0091560 3C0042C890091560
 
 name: Exp Max
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 00394634 4800
 
 name: Synthesis Without The Materials
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0085ADF4 60000000
 w32 00874D00 60000000
 w16 00843470 4BFF
 
 name: Max Level Permitted by Guild After 1 Kill
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w16 00394634 4800
 
 name: Synthesis without the Materials (Weapons not included)
+author: hnop.blog11.fc2.com, yuzuru.2ch.net/test/read.cgi/gameurawaza/1296550258/l50, kaede132
 mode: once
 w32 0085ADF4 60000000
 w32 00874D00 60000000

@@ -1,55 +1,67 @@
 # Sengoku Musou 4 Empires
 
 name: Hit From Anywhere
+author: xtatu
 mode: once
 w32 000E2570 4E800020
 
 name: Invincible
+author: xtatu
 mode: once
 w32 00123CB0 60000000
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 0006E860 80830030
 w32 0006E864 90830034
 w32 0006E86C 7C8307B4
 
 name: Infinite Musou
+author: xtatu
 mode: once
 w32 00060EF4 C3E30038
 w32 00060EFC D3E3003C
 
 name: Gold Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000A736C 61240000
 
 name: Tactics Never Decrease
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000A73D8 61240000
 
 name: Unlimited Turns
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000C3C28 30C60000
 
 name: Fame Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000A7468 61030000
 
 name: Hit From Anywhere
+author: xtatu
 mode: once
 w32 000E2B90 4E800020
 
 name: Invincible
+author: xtatu
 mode: once
 w32 00124570 60000000
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 0006EB70 80830030
 w32 0006EB74 90830034
 w32 0006EB7C 7C8307B4
 
 name: Infinite Musou
+author: xtatu
 mode: once
 w32 00061254 C3E30038
 w32 0006125C D3E3003C

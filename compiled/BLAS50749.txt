@@ -1,13 +1,16 @@
 # NBA 2K15
 
 name: 0 SP Points on Spend
+author: flynhigh09
 mode: once
 w32 008371C4 60000000
 
 name: SP Points
+author: flynhigh09
 mode: once
 w32 31398A5C 00000FFF
 
 name: Fans
+author: flynhigh09
 mode: once
 w32 3139E720 000083CF

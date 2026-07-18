@@ -1,6 +1,7 @@
 # Hunted: The Demon's Forge
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00BA9088 EC21082A
 w32 00BA908C 60000000
@@ -10,15 +11,18 @@ mode: once
 w32 00BA9CC4 60000000
 
 name: ASM Infinite Mana
+author: jgduff1
 mode: once
 w32 00BEB6C8 60000000
 w32 00BEB6CC 60000000
 
 name: ASM Infinite Weapons Mana
+author: jgduff1
 mode: once
 w32 00AEDF7C 60000000
 w32 00BEBAB0 60000000
 
 name: ASM Infinite Arrow
+author: jgduff1
 mode: once
 w32 00BEBAA8 60000000

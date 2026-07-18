@@ -1,24 +1,29 @@
 # The Darkness
 
 name: Damage Fully Refills Health
+author: bungholio
 mode: once
 w32 00D7D67C 800B0002
 w32 00D7D680 900B0000
 
 name: Anything Dies
+author: bungholio
 mode: once
 w32 00B642F8 7C040050
 
 name: Enemy Dies
+author: bungholio
 mode: once
 w32 00D7E944 38807FFF
 w32 00D7E948 4BDE5965
 
 name: Ammo In Clips Never Decreases
+author: bungholio
 mode: once
 w32 00B8E88C 60000000
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 01047D54 3CC0010B
 w32 01047D58 93C65700
@@ -55,6 +60,7 @@ w32 00A042A8 49047C52
 w32 00A042AC FF805000
 
 name: Darkness Never Decreases
+author: bungholio
 mode: once
 w32 00DE0808 881C0000
 w32 00DE01B4 897C0000
@@ -64,6 +70,7 @@ w32 00D77768 880B0381
 w32 00DDFBAC 894B0381
 
 name: Berserker Never Dies
+author: bungholio
 mode: once
 w32 01047DAC 81012494
 w32 01047DB0 3D2000D2
@@ -76,5 +83,6 @@ w32 01047DE4 48B64302
 w32 00B642FC 49047DAE
 
 name: Max Hearts On Gain
+author: bungholio
 mode: once
 w32 00CFDDD4 38807FFF

@@ -1,5 +1,6 @@
 # Wheelman
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00806EC0 2C030001

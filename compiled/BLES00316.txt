@@ -1,10 +1,12 @@
 # BioShock: Ultimate Rapture Edition
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0055B4E0 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010100 C01F050C
 w32 00010104 3D600057
@@ -17,6 +19,7 @@ w32 0001011C 485520D4
 w32 005621E8 4BAADF18
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010120 3D600057
 w32 00010124 616BCCB4
@@ -29,22 +32,27 @@ w32 0001013C 485520B4
 w32 005621EC 4BAADF34
 
 name: Money 9999 After Pickup Money
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 0053C900 3C00270F
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 00536E98 60000000
 
 name: Lot 192
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 0050D2F4 39400000
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005611F0 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C0C41C C01F050C
 w32 00C0C420 3D600058
@@ -58,6 +66,7 @@ w32 00C0C474 48568756
 w32 00568750 48C0C41E
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C0C478 3D600058
 w32 00C0C47C 616B22BC
@@ -71,34 +80,42 @@ w32 00C0C4D0 4856875A
 w32 00568754 48C0C47A
 
 name: Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0054169C 3800270F
 
 name: Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005C118C 60000000
 
 name: Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00536710 60000000
 
 name: Pick Up More Than 1 Of An Item For Max Items
+author: bungholio
 mode: once
 w32 0055C74C 48000008
 
 name: Alarms Never Go Off
+author: bungholio
 mode: once
 w32 004ACB2C 4E800020
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00561A5C 60000000
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0055AFC0 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BFDD0C C01F050C
 w32 00BFDD10 3D600057
@@ -112,6 +129,7 @@ w32 00BFDD64 48561CCE
 w32 00561CC8 48BFDD0E
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BFDD68 3D600057
 w32 00BFDD6C 616BC7B4
@@ -125,21 +143,26 @@ w32 00BFDDC0 48561CD2
 w32 00561CCC 48BFDD6A
 
 name: Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0053C3E0 3800270F
 
 name: Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005BA0BC 60000000
 
 name: Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00532078 60000000
 
 name: Alarms Never Go Off
+author: bungholio
 mode: once
 w32 004A9DFC 4E800020
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0055B438 60000000

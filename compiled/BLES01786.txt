@@ -1,17 +1,21 @@
 # Iron Sky: Invasion
 
 name: No Reload
+author: crapulecorp
 mode: once
 w32 0001EB24 309E0000
 
 name: Max Money On Sell
+author: crapulecorp, FBML
 mode: once
 w32 005F7B98 93C30040
 
 name: AoB No Reload
+author: crapulecorp
 mode: once
 aob 309EFFFF80BF00883FC0007D 309E000080BF00883FC0007D
 
 name: AoB Max Money On Sell
+author: crapulecorp, FBML
 mode: once
 aob 908300404E8000203C600085 93C300404E8000203C600085

@@ -1,6 +1,7 @@
 # Vanquish
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 000100C0 3C60270F
 w32 000100C4 6063270F
@@ -12,6 +13,7 @@ w32 000100D8 480E1A10
 w32 000F1AE4 4BF1E5DC
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010130 3C60270F
 w32 00010134 6063270F
@@ -23,10 +25,12 @@ w32 00010148 480F742C
 w32 00107570 4BF08BC0
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 001A8A24 60000000
 
 name: Infinite Energy
+author: predprey, xtatu
 mode: once
 w32 0013132C 60000000
 w32 0015C854 60000000
@@ -43,16 +47,19 @@ w32 0015DAEC 60000000
 w32 0016E090 60000000
 
 name: Infinite Energy For Laser Cannon
+author: predprey
 mode: once
 w32 0015DAE8 60000000
 
 name: Infinite Ammo
+author: xtatu
 mode: once
 w32 00109FAC 60000000
 w32 00109FCC 60000000
 w32 00109FE0 60000000
 
 name: Infinite Energy
+author: predprey, xtatu
 mode: once
 w32 0010ABD8 60000000
 w32 0010AD1C 60000000
@@ -69,10 +76,12 @@ w32 0015DAEC 60000000
 w32 0016E090 60000000
 
 name: Max Score After Battle
+author: Skiller
 mode: once
 w32 00492058 60000000
 
 name: Infinite Ammo
+author: predprey, xtatu
 mode: once
 w32 00109FA8 60000000
 w32 00109FAC 60000000
@@ -82,6 +91,7 @@ w32 00118F54 60000000
 w32 00118F58 60000000
 
 name: Infinite Energy
+author: xtatu
 mode: once
 w32 0010ABD8 60000000
 w32 0010AD1C 60000000
@@ -96,24 +106,29 @@ w32 0015DAEC 60000000
 w32 0016E090 60000000
 
 name: Max Score After Battle
+author: Skiller
 mode: once
 w32 00492308 60000000
 
 name: AoB Infinite Ammo (missing some patterns)
+author: xtatu
 mode: once
 aob B0850008B105000E80E7001C2C0700004182004CA0E6002C 600000006000000080E7001C2C0700004182004CA0E6002C
 aob B0830008B0A3000E386000004E80002000000000BE4CCCCD3E4CCCCD 6000000060000000386000004E80002000000000BE4CCCCD3E4CCCCD
 
 name: AoB Infinite Health
+author: xtatu
 mode: once
 aob 909C036448000020 6000000048000020
 
 name: AoB Infinite Energy (missing some patterns)
+author: xtatu
 mode: once
 aob B07F7AFE40810038 6000000040810038
 aob B3BF7AFE40810038 6000000040810038
 aob B3DF7AFE40810038 6000000040810038
 
 name: AoB Max Score After Battle
+author: Skiller
 mode: once
 aob 7C653838608300007C853014 60000000608300007C853014

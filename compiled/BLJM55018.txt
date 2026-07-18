@@ -1,13 +1,16 @@
 # Rorona no Atelier: Arland no Renkinjutsushi (PlayStation 3 the Best)
 
 name: Gold 9999999
+author: bbs.duowan.com/thread-19052709-1-1.html
 mode: once
 w32 013150D0 0098967F
 
 name: Characters EXP 9999999
+author: bbs.duowan.com/thread-19052709-1-1.html
 mode: once
 w32 0131642C 0098967F
 
 name: Alchemy EXP 9999999
+author: bbs.duowan.com/thread-19052709-1-1.html
 mode: once
 w32 01314AC4 0098967F

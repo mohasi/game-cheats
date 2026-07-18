@@ -1,24 +1,29 @@
 # Asdivine Hearts
 
 name: Infinite Items
+author: jgduff1
 mode: once
 w32 0330F0F4 38840000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 032C98F0 60000000
 w32 032F86E8 60000000
 w32 032FC750 60000000
 
 name: Infinite MP
+author: jgduff1
 mode: once
 w32 032B6D7C 60000000
 
 name: Easy Max Level + HP + MP
+author: jgduff1
 mode: once
 w32 032568FC B1430000
 
 name: Max + Infinite Money After 1 Battle
+author: jgduff1
 mode: once
 w32 032567C8 B3E50000
 w32 032567F4 60000000

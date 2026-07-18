@@ -1,15 +1,18 @@
 # Clash of the Titans: The Videogame
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 0006C2CC 4E800020
 
 name: Infinite HP
+author: GuitarMan
 mode: once
 w32 0043C8FC C0450618
 w32 0043B2A8 D045061C
 
 name: Infinite Soul Gauge
+author: GuitarMan
 mode: once
 w32 00A367C0 C00535FC
 w32 00A367C4 2805FFFF
@@ -22,6 +25,7 @@ w32 002CFBF4 48A367C2
 w32 000A1A00 60000000
 
 name: Have All Weapons
+author: GuitarMan
 mode: once
 w32 002D2254 38600001
 w32 0029FAE0 39400001
@@ -123,6 +127,7 @@ w32 00A36934 48577E26
 w32 00577E20 48A36832
 
 name: Hold R1 + L1 To Fly
+author: GuitarMan
 mode: once
 w32 00A367EC 3C600119
 w32 00A367F0 9143FFF0
@@ -144,14 +149,17 @@ w32 0039BB14 48A367EE
 w32 000669B4 48A367FE
 
 name: 10,000 Gifts On Gain
+author: GuitarMan
 mode: once
 w32 003922B0 3BE02710
 
 name: Height Speed Instantly Charged
+author: GuitarMan
 mode: once
 w32 0007BD6C FD89482A
 
 name: Max Seize Points
+author: GuitarMan
 mode: once
 w32 002ABE0C 39407FFF
 w32 002ABE14 915E0008

@@ -1,17 +1,21 @@
 # Inversion
 
 name: Bottomless Clip
+author: Medo
 mode: once
 w32 003285C4 60000000
 
 name: Infinite Ammo
+author: Medo
 mode: once
 w32 003287C4 60000000
 
 name: AoB Bottomless Clip
+author: Medo
 mode: once
 aob D0430008386000014E80002000000000 60000000386000014E80002000000000
 
 name: AoB Infinite Ammo
+author: Medo
 mode: once
 aob D0230008806100702C0300003BC00000 60000000806100702C0300003BC00000

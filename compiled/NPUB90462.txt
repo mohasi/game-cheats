@@ -1,42 +1,52 @@
 # Space Invaders Infinity Gene
 
 name: Max Score
+author: dron_3
 mode: once
 w32 00130788 60000000
 w32 0013079C 60000000
 
 name: Max Chain
+author: dron_3
 mode: once
 w32 0013080C 60000000
 
 name: Max Nagoya Attacks
+author: dron_3
 mode: once
 w32 00130958 60000000
 
 name: Infinite Lives
+author: dron_3
 mode: once
 w32 000ECBBC 60000000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 000EAFCC 60000000
 
 name: AoB Max Score
+author: dron_3
 mode: once
 aob 4081000860A600007C632014F8C700107C23280040810008 6000000060A600007C632014F8C700107C23280060000000
 
 name: AoB Max Chain
+author: dron_3
 mode: once
 aob 60A400007C041800 600000007C041800
 
 name: AoB Max Nagoya Attacks
+author: dron_3
 mode: once
 aob 60A3E0FF7C0418004181000860830000 60A3E0FF7C0418004181000860000000
 
 name: AoB Infinite Lives
+author: dron_3
 mode: once
 aob 480000703C8000013063FFFF 480000703C80000160000000
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 93D6002C2C040003 600000002C040003

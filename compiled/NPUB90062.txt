@@ -1,52 +1,64 @@
 # Burnout Paradise
 
 name: Dumb Opponents 1
+author: bungholio
 mode: once
 w32 008D8DB0 00000000
 
 name: Dumb Opponents 2
+author: bungholio
 mode: once
 w32 008D8DB4 00000000
 
 name: Unlimited Lives In Marked Man + Road Rage
+author: bungholio
 mode: once
 w32 00126FBC 39200000
 
 name: Boost Never Decreases
+author: bungholio
 mode: once
 w32 000C094C C0030098
 
 name: 9999 Road Rage Takedowns
+author: bungholio
 mode: once
 w32 00127320 3960270E
 
 name: Each Takedown In Road Rage Is 10 Takedowns
+author: bungholio
 mode: once
 w32 00127328 396B000A
 
 name: 9999 Consecutive Road Rage Takedowns
+author: bungholio
 mode: once
 w32 00172794 3960270E
 
 name: Each Takedown In Road Rage Is 10 Consecutive Takedowns
+author: bungholio
 mode: once
 w32 0017279C 396B000A
 
 name: 1000x Stunt Score Multiplier
+author: bungholio
 mode: once
 w32 00107B98 39002710
 
 name: 999,999 Stunt Score
+author: bungholio
 mode: once
 w32 00107BBC 3D40000F
 w32 00107BC0 614A423F
 
 name: Every Stunt Is Worth 999,999 Amount
+author: bungholio
 mode: once
 w32 00107BB4 3C00000F
 w32 00107BB8 6000423F
 
 name: Button Enable Code
+author: bungholio
 mode: once
 w32 0088A47C 3D60008F
 w32 0088A480 881E0009
@@ -94,6 +106,7 @@ w32 0088A524 4E800020
 w32 0062F1C4 4825B2B9
 
 name: Press L3 + R3 To Toggle Unlimited Ground Break
+author: bungholio
 mode: once
 w32 0088A528 FD8D602E
 w32 0088A52C F861FFF8
@@ -108,6 +121,7 @@ w32 0088A54C 4E800020
 w32 000E9104 487A1425
 
 name: Toggle Dumb AI With L2 + Up
+author: bungholio
 mode: once
 w32 0088A550 3CA0008F
 w32 0088A554 88A5F004
@@ -119,6 +133,7 @@ w32 0088A568 4BC895E0
 w32 00513B44 48376A0C
 
 name: Disable Crashes For You
+author: bungholio
 mode: once
 w32 0088A46C 3CC00100
 w32 0088A470 7F862040
@@ -128,27 +143,33 @@ w32 0088A47C 4BB43ED8
 w32 003CE350 484BC11C
 
 name: No Opponent Drivers
+author: bungholio
 mode: once
 w32 0051B3A4 4E800020
 
 name: Unlimited Time For Burning Routes + Road Rage
+author: bungholio
 mode: once
 w32 0012A8B0 4BFFFB60
 w32 001272EC 48000034
 
 name: Unlimited Time For Stunt Runs
+author: bungholio
 mode: once
 w32 0012ADB8 480002C8
 
 name: Boost Is Always Full
+author: bungholio
 mode: once
 w32 000D0BC0 C0230098
 w32 000D0BC8 D0230094
 
 name: Instant Max + Infinite Boost
+author: jgduff
 mode: once
 w32 000C894C ED9552FA
 
 name: Big Scores On Gain
+author: jgduff
 mode: once
 w32 00143B20 7C034214

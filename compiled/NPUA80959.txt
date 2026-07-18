@@ -1,15 +1,18 @@
 # Puppeteer
 
 name: Max Lives
+author: jijibecali
 mode: once
 w32 30F8420B 63000000
 
 name: Invincible On Collision
+author: jijibecali
 mode: once
 w32 001F4C80 2C030003
 w32 001F4C84 41820120
 
 name: Invincible On Collision
+author: jijibecali
 mode: once
 w32 001E74E0 2C030003
 w32 001E74E4 41820120

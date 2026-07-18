@@ -1,21 +1,26 @@
 # One Piece: Pirate Warriors
 
 name: Level 50
+author: xtatu
 mode: once
 w32 0024F928 408500C4
 
 name: AoB Level 50
+author: xtatu
 mode: once
 aob 418500C4818B00147BE40020839B002038A10070887D000338C100747D8AE37838E10078915B0020 408500C4818B00147BE40020839B002038A10070887D000338C100747D8AE37838E10078915B0020
 
 name: Max Damage Received + Special Attack + Beats + Crew Strike
+author: Skiller
 mode: once
 w32 006F0820 60000000
 
 name: Max Score On Loading
+author: Skiller
 mode: once
 w32 00055C84 60000000
 
 name: Max Total Beats In Battle
+author: Skiller
 mode: once
 w32 000C7EC8 60000000

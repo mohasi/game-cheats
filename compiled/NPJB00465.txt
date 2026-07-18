@@ -1,41 +1,51 @@
 # Super Heroine Chronicle
 
 name: SP Never Decreases
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 w32 000924C0 48000008
 
 name: Action Flag Never Changes
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 w32 0014378C 30840000
 
 name: Movement Power 50 For All Characters
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 w32 0008FB94 3BC00032
 
 name: Attack Range 15 For All Characters
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 w32 0008FE68 3BC0000F
 
 name: Unlimited Turns
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 w32 001AC22C 38800001
 
 name: AoB SP Never Decreases
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 aob 408000086085000080650000907F0988 480000086085000080650000907F0988
 
 name: AoB Action Flag Never Changes
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 aob 3084FFFF908309B0482A333D60000000 30840000908309B0482A333D60000000
 
 name: AoB Movement Power 50 For All Characters
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 aob 83DF063C4BFED9A9600000007FDE1814 3BC000324BFED9A9600000007FDE1814
 
 name: AoB Attack Range 15 For All Characters
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 aob 83DF06444BFED6D5600000007FDE1814 3BC0000F4BFED6D5600000007FDE1814
 
 name: AoB Unlimited Turns
+author: games24.blog.fc2.com/blog-entry-233.html
 mode: once
 aob 8084000060A503347C83292E38210040 3880000160A503347C83292E38210040

@@ -1,5 +1,6 @@
 # Ridge Racer 7 3D
 
 name: Infinite Nitrous
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002A8064 FC00F090

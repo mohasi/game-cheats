@@ -1,9 +1,11 @@
 # Wander to Kyozou
 
 name: Unlock Hard Mode after Saving
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 014DBB6C 00000001
 
 name: Attack Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 014DF9E0 43C80000

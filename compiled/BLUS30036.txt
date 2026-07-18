@@ -1,20 +1,24 @@
 # Ninja Gaiden Sigma
 
 name: Max Money
+author: bbs.duowan.com/thread-19914795-1-1.html
 mode: once
 w32 102C8680 0001869F
 
 name: Infinite Money
+author: bbs.duowan.com/thread-19914795-1-1.html
 mode: once
 w32 0029FEA4 91640000
 w32 0029FEA8 80040000
 w32 0029FEAC 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 1028D284 03E803A0
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00048528 60000000
 w32 0004852C 60000000
@@ -26,51 +30,62 @@ w32 00124E58 7DEB0050
 w32 00124E5C 60000000
 
 name: Memory Infinite Money
+author: jgduff1
 mode: once
 w32 102C9120 00000001
 
 name: ASM Infinite Money
+author: jgduff1
 mode: once
 w32 001E8DFC 60000000
 
 name: Memory Infinite Items (Need One In Stock)
+author: jgduff1
 mode: once
 w32 102C98D8 03000000
 
 name: ASM Infinite Items (Need One In Stock)
+author: jgduff1
 mode: once
 w32 00128EE4 60000000
 w32 00128EE8 60000000
 
 name: Memory Easy Money On Gain
+author: jgduff1
 mode: once
 w32 102C9120 00000001
 
 name: ASM Easy Money On Gain
+author: jgduff1
 mode: once
 w32 00125A48 90C30000
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0007BAA8 A39F01C4
 w32 0007BAB0 B39F01C6
 w32 0007BAB4 B39F0194
 
 name: Infinite Ki
+author: Hiei-YYH
 mode: once
 w32 0012506C A17F01CC
 
 name: Infinite Oxygen
+author: Hiei-YYH
 mode: once
 w32 00124618 409CFFDC
 
 name: Max Essence On Gain + Buy
+author: GuitarMan, Hiei-YYH, jgduff1
 mode: once
 w32 00125A48 93C30000
 w32 001E8DF4 60000000
 w32 001E92F0 60000000
 
 name: Instant Ultimate Technique
+author: Hiei-YYH
 mode: once
 w32 000EF790 38000002
 w32 000EF794 B01E77D6
@@ -78,15 +93,18 @@ w32 000EF798 60000000
 w32 000EF79C 380000FF
 
 name: Ultimate Technique Fully Charged
+author: GuitarMan
 mode: once
 w32 000EF790 409E01F8
 
 name: Enable Code
+author: Medo
 mode: once
 w32 00010064 00CE3000
 w32 0001006C 00CE3000
 
 name: Invincible
+author: Hiei-YYH
 mode: once
 w32 00CF27D0 39200101
 w32 00CF27D4 B13F0200
@@ -104,6 +122,7 @@ w32 0014E1FC 48CF27E7
 w32 0014ECCC 38000001
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 00CF26BC 2C050000
 w32 00CF26C0 40820018
@@ -117,6 +136,7 @@ w32 00CF26DC 4804852E
 w32 00048528 48CF26BE
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00CF2700 2C080000
 w32 00CF2704 4082000C
@@ -127,6 +147,7 @@ w32 00CF2714 4802CF66
 w32 0002CF60 48CF2702
 
 name: Infinite Ki
+author: GuitarMan
 mode: once
 w32 00CF2730 38C00480
 w32 00CF2734 38C60350
@@ -137,15 +158,18 @@ w32 00CF2744 48B5994A
 w32 00B59944 48CF2732
 
 name: Oxygen Never Decreases
+author: GuitarMan
 mode: once
 w32 0012B2D4 38600000
 
 name: Items Never Decrease
+author: GuitarMan, Hiei-YYH, jgduff1
 mode: once
 w32 00128EE4 60000000
 w32 0012AC68 60000000
 
 name: Have 50 Scarabs
+author: GuitarMan
 mode: once
 w32 00CF2770 281F0000
 w32 00CF2774 40820010
@@ -157,10 +181,12 @@ w32 00CF2788 48128AD2
 w32 00128ACC 48CF2772
 
 name: Attack Power 100x
+author: GuitarMan
 mode: once
 w32 00124CD8 C3A2A670
 
 name: Access Shop From Anywhere Press R2 With Ryu
+author: GuitarMan
 mode: once
 w32 00CF2790 A2190002
 w32 00CF2794 28101000
@@ -173,6 +199,7 @@ w32 00CF27AC 48B746DE
 w32 00B746D8 48CF2792
 
 name: Hit Anywhere With Swords
+author: GuitarMan
 mode: once
 w32 00CF27C0 28030003
 w32 00CF27C4 4D820020
@@ -181,19 +208,23 @@ w32 00CF27CC 4803E8D6
 w32 0003E8D0 48CF27C2
 
 name: Unlock All Items
+author: GuitarMan
 mode: once
 w32 00128AF4 60000000
 
 name: 50 Scarabs
+author: GuitarMan
 mode: once
 w8 102C98F8 32
 w32 102C98F4 01000059
 
 name: Have Dark Dragon Blade
+author: GuitarMan
 mode: once
 w32 102C98A0 000000CD
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00048528 60000000
 w32 0004852C 60000000
@@ -205,55 +236,67 @@ w32 00124E58 7DEB0050
 w32 00124E5C 60000000
 
 name: AoB Max Money
+author: Skiller
 mode: once
 aob 800300007C00FA147C1F07B4 7FDFF3787C00FA147C1F07B4
 
 name: AoB Max Karma
+author: Skiller
 mode: once
 aob 7F80F040409D003C 7F80F040409D0010
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 0004487C 60000000
 w32 00044880 60000000
 
 name: 100x Damage + Ultimate Technique (Necessary Infinite Health)
+author: xtatu
 mode: once
 w32 00D3316C 42C80000
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob 4BFFA025C00101207C7D1B78FC000050C1A10124 60000000600000007C7D1B78FC000050C1A10124
 
 name: AoB 100x Damage + Ultimate Technique (Necessary Infinite Health)
+author: xtatu
 mode: once
 aob 3F800000104AA7501009FB3C0012A6E01009FB791009FB780012A90010478BB41036AC14 42C80000104AA7501009FB3C0012A6E01009FB791009FB780012A90010478BB41036AC14
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0007B8C0 A39F01C4
 w32 0007B8C8 B39F01C6
 w32 0007B8CC B39F0194
 
 name: Infinite Ki
+author: Hiei-YYH
 mode: once
 w32 00124E84 A17F01CC
 
 name: Infinite Oxygen
+author: Hiei-YYH
 mode: once
 w32 00124430 409CFFDC
 
 name: Max Essence On Gain + Buy
+author: Hiei-YYH, GuitarMan, jgduff1
 mode: once
 w32 00125860 93C30000
 w32 001E8B64 60000000
 w32 001E9060 60000000
 
 name: Infinite Items (Battle Items)
+author: Hiei-YYH
 mode: once
 w32 00128CFC 60000000
 
 name: Instant Ultimate Technique
+author: Hiei-YYH
 mode: once
 w32 000EF5A8 38000002
 w32 000EF5AC B01E77D6
@@ -261,6 +304,7 @@ w32 000EF5B0 60000000
 w32 000EF5B4 380000FF
 
 name: Invincible
+author: Hiei-YYH
 mode: once
 w32 00CEF870 39200101
 w32 00CEF874 B13F0200
@@ -278,6 +322,7 @@ w32 0014E014 48BA1889
 w32 0014EAE4 38000001
 
 name: 1 Hit Kill
+author: Hiei-YYH
 mode: once
 w32 00CEF8B8 3D001028
 w32 00CEF8BC 6108C7B0
@@ -290,10 +335,12 @@ w32 00CEF8D4 4E800020
 w32 00124C70 48BCAC49
 
 name: Ultimate Technique Fully Charged
+author: GuitarMan
 mode: once
 w32 000EF5A8 409E01F8
 
 name: Invincible
+author: Hiei-YYH
 mode: once
 w32 00CF1C80 39200101
 w32 00CF1C84 B13F0200
@@ -311,6 +358,7 @@ w32 0014E014 48CF1C97
 w32 0014EAE4 38000001
 
 name: 1 Hit Kill
+author: Hiei-YYH
 mode: once
 w32 00CF1CB0 3D001028
 w32 00CF1CB4 6108C7B0
@@ -323,6 +371,7 @@ w32 00CF1CCC 4E800020
 w32 00124C70 48BCAC49
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 00CF1B8C 2C050000
 w32 00CF1B90 40820018
@@ -336,6 +385,7 @@ w32 00CF1BAC 480484FE
 w32 000484F8 48CF1B8E
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00CF1BD0 2C080000
 w32 00CF1BD4 4082000C
@@ -346,6 +396,7 @@ w32 00CF1BE4 4802CF36
 w32 0002CF30 48CF1BD2
 
 name: Infinite Ki
+author: GuitarMan
 mode: once
 w32 00CF1C00 38C00480
 w32 00CF1C04 38C60350
@@ -356,15 +407,18 @@ w32 00CF1C14 48B5927E
 w32 00B59278 48CF1C02
 
 name: Oxygen Never Decreases
+author: GuitarMan
 mode: once
 w32 0012B0EC 38600000
 
 name: Items Never Decrease
+author: GuitarMan, Hiei-YYH, jgduff1
 mode: once
 w32 00128CF8 60000000
 w32 0012AA80 60000000
 
 name: Have 50 Scarabs
+author: GuitarMan
 mode: once
 w32 00CF1C40 281F0000
 w32 00CF1C44 40820010
@@ -376,10 +430,12 @@ w32 00CF1C58 481288EA
 w32 001288E4 48CF1C42
 
 name: Attack Power 100x
+author: GuitarMan
 mode: once
 w32 00124AF0 C3A2A658
 
 name: Access Shop From Anywhere Press R2 With Ryu
+author: GuitarMan
 mode: once
 w32 00CF1C60 A2190002
 w32 00CF1C64 28101000
@@ -392,6 +448,7 @@ w32 00CF1C7C 48B73F46
 w32 00B73F40 48CF1C62
 
 name: Hit Anywhere With Swords
+author: GuitarMan
 mode: once
 w32 00CF1C90 28030003
 w32 00CF1C94 4D820020
@@ -400,6 +457,7 @@ w32 00CF1C9C 4803E8A6
 w32 0003E8A0 48CF1C92
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000484F8 60000000
 w32 000484FC 60000000
@@ -411,31 +469,37 @@ w32 00124C70 7DEB0050
 w32 00124C74 60000000
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 00044A5C 60000000
 w32 00044A60 60000000
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0007F430 A39F01C4
 w32 0007F438 B39F01C6
 w32 0007F43C B39F0194
 
 name: Infinite Ki
+author: Hiei-YYH
 mode: once
 w32 00129C3C A17F01CC
 
 name: Infinite Oxygen
+author: Hiei-YYH
 mode: once
 w32 001291E8 409CFFDC
 
 name: Max Essence On Gain + Buy
+author: GuitarMan, Hiei-YYH, jgduff1
 mode: once
 w32 0012A618 93C30000
 w32 001F0180 60000000
 w32 001F0670 60000000
 
 name: Instant Ultimate Technique
+author: Hiei-YYH
 mode: once
 w32 000F41BC 38000002
 w32 000F41C0 B01E77D6
@@ -443,15 +507,18 @@ w32 000F41C4 60000000
 w32 000F41C8 380000FF
 
 name: Ultimate Technique Fully Charged
+author: GuitarMan
 mode: once
 w32 000F41BC 409E0214
 
 name: Enable Code
+author: Medo
 mode: once
 w32 00010064 00D01000
 w32 0001006C 00D01000
 
 name: Invincible
+author: Hiei-YYH
 mode: once
 w32 00D10950 3B600101
 w32 00D10954 B37F0200
@@ -469,6 +536,7 @@ w32 00152F8C 48D10967
 w32 00153A5C 38000001
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 00D1083C 2C050000
 w32 00D10840 40820018
@@ -482,6 +550,7 @@ w32 00D1085C 4804878E
 w32 00048788 48D1083E
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00D10880 2C080000
 w32 00D10884 4082000C
@@ -492,6 +561,7 @@ w32 00D10894 4802D116
 w32 0002D110 48D10882
 
 name: Infinite Ki
+author: GuitarMan
 mode: once
 w32 00D108B0 38C00480
 w32 00D108B4 38C60350
@@ -502,15 +572,18 @@ w32 00D108C4 48B6D82E
 w32 00B6D828 48CF2732
 
 name: Oxygen Never Decreases
+author: GuitarMan
 mode: once
 w32 0012FFE8 38600000
 
 name: Items Never Decrease
+author: GuitarMan, Hiei-YYH, jgduff1
 mode: once
 w32 0012DBB8 60000000
 w32 0012F97C 60000000
 
 name: Have 50 Scarabs
+author: GuitarMan
 mode: once
 w32 00D108F0 281F0000
 w32 00D108F4 40820010
@@ -522,10 +595,12 @@ w32 00D10908 4812D7AA
 w32 0012D7A4 48D108F2
 
 name: Attack Power 100x
+author: GuitarMan
 mode: once
 w32 001298A8 C3A2A7B8
 
 name: Access Shop From Anywhere Press R2 With Ryu
+author: GuitarMan
 mode: once
 w32 00D10910 A2190002
 w32 00D10914 28101000
@@ -538,6 +613,7 @@ w32 00D1092C 48B91D5E
 w32 00B91D58 48D10912
 
 name: Hit Anywhere With Swords
+author: GuitarMan
 mode: once
 w32 00D10940 28030003
 w32 00D10944 4D820020
@@ -546,6 +622,7 @@ w32 00D1094C 4803EA86
 w32 0003EA80 48D10942
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00048788 60000000
 w32 0004878C 60000000
@@ -557,5 +634,6 @@ w32 00129A28 7DEB0050
 w32 00129A2C 60000000
 
 name: 100x Damage + Ultimate Technique (Necessary Infinite Health)
+author: xtatu
 mode: once
 w32 00D53CEC 42C80000

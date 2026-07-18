@@ -1,10 +1,12 @@
 # Legend of Korra, The
 
 name: Max Spirit Energy Points
+author: Hiei-YYH
 mode: once
 w32 002B9894 906500E8
 
 name: Infinite HP (Korra)
+author: Hiei-YYH
 mode: once
 w32 007E0FC8 82030548
 w32 007E0FCC 92030544
@@ -13,6 +15,7 @@ w32 007E0FD4 4B91BB5C
 w32 000FCB2C 486E449C
 
 name: Infinite HP (Pro Bending Mode)
+author: Hiei-YYH
 mode: once
 w32 007E0FF8 82030548
 w32 007E0FFC 92030544
@@ -21,20 +24,24 @@ w32 007E1004 4B91BB18
 w32 000FCB18 486E44E0
 
 name: Infinite HP (Naga)
+author: Hiei-YYH
 mode: once
 w32 002C2078 83BE0548
 w32 002C2088 93BE0544
 
 name: Infinite Chi
+author: Hiei-YYH
 mode: once
 w32 000F1768 C07E0028
 w32 000F1780 FC201890
 
 name: Infinite Items
+author: Hiei-YYH
 mode: once
 w32 002665A8 30A40000
 
 name: Avatar Gauge Always Full
+author: Hiei-YYH
 mode: once
 w32 000F5DEC 60000000
 w32 000F652C D05F0014
@@ -43,14 +50,17 @@ w32 000F659C C07F001C
 w32 000F65A0 FC201890
 
 name: Korra Health Never Decreases + Invincibility From Melee Attacks
+author: Randy97Killa
 mode: once
 w32 00107FDC 60000000
 
 name: 1 Hit Kills For Most Enemies
+author: Randy97Killa
 mode: once
 w32 0018641C 3C800000
 
 name: 9,999,999 Spirit Energy Points On Gain
+author: Randy97Killa
 mode: once
 w32 00270330 3CA005F5
 w32 00270334 60A5E0FF

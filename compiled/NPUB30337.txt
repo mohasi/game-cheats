@@ -1,51 +1,62 @@
 # Dead Space - Extraction
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301F28C8 12345678
 w32 301F2B68 12345678
 
 name: Health Does Not Decrease For You
+author: bungholio
 mode: once
 w32 00124000 C00309B4
 w32 00124004 D00309B0
 
 name: Ammo Does Not Decrease
+author: bungholio
 mode: once
 w32 0025C568 60000000
 w32 0025C594 60000000
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 0028465C 4BFFFFC8
 
 name: Infinite Stasis Duration
+author: bungholio
 mode: once
 w32 0011A7E4 60000000
 w32 0011A7FC 60000000
 w32 0011A808 60000000
 
 name: Turret Health Does Not Decrease
+author: bungholio
 mode: once
 w32 00162854 60000000
 
 name: AoB Health Does Not Decrease For You
+author: bungholio
 mode: once
 aob 4BF8688160000000 C00309B4D00309B0
 
 name: AoB Ammo Does Not Decrease
+author: bungholio
 mode: once
 aob EBC1007090090000 EBC1007060000000
 aob 7C1E0050901F0098 7C1E005060000000
 
 name: AoB Rapid Fire
+author: bungholio
 mode: once
 aob 419CFFC84E800020 4BFFFFC84E800020
 
 name: AoB Infinite Stasis Duration
+author: bungholio
 mode: once
 aob 419D018CC0030020CBE30000FFA0F82AC0030024FF9EE800419C01B0FFED0028FF9EF800419D0258 60000000C0030020CBE30000FFA0F82AC0030024FF9EE80060000000FFED0028FF9EF80060000000
 
 name: AoB Turret Health Does Not Decrease
+author: bungholio
 mode: once
 aob FF806800D01F0114 FF80680060000000

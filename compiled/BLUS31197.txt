@@ -1,35 +1,43 @@
 # Drakengard 3
 
 name: Jump 8x Higher
+author: games24.blog.fc2.com/blog-entry-227.html ported by JorgeFFC
 mode: once
 w32 009AB2A8 FFC0F890
 
 name: Disable Depth of Field
+author: PSXPlace
 mode: once
 w32 00A5455C 38800000
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 009F447C 807E07F0
 w32 009F4484 907E07EC
 
 name: Infinite Stamina
+author: Hiei-YYH
 mode: once
 w32 0095A3FC 60000000
 
 name: Infinite Blood Gauge
+author: Hiei-YYH
 mode: once
 w32 0095A648 83DF080C
 
 name: Infinite Items
+author: Hiei-YYH
 mode: once
 w32 00A6B5A0 60000000
 
 name: Max Hits
+author: Hiei-YYH
 mode: once
 w32 0096CBB4 3860270F
 
 name: Infinite Gold
+author: Hiei-YYH
 mode: once
 w32 015EC9E0 809BFFF4
 w32 015EC9E4 3FC005F5
@@ -43,6 +51,7 @@ w32 015ECA00 4E800020
 w32 000ECC58 494FFD89
 
 name: Infinite Weapons Materials
+author: Hiei-YYH
 mode: once
 w32 015ECA04 3C8005F5
 w32 015ECA08 6084E0FF
@@ -69,10 +78,12 @@ w32 015ECA58 4E800020
 w32 000ED0E0 494FF925
 
 name: Infinite Time
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 009F2F58 60000000
 
 name: Auto Play Song of The D Branch Final Mission
+author: bbs.duowan.com/thread-36687206-1-1.html, converted by JorgeFFC
 mode: once
 w32 0091DA28 C03E0050
 w32 0091DA34 C05E0058
@@ -80,6 +91,7 @@ w32 0091DA38 FC020800
 w32 0091DA3C 4180015C
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 009DE314 807E07F0
 w32 009DE318 7C641B78
@@ -87,90 +99,112 @@ w32 009DE31C 909E07EC
 w32 009DE320 48000190
 
 name: Max Gold On Gain
+author: FBML
 mode: once
 w32 000ED644 48000008
 
 name: Max Base Materials On Gain
+author: FBML
 mode: once
 w32 00A6B75C 48000024
 
 name: Freeze Mission Timer
+author: FBML
 mode: once
 w32 009F2EB4 48000148
 
 name: AoB Disable EXP Multiplier
+author: Hiei-YYH
 mode: once
 aob 494FFF1130630001907C0018807B00007C632014 8081007430630001907C0018807B00007C632014
 
 name: AoB Disable Infinite Gold
+author: Hiei-YYH
 mode: once
 aob 494FFD89907B0000907D0000E80100B07C0803A6EB610078 7C641810907B0000907D0000E80100B07C0803A6EB610078
 
 name: AoB Disable Infinite Weapons Materials
+author: Hiei-YYH
 mode: once
 aob 494FF925909D0000907F0000E80100A07C0803A6EBA10078 3083FFFF909D0000907F0000E80100A07C0803A6EBA10078
 
 name: AoB Infinite HP
+author: Hiei-YYH
 mode: once
 aob 807E07EC2C03000040810028 807E07F02C030000907E07EC
 
 name: AoB Infinite Stamina
+author: Hiei-YYH
 mode: once
 aob 2C1D0001418200142C1D000040820038 2C1D0001600000002C1D000040820038
 
 name: AoB Infinite Blood Gauge
+author: Hiei-YYH
 mode: once
 aob 83DF08087FDE07B463C300004800000C 83DF080C7FDE07B463C300004800000C
 
 name: AoB Infinite Items
+author: Hiei-YYH
 mode: once
 aob 7C9E20109083000448000010339C000830C60001 600000009083000448000010339C000830C60001
 
 name: AoB Max Hits
+author: Hiei-YYH
 mode: once
 aob 809E04607C63E814907E10E080A404387C6407B4 809E04603860270F907E10E080A404387C6407B4
 
 name: AoB Infinite Time
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 aob 809F0000EC21F82863E3000080840134C8410070 809F00006000000063E3000080840134C8410070
 
 name: AoB Jump 8 Times Higher
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 aob C3C3008463A300004BF8 FFC0F89063A300004BF8
 
 name: AoB Release Camera Limit
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 aob D09F0024D07F0028D03F002CE80100C0 6000000060000000D03F002CE80100C0
 
 name: AoB Auto Play Song of The D Branch Final Mission
+author: bbs.duowan.com/thread-36687206-1-1.html
 mode: once
 aob 408200C8807E00543880000380630410806305984BFFFAB1 C03E0050807E005438800003C05E0058FC0208004180015C
 
 name: AoB Max And Infinite Health
+author: FBML
 mode: once
 aob 807F00D4809E07EC7C83200040850190 807E07F07C641B78909E07EC48000190
 
 name: AoB Max Gold On Gain
+author: FBML
 mode: once
 aob 40810008606400006086000090DF0000 48000008606400006086000090DF0000
 
 name: AoB Max Base Materials On Gain
+author: FBML
 mode: once
 aob 4181002480BC0000 4800002480BC0000
 
 name: AoB Freeze Mission Timer
+author: FBML
 mode: once
 aob 40820148484A5BAD 48000148484A5BAD
 
 name: Items Never Decrease
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 00A6C768 60000000
 
 name: SP Never Decreases
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 0095B180 935E07EC
 
 name: Intoner Gauge Max On Change
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 015803E0 2E1A0000
 w32 015803E4 41900008
@@ -180,6 +214,7 @@ w32 015803F0 4895B19E
 w32 0095B198 495803E2
 
 name: Weapon Material 99 On Change
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 015CC2D0 57E0043E
 w32 015CC2D4 2900A148
@@ -191,37 +226,45 @@ w32 000ECFC4 495CC2D3
 w32 000ED0E4 495CC2D3
 
 name: Time Never Decreases
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 009F3FB8 60000000
 
 name: Jump 40x Higher
+author: games24.blog.fc2.com/blog-entry-227.html ported by JorgeFFC
 mode: once
 w32 009AB2A8 FFC0F890
 w32 009AB2CC FC5EF02A
 
 name: No Camera Control Restrictions
+author: games24.blog.fc2.com/blog-entry-227.html
 mode: once
 w32 00962EA8 60000000
 w32 00962EAC 60000000
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 009DB774 807E07F0
 w32 009DB77C 907E07EC
 
 name: Infinite Stamina
+author: Hiei-YYH
 mode: once
 w32 0095B174 60000000
 
 name: Infinite Blood Gauge
+author: Hiei-YYH
 mode: once
 w32 0095B3C0 83DF080C
 
 name: Max Hits
+author: Hiei-YYH
 mode: once
 w32 0096D928 3860270F
 
 name: Infinite Gold
+author: Hiei-YYH
 mode: once
 w32 015EDE60 809BFFF4
 w32 015EDE64 3FC005F5
@@ -235,6 +278,7 @@ w32 015EDE80 4E800020
 w32 000ECC58 495EDE63
 
 name: Infinite Weapons Materials
+author: Hiei-YYH
 mode: once
 w32 015EDE84 3C8005F5
 w32 015EDE88 6084E0FF
@@ -261,6 +305,7 @@ w32 015EDED8 4E800020
 w32 000ED0E0 495EDE87
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 009DF2FC 807E07F0
 w32 009DF300 7C641B78
@@ -268,35 +313,43 @@ w32 009DF304 909E07EC
 w32 009DF308 48000190
 
 name: Max Base Materials On Gain
+author: FBML
 mode: once
 w32 00A6C924 48000024
 
 name: Freeze Mission Timer
+author: FBML
 mode: once
 w32 009F3F14 48000148
 
 name: Memory Infinite Gold
+author: jgduff1
 mode: once
 w32 11931E50 0000270F
 
 name: Gold Never Decreases
+author: jgduff1
 mode: once
 w32 000ECC58 60000000
 
 name: Max Gold On Buy
+author: jgduff1
 mode: once
 w32 000ECC5C 90DB0000
 
 name: Level Max On One Mission
+author: jgduff1
 mode: once
 w32 0091C080 91230008
 w32 0091D290 90030008
 
 name: Weapon Materials Never Decrease
+author: jgduff1
 mode: once
 w32 000ED0E0 30830000
 
 name: Enable Codes (Must Be On)
+author: Jordy_Indo_Mods
 mode: once
 w32 016337A0 3DC001E9
 w32 016337A4 93CEEFD8
@@ -305,6 +358,7 @@ w32 016337AC 4E800020
 w32 00961794 48CD200D
 
 name: Full HP + Full SP + Full Intoner + Full Damage (Requires Enable Codes)
+author: Jordy_Indo_Mods
 mode: once
 w32 016337B4 3DE001E9
 w32 016337B8 81EFEFD8

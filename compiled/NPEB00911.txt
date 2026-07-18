@@ -1,10 +1,12 @@
 # Zen Pinball 2
 
 name: 999,999,999 Score On Gain
+author: crapulecorp
 mode: once
 w32 00254550 3D603B9A
 w32 00254554 616BC9FF
 
 name: AoB 999,999,999 Score On Gain
+author: crapulecorp
 mode: once
 aob 7C9E07B47D7E0214812300ECF97F0038 7C9E07B43D603B9A616BC9FFF97F0038

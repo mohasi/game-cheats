@@ -1,25 +1,30 @@
 # Call of Juarez: Bound in Blood
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 00BA82F4 7CBE0038
 w32 00BA82FC 907B0610
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 00A9193C 7C030050
 w32 00A91960 917C0004
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00699780 EFBDF82A
 
 name: Max + Infinite Cash On Gain
+author: jgduff1
 mode: once
 w32 00A904B8 7C840038
 w32 00A904BC 90430530
 
 name: Memory Infinite Concentration
+author: jgduff1
 mode: once
 w32 125F53B0 32EAC608
 w32 125F53B4 125F2454
@@ -27,11 +32,13 @@ w32 125F53B8 12562FB4
 w32 30267A58 0004630C
 
 name: Developer Menu
+author: dron_3
 mode: once
 w32 00CF66E4 39200001
 w32 00CF66F0 992B0000
 w32 00CF66F8 39200000
 
 name: AoB Developer Menu
+author: dron_3
 mode: once
 aob 892B00006000F2C0386000003929FFFF388000017D29FE70 392000016000F2C038600000992B00003880000139200000

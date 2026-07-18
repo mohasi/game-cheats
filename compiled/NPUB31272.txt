@@ -1,24 +1,29 @@
 # Giana Sisters - Twisted Dreams
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 001B91E8 60000000
 w32 001BB414 60000000
 
 name: Memory Gems x16 On Gain
+author: jgduff1
 mode: once
 w16 3A25E93A 0000
 
 name: ASM Gems x16 On Gain
+author: jgduff1
 mode: once
 w32 001B9A90 7CE74814
 w32 001B9A94 93460014
 
 name: Memory Invincible
+author: jgduff1
 mode: once
 w32 3A1B8050 00000001
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 001B9308 60000000
 w32 001BB534 60000000

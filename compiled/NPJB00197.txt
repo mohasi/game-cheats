@@ -1,21 +1,26 @@
 # House of the Dead III, The
 
 name: ASM Infinite Lives
+author: jgduff1
 mode: once
 w32 00151108 39290000
 
 name: ASM Infinite Credits
+author: jgduff1
 mode: once
 w32 0008F270 60000000
 
 name: ASM No Reload + Infinite Ammo
+author: jgduff1
 mode: once
 w32 001514B4 39290000
 
 name: ASM Max Scores In 1 Kill
+author: jgduff1
 mode: once
 w32 0014FE2C 91230000
 
 name: ASM Scores Never Decrease
+author: jgduff1
 mode: once
 w32 00150E64 60000000

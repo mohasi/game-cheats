@@ -1,35 +1,43 @@
 # Ghostbusters: The Video Game
 
 name: No Damage Cost
+author: dron_3
 mode: once
 w32 00047FC0 9B996754
 
 name: Unlimited Ammo (No Overheating)
+author: dron_3
 mode: once
 w32 0003CEA4 913D01DC
 
 name: God Mode
+author: dron_3
 mode: once
 w32 0003CEAC 913D01BC
 
 name: Max Money On Gain
+author: dron_3
 mode: once
 w32 001328D4 3D207F80
 w32 001328E0 91230380
 
 name: AoB No Damage Cost
+author: dron_3
 mode: once
 aob 9B79675493596748 9B99675493596748
 
 name: AoB Unlimited Ammo (No Overheating)
+author: dron_3
 mode: once
 aob 901D01DC901D01CC 913D01DC901D01CC
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 901D01CC901D01BC 901D01CC913D01BC
 
 name: AoB Max Money On Gain
+author: dron_3
 mode: once
 aob EC00082AEDA1682A EC00082A3D207F80
 aob D0030120D1A30380 D003012091230380

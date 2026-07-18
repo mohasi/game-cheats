@@ -1,54 +1,67 @@
 # The Sly Trilogy
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w16 003863FA 0002
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000B7320 39290000
 
 name: Memory Infinite Credits 99
+author: jgduff1
 mode: once
 w16 003863F6 0063
 
 name: Memory Infinite Coins
+author: jgduff1
 mode: once
 w16 003863FE 03E7
 
 name: Memory Max Bottles
+author: jgduff1
 mode: once
 w16 00384ED6 0014
 
 name: ASM Max Bottles
+author: jgduff1
 mode: once
 w32 000C0F7C 39290014
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w16 0073495E 0028
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000AC768 912A0028
 
 name: Memory Infinite Coins
+author: jgduff1
 mode: once
 w32 007349AC 0098967E
 
 name: Memory Max Bottles
+author: jgduff1
 mode: once
 w32 00741DB4 0000001E
 
 name: ASM Max Bottles
+author: jgduff1
 mode: once
 w32 000DA1FC 913C001E
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 356897C8 00000028
 w32 357F7B08 00000028
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0010E1B0 60000000

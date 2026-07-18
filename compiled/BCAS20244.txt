@@ -1,14 +1,17 @@
 # Chou Jigen Game Neptune Mk2
 
 name: Max Gold on Gain
+author: Fullcodes
 mode: once
 w32 001C6744 4800000C
 
 name: Max EXP on Gain
+author: Fullcodes
 mode: once
 w32 001BF430 939C0028
 
 name: Max Status On Level Up
+author: Fullcodes
 mode: once
 w32 001BF5C8 3B40270F
 w32 001BF5FC 3B4000C8
@@ -24,5 +27,6 @@ w32 001BF7D0 3B60270F
 w32 001BF80C 3B60000A
 
 name: Player + Enemy Max Damage
+author: xtatu
 mode: once
 w32 0012B634 409D0010

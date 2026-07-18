@@ -1,6 +1,7 @@
 # Sacred 3
 
 name: Infinite Health And Power
+author: FullCodes
 mode: once
 w32 00825230 A0770000
 w32 00825234 2C030001
@@ -15,6 +16,7 @@ w32 00825254 4B9BC164
 w32 001E13B4 48643E80
 
 name: Player Health Never Decreases
+author: bungholio
 mode: once
 w32 005E15D4 2F8AFFFF
 w32 005E15D8 419E0008
@@ -23,20 +25,24 @@ w32 005E15E0 481E7AF6
 w32 001E7AF0 485E15D6
 
 name: Light Combat Arts Never Decrease
+author: bungholio
 mode: once
 w32 001E7F60 60000000
 
 name: Heavy Combat Arts Never Decrease
+author: bungholio
 mode: once
 w32 001E7F34 60000000
 
 name: Infinite Items
+author: GuitarMan
 mode: once
 w32 0023DC54 38600001
 w32 0023DCD0 38A00001
 w32 0023F184 38800001
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00911010 3FC000A5
 w32 00911014 63DE30A4
@@ -65,6 +71,7 @@ w32 0091106C 481EA36A
 w32 001EA364 48911012
 
 name: Toggle Movement Speed R2 Or L2 For Default
+author: GuitarMan
 mode: once
 w32 009110C0 A2DA000E
 w32 009110C4 3CC000EC

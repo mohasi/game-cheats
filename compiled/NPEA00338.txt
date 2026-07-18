@@ -1,13 +1,16 @@
 # Jak and Daxter - The Precursor Legacy HD
 
 name: Walk Through Walls
+author: dnawrkshp
 mode: once
 w16 201F7024 FFFF
 
 name: Infinite Health
+author: dnawrkshp
 mode: once
 w32 201FEE20 00004040
 
 name: Infinite Double Jumps
+author: dnawrkshp
 mode: once
 w16 201F70A0 0710

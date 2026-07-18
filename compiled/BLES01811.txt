@@ -1,70 +1,87 @@
 # Lightning Returns - Final Fantasy XIII - Japanese Voice Pack
 
 name: Invincible + Can Use Magic
+author: puzzle, xtatu
 mode: once
 w32 00107C98 807E0030
 
 name: Invincible + Magic
+author: puzzle, xtatu
 mode: once
 w32 00105678 807E0030
 
 name: Invincible + Auto-Guard
+author: puzzle, xtatu
 mode: once
 w32 00116AAC 807E0030
 
 name: Infinite Energy Points
+author: morisummer13
 mode: once
 w32 0063EFB8 912828E8
 
 name: Infinite Dash Gauge
+author: games24.blog.fc2.com/blog-entry-219.html
 mode: once
 w32 00217BA8 D0440014
 
 name: Gil Never Decreases on Buy
+author: games24.blog.fc2.com/blog-entry-219.html
 mode: once
 w32 0063ED44 7D034378
 
 name: Freeze Enemy Movement
+author: puzzle, xtatu
 mode: once
 w32 000E041C 40800028
 
 name: Time Freezes
+author: games24.blog.fc2.com/blog-entry-219.html
 mode: once
 w32 00227938 7C9F2378
 
 name: Time Runs Backwards
+author: games24.blog.fc2.com/blog-entry-219.html
 mode: once
 w32 00227938 7FE62010
 
 name: AoB Invincible + Can Use Magic
+author: puzzle, xtatu
 mode: once
 aob 8064000490A68B107C1F18004082005090A4000448000048 807E003090A68B107C1F18004082005090A4000448000048
 
 name: AoB Freeze Enemy Movement
+author: puzzle, xtatu
 mode: once
 aob 41800028636300004800D89D7C1F180040810010 40800028636300004800D89D7C1F180040810010
 
 name: Infinite Dash Gauge
+author: Medo
 mode: once
 w32 00219838 D0440014
 
 name: Invincible + Can Use Magic
+author: puzzle, xtatu
 mode: once
 w32 00107268 807E0030
 
 name: Infinite GP + EP
+author: morisummer13
 mode: once
 w32 00641B58 912828E8
 
 name: Freeze Enemy Movement
+author: puzzle, xtatu
 mode: once
 w32 000E200C 40800028
 
 name: Infinite ATB
+author: Medo
 mode: once
 w32 000EFCF4 60000000
 
 name: Infinite HP
+author: Medo
 mode: once
 w32 000EF5EC 49011C93
 w32 01011C90 937E02E0
@@ -76,34 +93,42 @@ w32 01011CA4 920F02E0
 w32 01011CA8 480EF5F3
 
 name: AoB Infinite Gil ON (Stops Earning Money as side-effect)
+author: Medo
 mode: once
 aob 7C6818147C6307B47CA518107CE338107CA5FE767D032010 7D0343787C6307B47CA518107CE338107CA5FE767D032010
 
 name: AoB Infinite Dash Gauge
+author: Medo
 mode: once
 aob D0240014C0450004FC0110004CC113824186002060860000 D0440014C0450004FC0110004CC113824186002060860000
 
 name: AoB Time Does Not Decrease
+author: Medo
 mode: once
 aob 7FE4301488632840E88528482C030000408200343C600023 7C9F237888632840E88528482C030000408200343C600023
 
 name: AoB Invincible + Can Use Magic
+author: puzzle, xtatu
 mode: once
 aob 548306F62C0300004182001053E406F63BA00001989E0291 807E00302C0300004182001053E406F63BA00001989E0291
 
 name: AoB Infinite GP + EP
+author: morisummer13
 mode: once
 aob 906828E84E8000203C80011D786317643CA0000160A505D8 912828E84E8000203C80011D786317643CA0000160A505D8
 
 name: AoB Freeze Enemy Movement
+author: puzzle, xtatu
 mode: once
 aob 41800028636300004800D89D7C1F18004081001063630000 40800028636300004800D89D7C1F18004081001063630000
 
 name: AoB Infinite ATB
+author: Medo
 mode: once
 aob 937C031C408500207C7AD8102C03000041810014 60000000408500207C7AD8102C03000041810014
 
 name: AoB Infinite HP
+author: Medo
 mode: once
 aob 000126030001261F0001262F0001263E000126F800000000000000000000000000000000000000000000000000000000 000126030001261F0001262F0001263E000126F8937E02E03DE0528D61EFB86881EF0000820F030C920F02E0480EDA03
 aob 63C30000937E02E04BFF23ED63C30000 63C300004900E98F4BFF23ED63C30000

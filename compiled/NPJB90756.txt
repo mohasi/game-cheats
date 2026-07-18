@@ -1,77 +1,96 @@
 # Eiyuu Densetsu: Sen no Kiseki II
 
 name: Max Mira On Sell (Money)
+author: JorgeFFC
 mode: once
 w32 00226818 40810008
 
 name: Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+author: JorgeFFC
 mode: once
 w32 002267D8 60000000
 
 name: Infinite EP
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 w32 00067254 B0BE02D8
 
 name: Infinite CP + Ultimate Specials
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 w32 0006E398 B0BE02D4
 
 name: Increase Item Counts By 1 By Using Them
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 w32 0021E580 7CA42B78
 
 name: Permanent Buffs
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 w32 00094AC8 30630000
 
 name: Infinite Fishing Bait
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 w32 0023CA74 30860000
 
 name: Infinite Friendship Action Points
+author: JorgeFFC
 mode: once
 w32 001E78C4 60000000
 
 name: AoB Max Mira On Sell (Money)
+author: JorgeFFC
 mode: once
 aob 7C6340147C0338404181000860670000 7C6340147C0338404081000860670000
 
 name: AoB No Reduce Brave Points
+author: blog.livedoor.jp/games_cheat/archives/15461568.html
 mode: once
 aob 7C8430107CC400D07CC6FE767CC42038 388000057CC400D07CC6FE767CC42038
 
 name: AoB Max Sepith on Change
+author: blog.livedoor.jp/games_cheat/archives/15461568.html
 mode: once
 aob 4180001038600000906600004800000C 3C6000016063869F906600004800000C
 
 name: AoB TP Never Decreases
+author: blog.livedoor.jp/games_cheat/archives/15461568.html
 mode: once
 aob 7C6320147C7EE32E33BD0010337B0001 386000007C7EE32E33BD0010337B0001
 
 name: AoB Cut Sepith Cost On Exchange (Shops For Money + Quartz)
+author: JorgeFFC
 mode: once
 aob 906600004800000C7C65181090660000 906600004800000C6000000090660000
 
 name: AoB Infinite EP
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 aob 7CA420787C632378B07E02D8E8010090 7CA420787C632378B0BE02D8E8010090
 
 name: AoB Infinite CP + Ultimate Specials
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 aob 7CA420787C632378B07E02D4E8010090 7CA420787C632378B0BE02D4E8010090
 
 name: AoB Increase Item Counts By 1 By Using Them
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 aob 78630020A0A300027C8428107CA400D0 78630020A0A300027CA42B787CA400D0
 
 name: AoB Permanent Buffs
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 aob 41820660806500083063FFFF2C030000 4182066080650008306300002C030000
 
 name: AoB Infinite Fishing Bait
+author: JorgeFFC, games24.blog.fc2.com/blog-entry-195.html
 mode: once
 aob 3086FFFFB085000038600000987D01B1 30860000B085000038600000987D01B1
 
 name: AoB Infinite Friendship Action Points
+author: JorgeFFC
 mode: once
 aob 306318387863002090A300004E800020 3063183878630020600000004E800020

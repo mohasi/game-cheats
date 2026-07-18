@@ -1,6 +1,7 @@
 # Dead or Alive 5
 
 name: Infinite Health + 1 Hit Kill (Cannot be used with Low Health for Power Blows)
+author: Medo
 mode: once
 w32 00222078 60000000
 w32 0022207C 60000000
@@ -25,6 +26,7 @@ w32 002220C4 B22F002C
 w32 002220C8 B250002C
 
 name: Low Health for Power Blows (Cannot be used with Infinite Health + 1 Hit Kill)
+author: Medo
 mode: once
 w32 00241A88 B09E002C
 w32 00241A8C 3DE00118
@@ -35,16 +37,19 @@ w32 00241A9C 4822207B
 w32 002220B8 48241A8B
 
 name: 1P Can Hit Anywhere + 2P Can Not Hit 1P At All
+author: xtatu
 mode: once
 w32 001EF614 60000000
 w32 001EF414 60000000
 w32 001EF304 60000000
 
 name: 1P Can Throw Anywhere + 2P Can Not Throw 1P At All
+author: xtatu
 mode: once
 w32 002596B0 7C1BE800
 
 name: Disable Block
+author: xtatu
 mode: once
 w32 00258540 48000018
 w32 002585B8 48000064
@@ -52,5 +57,6 @@ w32 00258694 48000048
 w32 002586E4 48000018
 
 name: Disable Hold
+author: xtatu
 mode: once
 w32 0023BA64 480003A8

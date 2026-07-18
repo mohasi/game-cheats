@@ -1,6 +1,7 @@
 # Shining Resonance
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00736704 83DF0184
 w32 00736708 3A00270F
@@ -9,20 +10,24 @@ w32 00736710 4E800020
 w32 003D146C 48365299
 
 name: Infinite MP
+author: Hiei-YYH
 mode: once
 w32 0031B7D4 3BA0270F
 
 name: Infinite Stamina
+author: Hiei-YYH
 mode: once
 w32 00318FE4 60000000
 
 name: Max Gold On Buy
+author: Hiei-YYH
 mode: once
 w32 000CFFC8 48000008
 w32 000D0024 3CE00098
 w32 000D0028 60E7987F
 
 name: Max Item On Gain Or Use
+author: Hiei-YYH
 mode: once
 w32 000CE1A4 60000000
 w32 000CE1A8 38E00063
@@ -32,40 +37,49 @@ w32 000CE6B0 60000000
 w32 000CE6B4 38E00063
 
 name: Band Gauge Always Max
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 00287534 607E0000
 
 name: 1 Quest Battle
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 002F16E4 90850000
 
 name: AoB Max Gold On Sell
+author: Hiei-YYH
 mode: once
 aob 606600007CC5212E4E80002060650000 600000007CC5212E4E80002060650000
 
 name: AoB Max Items
+author: Hiei-YYH
 mode: once
 aob 7FA3E8147C1D38404181000863A70000 7CFD3B787C1D38404181000863A70000
 aob 7CFFE81090E600004832B21D60000000 7FA7EB7890E600004832B21D60000000
 aob 7CFFE81090E600004832AA9960000000 7FA7EB7890E600004832AA9960000000
 
 name: AoB Infinite MP
+author: Hiei-YYH, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 7FBD2014FBC100802C1D000040800010 60000000FBC100802C1D000040800010
 
 name: AoB Infinite Stamina
+author: Hiei-YYH, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob EC42F82A38638F50D05F0004C0230000 FC40109038638F50D05F0004C0230000
 
 name: AoB Band Gauge Always Max
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 63FE00004BEE5E61600000002C030000 607E00004BEE5E61600000002C030000
 
 name: AoB 1 Quest Battle
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 90C500004800009830C6000C78C60020 908500004800009830C6000C78C60020
 
 name: Infinite HP Test
+author: codemasterhieiyyh.wordpress.com/2014/12/17/shining-resonance-bljm61156/
 mode: once
 w32 00736700 83DF0184
 w32 00736704 821E0000
@@ -77,59 +91,73 @@ w32 00736718 4E800020
 w32 003D146C 48365295
 
 name: Max Gold
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 000CFFCC 60000000
 
 name: Max Items On Gain
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 000CE6A8 7CFD3B78
 
 name: Items Never Decrease
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 000CE1A8 7FA7EB78
 w32 000CE92C 7FA7EB78
 
 name: Max MP
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 0031B7D4 60000000
 
 name: Max AP
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 00318FE4 FC401090
 
 name: Max Band Gauge
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 00287534 607E0000
 
 name: Clear With Quest Battle 1 Time
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 w32 002F16E4 90850000
 
 name: AoB Max Gold
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 606600007C521E4E80002060650000 600000007C521E4E80002060650000
 
 name: AoB Max Items On Gain
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 7FA3E8147C1D38404181000863A70000 7CFD3B787C1D38404181000863A70000
 
 name: AoB Items Never Decrease
+author: blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 7CFFE81090E600004832B21D60000000 7FA7EB7890E600004832B21D60000000
 aob 7CFFE81090E600004832AA9960000000 7FA7EB7890E600004832AA9960000000
 
 name: AoB Max MP
+author: Hiei-YYH, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 7FBD2014FBC100802C1D000040800010 60000000FBC100802C1D000040800010
 
 name: AoB Max AP
+author: Hiei-YYH, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob EC42F82A38638F50D05F0004C0230000 FC40109038638F50D05F0004C0230000
 
 name: AoB Max Band Gauge
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 63FE00004BEE5E61600000002C030000 607E00004BEE5E61600000002C030000
 
 name: AoB Clear With Quest Battle 1 Time
+author: blog.livedoor.jp/games_cheat/, blog.livedoor.jp/games_cheat/archives/18882539.html
 mode: once
 aob 90C500004800009830C6000C78C60020 908500004800009830C6000C78C60020

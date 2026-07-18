@@ -1,36 +1,44 @@
 # DYNASTY WARRIORS 8 Empires
 
 name: 1000x Hit Range Modifier
+author: xtatu
 mode: once
 w32 00C60214 447A0000
 
 name: Lot Of Merits On Gain Or Buying Something + Max Level + High Stats
+author: jgduff1
 mode: once
 w32 00384400 90A30020
 
 name: All Food + Money Max On Start (999,999)
+author: jgduff1
 mode: once
 w32 0037CE14 90830000
 w32 0037CECC 90830004
 w32 0037CF90 90830008
 
 name: Memory Infinite Stratagem
+author: jgduff1
 mode: once
 w32 00FF8FA0 08080000
 
 name: ASM Infinite Stratagem
+author: jgduff1
 mode: once
 w32 00124614 60000000
 
 name: Memory Infinite Musou
+author: jgduff1
 mode: once
 w32 00FF8F94 03030000
 
 name: ASM Infinite Musou
+author: jgduff1
 mode: once
 w32 00123958 60000000
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 360A5268 00003F49
 w32 362DDDEC 00016666
@@ -47,10 +55,12 @@ w32 36A21444 00007E92
 w32 36A22080 00007E92
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 000BE1EC 905F0070
 
 name: 1P Infinite Health
+author: Randy97Killa
 mode: once
 w32 00C91A2C 2C060000
 w32 00C91A30 4082000C
@@ -61,6 +71,7 @@ w32 00C91A40 4B432B38
 w32 000C4574 48BCD4B8
 
 name: Max + Infinite Musou
+author: Randy97Killa
 mode: once
 w32 00C91A7C 88AB0009
 w32 00C91A80 98AB0008
@@ -68,6 +79,7 @@ w32 00C91A84 4B40D970
 w32 0009F3F0 48BF268C
 
 name: Max + Infinite Rage
+author: Randy97Killa
 mode: once
 w32 00C91A48 80BF01F8
 w32 00C91A4C 90BF01F4
@@ -76,6 +88,7 @@ w32 00C91A54 4E800020
 w32 0009F3FC 48BF264D
 
 name: Max Material On Gain
+author: Randy97Killa
 mode: once
 w32 00C91A90 3C803B9A
 w32 00C91A94 6084C9FF

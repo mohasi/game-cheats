@@ -1,43 +1,53 @@
 # Ninja Gaiden 3
 
 name: Invincible
+author: vosman, xtatu
 mode: once
 w32 0024A7DC 60000000
 
 name: Infinite Ki
+author: vosman, xtatu
 mode: once
 w32 0024BD14 60000000
 w32 0024C8E4 48000054
 
 name: AoB No Hit All 1p
+author: xtatu
 mode: once
 aob 408200083BA0000163A30000E80100A07C0803A6EBA10078EBC10080EBE10088382100904E800020F821FF917C0802A6F8010080 600000003BA0000163A30000E80100A07C0803A6EBA10078EBC10080EBE10088382100904E800020F821FF917C0802A6F8010080
 
 name: AoB No Hit (Bomb Dart Weak Attack Machinegun)
+author: xtatu
 mode: once
 aob 419D00102C08FFFF4081004C4800000C419A002048000040A083000C7C04D0004082000838A000013880000148000028 409D00102C08FFFF4081004C4800000C419A002048000040A083000C7C04D0004082000838A000013880000148000028
 
 name: Karma 999999999 in Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01AF4B00 3B9AC9FF
 
 name: Ninja Health Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0171F60C EA60
 
 name: Unlock All Difficulty Levels
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 01DF67EC 0101
 
 name: Ninja Level Max in Shadows of the World
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 019A73F8 05F5E100
 w32 019A741C 00989680
 
 name: No Hit Story Mode
+author: vosman, xtatu
 mode: once
 w32 0024A7DC 60000000
 
 name: Invincible
+author: xtatu
 mode: once
 w32 0024BCEC 60000000

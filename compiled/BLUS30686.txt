@@ -1,61 +1,76 @@
 # Record of Agarest War Zero
 
 name: SP 500
+author: xtatu
 mode: once
 w32 0028688C 396001F4
 
 name: Hero + Enemies AP 999
+author: xtatu
 mode: once
 w32 0029A608 394003E7
 
 name: Characters 2-6 AP 999
+author: xtatu
 mode: once
 w32 002A48D8 394003E7
 
 name: Player 1 999 AP
+author: JorgeFFC
 mode: once
 w16 09DDBDE2 03E7
 
 name: Max PP After Battle
+author: Medo
 mode: once
 w32 00083F10 60000000
 
 name: Max TP After Exchange Some In The Guild
+author: Medo
 mode: once
 w32 000B245C 60000000
 
 name: Max Gold After Win Battle (Results)
+author: Medo
 mode: once
 w32 0027E7D0 60000000
 
 name: Max Exp After Win Battle (Results)
+author: Medo
 mode: once
 w32 0029412C 60000000
 
 name: Items Never Decrease
+author: JorgeFFC
 mode: once
 w32 000BA440 60000000
 
 name: 9,999 Overlimit Strength After Using PP Points
+author: JorgeFFC
 mode: once
 w32 0017261C 3809270F
 
 name: 9,999 Overlimit Vitality After Using PP Points
+author: JorgeFFC
 mode: once
 w32 00172650 3809270F
 
 name: 9,999 Overlimit Agility After Using PP Points
+author: JorgeFFC
 mode: once
 w32 00172684 3809270F
 
 name: 9,999 Overlimit Intelligence After Using PP Points
+author: JorgeFFC
 mode: once
 w32 001726B8 3809270F
 
 name: 9,999 Overlimit Lucky After Using PP Points
+author: JorgeFFC
 mode: once
 w32 001726EC 3809270F
 
 name: Items Never Decrease
+author: JorgeFFC
 mode: once
 w32 000BA390 419E0008

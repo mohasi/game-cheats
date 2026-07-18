@@ -1,6 +1,7 @@
 # Assassin's Creed
 
 name: Invincibility + Enemies Can Not Lock You Into Combat
+author: bungholio
 mode: once
 w32 01133A6C 809D0000
 w32 01133A70 80840004
@@ -33,16 +34,19 @@ w32 01133B80 489920B6
 w32 00992078 49133A6E
 
 name: Taking Any Damage Fully Refills Your Synchronization Bar
+author: bungholio
 mode: once
 w32 0017EF90 931C0014
 
 name: Throwing Knives Never Decrease
+author: bungholio
 mode: once
 w32 000E8AEC 381D0000
 w32 000E8B24 381B0000
 w32 000E8B5C 381C0000
 
 name: Button Enable Code
+author: Medo, bungholio
 mode: once
 w32 00010064 01124400
 w32 0001006C 01124400
@@ -71,19 +75,23 @@ w32 01133CB4 481FE0D6
 w32 00CF4460 49133C62
 
 name: Press L3 To Stop Pursuit
+author: bungholio
 mode: once
 w32 001FE0D0 49133C92
 
 name: AoB Taking Any Damage Fully Refills Your Synchronization Bar
+author: bungholio
 mode: once
 aob 600000002F9DFFFF419C01F47F98E800409D00CC2F9D000093BC0014 600000002F9DFFFF419C01F47F98E800409D00CC2F9D0000931C0014
 
 name: AoB Throwing Knives Never Decrease
+author: bungholio
 mode: once
 aob 381DFFFF7F43D378901F0274 381D00007F43D378901F0274
 aob 381BFFFF7F43D378901F0278 381B00007F43D378901F0278
 aob 381CFFFF7F43D378901F027C 381C00007F43D378901F027C
 
 name: AoB Press L3 To Stop Pursuit
+author: bungholio
 mode: once
 aob FBE10088F80100A04182001C38030158 FBE10088F80100A04182001C49133C92

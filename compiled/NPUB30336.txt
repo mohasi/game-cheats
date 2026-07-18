@@ -1,29 +1,35 @@
 # Alien Breed 3 - Descent
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 001075F8 380003E7
 w32 001075FC 90060334
 w32 00107600 90060330
 
 name: Infinite Items
+author: dron_3
 mode: once
 w32 001082B0 38A00063
 w32 001082BC 90A30268
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0005FE84 386003E8
 w32 0005FE88 907F02DC
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 7C1D2A147C00180040810008 380003E79006033490060330
 
 name: AoB Infinite Items
+author: dron_3
 mode: once
 aob 80630268394100808082D2907C6507B4 38A00063394100808082D29090A30268
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 2C0300004081004C88BF0090 386003E8907F02DC88DF0090

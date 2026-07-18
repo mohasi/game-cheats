@@ -1,15 +1,18 @@
 # Kingdom Hearts HD 1.5 ReMIX
 
 name: Buy And Sell Max Munnies
+author: xtatu
 mode: once
 w32 000B23C0 41810008
 w32 000B241C 41810008
 
 name: Max Level (1 Fight)
+author: xtatu
 mode: once
 w32 00194860 41810008
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00330F10 83F60040
 w32 00330F14 93F6003C
@@ -17,10 +20,12 @@ w32 00330F18 4E800020
 w32 0018A860 481A66B1
 
 name: Infinite MP
+author: Hiei-YYH
 mode: once
 w32 001B7380 93A30044
 
 name: Infinite Item Usage
+author: Hiei-YYH
 mode: once
 w32 00094B44 30840000
 w32 00094E08 30840000
@@ -29,12 +34,14 @@ w32 0009663C 30E70000
 w32 000B4458 38800000
 
 name: Have All Ingredients for Synthesize
+author: Hiei-YYH
 mode: once
 w32 000CFDE8 3B600062
 w32 000CFDEC 9B7A0499
 w32 000CFDF0 7F7ADB78
 
 name: Max Munny on Use + Get
+author: Hiei-YYH
 mode: once
 w32 000B2328 3C600001
 w32 000B232C 6063869E
@@ -42,6 +49,7 @@ w32 000B23E8 3C600001
 w32 000B23EC 6063869E
 
 name: Max HP And Stats
+author: Hiei-YYH
 mode: once
 w32 00330F30 388000C8
 w32 00330F34 989C0002
@@ -53,16 +61,19 @@ w32 00330F48 4BD54A7C
 w32 000859C0 482AB570
 
 name: Infinite Gummi HP
+author: Hiei-YYH
 mode: once
 w32 001EDC4C 60000000
 w32 001EDC50 7C641B78
 
 name: Infinite Gummi MP
+author: Hiei-YYH
 mode: once
 w32 001ECD58 30A50000
 w32 001ECDB4 3AA50000
 
 name: Gummi Max Items After Getting One
+author: Hiei-YYH
 mode: once
 w32 001E6BC0 390003E7
 w32 001E6BF4 392003E7
@@ -74,57 +85,70 @@ w32 001EAC10 38A003E7
 w32 001EAD68 38A003E7
 
 name: Infinite Time (Coliseum and other minigames)
+author: Hiei-YYH
 mode: once
 w32 00038D04 60000000
 
 name: Get 1 Point For Max Score Minigame 1 (Veggie Panic)
+author: Hiei-YYH
 mode: once
 w32 00318AC8 48000010
 
 name: Get 1 Point For Max Score Minigames 2 And 4 (Ballon Glider + Whirlwind Plunge)
+author: Hiei-YYH
 mode: once
 w32 00311C30 3880270F
 
 name: Infinite Ballons Minigame 2 (Ballon Glider)
+author: Hiei-YYH
 mode: once
 w32 002FF278 60000000
 
 name: Get 1 Point For Max Score Minigame 3 (Jump-a-Thon)
+author: Hiei-YYH
 mode: once
 w32 00314780 48000010
 
 name: AoB Buy And Sell Max Munnies
+author: xtatu
 mode: once
 aob 408100089064001CE80100907C0803A6 418100089064001CE80100907C0803A6
 aob 408100089064001C4E800020F821FF817C0802A6 418100089064001C4E800020F821FF817C0802A6
 
 name: AoB Max Level (1 Fight)
+author: xtatu
 mode: once
 aob 4081000860BB00003B400001937D003C 4181000860BB00003B400001937D003C
 
 name: Buy And Sell Max Munnies
+author: xtatu, games24.blog.fc2.com/blog-entry-161.html
 mode: once
 w32 000B1890 60000000
 w32 000B18EC 60000000
 
 name: Max Level (1 Fight)
+author: xtatu
 mode: once
 w32 0018E1E8 41810008
 
 name: Infinite Items
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-161.html
 mode: once
 w32 00163EC0 60000000
 
 name: AoB Buy And Sell Max Munnies
+author: xtatu, games24.blog.fc2.com/blog-entry-161.html
 mode: once
 aob 408100089064001CE80100907C0803A6 600000009064001CE80100907C0803A6
 aob 408100089064001C4E800020F821FF817C0802A6 600000009064001C4E800020F821FF817C0802A6
 
 name: AoB Infinite Items
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-161.html
 mode: once
 aob 98A300264800001063E400004802AB19 600000004800001063E400004802AB19
 
 name: 60 FPS
+author: PSXPlace
 mode: once
 w32 00036870 38800000
 w32 00012484 38800000

@@ -1,15 +1,18 @@
 # Quantum Theory
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 318F3EBC 0000000A
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 001277EC 39380000
 w32 001277F0 60000000
 
 name: Memory Infinite HP
+author: jgduff1
 mode: once
 w32 3116E95C 44960000
 w32 3116EA2C 44960000
@@ -26,6 +29,7 @@ w32 32AC30A8 32AC30C0
 w32 32AC30E0 32AC30C0
 
 name: ASM Infinite HP
+author: jgduff1
 mode: once
 w32 00070C90 EDA207B2
 w32 000715F0 C3C30018

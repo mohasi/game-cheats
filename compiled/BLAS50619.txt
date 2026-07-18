@@ -1,9 +1,11 @@
 # World Soccer Winning Eleven 2014
 
 name: Points Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-216.html
 mode: once
 w32 002C756C 30840000
 
 name: Strength Points Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-216.html
 mode: once
 w32 004E7BAC 60000000

@@ -1,38 +1,47 @@
 # Dead Island: Game of the Year Edition
 
 name: Damager 0 (Player)
+author: xtatu
 mode: once
 w32 00C4F8C8 60000000
 
 name: Player No Hit
+author: xtatu
 mode: once
 w32 00C4F950 4182029C
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 00C2CC3C FC200890
 
 name: Max And Infinite Stamina
+author: FBML
 mode: once
 w32 00C4F758 FC20F890
 
 name: Max And Infinite Durability
+author: FBML
 mode: once
 w32 008E4F00 48000024
 
 name: Max And Infinite Flashlight
+author: FBML
 mode: once
 w32 00CF7EB8 C3FF002C
 
 name: Infinite Ammo And No Reload
+author: FBML
 mode: once
 w32 00D52DC0 60000000
 
 name: Infinite Ammo In Inventory After Reload
+author: FBML
 mode: once
 w32 00C539DC 7CA507B4
 
 name: Max Money On Gain
+author: FBML
 mode: once
 w32 00C1BB84 3FE03B9A
 w32 00C1BB88 63FFC9FF
@@ -40,27 +49,33 @@ w32 00C1BB8C 63E30000
 w32 00C1BB90 63E40000
 
 name: Infinite Money After Spending
+author: FBML
 mode: once
 w32 00C4C154 7C6307B4
 w32 00C5B9B0 7C6307B4
 
 name: Max Items On Gain If You Already Have At Least 1
+author: FBML
 mode: once
 w32 00C1B918 7CA32014
 
 name: Infinite Items On Sell, Throw, Give, And Use If You Have More Than 1
+author: FBML
 mode: once
 w32 00C1FB50 60000000
 
 name: Max Rage On Gain
+author: FBML
 mode: once
 w32 00C2D544 FC203890
 
 name: Max XP And Level On Gain
+author: FBML
 mode: once
 w32 00C9F734 60000000
 
 name: Level Up To Next Level After Gaining XP
+author: FBML
 mode: once
 w32 00C9F6F4 80A30040
 w32 00C9F6FC 83E30044
@@ -69,13 +84,16 @@ w32 00C9F704 90A3003C
 w32 00C9F708 60000000
 
 name: 1 Hit Kills
+author: FBML
 mode: once
 w32 007D60EC EFE10828
 
 name: Player Damage 0
+author: xtatu
 mode: once
 w32 00C3DF40 00000000
 
 name: Player 1 Invincible
+author: xtatu
 mode: once
 w32 00C3DFB4 408202B0

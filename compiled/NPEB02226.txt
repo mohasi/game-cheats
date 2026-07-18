@@ -1,32 +1,39 @@
 # Resident Evil Zero HD-Remaster
 
 name: Infinite Ammo + No Reload
+author: jgduff
 mode: once
 w32 00153524 60000000
 
 name: Infinite Ammo
+author: jgduff
 mode: once
 w32 001539A0 60000000
 w32 002CEADC 60000000
 
 name: Infinite Ink Ribbons
+author: jgduff
 mode: once
 w32 00152990 60000000
 
 name: Zombies Never Attack v1
+author: jgduff
 mode: once
 w32 001B6E20 60000000
 
 name: Zombies Never Attack v2
+author: jgduff
 mode: once
 w32 001B7484 60000000
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 001C0290 4E800020
 w32 001C20F8 4E800020
 
 name: Infinite Health, Invincible + Never Poisoned
+author: Hiei-YYH
 mode: once
 w32 00A9D744 80D90244
 w32 00A9D748 2C06000C
@@ -49,36 +56,44 @@ w32 00A9D788 4BFFFFC8
 w32 001B640C 488E7338
 
 name: Take No Damage
+author: Hiei-YYH
 mode: once
 w32 00198CC0 48000024
 w32 00198750 60000000
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 001534E4 48000048
 
 name: Save 0
+author: Hiei-YYH
 mode: once
 w32 00312B1C 38800000
 
 name: Infinite Items
+author: Hiei-YYH
 mode: once
 w32 00152EC0 60000000
 
 name: Always Low Time
+author: Hiei-YYH
 mode: once
 w32 0026CDCC 60000000
 
 name: Stop Countdown Timer
+author: Hiei-YYH
 mode: once
 w32 002117D8 60000000
 w32 0038BB78 60000000
 
 name: No Key Or Ink Ribbon Needed
+author: Hiei-YYH
 mode: once
 w32 00152C48 63E30000
 
 name: Real Time Item Modifier
+author: Hiei-YYH
 mode: once
 w32 00A9D78C 3A310001
 w32 00A9D790 2C110015
@@ -125,6 +140,7 @@ w32 00A9D830 4BFFFF98
 w32 009CEF94 480CE7F8
 
 name: Rapid Fire
+author: GuitarMan
 mode: once
 w32 00AA6684 3E203F80
 w32 00AA6688 923F04F4
@@ -138,14 +154,17 @@ w32 00187EE8 48AA6696
 w32 001889F0 48AA6686
 
 name: Invincible Against Zombie Grabs
+author: GuitarMan
 mode: once
 w32 00057F00 60000000
 
 name: Partial Invincibility Against Physical Attacks
+author: GuitarMan
 mode: once
 w32 00114C10 60000000
 
 name: Invincible Against Physical Dog Attacks
+author: GuitarMan
 mode: once
 w32 00AA66A4 82030000
 w32 00AA66A8 92030008
@@ -154,11 +173,13 @@ w32 00AA66B0 48140962
 w32 0014095C 48AA66A6
 
 name: Infinite Ammo
+author: GuitarMan
 mode: once
 w32 00150F08 913D0004
 w32 001534E8 60000000
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 00AC770C 3A000099
 w32 00AC7710 9A1E1043
@@ -167,5 +188,6 @@ w32 00AC7718 481A03EA
 w32 001A03E4 48AC770E
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob F821FDC17C0802A6F8010250DB410210DB610218DB810220DBA10228DBC10230 4E8000207C0802A6F8010250DB410210DB610218DB810220DBA10228DBC10230

@@ -1,21 +1,25 @@
 # Watch Dogs
 
 name: Infinite Ammo + Infinite Items + Bottomless Clip
+author: Medo
 mode: once
 w32 001D356C 60000000
 w32 001E3C28 60000000
 
 name: Max Money + Skill Points on Spend
+author: Medo
 mode: once
 w32 004748C4 3CC005F5
 w32 004748C8 60C6E0FF
 
 name: Infinite Focus
+author: Medo
 mode: once
 w32 00123E08 60000000
 w32 001262D4 60000000
 
 name: Infinite Vehicle Health + 0 for AI
+author: Medo
 mode: once
 w32 01F71E64 823E009C
 w32 01F71E68 2C110073
@@ -29,29 +33,35 @@ w32 007B9028 91FC009C
 w32 007B902C 921C00A0
 
 name: Infinite Vehicle Health Only
+author: Medo
 mode: once
 w32 007B901C 3E0043FA
 w32 007B902C 921C00A0
 
 name: Max Money On Buy
+author: Hiei-YYH
 mode: once
 w32 004748B8 3CC005F5
 w32 004748C4 60C6E0FF
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 001E3C20 30630000
 
 name: Infinite Cellphone Battery
+author: Hiei-YYH
 mode: once
 w32 008BA868 48000008
 
 name: Infinite Items
+author: Hiei-YYH
 mode: once
 w32 001D355C 60000000
 w32 001D3560 3BE00063
 
 name: Max Infinite Health
+author: Hiei-YYH
 mode: once
 w32 01FEBB20 3C8047C3
 w32 01FEBB24 90830010
@@ -61,6 +71,7 @@ w32 01FEBB30 4AC6146C
 w32 00C4CF98 4932EB88
 
 name: Infinite Mission Time
+author: Hiei-YYH
 mode: once
 w32 01FEBB00 887F000D
 w32 01FEBB04 2C030001
@@ -72,6 +83,7 @@ w32 01FEBB18 4E800020
 w32 00B8790C 494641F5
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00123D94 3C007F80
 w32 00123D98 90030010
@@ -79,30 +91,36 @@ w32 00123D9C 90030014
 w32 00123DA0 48000030
 
 name: Spider-Tank Infinite Health
+author: dron_3
 mode: once
 w32 00A4B744 C0230014
 w32 00A4B750 D0230010
 
 name: Drinking Game Freeze Timer
+author: dron_3
 mode: once
 w32 009182FC 60000000
 w32 00924438 D07B0014
 w32 0092B7A4 60000000
 
 name: Freeze ctOS Scanner
+author: dron_3
 mode: once
 w32 0072D948 D39B0038
 
 name: Infinite Focus
+author: Medo
 mode: once
 w32 00125258 60000000
 
 name: Freeze ctOS Scanner
+author: dron_3
 mode: once
 w32 00735EF8 D39B0038
 w32 00735EFC C0240048
 
 name: Drinking Game Freeze Timer
+author: dron_3
 mode: once
 w32 00921AAC 60000000
 w32 00921AB0 C0430000
@@ -112,6 +130,7 @@ w32 00935088 63A30000
 w32 0093508C D05E0408
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 001251E4 3C007F80
 w32 001251E8 90030010
@@ -119,6 +138,7 @@ w32 001251EC 90030014
 w32 001251F0 48000030
 
 name: Spider Tank Infinite Health
+author: dron_3
 mode: once
 w32 00A55724 C0230014
 w32 00A55728 FFE00890
@@ -126,6 +146,7 @@ w32 00A5572C 807D0034
 w32 00A55730 D0230010
 
 name: Infinite Ammo + Items
+author: Medo
 mode: once
 w32 001D4F1C 60000000
 w32 001D4F20 48000008
@@ -136,6 +157,7 @@ w32 001E55E0 3064FFFF
 w32 001E55E4 907F005C
 
 name: Max Money + Skill Points On Spend
+author: Medo
 mode: once
 w32 00478410 3CC005F5
 w32 00478414 60C6E0FF

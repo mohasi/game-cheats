@@ -1,6 +1,7 @@
 # Crysis 2
 
 name: Infinite Health For You
+author: bungholio
 mode: once
 w32 021822E4 C05D0000
 w32 021822E8 3C8002D6
@@ -21,6 +22,7 @@ w32 001AAC80 49FD7664
 w32 001BA0E8 49FC82D8
 
 name: Enemies Die from Any Damage
+author: bungholio
 mode: once
 w32 021822E4 C05D0000
 w32 021822E8 3C8002D6
@@ -46,10 +48,12 @@ w32 001AAC80 49FD7664
 w32 001BA0E4 49FC822C
 
 name: Energy Never Decreases
+author: bungholio
 mode: once
 w32 003B0180 FDA05818
 
 name: Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 w32 0218218C 80690004
 w32 02182190 48000020
@@ -63,6 +67,7 @@ w32 0032CE70 39200000
 w32 0034594C 38000000
 
 name: Reserve Ammo Never Decreases
+author: bungholio
 mode: once
 w32 021821DC 80030000
 w32 021821E0 7F890040
@@ -73,6 +78,7 @@ w32 0218220C 48761E1E
 w32 00761E18 49A203C4
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 02182234 3FE002D6
 w32 02182238 83FF0200
@@ -94,69 +100,84 @@ w32 00FAA338 491D7EFC
 w32 00D51148 49431170
 
 name: Vehicle Health Never Decreases
+author: bungholio
 mode: once
 w32 00811940 D01C0020
 
 name: Max Nano Catalysts And Unlock All Upgrades On Gain
+author: bungholio
 mode: once
 w32 0046B780 3C6005F5
 w32 0046B784 6063E100
 
 name: AoB Enemies Never Attack
+author: bungholio
 mode: once
 aob 419E001080690014809F006C 4800001080690014809F006C
 
 name: Vehicle Health Never Decreases
+author: bungholio
 mode: once
 w32 00811940 60000000
 
 name: Enemies Never Attack
+author: bungholio
 mode: once
 w32 00B9870C 48000010
 
 name: God Mode
+author: dron_3
 mode: once
 w32 001E017C 3BA00001
 w32 001E0180 93A30008
 w32 001E0184 7BE30020
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 00598828 38000001
 w32 0059882C 90090AC0
 
 name: Inventory No Limits
+author: dron_3
 mode: once
 w32 0018FBC0 38000001
 w32 0018FBC4 900904A4
 w32 0018FBC8 48000044
 
 name: Only Player Can Damage Vehicles
+author: dron_3
 mode: once
 w32 008570FC 2F857777
 w32 00857100 409E0084
 
 name: Instant Health Regeneration
+author: dron_3
 mode: once
 w32 001A467C C0090518
 w32 001A4680 C3C90600
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 7BE300202F9D0003419EFFC8 3BA0000193A300087BE30020
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 80090AC02F800000419E0028 80090AC03800000190090AC0
 
 name: AoB Inventory No Limits
+author: dron_3
 mode: once
 aob 800904A42F800000409E0044 38000001900904A448000044
 
 name: AoB Only Player Can Damage Vehicles
+author: dron_3
 mode: once
 aob 8009001C2F800001419E0084 8009001C2F857777409E0084
 
 name: AoB Instant Health Regeneration
+author: dron_3
 mode: once
 aob C00905E0C3C905E8 C0090518C3C90600

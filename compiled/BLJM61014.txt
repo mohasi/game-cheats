@@ -1,70 +1,86 @@
 # Armored Core: Verdict Day
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00CFD080 39290000
 
 name: Infinite Recon
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 0023110C 39290000
 
 name: Infinite Boost Gauge
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00A92494 60000000
 
 name: AoB Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 aob 3929FFFF912300044E80002038630234 39290000912300044E80002038630234
 
 name: AoB Infinite Recon
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 aob 3929FFFF913E023C4BFFFEF0F821FF41 39290000913E023C4BFFFEF0F821FF41
 
 name: AoB Infinite Boost Gauge
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 aob 409E000CED415828D163000480030000 60000000ED415828D163000480030000
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-193.html, jgduff
 mode: once
 aob 7F804800419E000C7D0307B44E80002088030186892B00027F804800409EFFEC88030187892B00037F804800409EFFDC 7F8048003C803B9A6084C9FF9089004088030186892B00027F804800409EFFEC88030187892B00037F804800409EFFDC
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00D0B970 39290000
 
 name: Infinite Recon
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 002325EC 39290000
 
 name: Infinite Boost Gauge
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00AA1024 60000000
 
 name: Max Money
+author: jgduff
 mode: once
 w32 001BD4F4 3C803B9A
 w32 001BD4F8 6084C9FF
 w32 001BD4FC 90890040
 
 name: Max + Infinite Money (AU)
+author: jgduff1
 mode: once
 w32 0024F37C 90090018
 w32 00459DEC 60000000
 w32 00459DF0 9009F8A4
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00D0B0A8 39290000
 
 name: Infinite Recon
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 0023208C 39290000
 
 name: Infinite Boost Gauge
+author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 w32 00AA075C 60000000
 
 name: Max Money
+author: jgduff
 mode: once
 w32 001BCF94 3C803B9A
 w32 001BCF98 6084C9FF

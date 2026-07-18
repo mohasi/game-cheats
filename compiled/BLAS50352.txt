@@ -1,23 +1,28 @@
 # Call of Juarez: The Cartel
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 00C841EC 60000000
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 00B8FE50 7CAE2810
 w32 00B8FE54 60000000
 
 name: Instant Max + Infinite Bullet Time After You Gain Full Bar 1 Time
+author: jgduff1
 mode: once
 w32 00B4C9A4 60000000
 
 name: Instant Max Bullet Time On 1 Hit
+author: jgduff1
 mode: once
 w32 00B4CD30 EC3FF03A
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00B6E7A0 60000000
 w32 00B7ED7C 60000000
@@ -27,11 +32,13 @@ w32 00BC945C 60000000
 w32 00BC9460 60000000
 
 name: Max Level On Gain
+author: jgduff1
 mode: once
 w32 00BDA210 7CA0F814
 w32 00BDA218 9003003C
 
 name: Infinite Grenades
+author: jgduff1
 mode: once
 w32 0046E418 60000000
 w32 007107F8 60000000
@@ -42,11 +49,13 @@ w32 01296200 B2890000
 w32 0129A2A0 60000000
 
 name: Developer Menu
+author: dron_3
 mode: once
 w32 00614E70 38800001
 w32 00614E74 98830AAD
 w32 00614E78 60000000
 
 name: AoB Developer Menu
+author: dron_3
 mode: once
 aob 88630AAD2C0300004182002480BE0000 3880000198830AAD6000000080BE0000

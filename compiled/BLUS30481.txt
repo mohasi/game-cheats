@@ -1,10 +1,12 @@
 # NieR
 
 name: Max EXP
+author: Skiller
 mode: once
 w32 0046F8FC 60000000
 
 name: Infinite Money HP + MP + All Items
+author: Skiller
 mode: once
 w32 003B2FF4 3F000379
 w32 003B2FF8 6318E490
@@ -39,6 +41,7 @@ w32 003B3068 48376358
 w32 007293BC 4BC89C38
 
 name: Infinite Hp Only
+author: GuitarMan
 mode: once
 w32 00FAC43C 80428490
 w32 00FAC440 80428000
@@ -52,16 +55,19 @@ w32 00FAC45C 48541B4E
 w32 00541B48 48FAC43E
 
 name: Infinite Mp Only
+author: GuitarMan
 mode: once
 w32 00458CA4 60000000
 w32 00458D1C 60000000
 w32 00458D38 D0090008
 
 name: MP Fast Regeneration
+author: GuitarMan
 mode: once
 w32 0028BE6C 38000001
 
 name: Toggle Invincibility With L3
+author: GuitarMan
 mode: once
 w32 00FB02B8 3D2004D7
 w32 00FB02BC 9389FFFC
@@ -91,49 +97,59 @@ w32 00104AD4 48FB02CA
 w32 00729014 48FB02BA
 
 name: Infinite Jumps
+author: GuitarMan
 mode: once
 w32 00249B1C 39290000
 w32 0024A364 39290000
 
 name: Have Healing Items And Use For Free
+author: GuitarMan
 mode: once
 w32 003C3348 60000000
 w32 003C6AAC 60000000
 
 name: Max Gold On Buy Or Sell
+author: GuitarMan
 mode: once
 w32 003B44AC 48000038
 
 name: Buy Without Gold
+author: GuitarMan
 mode: once
 w32 00527D80 60000000
 w32 00527F7C 60000000
 
 name: Total Play Time 00:00
+author: GuitarMan
 mode: once
 w32 00711B7C EC000028
 
 name: Attack Maxed Out
+author: GuitarMan
 mode: once
 w32 0045A5BC 3F80000F
 w32 0058E240 3F40000F
 
 name: Defense Maxed Out
+author: GuitarMan
 mode: once
 w32 004585BC 38007FFF
 w32 0058E228 38007FFF
 
 name: Magic Attack Maxed Out
+author: GuitarMan
 mode: once
 w32 0045A97C 3F80000F
 w32 0058E220 3D20000F
 
 name: Magic Defense Maxed Out
+author: GuitarMan
 mode: once
 w32 00458534 38007FFF
 w32 0058E23C 38007FFF
 
 name: Have All Magics
+author: GuitarMan
 mode: once
 w32 005685E0 38000001
 w32 00565D08 38000001
@@ -141,6 +157,7 @@ w32 003A3904 38600001
 w32 003B9ED4 39200001
 
 name: Have All Weapons
+author: GuitarMan
 mode: once
 w32 003B2A84 38000000
 w32 003A6F00 38800000

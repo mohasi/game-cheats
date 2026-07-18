@@ -1,16 +1,19 @@
 # Dragon Ball Z: Burst Limit
 
 name: 60 FPS (RPCS3)
+author: RPCS3, illusion
 mode: once
 w32 001622DC 60000000
 w32 0016349C 60000000
 
 name: 60 FPS (PSXPlace)
+author: RPCS3, illusion
 mode: once
 w32 001622DC 60000000
 w32 0016349C 60000000
 
 name: Infinite Health + Ki
+author: Hiei-YYH
 mode: once
 w32 0039B980 2C190000
 w32 0039B984 40820014
@@ -23,16 +26,19 @@ w32 0039B99C 4E800020
 w32 0008F5A0 4830C3E1
 
 name: 60 FPS (RPCS3)
+author: RPCS3, illusion
 mode: once
 w32 00162228 60000000
 w32 001633E8 60000000
 
 name: 60 FPS (PSXPlace)
+author: RPCS3, illusion
 mode: once
 w32 00162228 60000000
 w32 001633E8 60000000
 
 name: 60 FPS Cutscenes Only
+author: PSXPlace
 mode: once
 w8 004C4383 01
 w16 001633E8 6000

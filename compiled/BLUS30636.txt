@@ -1,30 +1,36 @@
 # Venetica
 
 name: Gain Any XP To Level Up, Easy Leveling
+author: bungholio
 mode: once
 w32 0009FAA0 48000018
 
 name: Level Up For Insanely High Constitution
+author: bungholio
 mode: once
 w32 0009FB08 3CE01000
 w32 0009FB0C 60E70000
 
 name: Level Up For Insanely High Wisdom
+author: bungholio
 mode: once
 w32 0009FB24 3CC03000
 w32 0009FB28 60C60000
 
 name: Level Up For Insanely High Strength
+author: bungholio
 mode: once
 w32 0009FB3C 3CC07FFF
 w32 0009FB40 60C6FFFF
 
 name: Level Up For Insanely High Mental Power
+author: bungholio
 mode: once
 w32 0009FB58 3C607FFF
 w32 0009FB5C 6063FFFF
 
 name: Level Up To Set Many Things
+author: bungholio
 mode: once
 w32 0009FB04 3C601000
 w32 0009FB08 60630000
@@ -52,25 +58,31 @@ w32 0009FB5C 3C60447A
 w32 0009FB60 907F0048
 
 name: AoB Gain Any XP To Level Up, Easy Leveling
+author: bungholio
 mode: once
 aob FC01F80041800018 FC01F80048000018
 
 name: AoB Level Up For Insanely High Constitution
+author: bungholio
 mode: once
 aob 807F002C4080000861070000 807F002C3CE0100060E70000
 
 name: AoB Level Up For Insanely High Wisdom
+author: bungholio
 mode: once
 aob 280700504080000860E60000 280700503CC0300060C60000
 
 name: AoB Level Up For Insanely High Strength
+author: bungholio
 mode: once
 aob 608600004080000860A60000 608600003CC07FFF60C6FFFF
 
 name: AoB Level Up For Insanely High Mental Power
+author: bungholio
 mode: once
 aob 280600504080000860C30000 280600503C607FFF6063FFFF
 
 name: AoB Level Up To Set Many Things
+author: bungholio
 mode: once
 aob 807F002C408000086107000060C8000090FF00206086000030E80001280700504080000860E6000030A5000190DF002428050050608600004080000860A600006065000090DF00286083000030C50001280600504080000860C30000907F002C 3C60100060630000907F00203C60300060630000907F00243C607FFF3C607FFF907F00283C607FFF6063FFFF907F002C3860EA60907F00303860EA60907F00383860EA60907F003C3C600000907F0058386003E8907F00503C60447A907F0048

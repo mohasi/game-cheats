@@ -1,99 +1,123 @@
 # Shin Sangoku Musou 6 Empires
 
 name: Combo 9,999
+author: games24.blog.fc2.com/blog-entry-67.html
 mode: once
 w32 00144DFC 2B8B0000
 
 name: 9,999 KOs
+author: games24.blog.fc2.com/blog-entry-69.html
 mode: once
 w32 00257F14 2F890000
 
 name: 999 Additional Resources (Food, Information, Gold)
+author: games24.blog.fc2.com/blog-entry-70.html
 mode: once
 w32 002DA448 2B830000
 
 name: Additional Achievement 99,999
+author: games24.blog.fc2.com/blog-entry-71.html
 mode: once
 w32 002D72C8 60000000
 
 name: Additional Year Before Proceeding Does Not Change
+author: games24.blog.fc2.com/blog-entry-72.html
 mode: once
 w32 002E818C 60000000
 
 name: Year Before Change Decrease
+author: games24.blog.fc2.com/blog-entry-72.html
 mode: once
 w32 002E818C 7C040050
 
 name: AoB Combo 9,999
+author: games24.blog.fc2.com/blog-entry-67.html
 mode: once
 aob 2B8B270F409D000C3800270F 2B8B0000409D000C3800270F
 
 name: AoB 9,999 KOs
+author: games24.blog.fc2.com/blog-entry-69.html
 mode: once
 aob 2F89270FFB210558FB410560FB610568 2F890000FB210558FB410560FB610568
 
 name: AoB 999 Additional Resources (Food, Information, Gold)
+author: games24.blog.fc2.com/blog-entry-70.html
 mode: once
 aob 2B8303E7409D0008386003E778630020 2B830000409D0008386003E778630020
 
 name: AoB Additional Achievement 99,999
+author: games24.blog.fc2.com/blog-entry-71.html
 mode: once
 aob 409D00087C0303787C6018F87C00FE70 600000007C0303787C6018F87C00FE70
 
 name: AoB Additional Year Before Proceeding Does Not Change
+author: games24.blog.fc2.com/blog-entry-72.html
 mode: once
 aob 7C0022142F8000007C0903782F00270F 600000002F8000007C0903782F00270F
 
 name: AoB Year Before Change Decrease
+author: games24.blog.fc2.com/blog-entry-72.html
 mode: once
 aob 7C0022142F8000007C0903782F00270F 7C0400502F8000007C0903782F00270F
 
 name: SP 99,999 While Changing
+author: CodeUnique3
 mode: once
 w32 002D7C48 90030A50
 
 name: Food Gold 999
+author: CodeUnique3
 mode: once
 w32 002DA020 38A003E7
 
 name: Fame Max
+author: CodeUnique3
 mode: once
 w32 002D6CC0 60000000
 
 name: Military 9,999
+author: CodeUnique3
 mode: once
 w32 002D6D8C 3860270F
 w32 002D6DA4 3860270F
 
 name: Merit 99,999
+author: CodeUnique3
 mode: once
 w32 002D6E78 60000000
 
 name: Player 9999 KO In Battle
+author: CodeUnique3
 mode: once
 w32 00257B50 60000000
 
 name: SP 99,999 While Changing
+author: CodeUnique3
 mode: once
 w32 002D8BB8 90030A50
 
 name: Food Gold 999
+author: CodeUnique3
 mode: once
 w32 002DAF6C 38A003E7
 
 name: Fame Max
+author: CodeUnique3
 mode: once
 w32 002D7BAC 60000000
 
 name: Military 9,999
+author: CodeUnique3
 mode: once
 w32 002D7C78 3860270F
 w32 002D7C90 3860270F
 
 name: Merit 99,999
+author: CodeUnique3
 mode: once
 w32 002D7D64 60000000
 
 name: Player 9999 KO In Battle
+author: CodeUnique3
 mode: once
 w32 00258A0C 60000000

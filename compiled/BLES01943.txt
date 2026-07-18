@@ -1,6 +1,7 @@
 # Angry Birds Star Wars
 
 name: 100,000 Score
+author: CMbl4
 mode: once
 w32 001C8668 60000000
 w32 0076D67C 000186A0
@@ -8,5 +9,6 @@ w32 001C8828 60000000
 w32 007ACF00 000186A0
 
 name: 100 Falcons
+author: CMbl4
 mode: once
 w32 00F60164 00000064

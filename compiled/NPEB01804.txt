@@ -1,6 +1,7 @@
 # Diablo III
 
 name: Infinite HP, Spirit, Fast Level Up
+author: Hiei-YYH
 mode: once
 w32 00CA170C 2C1D0628
 w32 00CA1710 40820008
@@ -16,6 +17,7 @@ w32 00CA1734 4B7C4F44
 w32 00466674 4883B098
 
 name: Infinite HP (Player Only)
+author: Hiei-YYH
 mode: once
 w32 007233B0 38600001
 w32 007233C4 4BC7B459
@@ -30,6 +32,7 @@ w32 00CC2EB4 4E800020
 w32 003B2618 48910891
 
 name: Infinite HP (Player + Partner)
+author: Hiei-YYH
 mode: once
 w32 00CC2EA8 3C8047C3
 w32 00CC2EAC 909E0114
@@ -38,6 +41,7 @@ w32 00CC2EB4 4E800020
 w32 003B2618 48910891
 
 name: Infinite Ability Gauge
+author: Hiei-YYH
 mode: once
 w32 00CC2EF0 7C63E82E
 w32 00CC2EF4 2C050086
@@ -60,6 +64,7 @@ w32 00CC2F34 4E800020
 w32 004563A0 48874CE1
 
 name: Max Gold + Items On Gain Or Sell
+author: Hiei-YYH
 mode: once
 w32 00CC2F38 2C1E03E8
 w32 00CC2F3C 40820008
@@ -70,10 +75,12 @@ w32 00CC2F4C 4E800020
 w32 003B43A0 48916D39
 
 name: Can Buy Without Gold
+author: Hiei-YYH
 mode: once
 w32 003B172C 3BE00000
 
 name: 99 Items (need at least 2 items)
+author: Hiei-YYH
 mode: once
 w32 00CA77C0 3B000000
 w32 00CA77C4 3B18F000
@@ -90,6 +97,7 @@ w32 00CA77EC 4B7BF1E0
 w32 004669C8 48840DF8
 
 name: Multiple Cheats
+author: Hiei-YYH
 mode: once
 w32 00CD3AE4 93C30008
 w32 00CD3AE8 4B792B90
@@ -150,63 +158,78 @@ w32 00CD3BC0 4BFFFF24
 w32 00466674 4886D478
 
 name: Disable Strength
+author: Hiei-YYH
 mode: once
 w32 00CD3B00 60000000
 
 name: Disable Dexterity
+author: Hiei-YYH
 mode: once
 w32 00CD3B0C 60000000
 
 name: Disable Intelligence
+author: Hiei-YYH
 mode: once
 w32 00CD3B18 60000000
 
 name: Disable Vitality
+author: Hiei-YYH
 mode: once
 w32 00CD3B24 60000000
 
 name: Disable Gold Find
+author: Hiei-YYH
 mode: once
 w32 00CD3B30 60000000
 
 name: Disable Magic Find
+author: Hiei-YYH
 mode: once
 w32 00CD3B3C 60000000
 
 name: Disable Level Up
+author: Hiei-YYH
 mode: once
 w32 00CD3B48 60000000
 w32 00CD3B54 60000000
 
 name: Disable HP
+author: Hiei-YYH
 mode: once
 w32 00CD3B68 60000000
 
 name: Disable Mana
+author: Hiei-YYH
 mode: once
 w32 00CD3B74 60000000
 
 name: Disable Fury
+author: Hiei-YYH
 mode: once
 w32 00CD3B8C 60000000
 
 name: Disable Spirit
+author: Hiei-YYH
 mode: once
 w32 00CD3B98 60000000
 
 name: Disable Hatred
+author: Hiei-YYH
 mode: once
 w32 00CD3BA4 60000000
 
 name: Disable Discipline
+author: Hiei-YYH
 mode: once
 w32 00CD3BB0 60000000
 
 name: Disable Speed of Movement
+author: Hiei-YYH
 mode: once
 w32 00CD3BBC 60000000
 
 name: 99 Items (need at least 2 items)
+author: Hiei-YYH
 mode: once
 w32 00CDC308 3B000000
 w32 00CDC30C 3B18F000
@@ -223,6 +246,7 @@ w32 00CDC334 4B78B940
 w32 00467C70 48874698
 
 name: Multiple Cheats (See Info Below)
+author: Hiei-YYH
 mode: once
 w32 00CDC2C0 8B030007
 w32 00CDC2C4 2C180086
@@ -280,70 +304,87 @@ w32 0046791C 488749A4
 w32 00467C70 48874698
 
 name: Disable Strength
+author: Hiei-YYH
 mode: once
 w32 00CDCF38 60000000
 
 name: Disable Dexterity
+author: Hiei-YYH
 mode: once
 w32 00CDCF44 60000000
 
 name: Disable Intelligence
+author: Hiei-YYH
 mode: once
 w32 00CDCF50 60000000
 
 name: Disable Vitality
+author: Hiei-YYH
 mode: once
 w32 00CDCF5C 60000000
 
 name: Disable Gold Find
+author: Hiei-YYH
 mode: once
 w32 00CDCF68 60000000
 
 name: Disable Magic Find
+author: Hiei-YYH
 mode: once
 w32 00CDCF74 60000000
 
 name: Disable Level Up
+author: Hiei-YYH
 mode: once
 w32 00CDCF80 60000000
 
 name: Disable Level Up
+author: Hiei-YYH
 mode: once
 w32 00CDCF8C 60000000
 
 name: Disable HP
+author: Hiei-YYH
 mode: once
 w32 00CDCFA0 60000000
 
 name: Disable Mana
+author: Hiei-YYH
 mode: once
 w32 00CDCFAC 60000000
 
 name: Disable Arcane Power
+author: Hiei-YYH
 mode: once
 w32 00CDCFB8 60000000
 
 name: Disable Fury
+author: Hiei-YYH
 mode: once
 w32 00CDCFC4 60000000
 
 name: Disable Spirit
+author: Hiei-YYH
 mode: once
 w32 00CDCFD0 60000000
 
 name: Disable Hatred
+author: Hiei-YYH
 mode: once
 w32 00CDCFDC 60000000
 
 name: Disable Discipline
+author: Hiei-YYH
 mode: once
 w32 00CDCFE8 60000000
 
 name: Disable Speed Of Movement
+author: Hiei-YYH
 mode: once
 w32 00CDCFF4 60000000
 
 name: Infinite HP (Player Only)
+author: Hiei-YYH
 mode: once
 w32 00734C70 38600001
 w32 00734C98 807D0110
@@ -356,6 +397,7 @@ w32 00CDC2EC 4E800020
 w32 003C38B0 48918A31
 
 name: Infinite HP (Player + Partner)
+author: Hiei-YYH
 mode: once
 w32 00CDC2E0 3C804F1C
 w32 00CDC2E4 909E0114
@@ -364,6 +406,7 @@ w32 00CDC2EC 4E800020
 w32 003C38B0 48918A31
 
 name: Infinite Ability Gauge
+author: Hiei-YYH
 mode: once
 w32 00CDC328 7C63E82E
 w32 00CDC32C 2C050086
@@ -386,6 +429,7 @@ w32 00CDC36C 4E800020
 w32 00467648 48874CE1
 
 name: Max Gold + Items On Gain Or Sell
+author: Hiei-YYH
 mode: once
 w32 00CDC370 2C1E03E8
 w32 00CDC374 40820008
@@ -396,6 +440,7 @@ w32 00CDC384 4E800020
 w32 003C5638 48916D39
 
 name: Max Stats And No Skill Cooldown Time
+author: Hiei-YYH
 mode: once
 w32 00CDC3F0 38841000
 w32 00CDC3F4 2C04000D
@@ -438,6 +483,7 @@ w32 00CDC484 4B78AA70
 w32 00466EF0 48875500
 
 name: Infinite Weapon Durability
+author: Hiei-YYH
 mode: once
 w32 00CDC488 38051000
 w32 00CDC48C 2C00013C

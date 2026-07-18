@@ -1,14 +1,17 @@
 # Spider-Man: Web of Shadows
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00C113F8 82090008
 w32 00C11404 92090000
 
 name: Max Hit Combo
+author: Randy97Killa
 mode: once
 w32 005FB384 60000000
 
 name: Combo Timer Never Breaks
+author: Randy97Killa
 mode: once
 w32 0069765C EC3FF82A

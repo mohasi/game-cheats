@@ -1,31 +1,38 @@
 # Assassin's Creed II
 
 name: Money 999999
+author: xtatu
 mode: once
 w32 00A3BFAC 60000000
 w32 00A45ACC 913F0010
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 006100D0 801F005C
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 00609174 60000000
 
 name: Infinite Money
+author: xtatu
 mode: once
 w32 00A4C27C 60000000
 
 name: AoB Infinite Health
+author: xtatu
 mode: once
 aob 801F00587FC3F378900900084BFFFDD52F9D0000419C0168801F006C 600000007FC3F378900900084BFFFDD52F9D0000419C0168801F006C
 
 name: AoB Infinite Money
+author: xtatu
 mode: once
 aob 7C1E005038600001901F00104BFFFF80396300047C0802A6F821FF81 6000000038600001901F00104BFFFF80396300047C0802A6F821FF81
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 00609130 60000000
 w32 00609134 60000000
@@ -36,28 +43,34 @@ w32 00609190 60000000
 w32 0060919C 60000000
 
 name: Lot Of Money On Gain
+author: jgduff1
 mode: once
 w32 00A4C284 60000000
 w32 00A548AC 915F0010
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 0060F94C 801F005C
 
 name: Money 999999
+author: xtatu
 mode: once
 w32 00A3B2F4 60000000
 w32 00A4539C 913F0010
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 00607A14 60000000
 
 name: Infinite Money
+author: xtatu
 mode: once
 w32 00A4ABE4 60000000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 006079D0 60000000
 w32 006079D4 60000000
@@ -68,6 +81,7 @@ w32 00607A30 60000000
 w32 00607A3C 60000000
 
 name: Lot Of Money On Gain
+author: jgduff1
 mode: once
 w32 00A4ABF4 60000000
 w32 00A55F44 915F0010

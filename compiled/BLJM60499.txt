@@ -1,13 +1,16 @@
 # Assassin's Creed I + II Welcome Pack
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 00939404 60000000
 
 name: Infinite Money + Items
+author: games24.blog.fc2.com/blog-entry-167.html
 mode: once
 w32 0047F350 7C090378
 
 name: AoB Infinite Money + Items
+author: games24.blog.fc2.com/blog-entry-167.html
 mode: once
 aob 7D240050419C000C3960000191230010 7C090378419C000C3960000191230010

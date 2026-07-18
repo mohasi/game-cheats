@@ -1,56 +1,69 @@
 # Pro Yakyuu Spirits 2013
 
 name: Strike Count Does Not Increase
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 002A2358 7CA42B78
 
 name: Ball Count Does Not Increase
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 002A237C 7CA42B78
 
 name: 9999 Total Points
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 005D1F30 38A0270F
 
 name: Outs Do Not Increase
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 002A23A0 7CA42B78
 
 name: 9999 Spirits
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 0067D258 3880270F
 
 name: 999,999 VP
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 0039B874 3C80000F
 w32 0039B878 6084423F
 w32 006A0F98 2C040000
 
 name: Money Management 999,999
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AF9B0 3C8005F5
 w32 006AF9BC 6084E0FF
 
 name: 255 Confidence
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006ACDB0 388000FF
 
 name: 255 Human Resource Ability
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AC49C 388000FF
 
 name: 255 Dexterity
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AC3F4 388000FF
 
 name: 255 Strength
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AC95C 388000FF
 
 name: 255 Movement Power
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AC4F0 388000FF
 
 name: 255 Economic Strength
+author: games24.blog.fc2.com/blog-entry-143.html
 mode: once
 w32 006AC448 388000FF

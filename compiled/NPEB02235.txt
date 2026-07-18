@@ -1,22 +1,27 @@
 # Tales of Zestiria
 
 name: 99,999,999 Gald
+author: arek
 mode: once
 w32 11A585F0 05F5E0FF
 
 name: Max Money
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0017BF90 90C30000
 
 name: Max Items On Change Or Use
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 001D1DB4 7F45F92E
 
 name: Items Do Not Reduce From Selling Or Fusion
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 w32 001CD888 60000000
 
 name: Do Not Need Keys To Open Treasure Chests
+author: Hiei-YYH ported by solidsnake
 mode: once
 w32 0043AD60 2C030000
 w32 0043AD64 41810008
@@ -25,58 +30,72 @@ w32 0043AD6C 4BD968A4
 w32 001D15C4 4826979C
 
 name: Instant Max Level On Exp Change
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 0018DFD4 9083001C
 
 name: AP 999
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 w32 0017D09C 3B0003E7
 
 name: Burst Gauge Max
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 00188D2C 90E60014
 
 name: Instant Master Skill on Use
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 00191E3C 60000000
 
 name: Easy Title Mastery
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 0017EB98 60000000
 
 name: Instant Title Master
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 0016D3D8 60000000
 
 name: Max Equip Proficiency
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 001CE50C 60000000
 
 name: Faster Support Skill Mastery
+author: Hiei-YYH ported by solidsnake
 mode: once
 w32 001B1270 EC221028
 
 name: Instant Learn Battle Actions
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 0017D684 41810008
 
 name: Instant Activate Support Skill
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 000D95CC 30830000
 
 name: Infinite WindStepping Skill
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 001AFF98 FC201090
 
 name: Luring Skill Instant Max Kills
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 w32 001651D0 41810008
 
 name: Infinite Fusion Points Support Skill
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 w32 001ADD18 41810008
 
 name: Infinite Health + SC
+author: Hiei-YYH ported by solidsnake
 mode: once
 w32 01873B00 3DE01300
 w32 01873B04 7C037840
@@ -110,6 +129,7 @@ w32 001889F0 496EB140
 w32 00188B64 496EAF9C
 
 name: Equips Benefit All Mods
+author: Hiei-YYH
 mode: once
 w32 0015DA58 3C60FFFF
 w32 0015DA5C 6063FFFF
@@ -117,6 +137,7 @@ w32 0015DA60 48000008
 w32 0015DA64 80A40000
 
 name: Ability Upgrade +32
+author: Hiei-YYH
 mode: once
 w32 001894AC 33C30020
 w32 001895F8 30660020
@@ -125,6 +146,7 @@ w32 0018988C 30660020
 w32 001899D4 33C30020
 
 name: Ability Upgrade +2000
+author: Hiei-YYH
 mode: once
 w32 001894AC 3BC007D0
 w32 001895F8 386007D0
@@ -133,6 +155,7 @@ w32 0018988C 386007D0
 w32 001899D4 3BC007D0
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 017CFFF0 80630000
 w32 017CFFF4 3880270F
@@ -141,227 +164,283 @@ w32 017CFFFC 4A9B88F8
 w32 001888F0 49647700
 
 name: AoB Max Money
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 aob 90A300004E8000208063000880630048 90C300004E8000208063000880630048
 
 name: AoB Max Items On Change Or Use
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 aob 7C85F92E7C8320004C42234241820010 7F45F92E7C8320004C42234241820010
 
 name: AoB Items Do Not Reduce From Selling Or Fusion
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 aob 7C1AD80040800008635B0000637C0000 7C1AD80060000000635B0000637C0000
 
 name: AoB Do Not Need Keys To Open Treasure Chests
+author: Hiei-YYH ported by solidsnake
 mode: once
 aob 382100C04E80002000000000000000000000000000000000 382100C04E8000202C03000041810008386000014BD968A4
 aob 7C6307B4480000104BFFFEDD7C630034 7C6307B44826979C4BFFFEDD7C630034
 
 name: AoB Instant Max Level On Exp Change
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 9243001CE80101407C0803A6CB410100 9083001CE80101407C0803A6CB410100
 
 name: AoB AP 999
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 aob 7C1AC000930418584080004438600557 3B0003E7930418584080004438600557
 
 name: AoB Burst Gauge Max
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 91460014408000086145000078A426E4 90E60014408000086145000078A426E4
 
 name: AoB Instant Master Skill on Use
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 4081000838C02706308400E890C70000 6000000038C02706308400E890C70000
 
 name: AoB Easy Title Mastery
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 408100083BA0001463BC000093830008E80100B07C0803A6 600000003BA0001463BC000093830008E80100B07C0803A6
 
 name: AoB Instant Title Master
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 83E100F42C1F00009061012C4182005457E307FE2C0300004082003857FF003C83FF00002C1F000041820028 83E100F42C1F00009061012C4182005457E307FE2C0300004082003857FF003C83FF00002C1F000060000000
 
 name: AoB Max Equip Proficiency
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 7C1C28004081000860BC000063850000 7C1C28006000000060BC000063850000
 
 name: AoB Faster Support Skill Mastery
+author: Hiei-YYH ported by solidsnake
 mode: once
 aob D03B0004C0430000FC01100041810238 EC221028C0430000FC01100041810238
 
 name: AoB Instant Learn Battle Actions
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 60A5967F7C03280040810008 60A5967F7C03280041810008
 
 name: AoB Instant Activate Support Skill
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 3083FFFF63C300007C8407B4480A303D 3083000063C300007C8407B4480A303D
 
 name: AoB Infinite WindStepping Skill
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 38A5FF24C0430004EC220828C0450000 38A5FF24C0430004FC201090C0450000
 
 name: AoB Luring Skill Instant Max Kills
+author: bbs.duowan.com/thread-42161227-1-1.html
 mode: once
 aob 2C0300C840810008386000C890650004 2C0300C841810008386000C890650004
 
 name: AoB Infinite Fusion Points Support Skill
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 aob 40810008388000C86085000080630008 41810008388000C86085000080630008
 
 name: Sleigh Garde Max
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B0030 3B9AC9FF
 
 name: Sleigh HP
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B494C 0000270F
 
 name: Sleigh Offensive Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B4958 0000270F
 
 name: Sleigh Defense Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B495C 0000270F
 
 name: Sleigh Surgical Attack Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B4960 0000270F
 
 name: Sleigh Operative Defense Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B4964 0000270F
 
 name: Sleigh Concentration
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B4968 0000270F
 
 name: Rose HP
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C7C 0000270F
 
 name: Rose Offensive Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C88 0000270F
 
 name: Rose Defense Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C8C 0000270F
 
 name: Rose Surgical Attack Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C90 0000270F
 
 name: Rose Operative Defense Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C94 0000270F
 
 name: Rose Concentration
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127B8C98 0000270F
 
 name: Edna HP
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C86FC 0000270F
 
 name: Edna Offensive Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C8708 0000270F
 
 name: Edna Defense Power
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C870C 0000270F
 
 name: Edna Surgical Attack Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C8710 0000270F
 
 name: Edna Operative Defense Force
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C8714 0000270F
 
 name: Edna Concentration
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 127C8718 0000270F
 
 name: Merongumi 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E23 0F
 
 name: Elk Seal 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E2B 0F
 
 name: Hour Glass 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E3B 0F
 
 name: Shark Bottle 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E3F 0F
 
 name: Arcana Bottle 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E43 0F
 
 name: Red Sage 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E67 0F
 
 name: Red Lavender 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E6B 0F
 
 name: Red Bell Base Over Nu 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E6F 0F
 
 name: Red Rose Marie 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E73 0F
 
 name: Red Saffron 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E77 0F
 
 name: Red Chamomile 15
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w8 125E3E7B 0F
 
 name: Max Items On Change Or Use
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 001D1DB4 7F45F92E
 
 name: Instant Master Skill on Use
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 00191E3C 60000000
 
 name: Max Equip Proficiency
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 001CE50C 60000000
 
 name: Infinite Fusion Points Support Skill
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 w32 001ADD18 41810008
 
 name: 999 Combos After Battle
+author: tekman
 mode: once
 w32 000FAD6C 388003E7
 
 name: Battle Time = 00 00 00
+author: tekman
 mode: once
 w32 000E4608 60000000
 
 name: AoB 999 Combos After Battle
+author: tekman
 mode: once
 aob 4BF8931960000000809C002880840248 4BF8931960000000809C0028388003E7
 
 name: AoB Battle Time = 00 00 00
+author: tekman
 mode: once
 aob C043008CEC22082AD023008C4E800020 C043008CEC22082A600000004E800020
 
 name: Invincibility For You Only
+author: bungholio
 mode: once
 w32 017D5E00 81030028
 w32 017D5E04 80080028
@@ -381,6 +460,7 @@ w32 017D5E38 480F5F6E
 w32 000F5F68 497D5E02
 
 name: Invincibility For You And Allies
+author: bungholio
 mode: once
 w32 017D5E00 81030028
 w32 017D5E04 80080028
@@ -391,6 +471,7 @@ w32 017D5E14 480F5F6E
 w32 000F5F68 497D5E02
 
 name: HP Always Full For You Only
+author: bungholio
 mode: once
 w32 0183EDE0 3CA0019C
 w32 0183EDE4 80A53F00
@@ -409,6 +490,7 @@ w32 0183EE14 48188A12
 w32 00188A0C 4983EDE2
 
 name: HP Always Full For You And Allies
+author: bungholio
 mode: once
 w32 0183EDE0 38A00008
 w32 0183EDE4 7CA903A6
@@ -427,6 +509,7 @@ w32 0183EE14 48188A12
 w32 00188A0C 4983EDE2
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 0183EDE0 38A00008
 w32 0183EDE4 7CA903A6
@@ -444,10 +527,12 @@ w32 0183EE10 4E800020
 w32 00188A10 4979E902
 
 name: Spirit Chain Always Full For Everything
+author: bungholio
 mode: once
 w32 00188B64 D0430010
 
 name: Spirit Chain Always Full For You Only
+author: bungholio
 mode: once
 w32 0183EF40 3D20019C
 w32 0183EF44 81293F00
@@ -466,6 +551,7 @@ w32 0183EF74 48188B6A
 w32 00188B64 4983EF42
 
 name: Spirit Chain Always Full For You And Allies
+author: bungholio
 mode: once
 w32 0183EF40 39200008
 w32 0183EF44 7D2903A6
@@ -484,6 +570,7 @@ w32 0183EF74 48188B6A
 w32 00188B64 4983EF42
 
 name: Spirit Chain Always Empty For All Enemies
+author: bungholio
 mode: once
 w32 0183FBF0 39200008
 w32 0183FBF4 7D2903A6
@@ -501,6 +588,7 @@ w32 0183FC20 4E800020
 w32 00188B68 4983FBF2
 
 name: Spirit Chain Always Empty For Your Allies
+author: bungholio
 mode: once
 w32 0183FBF0 39200008
 w32 0183FBF4 7D2903A6
@@ -524,6 +612,7 @@ w32 0183FC38 4E800020
 w32 00188B68 4983FBF2
 
 name: Spirit Chain Always Empty For Everything Except You
+author: bungholio
 mode: once
 w32 0183FBF0 3D20019C
 w32 0183FBF4 81293F00
@@ -542,6 +631,7 @@ w32 0183FC24 4E800020
 w32 00188B68 4983FBF2
 
 name: Status Effects Never Apply To You Only
+author: bungholio
 mode: once
 w32 0183FD60 83FEFDB8
 w32 0183FD64 2B9F0000
@@ -561,6 +651,7 @@ w32 0183FD98 48118DB2
 w32 00118DAC 4983FD62
 
 name: Status Effects Never Apply To You Or Allies
+author: bungholio
 mode: once
 w32 0183FD84 83FEFDB8
 w32 0183FD88 2B9F0000
@@ -571,26 +662,32 @@ w32 0183FD98 48118DB2
 w32 00118DAC 4983FD86
 
 name: Blast Gauge Meter Instantly Fully Refills
+author: bungholio
 mode: once
 w32 00188C38 60000000
 
 name: Blast Gauge Uses Full On Change
+author: bungholio
 mode: once
 w32 00188D1C 60000000
 
 name: Multiple Strikes Per Hit
+author: bungholio
 mode: once
 w32 00060500 EC210828
 
 name: Enemies Always Drop Items After Battle
+author: bungholio
 mode: once
 w32 000FA3CC 7F800000
 
 name: Max Gald On Change
+author: bungholio
 mode: once
 w32 0017BF84 60000000
 
 name: Have At Least 1 Of Each Gel, Snack, Valuable, And Fashion Item
+author: bungholio
 mode: once
 w32 0179ED24 7C03202E
 w32 0179ED28 2B800000
@@ -602,144 +699,178 @@ w32 0179ED3C 481D15C2
 w32 001D15BC 4979ED26
 
 name: Battle Combos Never Decrease
+author: bungholio
 mode: once
 w32 0010D0D8 60000000
 
 name: Battle Max Max Damage
+author: bungholio
 mode: once
 w32 00063A18 3FBD3B9A
 w32 00063A44 63B8C9FF
 
 name: Battle Time Never Increases
+author: bungholio
 mode: once
 w32 000CFE70 EC210828
 
 name: Max Exp And Title Proficiency On Gain
+author: bungholio
 mode: once
 w32 0018D9A0 60000000
 
 name: Max Shop Rank On Increase
+author: bungholio
 mode: once
 w32 001A2F38 60000000
 
 name: Max Artes Proficiency On Increase
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 00191E3C 60000000
 
 name: Max Equipment Proficiency On Increase
+author: bbs.duowan.com/thread-42161227-1-1.html, bungholio
 mode: once
 w32 001CE50C 60000000
 
 name: Max Support Talent Proficiency On Increase
+author: bungholio
 mode: once
 w32 001AD3D8 60000000
 
 name: All Equipment Have Full Skill Sheet
+author: bungholio
 mode: once
 w32 0018B4DC 60000000
 
 name: 99 Equipment Skills
+author: bungholio
 mode: once
 w32 0018AD98 60000000
 
 name: Max Total Play Time
+author: bungholio
 mode: once
 w32 001804E4 60000000
 
 name: Max Current Play Time
+author: bungholio
 mode: once
 w32 001804F8 60000000
 
 name: Activate All Normal Boons At Once
+author: bungholio
 mode: once
 w32 0015D8A4 60000000
 
 name: Activate All Possible Boons At Once
+author: bungholio
 mode: once
 w32 0015DA78 7CA31B38
 
 name: Unlock All Battle Actions
+author: bungholio
 mode: once
 w32 0017D274 90C30000
 
 name: Max Items On Change
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 001D1DB4 7F45F92E
 
 name: Infinite Fusion Points
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/ ported by JorgeFFC
 mode: once
 w32 001ADD18 41810008
 
 name: Max In Garde Change
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00179490 90C30000
 
 name: CS Combat In Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00185F94 D0430010
 
 name: CS After Combat Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00185F2C D0430010
 
 name: Max at the item change
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 001CD26C 7F45F92E
 
 name: Max experience value increase
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 0018B404 9083001C
 
 name: AP variation 999
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 0017A59C 3B0003E7
 
 name: Surgical technique used number of times Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 0017F254 3900270F
 w32 0017F258 60000000
 w32 0017F26C 41810008
 
 name: Support Talent Level Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00198C98 3B40270F
 w32 00198CA0 4080001C
 
 name: Equipment proficiency Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 001B99A0 3BE0270F
 w32 001B99B4 4080001C
 
 name: Title proficiency Max
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 0016BFD0 38C0270F
 
 name: Hits 999
+author: angelclaim
 mode: once
 w32 000F7314 388003E7
 
 name: Max Money
+author: angelclaim, ported by solidsnake
 mode: once
 w32 0017A584 60000000
 
 name: The BG99
+author: angelclaim, ported by solidsnake
 mode: once
 w32 001872C8 38E00063
 w32 00187304 60000000
 
 name: HP 9999
+author: angelclaim, ported by solidsnake
 mode: once
 w32 00188304 60000000
 
 name: Title Level Max
+author: angelclaim, ported by solidsnake
 mode: once
 w32 0017D198 60000000
 
 name: Skills using 99990
+author: angelclaim, ported by solidsnake
 mode: once
 w32 0019043C 60000000
 
 name: HP no Damage
+author: angelclaim, ported by solidsnake
 mode: once
 w32 00186FDC 7CE802A6
 w32 00186FE0 3CC0017C
@@ -765,6 +896,7 @@ w32 017C51B8 38800000
 w32 017C51BC 4E800020
 
 name: SC no Reduce
+author: angelclaim, ported by solidsnake
 mode: once
 w32 00187158 7CA802A6
 w32 0018715C 3C80017C
@@ -785,10 +917,12 @@ w32 017C51EC F8A1FFF0
 w32 017C51F0 4E800020
 
 name: AP999
+author: angelclaim
 mode: once
 w32 0017B690 60000000
 
 name: Abilities upgrade to 2000
+author: angelclaim, ported by solidsnake
 mode: once
 w32 00187AAC 3BC007D0
 w32 00187BF8 386007D0
@@ -797,6 +931,7 @@ w32 00187E8C 386007D0
 w32 00187FD4 3BC007D0
 
 name: Abilities upgrade +32
+author: angelclaim, ported by solidsnake
 mode: once
 w32 00187AAC 33C30020
 w32 00187BF8 30660020
@@ -805,6 +940,7 @@ w32 00187E8C 30660020
 w32 00187FD4 33C30020
 
 name: Item no Reduce
+author: angelclaim
 mode: once
 w32 017C5200 3C80001C
 w32 017C5204 6084F4CC
@@ -824,6 +960,7 @@ w32 001CF4C4 7C8803A6
 w32 001CF4C8 4E800020
 
 name: Item at least 1
+author: angelclaim
 mode: once
 w32 017C5200 3C80001C
 w32 017C5204 6084F4CC
@@ -843,6 +980,7 @@ w32 001CF4C4 7C8803A6
 w32 001CF4C8 4E800020
 
 name: No Need Keys
+author: angelclaim
 mode: once
 w32 00433538 2C030000
 w32 0043353C 41810008
@@ -851,6 +989,7 @@ w32 00433544 4BD9B7EC
 w32 001CECE4 48264854
 
 name: Money Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0020FBA4 38800000
 w32 00217D18 38800000
@@ -858,11 +997,13 @@ w32 001C79E8 38800000
 w32 00200490 38800000
 
 name: Items Never Decrease
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000E0C10 60000000
 w32 000E069C 380B0000
 
 name: Item no Reduce
+author: angelclaim, ported by solidsnake
 mode: once
 w32 001CF4BC 3C80017C
 w32 001CF4C0 60845200
@@ -882,6 +1023,7 @@ w32 017C5228 57DF13BA
 w32 017C522C 4E800020
 
 name: Item at least 1
+author: angelclaim, ported by solidsnake
 mode: once
 w32 001CF4BC 3C80017C
 w32 001CF4C0 60845200
@@ -901,6 +1043,7 @@ w32 017C5228 57DF13BA
 w32 017C522C 4E800020
 
 name: No Need Keys
+author: angelclaim, ported by solidsnake
 mode: once
 w32 001CECE4 48264854
 w32 00433538 2C030000
@@ -909,6 +1052,7 @@ w32 00433540 38600001
 w32 00433544 4BD9B7EC
 
 name: Invincibility For You Only
+author: bungholio
 mode: once
 w32 017D5C00 81030028
 w32 017D5C04 80080028
@@ -928,6 +1072,7 @@ w32 017D5C38 480F5F6E
 w32 000F5F68 497D5C02
 
 name: Invincibility For You And Allies
+author: bungholio
 mode: once
 w32 017D5C00 81030028
 w32 017D5C04 80080028
@@ -938,6 +1083,7 @@ w32 017D5C14 480F5F6E
 w32 000F5F68 497D5C02
 
 name: HP Always Full For You Only
+author: bungholio
 mode: once
 w32 0183EBE0 3CA0019C
 w32 0183EBE4 80A53F00
@@ -956,6 +1102,7 @@ w32 0183EC14 48188A12
 w32 00188A0C 4983EBE2
 
 name: HP Always Full For You And Allies
+author: bungholio
 mode: once
 w32 0183EBE0 38A00008
 w32 0183EBE4 7CA903A6
@@ -974,6 +1121,7 @@ w32 0183EC14 48188A12
 w32 00188A0C 4983EBE2
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 0183EBE0 38A00008
 w32 0183EBE4 7CA903A6
@@ -991,6 +1139,7 @@ w32 0183EC10 4E800020
 w32 00188A10 4979E902
 
 name: Spirit Chain Always Full For You Only
+author: bungholio
 mode: once
 w32 0183ED40 3D20019C
 w32 0183ED44 81293F00
@@ -1009,6 +1158,7 @@ w32 0183ED74 48188B6A
 w32 00188B64 4983ED42
 
 name: Spirit Chain Always Full For You And Allies
+author: bungholio
 mode: once
 w32 0183ED40 39200008
 w32 0183ED44 7D2903A6
@@ -1027,6 +1177,7 @@ w32 0183ED74 48188B6A
 w32 00188B64 4983ED42
 
 name: Spirit Chain Always Empty For All Enemies
+author: bungholio
 mode: once
 w32 0183F9F0 39200008
 w32 0183F9F4 7D2903A6
@@ -1044,6 +1195,7 @@ w32 0183FA20 4E800020
 w32 00188B68 4983F9F2
 
 name: Spirit Chain Always Empty For Your Allies
+author: bungholio
 mode: once
 w32 0183F9F0 39200008
 w32 0183F9F4 7D2903A6
@@ -1067,6 +1219,7 @@ w32 0183FA38 4E800020
 w32 00188B68 4983F9F2
 
 name: Spirit Chain Always Empty For Everything Except You
+author: bungholio
 mode: once
 w32 0183F9F0 3D20019C
 w32 0183F9F4 81293F00
@@ -1085,6 +1238,7 @@ w32 0183FA24 4E800020
 w32 00188B68 4983F9F2
 
 name: Status Effects Never Apply To You Only
+author: bungholio
 mode: once
 w32 0183FB60 83FEFDB8
 w32 0183FB64 2B9F0000
@@ -1104,6 +1258,7 @@ w32 0183FB98 48118DB2
 w32 00118DAC 4983FB62
 
 name: Status Effects Never Apply To You Or Allies
+author: bungholio
 mode: once
 w32 0183FB84 83FEFDB8
 w32 0183FB88 2B9F0000
@@ -1114,6 +1269,7 @@ w32 0183FB98 48118DB2
 w32 00118DAC 4983FB86
 
 name: Have At Least 1 Of Each Gel, Snack, Valuable, And Fashion Item
+author: bungholio
 mode: once
 w32 0179EB24 7C03202E
 w32 0179EB28 2B800000
@@ -1125,6 +1281,7 @@ w32 0179EB3C 481D15C2
 w32 001D15BC 4979EB26
 
 name: Do Not Need Keys To Open Treasure Chests
+author: Hiei-YYH ported by solidsnake
 mode: once
 w32 0043AB50 2C030000
 w32 0043AB54 41810008
@@ -1133,6 +1290,7 @@ w32 0043AB5C 4BD96A6C
 w32 001D15C4 4826958C
 
 name: Infinite Health + SC
+author: Hiei-YYH ported by solidsnake
 mode: once
 w32 01873900 3DE01300
 w32 01873904 7C037840
@@ -1166,6 +1324,7 @@ w32 001889F0 496EAF40
 w32 00188B64 496EAD9C
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 017CFDD0 80630000
 w32 017CFDD4 3880270F

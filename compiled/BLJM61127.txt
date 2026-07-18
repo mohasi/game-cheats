@@ -1,21 +1,26 @@
 # Shin Rorona no Atelier: Hajimari no Monogatari: Arland no Renkinjutsushi
 
 name: Infinite Money
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 001B4D00 7C832378
 
 name: Infinite MP
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 000F84AC 60000000
 
 name: AoB Infinite Money
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7C6418143C8000986084967F7C032000 7C8323783C8000986084967F7C032000
 
 name: AoB Infinite MP
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7CDF30102C0600004180000860C50000 600000002C0600004180000860C50000
 
 name: Infinite Money
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 001B4E30 7C832378

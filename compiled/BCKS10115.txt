@@ -1,14 +1,17 @@
 # NieR RepliCant
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 037A02CC 0098967F
 
 name: Exp
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 037A0280 3B9AC9FF
 
 name: All Item
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 037A02D0 63636363
 w32 037A02D4 63636363

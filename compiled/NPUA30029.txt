@@ -1,9 +1,11 @@
 # Gundemonium Recollection
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 005CCA18 00000005
 
 name: Memory Infinite Special
+author: jgduff1
 mode: once
 w32 005D8598 00000005

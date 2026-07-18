@@ -1,14 +1,17 @@
 # Resident Evil - The Darkside Chronicles HD
 
 name: Zombie Freezer Mode
+author: xtatu
 mode: once
 w32 0002F604 4082FF4C
 
 name: Infinite Health For Player
+author: bungholio
 mode: once
 w32 00240DC0 4182014C
 
 name: Infinite Health For Partner
+author: Hiei-YYH
 mode: once
 w32 00A752A0 3C804248
 w32 00A752A4 90850000
@@ -17,66 +20,81 @@ w32 00A752AC 4B7B48E8
 w32 00229B90 4884B710
 
 name: Partner Health Does Not Drain While Grabbed
+author: bungholio
 mode: once
 w32 002337EC 60000000
 
 name: Infinite Gold, Herbs, And Health Sprays
+author: bungholio
 mode: once
 w32 002A5DAC 3C007FFF
 w32 002A5DB0 90030000
 w32 002A5DB4 80630000
 
 name: Max Ammo, Gold, Herbs, And Health Sprays On Use
+author: bungholio
 mode: once
 w32 002A5B40 3C800098
 w32 002A5B44 6084967F
 
 name: Infinite Ammo And No Reload All Weapons
+author: Hiei-YYH
 mode: once
 w32 00266678 30A30000
 w32 002A5B38 60000000
 
 name: Total Ammo Never Increases
+author: bungholio
 mode: once
 w32 002A5B38 60000000
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 002669AC 3BC00001
 
 name: 10x Enemies Killed Multiplier
+author: bungholio
 mode: once
 w32 002A863C 3084000A
 
 name: Max Enemies Killed From 1 Kill
+author: bungholio
 mode: once
 w32 002A8888 60000000
 
 name: Always 9,999 Enemies Killed
+author: bungholio
 mode: once
 w32 002DB774 38C0270F
 
 name: 10x Headshots Multiplier
+author: bungholio
 mode: once
 w32 002A8684 30A5000A
 
 name: Max Headshots From 1 Headshot
+author: bungholio
 mode: once
 w32 002A88A0 60000000
 
 name: Always 9,999 Headshots
+author: bungholio
 mode: once
 w32 002DB78C 3880270F
 
 name: Time Never Decreases
+author: bungholio
 mode: once
 w32 002A1AA0 38600000
 
 name: Max Score
+author: Hiei-YYH
 mode: once
 w32 002A886C 60000000
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 00A3FB98 38007162
 w32 00A3FB9C 90050090
@@ -93,10 +111,12 @@ w32 00022FB8 EC410828
 w32 00022FC0 48A3FBC6
 
 name: V Complex Dies From Any Damage
+author: bungholio
 mode: once
 w32 00035214 C023000C
 
 name: Toggle Zombies Stop Moving With Select
+author: bungholio
 mode: once
 w32 00A3FB98 3F600214
 w32 00A3FB9C A09B62F4
@@ -125,6 +145,7 @@ w32 00A3FC7C 4802F736
 w32 004A4810 48A3FB9A
 
 name: Can Access All Of Main Menu
+author: bungholio
 mode: once
 w32 0034D814 38600016
 w32 0034D818 38C00016
@@ -132,109 +153,134 @@ w32 0034D8A0 60000000
 w32 0034D8C4 60000000
 
 name: Can Access All Archives
+author: bungholio
 mode: once
 w32 002F3BF0 38800001
 w32 002F3BF4 3A600001
 w32 002F3BFC 3AC00001
 
 name: Can Always Change Difficulty
+author: bungholio
 mode: once
 w32 003611E0 60000000
 
 name: AoB Zombie Freezer Mode
+author: xtatu
 mode: once
 aob 2C1B00004182FF4C 2C1B00004082FF4C
 
 name: AoB Infinite Health For Player
+author: bungholio
 mode: once
 aob 57E301082C0300004082014C 57E301082C0300004182014C
 
 name: AoB Infinite Health For Partner
+author: Hiei-YYH
 mode: once
 aob 640A0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 640A000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003C80424890850000C04500004B7B48E8
 aob 38849AECC0240000C0450000 38849AECC02400004884B710
 
 name: AoB Partner Health Does Not Drain While Grabbed
+author: bungholio
 mode: once
 aob EC21F8BCD03C0000 EC21F8BC60000000
 
 name: AoB Infinite Gold, Herbs, And Health Sprays
+author: bungholio
 mode: once
 aob 307F012078630020806300007C6307B4 307F01203C007FFF9003000080630000
 
 name: AoB Max Ammo, Gold, Herbs, And Health Sprays On Use
+author: bungholio
 mode: once
 aob 4180000863C40000 3C8000986084967F
 
 name: AoB Infinite Ammo And No Reload All Weapons
+author: Hiei-YYH
 mode: once
 aob 807F001C30A3FFFF 807F001C30A30000
 aob 83C300007FDFF010 83C3000060000000
 
 name: AoB Total Ammo Never Increases
+author: bungholio
 mode: once
 aob 83C300007FDFF010 83C3000060000000
 
 name: AoB Rapid Fire
+author: bungholio
 mode: once
 aob 7C1A1800408200143BC00000 7C1A1800408200143BC00001
 
 name: AoB 10x Enemies Killed Multiplier
+author: bungholio
 mode: once
 aob FC40101830840001 FC4010183084000A
 
 name: AoB Max Enemies Killed From 1 Kill
+author: bungholio
 mode: once
 aob 7C05204040810008 7C05204060000000
 
 name: AoB Always 9,999 Enemies Killed
+author: bungholio
 mode: once
 aob 80C3000880E3000C90970000 38C0270F80E3000C90970000
 
 name: AoB 10x Headshots Multiplier
+author: bungholio
 mode: once
 aob 80DE000030A50001 80DE000030A5000A
 
 name: AoB Max Headshots From 1 Headshot
+author: bungholio
 mode: once
 aob 7C06204040810008 7C06204060000000
 
 name: AoB Always 9,999 Headshots
+author: bungholio
 mode: once
 aob 90F7000C80830010 90F7000C3880270F
 
 name: AoB Time Never Decreases
+author: bungholio
 mode: once
 aob EC211028807F00B030630001 EC211028807F00B038600000
 
 name: AoB Max Score
+author: Hiei-YYH
 mode: once
 aob 7CBF192E40810008 7CBF192E60000000
 
 name: AoB Enemies Die From Any Damage
+author: bungholio
 mode: once
 aob 000000000000000000000000000000002C00000100090015000000000000000000A3F63000A3F77400B63194000000000000000000000000000000002C00000100090026000000000000000000A3F63C00A3F7C800B62E800000000000000000 3800716290050090C045000048229B962C00000100090015000000000000000000A3F63000A3F77400B63194800400902B807162419E0028480000202C00000100090026000000000000000000A3F63C00A3F7C800B62E80D044000048022FC6
 aob 38849AECC0240000C0450000 38849AECC024000048A3FB9A
 aob EC41F828FC20F890D0440000 EC410828FC20F89048A3FBC6
 
 name: AoB V Complex Dies From Any Damage
+author: bungholio
 mode: once
 aob C0230010EC21102A C0230010C023000C
 
 name: AoB Can Access All Of Main Menu
+author: bungholio
 mode: once
 aob 2C03000141820128 3860001638C00016
 aob 418200A048000024 6000000048000024
 aob 4182007C8876EBB8 600000008876EBB8
 
 name: AoB Can Access All Archives
+author: bungholio
 mode: once
 aob 889100143860FFFF2C0400004182000C 388000013A6000012C0400003AC00001
 
 name: AoB Can Always Change Difficulty
+author: bungholio
 mode: once
 aob 408200743C6002158863EBB8 600000003C6002158863EBB8
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 0046B354 60000000

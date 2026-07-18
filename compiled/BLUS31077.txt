@@ -1,76 +1,94 @@
 # Under Defeat HD: Deluxe Edition
 
 name: Infinite Lives (New Order Mode)
+author: jgduff1, tekman
 mode: once
 w32 000B3E24 30C60000
 
 name: Infinite Bombs (New Order Mode)
+author: jgduff1, tekman
 mode: once
 w32 0001A8FC 30630000
 
 name: Infinite Credits (New Order Mode)
+author: jgduff1, tekman
 mode: once
 w32 000116B4 30630000
 
 name: Max Score (New Order Mode)
+author: jgduff1, tekman
 mode: once
 w32 0001CCF4 3C803B9A
 w32 0001CCF8 6084C9FF
 
 name: Infinite Credits
+author: jgduff1, tekman
 mode: once
 w32 000116B4 30630000
 
 name: Infinite Lives
+author: tekman, jgduff1
 mode: once
 w32 000B3ED4 30C60000
 
 name: Infinite Bombs
+author: jgduff1, tekman
 mode: once
 w32 0001A8FC 30630000
 
 name: High Score
+author: jgduff1, tekman
 mode: once
 w32 0001CCF4 3C803B9A
 w32 0001CCF8 6084C9FF
 
 name: AoB Infinite Credits
+author: tekman
 mode: once
 aob 38E000003063FFFF98E6B74490652CB4 38E000003063000098E6B74490652CB4
 
 name: AoB Infinite Lives
+author: tekman
 mode: once
 aob 6383000030C6FFFF98C5000E4BF6EE5D 6383000030C6000098C5000E4BF6EE5D
 
 name: AoB Infinite Bombs
+author: tekman
 mode: once
 aob 408200443063FFFF38A000283CC0004A 408200443063000038A000283CC0004A
 
 name: AoB High Score
+author: tekman
 mode: once
 aob 7C86201460A5967F7C04284090830008 7C8620143C803B9A6084C9FF90830008
 
 name: Infinite Lives (New Order Mode)
+author: tekman, jgduff1
 mode: once
 w32 000B3ED4 30C60000
 
 name: High Score (New Order Mode)
+author: jgduff1, tekman
 mode: once
 w32 0001CCF4 3C803B9A
 w32 0001CCF8 6084C9FF
 
 name: Memory Infinite Lives (New Order Mode)
+author: jgduff1
 mode: once
 w8 004107CE 05
 
 name: Memory Infinite Bombs (New Order Mode)
+author: jgduff1
 mode: once
 w8 004107D5 03
 
 name: Memory Infinite Credits (New Order Mode)
+author: jgduff1
 mode: once
 w8 00312CB7 02
 
 name: Memory Max Score (New Order Mode)
+author: jgduff1
 mode: once
 w32 004107C8 0000138C

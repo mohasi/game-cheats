@@ -1,13 +1,16 @@
 # Ratchet &amp;amp; Clank Future
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 101EFF3C 3B9AC9FF
 
 name: Infinite Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 101EFF40 3B9AC9FF
 
 name: Exp Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 101EFF38 3B9AC9FF

@@ -1,6 +1,7 @@
 # Zone of the Enders HD Collection
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 125362F8 450C0000
 w32 12537048 44F3C000
@@ -15,6 +16,7 @@ w32 12657A70 42F2AAAB
 w32 12657AD0 42F2AAAB
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 001A370C EC3D0828
 w32 001A3710 60000000
@@ -24,31 +26,38 @@ w32 001C2AA8 60000000
 w32 001C2AB0 60000000
 
 name: Memory Max Level Bar
+author: jgduff1
 mode: once
 w16 00594D82 07D0
 
 name: Memory Easy Level Up
+author: jgduff1
 mode: once
 w16 00594D80 0328
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00626A40 60000000
 
 name: ASM Max Level + Energy + Sub Energy On One Kill
+author: jgduff1
 mode: once
 w32 00658810 90E4653C
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w16 10BB2A3E 03E8
 w16 10CDCF96 03E8
 
 name: Memory Max Level + Energy + Sub Energy On One Kill
+author: jgduff1
 mode: once
 w32 10B1A76C 00000BE5
 w32 11B87F7C 00000BE6
 
 name: ASM Max Level + Energy + Sub Energy On One Kill
+author: jgduff1
 mode: once
 w32 00658830 90E4653C

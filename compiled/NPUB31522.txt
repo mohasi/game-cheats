@@ -1,53 +1,66 @@
 # Atelier Rorona Plus: The Alchemist of Arland
 
 name: Infinite Gold
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 001B3B50 7C832378
 
 name: Never Decrease MP During Battle
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 000F7B0C 60000000
 
 name: Max Money Or Cole
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 00C9C3A0 0098967F
 
 name: Max Vouchers Or Tickets For Exchange In Palace Desk
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 w32 00C9E478 000003E7
 
 name: Max Vouchers On Use
+author: JorgeFFC
 mode: once
 w32 002C0A48 40810008
 
 name: Max Money On Change
+author: JorgeFFC
 mode: once
 w32 001B3B60 40810008
 
 name: Infinite Item Usage During Battle
+author: JorgeFFC
 mode: once
 w32 001D45B8 30630000
 
 name: Max Assist On Change
+author: JorgeFFC
 mode: once
 w32 000FF800 41810008
 
 name: No Limit Store Stock
+author: JorgeFFC
 mode: once
 w32 001B8834 60000000
 
 name: AoB Infinite Gold
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7C6418143C8000986084967F7C032000 7C8323783C8000986084967F7C032000
 
 name: AoB Never Decrease MP (Battle Only)
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7CDF30102C0600004180000860C50000 600000002C0600004180000860C50000
 
 name: AoB Freeze Days ON
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
 
 name: AoB Freeze Days OFF
+author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
 aob 7CC533782C0500004180000860A40000 7CA628142C0500004180000860A40000

@@ -1,6 +1,7 @@
 # Saw
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 018BEC38 3C888889
 w32 018C2000 3C888889

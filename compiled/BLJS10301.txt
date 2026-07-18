@@ -1,17 +1,21 @@
 # Ukiyo no Shishi
 
 name: Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-246.html
 mode: once
 w32 000E069C 380B0000
 
 name: Materials Never Decrease
+author: games24.blog.fc2.com/blog-entry-246.html
 mode: once
 w32 000E0C10 60000000
 
 name: AoB Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-246.html
 mode: once
 aob 380BFFFF7D234B783880000190090004 380B00007D234B783880000190090004
 
 name: AoB Materials Never Decrease
+author: games24.blog.fc2.com/blog-entry-246.html
 mode: once
 aob 7C1D00502F800000419CFFC87D435378 600000002F800000419CFFC87D435378

@@ -1,744 +1,929 @@
 # Fairy Fencer F
 
 name: Infinite SP
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 w32 00245BB0 60000000
 
 name: Max Tension Gauge
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 w32 00245BD0 60000000
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 w32 0027E050 60000000
 
 name: Max WP On Use
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 w32 0012EBD8 60000000
 
 name: Max Exp After Battle
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 w32 0024C24C 7C034A14
 
 name: Freeze Gold Amount but Each New Item will be Maxed on Drop/get if used together with Max Items
+author: JorgeFFC
 mode: once
 w32 00295730 60000000
 
 name: Max Money On Change (Buy/Sell)
+author: Hiei-YYH
 mode: once
 w32 00295730 618CE0FF
 w32 00295734 918A2A88
 w32 0029573C 4BFFFFBC
 
 name: Fang Max Weapon Points(WP)
+author: JorgeFFC
 mode: once
 w32 3217B8D0 3B9AC9FF
 
 name: Fang Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A004 3B9AC9FF
 
 name: Fang Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A008 000003E8
 
 name: Fang 9,999 Current HP In Battle
+author: JorgeFFC
 mode: once
 w32 32179FFC 0000270F
 
 name: Fang 9,999 Current SP In Battle
+author: JorgeFFC
 mode: once
 w32 3217A000 0000270F
 
 name: Fang Max HP
+author: bagus
 mode: once
 w16 32179196 270F
 
 name: Fang Max SP
+author: bagus, JorgeFFC
 mode: once
 w16 3217919A 270F
 
 name: Fang Max POW
+author: bagus, JorgeFFC
 mode: once
 w16 3217919E 270F
 
 name: Fang Max INT
+author: bagus, JorgeFFC
 mode: once
 w16 321791A6 270F
 
 name: Fang Max AGI
+author: bagus, JorgeFFC
 mode: once
 w16 321791AE 270F
 
 name: Fang Max LUK
+author: bagus, JorgeFFC
 mode: once
 w16 321791B6 270F
 
 name: Fang Max VIT
+author: bagus, JorgeFFC
 mode: once
 w16 321791A2 270F
 
 name: Fang Max MEN
+author: bagus, JorgeFFC
 mode: once
 w16 321791AA 270F
 
 name: Fang Max TEC
+author: bagus, JorgeFFC
 mode: once
 w16 321791B2 270F
 
 name: Fang Max MOV
+author: bagus, JorgeFFC
 mode: once
 w16 321791BA 000A
 
 name: Tiara Max WP(Weapon Points)
+author: JorgeFFC
 mode: once
 w32 3217BB40 3B9AC9FF
 
 name: Tiara Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A0F4 3B9AC9FF
 
 name: Tiara Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A0F8 000003E8
 
 name: Tiara Current HP In Battle
+author: JorgeFFC
 mode: once
 w32 3217A0EC 0000270F
 
 name: Tiara Current SP In Battle
+author: JorgeFFC
 mode: once
 w32 3217A0F0 0000270F
 
 name: Tiara Max HP
+author: JorgeFFC
 mode: once
 w16 3217927C 270F
 
 name: Tiara Max SP
+author: JorgeFFC
 mode: once
 w16 32179280 270F
 
 name: Tiara Max POW
+author: JorgeFFC
 mode: once
 w16 32179284 270F
 
 name: Tiara Max INT
+author: JorgeFFC
 mode: once
 w16 3217928C 270F
 
 name: Tiara Max AGI
+author: JorgeFFC
 mode: once
 w16 32179294 270F
 
 name: Tiara Max LUK
+author: JorgeFFC
 mode: once
 w16 3217929C 270F
 
 name: Tiara Max VIT
+author: JorgeFFC
 mode: once
 w16 32179288 270F
 
 name: Tiara Max MEN
+author: JorgeFFC
 mode: once
 w16 32179290 270F
 
 name: Tiara Max TEC
+author: JorgeFFC
 mode: once
 w16 32179298 270F
 
 name: Tiara Max MOV
+author: JorgeFFC
 mode: once
 w32 321792A0 0000000A
 
 name: Harley Max WP(Weapon Points)
+author: JorgeFFC
 mode: once
 w32 3217BDB0 3B9AC9FF
 
 name: Harley Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A1E4 3B9AC9FF
 
 name: Harley Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A1E8 000003E8
 
 name: Harley Current HP
+author: JorgeFFC
 mode: once
 w32 3217A1DC 0000270F
 
 name: Harley Current SP
+author: JorgeFFC
 mode: once
 w32 3217A1E0 0000270F
 
 name: Harley Max HP
+author: JorgeFFC
 mode: once
 w16 32179364 270F
 
 name: Harley Max SP
+author: JorgeFFC
 mode: once
 w16 32179368 270F
 
 name: Harley Max POW
+author: JorgeFFC
 mode: once
 w16 3217936C 270F
 
 name: Harley Max INT
+author: JorgeFFC
 mode: once
 w16 32179374 270F
 
 name: Harley Max AGI
+author: JorgeFFC
 mode: once
 w16 3217937C 270F
 
 name: Harley Max LUK
+author: JorgeFFC
 mode: once
 w16 32179384 270F
 
 name: Harley Max VIT
+author: JorgeFFC
 mode: once
 w16 32179370 270F
 
 name: Harley Max MEN
+author: JorgeFFC
 mode: once
 w16 32179378 270F
 
 name: Harley Max TEC
+author: JorgeFFC
 mode: once
 w16 32179380 270F
 
 name: Harley Max MOV
+author: JorgeFFC
 mode: once
 w32 32179388 0000000A
 
 name: Galdo Max WP(Weapon Points)
+author: JorgeFFC
 mode: once
 w32 3217C020 3B9AC9FF
 
 name: Galdo Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A2D4 3B9AC9FF
 
 name: Galdo Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A2D8 000003E8
 
 name: Galdo Current HP
+author: JorgeFFC
 mode: once
 w32 3217A2CC 0000270F
 
 name: Galdo Current SP
+author: JorgeFFC
 mode: once
 w32 3217A2D0 0000270F
 
 name: Galdo Max HP
+author: JorgeFFC
 mode: once
 w16 3217944C 270F
 
 name: Galdo Max SP
+author: JorgeFFC
 mode: once
 w16 32179450 270F
 
 name: Galdo Max POW
+author: JorgeFFC
 mode: once
 w16 32179454 270F
 
 name: Galdo Max INT
+author: JorgeFFC
 mode: once
 w16 3217945C 270F
 
 name: Galdo Max AGI
+author: JorgeFFC
 mode: once
 w16 32179464 270F
 
 name: Galdo Max LUK
+author: JorgeFFC
 mode: once
 w16 3217946C 270F
 
 name: Galdo Max VIT
+author: JorgeFFC
 mode: once
 w16 32179458 270F
 
 name: Galdo Max MEN
+author: JorgeFFC
 mode: once
 w16 32179460 270F
 
 name: Galdo Max TEC
+author: JorgeFFC
 mode: once
 w16 32179468 270F
 
 name: Galdo Max MOV
+author: JorgeFFC
 mode: once
 w32 32179470 0000000A
 
 name: Sherman Max WP(Weapon Points)
+author: JorgeFFC
 mode: once
 w32 3217C290 3B9AC9FF
 
 name: Sherman Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A784 3B9AC9FF
 
 name: Sherman Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A788 000003E8
 
 name: Sherman Current HP
+author: JorgeFFC
 mode: once
 w32 3217A77C 0000270F
 
 name: Sherman Current SP
+author: JorgeFFC
 mode: once
 w32 3217A780 0000270F
 
 name: Sherman Max HP
+author: JorgeFFC
 mode: once
 w16 32179534 270F
 
 name: Sherman Max SP
+author: JorgeFFC
 mode: once
 w16 32179538 270F
 
 name: Sherman Max POW
+author: JorgeFFC
 mode: once
 w16 3217953C 270F
 
 name: Sherman Max INT
+author: JorgeFFC
 mode: once
 w16 32179544 270F
 
 name: Sherman Max AGI
+author: JorgeFFC
 mode: once
 w16 3217954C 270F
 
 name: Sherman Max LUK
+author: JorgeFFC
 mode: once
 w16 32179554 270F
 
 name: Sherman Max VIT
+author: JorgeFFC
 mode: once
 w16 32179540 270F
 
 name: Sherman Max MEN
+author: JorgeFFC
 mode: once
 w16 32179548 270F
 
 name: Sherman Max TEC
+author: JorgeFFC
 mode: once
 w16 32179550 270F
 
 name: Sherman Max MOV
+author: JorgeFFC
 mode: once
 w32 32179558 0000000A
 
 name: Pippin Max WP
+author: JorgeFFC
 mode: once
 w32 3217C500 3B9AC9FF
 
 name: Pippin Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A4B4 3B9AC9FF
 
 name: Pippin Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A4B8 000003E8
 
 name: Pippin Current HP
+author: JorgeFFC
 mode: once
 w32 3217A4AC 0000270F
 
 name: Pippin Current SP
+author: JorgeFFC
 mode: once
 w32 3217A4B0 0000270F
 
 name: Pippin Max HP
+author: JorgeFFC
 mode: once
 w16 3217961C 270F
 
 name: Pippin Max SP
+author: JorgeFFC
 mode: once
 w16 32179620 270F
 
 name: Pippin Max POW
+author: JorgeFFC
 mode: once
 w16 32179624 270F
 
 name: Pippin Max INT
+author: JorgeFFC
 mode: once
 w16 3217962C 270F
 
 name: Pippin Max AGI
+author: JorgeFFC
 mode: once
 w16 32179634 270F
 
 name: Pippin Max LUK
+author: JorgeFFC
 mode: once
 w16 3217963C 270F
 
 name: Pippin Max VIT
+author: JorgeFFC
 mode: once
 w16 32179628 270F
 
 name: Pippin Max MEN
+author: JorgeFFC
 mode: once
 w16 32179630 270F
 
 name: Pippin Max TEC
+author: JorgeFFC
 mode: once
 w16 32179638 270F
 
 name: Pippin Max MOV
+author: JorgeFFC
 mode: once
 w32 32179640 0000000A
 
 name: Apollonius Max WP
+author: JorgeFFC
 mode: once
 w32 3217C9E0 3B9AC9FF
 
 name: Apollonius Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A5A4 3B9AC9FF
 
 name: Apollonius Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A5A8 000003E8
 
 name: Apollonius Current HP
+author: JorgeFFC
 mode: once
 w32 3217A59C 0000270F
 
 name: Apollonius Current SP
+author: JorgeFFC
 mode: once
 w32 3217A5A0 0000270F
 
 name: Apollonius Max HP
+author: JorgeFFC
 mode: once
 w16 321797EC 270F
 
 name: Apollonius Max SP
+author: JorgeFFC
 mode: once
 w16 321797F0 270F
 
 name: Apollonius Max POW
+author: JorgeFFC
 mode: once
 w16 321797F4 270F
 
 name: Apollonius Max INT
+author: JorgeFFC
 mode: once
 w16 321797FC 270F
 
 name: Apollonius Max AGI
+author: JorgeFFC
 mode: once
 w16 32179804 270F
 
 name: Apollonius Max LUK
+author: JorgeFFC
 mode: once
 w16 3217980C 270F
 
 name: Apollonius Max VIT
+author: JorgeFFC
 mode: once
 w16 321797F8 270F
 
 name: Apollonius Max MEN
+author: JorgeFFC
 mode: once
 w16 32179800 270F
 
 name: Apollonius Max TEC
+author: JorgeFFC
 mode: once
 w16 32179808 270F
 
 name: Apollonius Max MOV
+author: JorgeFFC
 mode: once
 w32 32179810 0000000A
 
 name: Ethel Max WP
+author: JorgeFFC
 mode: once
 w32 3217C770 3B9AC9FF
 
 name: Ethel Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A3C4 3B9AC9FF
 
 name: Ethel Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A3C8 000003E8
 
 name: Ethel Current HP
+author: JorgeFFC
 mode: once
 w32 3217A3BC 0000270F
 
 name: Ethel Current SP
+author: JorgeFFC
 mode: once
 w32 3217A3C0 0000270F
 
 name: Ethel Max HP
+author: JorgeFFC
 mode: once
 w16 32179704 270F
 
 name: Ethel Max SP
+author: JorgeFFC
 mode: once
 w16 32179708 270F
 
 name: Ethel Max POW
+author: JorgeFFC
 mode: once
 w16 3217970C 270F
 
 name: Ethel Max INT
+author: JorgeFFC
 mode: once
 w16 32179714 270F
 
 name: Ethel Max AGI
+author: JorgeFFC
 mode: once
 w16 3217971C 270F
 
 name: Ethel Max LUK
+author: JorgeFFC
 mode: once
 w16 32179724 270F
 
 name: Ethel Max VIT
+author: JorgeFFC
 mode: once
 w16 32179710 270F
 
 name: Ethel Max MEN
+author: JorgeFFC
 mode: once
 w16 32179378 270F
 
 name: Ethel Max TEC
+author: JorgeFFC
 mode: once
 w16 32179720 270F
 
 name: Ethel Max MOV
+author: JorgeFFC
 mode: once
 w32 32179728 0000000A
 
 name: Lola Max WP
+author: JorgeFFC
 mode: once
 w32 3217CA40 3B9AC9FF
 
 name: Lola Total Exp
+author: JorgeFFC
 mode: once
 w32 3217A694 3B9AC9FF
 
 name: Lola Max Tension
+author: JorgeFFC
 mode: once
 w32 3217A698 000003E8
 
 name: Lola 9,999 Current HP In Battle
+author: JorgeFFC
 mode: once
 w32 3217A68C 0000270F
 
 name: Lola 9,999 Current SP In Battle
+author: JorgeFFC
 mode: once
 w32 3217A690 0000270F
 
 name: Lola Max HP
+author: JorgeFFC
 mode: once
 w16 32179826 270F
 
 name: Lola Max SP
+author: JorgeFFC
 mode: once
 w16 3217982A 270F
 
 name: Lola Max POW
+author: JorgeFFC
 mode: once
 w16 3217982E 270F
 
 name: Lola Max INT
+author: JorgeFFC
 mode: once
 w16 32179836 270F
 
 name: Lola Max AGI
+author: JorgeFFC
 mode: once
 w16 3217983E 270F
 
 name: Lola Max LUK
+author: JorgeFFC
 mode: once
 w16 32179846 270F
 
 name: Lola Max VIT
+author: JorgeFFC
 mode: once
 w16 32179832 270F
 
 name: Lola Max MEN
+author: JorgeFFC
 mode: once
 w16 3217983A 270F
 
 name: Lola Max TEC
+author: JorgeFFC
 mode: once
 w16 32179842 270F
 
 name: Lola Max MOV
+author: JorgeFFC
 mode: once
 w32 3217984A 0000000A
 
 name: Sylph Total EXP
+author: JorgeFFC
 mode: once
 w32 3217DFA4 3B9AC9FF
 
 name: Daxx Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E0C4 3B9AC9FF
 
 name: Niles Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E058 3B9AC9FF
 
 name: Naivy Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E0E8 3B9AC9FF
 
 name: Reed Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E07C 3B9AC9FF
 
 name: Nelly Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E034 3B9AC9FF
 
 name: Kirin Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E0A0 3B9AC9FF
 
 name: Crystinger Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E010 3B9AC9FF
 
 name: PSX-04G Total EXP
+author: JorgeFFC
 mode: once
 w32 3217DFC8 3B9AC9FF
 
 name: Sayle Total EXP
+author: JorgeFFC
 mode: once
 w32 3217DFEC 3B9AC9FF
 
 name: Shadogan Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E10C 3B9AC9FF
 
 name: Kunes Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E130 3B9AC9FF
 
 name: Laives Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E154 3B9AC9FF
 
 name: Nyx Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E19C 3B9AC9FF
 
 name: Lif Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E22C 3B9AC9FF
 
 name: Sigurd Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E1C0 3B9AC9FF
 
 name: Eigar Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E1E4 3B9AC9FF
 
 name: Grandnarg Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E208 3B9AC9FF
 
 name: Light Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E178 3B9AC9FF
 
 name: Undine Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E250 3B9AC9FF
 
 name: Freya Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E274 3B9AC9FF
 
 name: Harpy Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E298 3B9AC9FF
 
 name: Elphas Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E2E0 3B9AC9FF
 
 name: Vint Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E304 3B9AC9FF
 
 name: Bowa Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E328 3B9AC9FF
 
 name: Minari Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E2BC 3B9AC9FF
 
 name: Elgarde
+author: JorgeFFC
 mode: once
 w32 3217E370 3B9AC9FF
 
 name: Medis
+author: JorgeFFC
 mode: once
 w32 3217E394 3B9AC9FF
 
 name: Rayknight
+author: JorgeFFC
 mode: once
 w32 3217E34C 3B9AC9FF
 
 name: Wesley Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E3DC 3B9AC9FF
 
 name: Roh Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E3B8 3B9AC9FF
 
 name: Dohn Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E400 3B9AC9FF
 
 name: Raijin Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E424 3B9AC9FF
 
 name: Rami Total EXP
+author: JorgeFFC
 mode: once
 w32 3217E448 3B9AC9FF
 
 name: AoB Max Money On Change (Buy/Sell)
+author: Hiei-YYH
 mode: once
 aob 906A2A88618AE0FF7F8A1840409CFFBC 618CE0FF918A2A887F8A18404BFFFFBC
 
 name: AoB Infinite SP
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 aob 409D00087CA42B78908300084E800020 600000007CA42B78908300084E800020
 
 name: AoB Max Tension Gauge
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 aob 409D0008380003E87C0400F87C89FE70 60000000380003E87C0400F87C89FE70
 
 name: AoB Infinite Items
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 aob 408100148B7C00037FB9EB7863780002 600000008B7C00037FB9EB7863780002
 
 name: AoB Max WP On Use
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 aob 408100087D605B78901E0038801F0010 600000007D605B78901E0038801F0010
 
 name: AoB Max Exp After Battle
+author: games24.blog.fc2.com/blog-entry-202.html
 mode: once
 aob 7C1D4A147CA30000408500087C030378 7C034A147CA30000408500087C030378
 
 name: Max Money
+author: JorgeFFC
 mode: once
 w32 3217B888 3B9AC9FF
 
 name: Fang Max WP
+author: JorgeFFC
 mode: once
 w32 3217B8D0 3B9AC9FF
 
 name: Fang All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217AF00 3B9AC9FF
 w32 3217AF08 3B9AC9FF
@@ -768,22 +953,27 @@ w32 3217AF5C 3B9AC9FF
 w32 3217AF60 3B9AC9FF
 
 name: Fang Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A004 0011189E
 
 name: Fang Current HP
+author: JorgeFFC
 mode: once
 w32 32179FFC 0000122C
 
 name: Fang Current SP
+author: JorgeFFC
 mode: once
 w32 3217A000 00000A75
 
 name: Tiara Max WP
+author: JorgeFFC
 mode: once
 w32 3217BB40 3B9AC9FF
 
 name: Tiara All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217AF84 3B9AC9FF
 w32 3217AF88 3B9AC9FF
@@ -813,22 +1003,27 @@ w32 3217AFE4 3B9AC9FF
 w32 3217AFE8 3B9AC9FF
 
 name: Tiara Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A0F4 0010091C
 
 name: Tiara Current HP
+author: JorgeFFC
 mode: once
 w32 3217A0EC 000010CB
 
 name: Tiara Current SP
+author: JorgeFFC
 mode: once
 w32 3217A0F0 00000B06
 
 name: Harley Max WP
+author: JorgeFFC
 mode: once
 w32 3217BDB0 3B9AC9FF
 
 name: Harley All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B00C 3B9AC9FF
 w32 3217B010 3B9AC9FF
@@ -858,22 +1053,27 @@ w32 3217B06C 3B9AC9FF
 w32 3217B070 3B9AC9FF
 
 name: Harley Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A1E4 0010091C
 
 name: Harley Current HP
+author: JorgeFFC
 mode: once
 w32 3217A1DC 000011AA
 
 name: Harley Current SP
+author: JorgeFFC
 mode: once
 w32 3217A1E0 00000AB7
 
 name: Galdo Max WP
+author: JorgeFFC
 mode: once
 w32 3217C020 3B9AC9FF
 
 name: Galdo All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B094 3B9AC9FF
 w32 3217B098 3B9AC9FF
@@ -903,22 +1103,27 @@ w32 3217B0F4 3B9AC9FF
 w32 3217B0F8 3B9AC9FF
 
 name: Galdo Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A2D4 0010091C
 
 name: Galdo Current HP
+author: JorgeFFC
 mode: once
 w32 3217A2CC 00001254
 
 name: Galdo Current SP
+author: JorgeFFC
 mode: once
 w32 3217A2D0 00000AE2
 
 name: Sherman Max WP
+author: JorgeFFC
 mode: once
 w32 3217C290 3B9AC9FF
 
 name: Sherman All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B33C 3B9AC9FF
 w32 3217B340 3B9AC9FF
@@ -948,18 +1153,22 @@ w32 3217B39C 3B9AC9FF
 w32 3217B3A0 3B9AC9FF
 
 name: Sherman Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A784 0010091C
 
 name: Sherman Current HP
+author: JorgeFFC
 mode: once
 w32 3217A77C 000013C8
 
 name: Sherman Current SP
+author: JorgeFFC
 mode: once
 w32 3217A780 00000BE1
 
 name: Pippin All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B1A4 3B9AC9FF
 w32 3217B1A8 3B9AC9FF
@@ -989,18 +1198,22 @@ w32 3217B204 3B9AC9FF
 w32 3217B208 3B9AC9FF
 
 name: Pippin Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A4B4 00136415
 
 name: Pippin Current HP
+author: JorgeFFC
 mode: once
 w32 3217A4AC 0000139A
 
 name: Pippin Current SP
+author: JorgeFFC
 mode: once
 w32 3217A4B0 00000A48
 
 name: Ethel All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B11C 3B9AC9FF
 w32 3217B120 3B9AC9FF
@@ -1030,18 +1243,22 @@ w32 3217B17C 3B9AC9FF
 w32 3217B180 3B9AC9FF
 
 name: Ethel Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A3C4 0011A353
 
 name: Ethel Current HP
+author: JorgeFFC
 mode: once
 w32 3217A3BC 00000001
 
 name: Ethel Current SP
+author: JorgeFFC
 mode: once
 w32 3217A3C0 00000001
 
 name: Apollonius All Challenges Cleared
+author: JorgeFFC
 mode: once
 w32 3217B22C 3B9AC9FF
 w32 3217B230 3B9AC9FF
@@ -1071,40 +1288,49 @@ w32 3217B28C 3B9AC9FF
 w32 3217B290 3B9AC9FF
 
 name: Apollonius Total EXP
+author: JorgeFFC
 mode: once
 w32 3217A5A4 0011189E
 
 name: Apollonius Current HP
+author: JorgeFFC
 mode: once
 w32 3217A59C 00001554
 
 name: Apollonius Current SP
+author: JorgeFFC
 mode: once
 w32 3217A5A0 00000973
 
 name: Infinite SP
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 002463B8 60000000
 
 name: Max Tension On Change
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 002463D8 60000000
 
 name: Max WP On Use
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 0012F238 60000000
 
 name: Max Exp After Battle
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 0024CA54 7C034A14
 
 name: Max Kill Count Quest
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 0026457C 396903E7
 w32 00264558 390903E7
 w32 002645C0 390903E7
 
 name: 99 Item on Change
+author: games24.blog.fc2.com/blog-entry-202.html, ported by JorgeFFC
 mode: once
 w32 0027E870 60000000
 

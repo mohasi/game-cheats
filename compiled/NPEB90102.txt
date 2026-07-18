@@ -1,50 +1,62 @@
 # BioShock
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 005C1B04 60000000
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 00536E98 60000000
 
 name: Max Money
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 00541C40 2F800000
 
 name: Max Adam
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 0056228C 60000000
 
 name: Lot 192
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 w32 0050D2F4 39400000
 
 name: AoB Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 aob 7C090050EBE100A8900B0000901A0000 60000000EBE100A8900B0000901A0000
 
 name: AoB Infinite Items
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 aob 7C0B00507F2BC8509009004C813C0000 600000007F2BC8509009004C813C0000
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 aob 2F80270E409D00083800270F839E81B0 2F800000409D00083800270F839E81B0
 
 name: AoB Max Adam
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 aob 409D00083800270F813F01007B5D0020 600000003800270F813F01007B5D0020
 
 name: AoB Lot 192
+author: games24.blog.fc2.com/blog-entry-154.html
 mode: once
 aob 7D4A02144200FFD87D4307B44E800020 394000004200FFD87D4307B44E800020
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0055B4E0 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BFE684 C01F050C
 w32 00BFE688 3D600057
@@ -58,6 +70,7 @@ w32 00BFE6DC 485621EE
 w32 005621E8 48BFE686
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BFE6E0 3D600057
 w32 00BFE6E4 616BCCB4
@@ -71,72 +84,89 @@ w32 00BFE738 485621F2
 w32 005621EC 48BFE6E2
 
 name: Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0053C900 3800270F
 
 name: Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005BA5BC 60000000
 
 name: Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00532598 60000000
 
 name: Pick Up More Than 1 Of An Item For Max Items
+author: bungholio
 mode: once
 w32 00556A38 48000008
 
 name: Alarms Never Go Off
+author: bungholio
 mode: once
 w32 004AA32C 4E800020
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0055B958 60000000
 
 name: AoB Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 aob C01F0A64EC000828 C01F0A64EC00082A
 
 name: AoB Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 000000000000000000000000000000002C0000010009000E000000000000000000BFE2C800BFE3BC00D74C9C000000000000000000000000000000002C00000100090020000000000000000000BFE2D400BFE3F400D74A8C00000000 C01F050C3D600057616BCCB4480000202C0000010009000E000000000000000000BFE2C800BFE3BC00D74C9C7C0B000040820028EC00F02A485621F22C00000100090020000000000000000000BFE2D400BFE3F400D74A8C485621EE
 aob EFDE0032C01F050C EFDE0032C01F050C
 
 name: AoB One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 0000000000000000000000002C00000100090007000000000000000000BFE2E400BFE47400D74A70000000000000000000000000000000002C0000010009001C000000000000000000BFE2F400BFE49000D74BA80000000000000000 3D600057616BCCB4480000202C00000100090007000000000000000000BFE2E400BFE47400D74A707C0B000041820028EC000028485621F22C0000010009001C000000000000000000BFE2F400BFE49000D74BA8EC00F028485621F2
 aob C01F050CEC00F028 C01F050C48BFE6E2
 
 name: AoB Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 80030A587C040214 80030A583800270F
 
 name: AoB Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 7C090050EBE100A8900B0000 7C090050EBE100A860000000
 
 name: AoB Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 7F2BC8509009004C 7F2BC85060000000
 
 name: AoB Pick Up More Than 1 Of An Item For Max Items
+author: bungholio
 mode: once
 aob 801B004C7F890000409D0008 801B004C7F89000048000008
 
 name: AoB Alarms Never Go Off
+author: bungholio
 mode: once
 aob 7D8000262C260000F821FEF1 4E8000202C260000F821FEF1
 
 name: AoB Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 409D00083800270F813F0100 600000003800270F813F0100
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005611F0 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C0BB04 C01F050C
 w32 00C0BB08 3D600058
@@ -150,6 +180,7 @@ w32 00C0BB5C 48568756
 w32 00568750 48C0BB06
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C0BB60 3D600058
 w32 00C0BB64 616B22BC
@@ -163,30 +194,37 @@ w32 00C0BBB8 4856875A
 w32 00568754 48C0BB62
 
 name: Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0054169C 3800270F
 
 name: Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005C118C 60000000
 
 name: Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00536710 60000000
 
 name: Alarms Never Go Off
+author: bungholio
 mode: once
 w32 004ACB2C 4E800020
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00561A5C 60000000
 
 name: Infinite MP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00561760 EC00082A
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C07B00 C01F050C
 w32 00C07B04 3D600058
@@ -200,6 +238,7 @@ w32 00C07B58 48568CC6
 w32 00568CC0 48C07B02
 
 name: One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00C07B5C 3D600058
 w32 00C07B60 616B282C
@@ -213,21 +252,26 @@ w32 00C07BB4 48568CCA
 w32 00568CC4 48C07B5E
 
 name: Money 9999 After Pickup Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00541C0C 3800270F
 
 name: Current Ammo Never Decreases
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005C16FC 60000000
 
 name: Reserve Ammo, Eve, And Health Kits Never Decrease
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00536C80 60000000
 
 name: Alarms Never Go Off
+author: bungholio
 mode: once
 w32 004AD0B4 4E800020
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00561FCC 60000000

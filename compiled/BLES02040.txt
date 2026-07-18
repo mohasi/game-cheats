@@ -1,157 +1,193 @@
 # Resident Evil Revelations 2
 
 name: No Reload
+author: dron_3
 mode: once
 w32 00445868 60650000
 
 name: Big Weapons
+author: x_com
 mode: once
 w32 00364400 40800000
 w32 00364404 40800000
 w32 00364408 40800000
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 7CBF1810809E6900 60650000809E6900
 
 name: AoB Freeze Clear Time
+author: dron_3
 mode: once
 aob EC63082AC0450004 60000000C0450004
 
 name: AoB 100 Accuracy, 0 Retries
+author: dron_3
 mode: once
 aob 7D2930147C093840 392000007C093840
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0043C230 607E0000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 7FC3F0142C1E000093DF1A18 607E00002C1E000093DF1A18
 
 name: Infinite Health
+author: dron_3, ported by x_com
 mode: once
 w32 0043C530 607E0000
 
 name: Infinite Ammo And Never Need To Reload
+author: dron_3, ported by x_com
 mode: once
 w32 00445B68 60650000
 
 name: Infinite Blue Life Crystals
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 00804AA4 60000000
 
 name: Freeze Clear Time
+author: dron_3, ported by x_com
 mode: once
 w32 007FA440 60000000
 
 name: 100 Accuracy, 0 Retries
+author: dron_3, ported by x_com
 mode: once
 w32 007FA524 39200000
 
 name: Infinite Bottle
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 0040E2F8 60000000
 
 name: Max BP On Buy Or Sell
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 00802270 3CC0000F
 w32 00802274 60C6423F
 
 name: Big Weapons
+author: x_com
 mode: once
 w32 00364700 40800000
 w32 00364704 40800000
 w32 00364708 40800000
 
 name: Knife Attack Speed Up
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 001A6F00 40000000
 
 name: Gun Attack Speed Up
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 003E9A34 40000000
 
 name: Max Skill Points On Use
+author: GelsonSilva from ? ported by x_com
 mode: once
 w32 008ADB7C 60000000
 
 name: 999,999,999 Raid Mode Coins
+author: OpGreece
 mode: once
 w32 32F6A10C 3B9AC9FF
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 0041B3E4 60000000
 w32 0043A7F8 60000000
 
 name: Invincible From Melee Attack
+author: Randy97Killa
 mode: once
 w32 00470564 4800003C
 
 name: Immunity From Gas [Barry Episode 4]
+author: Randy97Killa
 mode: once
 w32 00416B28 48000004
 
 name: Infinite Stamina
+author: Randy97Killa
 mode: once
 w32 004318C4 48000028
 
 name: Unlimited Ammo + Items
+author: Randy97Killa
 mode: once
 w32 00823D9C 63C30000
 
 name: No Reload
+author: Randy97Killa
 mode: once
 w32 003EA85C 48000004
 
 name: Infinite Throwables
+author: Randy97Killa
 mode: once
 w32 003EADE0 48000004
 
 name: Easy Kills
+author: Randy97Killa
 mode: once
 w32 002F61E8 3CA0FFFF
 
 name: Stop Countdown Timer [All Game Modes]
+author: Randy97Killa
 mode: once
 w32 007FAC78 60000000
 w32 007FACD0 60000000
 
 name: Freeze Clear Time [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 008B4884 60000000
 w32 008B4888 60000000
 
 name: Infinite Throwables [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 0040E2F8 3BA00064
 
 name: Max Gold Coin On Sell Or Buy [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 008B1834 3FE03B9A
 w32 008B1858 63FFC9FF
 
 name: Max Skill Points On Use [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 008ADC50 90C300EC
 
 name: Max Blue Life Crystals On Gain Or Use [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 00804AA0 3C807FFF
 w32 00804AA4 6084FFFF
 
 name: Infinite Protect The Target Health [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 01110544 38A02710
 
 name: Stop CountDown Skills Timer [Raid Mode]
+author: Randy97Killa
 mode: once
 w32 0040DED0 48000004
 w32 0040E2D4 91BE0024
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00F310BC 60000000
 w32 00F310D0 60000000

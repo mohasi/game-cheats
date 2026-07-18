@@ -1,22 +1,27 @@
 # Naruto Shippuden: Ultimate Ninja Storm 3
 
 name: Max Ryo On Buy + Sell
+author: Medo
 mode: once
 w32 00BA20B4 7D405378
 
 name: Max Level Legend On Gain
+author: Medo
 mode: once
 w32 000A9FCC 7C040378
 
 name: Max Level Hero On Gain
+author: Medo
 mode: once
 w32 000A9F84 7C040378
 
 name: Max Ryo on Buy
+author: Hiei-YYH
 mode: once
 w32 00BA20A4 60000000
 
 name: Infinite Health, Chakra + Decoy
+author: Hiei-YYH
 mode: once
 w32 010F8890 39630008
 w32 010F8894 816B0004
@@ -32,55 +37,68 @@ w32 0086A9D4 4888DEBD
 w32 0086A9D8 4BFFA0DD
 
 name: Fast Partner Recharge
+author: Hiei-YYH
 mode: once
 w32 00865AB8 60000000
 
 name: Infinite Item Usage
+author: Hiei-YYH
 mode: once
 w32 00985E20 3B7B0000
 
 name: Max Item Lv. After Battle
+author: Hiei-YYH
 mode: once
 w32 000A9F8C 60000000
 w32 000A9FD4 60000000
 
 name: AoB Max Ryo On Buy Or Sell
+author: Medo
 mode: once
 aob 7D604838900301304E8000203C630002380000D4 7D405378900301304E8000203C630002380000D4
 
 name: AoB Max Level Legend On Gain
+author: Medo
 mode: once
 aob 3C6300016000869F7F802040908342004C9C0020 3C6300016000869F7C040378908342004C9C0020
 
 name: AoB Max Level Hero On Gain
+author: Medo
 mode: once
 aob 3C6300016000869F7F802040908341FC4C9C0020 3C6300016000869F7C040378908341FC4C9C0020
 
 name: Max Ryo On Buy + Sell
+author: Medo
 mode: once
 w32 00BA3FDC 7D405378
 
 name: Max Level Legend On Gain
+author: Medo
 mode: once
 w32 000AA09C 7C040378
 
 name: Max Level Hero On Gain
+author: Medo
 mode: once
 w32 000AA054 7C040378
 
 name: Max Money
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-135.html
 mode: once
 w32 00BA3FCC 60000000
 
 name: Max Money Alt
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0149C69A 0098967F
 
 name: AoB Max Money
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-135.html
 mode: once
 aob 409900087D4B53787D6958F87D29FE70 600000007D4B53787D6958F87D29FE70
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 39F154EC 000002F2
 w32 3A0C6BD0 3F0207DB
@@ -96,11 +114,13 @@ w32 3A1E4A40 3F412E73
 w32 3A351440 4296EC4A
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 008CBFE0 60000000
 w32 008CBFEC 60000000
 
 name: Max Item Level After Battle
+author: Hiei-YYH
 mode: once
 w32 000A9F8C 60000000
 w32 000A9FD4 60000000

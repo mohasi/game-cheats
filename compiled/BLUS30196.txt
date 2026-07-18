@@ -1,22 +1,27 @@
 # Valkyria Chronicles
 
 name: Exp 99,999,999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1030F7B0 05F5E0FF
 
 name: DCT 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10346794 05F5E0FF
 
 name: CP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1031BEAC 00000014
 
 name: AP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0019AE18 D19F0310
 
 name: Infinite HP + Tank BHP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1031BEF0 0000270F
 w32 1031C044 0000270F
@@ -97,6 +102,7 @@ w32 1032228C 0000270F
 w32 103223E0 0000270F
 
 name: Can Continuous Attack
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 1031BEFE 00
 w8 1031C052 00
@@ -177,30 +183,37 @@ w8 1032229A 00
 w8 103223EE 00
 
 name: AoB Max Exp On Use
+author: hyper2k
 mode: once
 aob 409D00087C040378908BDDE84E800020 600000007C040378908BDDE84E800020
 
 name: AoB Max Exp On Gain (After battle)
+author: hyper2k
 mode: once
 aob 409D00087D004378786300209009DDE8 600000007D004378786300209009DDE8
 
 name: AoB Max DCT On Use (Go back in and out of workshop)
+author: hyper2k
 mode: once
 aob 4199000C908900004E8000207C040378 4800000C908900004E8000207C040378
 
 name: AoB Max DCT On Gain (After battle)
+author: hyper2k
 mode: once
 aob 409D00087D40537890090000790B0020 600000007D40537890090000790B0020
 
 name: AoB Max CP (Works for enemies too)
+author: hyper2k
 mode: once
 aob 409D000839200014912B000C813F0000 6000000039200014912B000C813F0000
 
 name: AoB Infinite AP
+author: www40.atwiki.jp/ps3hack/pages/76.html
 mode: once
 aob C1BF030CFF806800409D006CFC006890 60000000FF806800409D006CFC006890
 
 name: AoB Unlimited Attack And Heal
+author: www40.atwiki.jp/ps3hack/pages/76.html
 mode: once
 aob 60000100900B00444BF9B4C560000000 60000000900B00444BF9B4C560000000
 aob 60000100900B00444BF9B3B560000000 60000000900B00444BF9B3B560000000
@@ -213,10 +226,12 @@ aob 60000100900B004438000000913E0024 60000000900B004438000000913E0024
 aob 60000100900A00444BFFFEB44BF99F01 60000000900A00444BFFFEB44BF99F01
 
 name: AoB Infinite Ammo And Bullets
+author: www40.atwiki.jp/ps3hack/pages/76.html
 mode: once
 aob 83AB00084BFFFDA060000000 3BA0FFFF93AB00084BFFFDA0
 
 name: Infinite HP + Can Always Act
+author: Hiei-YYH
 mode: once
 w32 00C609BC 80690004
 w32 00C609C0 7D292214
@@ -230,56 +245,69 @@ w32 00C609DC 4BF2878C
 w32 00B89164 480D7858
 
 name: Infinite Exp
+author: Hiei-YYH
 mode: once
 w32 00508548 7F64DB78
 
 name: Infinite DCT
+author: Hiei-YYH
 mode: once
 w32 004D7068 7C641B78
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 001B8798 38A00000
 
 name: Infinite AP
+author: Hiei-YYH
 mode: once
 w32 000CEA9C C1A90308
 w32 000CEAA4 D1A90310
 
 name: Max CP
+author: Hiei-YYH
 mode: once
 w32 001AB0B8 3BE00014
 w32 001AB0BC 93E9000C
 w32 001AB0C0 4BFFFED8
 
 name: Reenter Camp For Max Exp
+author: hyper2k
 mode: once
 w32 0052DE5C 60000000
 
 name: Max Exp After Battle
+author: hyper2k
 mode: once
 w32 0053E0C4 60000000
 
 name: Max DCT On Use (Go back in and out of workshop)
+author: hyper2k
 mode: once
 w32 0052F60C 4800000C
 
 name: Max DCT On Gain (After battle)
+author: hyper2k
 mode: once
 w32 0053E088 60000000
 
 name: Infinite CP (Command Points)
+author: hyper2k
 mode: once
 w32 0018A30C 60000000
 
 name: Max Infinite AP (or AP Max)
+author: hyper2k
 mode: once
 w32 001A05A4 60000000
 
 name: AoB Max Exp On Use (go back in and out of training camp)
+author: hyper2k
 mode: once
 aob 409D00087C040378908BDDE84E800020 600000007C040378908BDDE84E800020
 
 name: AoB Max CP
+author: hyper2k
 mode: once
 aob 409D000839200014912B000C813F0000 6000000039200014912B000C813F0000

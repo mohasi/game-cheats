@@ -1,9 +1,11 @@
 # 2014 FIFA World Cup Brazil
 
 name: Infinite Retries (Training)
+author: PS3_Mentor
 mode: once
 w32 0053317C 60000000
 
 name: AoB Infinite Retries (Training)
+author: PS3_Mentor
 mode: once
 aob 3063FFFF989B6A11B0 60000000989B6A11B0

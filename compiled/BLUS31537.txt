@@ -1,119 +1,144 @@
 # Terraria
 
 name: Infinite HP
+author: dron_3
 mode: once
 w32 002E3000 60000000
 w32 003C3614 60000000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 003C1060 60000000
 w32 003C1084 60000000
 
 name: Take Item In Inventory To Maximize
+author: dron_3
 mode: once
 w32 002000E8 A01C2D76
 w32 002000EC B01C2D74
 
 name: AoB Infinite HP
+author: dron_3
 mode: once
 aob 7C1D00502F890000B01E33BE 600000002F890000B01E33BE
 aob 3929FFFEB17A00D07D200734 60000000B17A00D07D200734
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 3929FFFF7D200734B13A0064 600000007D200734B13A0064
 aob 7C004A147C090734B01A0066 600000007C090734B01A0066
 
 name: AoB Take Item In Inventory To Maximize
+author: dron_3
 mode: once
 aob A01C2D747C0007342F800000 A01C2D76B01C2D742F800000
 
 name: Infinite Items
+author: dron_3
 mode: once
 w32 00291FB8 38090001
 
 name: Infinite HP
+author: dron_3
 mode: once
 w32 002837C0 60000000
 w32 00289C78 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 398C9A94 00640064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00387B90 60000000
 w32 00387B88 60000000
 
 name: Memory Invincible When Enemy Hit You 1 Time
+author: jgduff1
 mode: once
 w32 398C6BF0 00170064
 w32 398C6BF4 FF010000
 
 name: ASM Invincible When Enemy Hit You 1 Time
+author: jgduff1
 mode: once
 w32 00391130 60000000
 w32 00391128 39290000
 
 name: Memory Inventory x999 On Drop + Use
+author: jgduff1
 mode: once
 w16 398C8330 0015
 
 name: ASM Inventory x999 On Drop + Use
+author: jgduff1
 mode: once
 w32 00038554 392903E7
 
 name: Memory Infinite Items + Ammo + Money + Construction In Inventory
+author: jgduff1
 mode: once
 w16 398C6F98 03E7
 
 name: ASM Infinite Items + Ammo + Money + Construction In Inventory
+author: jgduff1
 mode: once
 w32 003B2DFC 38090000
 w32 003B2E04 60000000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00387B88 60000000
 w32 00387B90 60000000
 
 name: ASM Invincible When Enemy Hit You 1 Time
+author: jgduff1
 mode: once
 w32 00391128 39290000
 w32 00391130 60000000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00387600 60000000
 w32 00387608 60000000
 
 name: ASM Invincible When Enemy Hit You 1 Time
+author: jgduff1
 mode: once
 w32 00393814 39290000
 w32 0039381C 60000000
 
 name: ASM Inventory x999 On Drop + Use
+author: jgduff1
 mode: once
 w32 00038890 392903E7
 
 name: ASM Infinite Items + Ammo + Money + Construction In Inventory
+author: jgduff1
 mode: once
 w32 003B4FD8 38090000
 w32 003B4FE0 60000000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00387938 60000000
 w32 00387940 60000000
 
 name: ASM Invincible When Enemy Hit You 1 Time
+author: jgduff1
 mode: once
 w32 00390ED8 39290000
 w32 00390EE0 60000000
 
 name: ASM Infinite Items + Ammo + Money + Construction In Inventory
+author: jgduff1
 mode: once
 w32 003B2BAC 38090000
 w32 003B2BB4 60000000

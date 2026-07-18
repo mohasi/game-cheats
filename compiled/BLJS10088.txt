@@ -1,47 +1,58 @@
 # Knights Contract
 
 name: Memory Fast Regeneration (Heinrich)(Gretchen Only When You Grab It) (1 Second For Full Life) + Press X 1 Time For Revive
+author: jgduff1
 mode: once
 w32 111876A4 00000032
 
 name: ASM Heinrich Fast Regeneration
+author: jgduff1
 mode: once
 w32 001E5E30 7C8B4A14
 
 name: Memory Gretchen Infinite Health
+author: jgduff1
 mode: once
 w32 110D2034 000000C8
 
 name: ASM Gretchen Infinite Health
+author: jgduff1
 mode: once
 w32 001E660C 7D204850
 w32 001E6614 60000000
 
 name: Memory Lot Of Orbs When Gain
+author: jgduff1
 mode: once
 w32 1589D058 00000647
 
 name: ASM Lot Of Orbs When Gain
+author: jgduff1
 mode: once
 w32 001E6B84 7F822214
 w32 001E6B88 915D0008
 
 name: Memory No Waiting Time For Magic
+author: jgduff1
 mode: once
 w32 1589C6A4 00000000
 
 name: ASM No Waiting Time For Magic
+author: jgduff1
 mode: once
 w32 00195090 EC0DF828
 
 name: Memory Instant Max + Infinite Berserker
+author: jgduff1
 mode: once
 w32 1103AD20 00000064
 
 name: Instant Max Berserker
+author: jgduff1
 mode: once
 w32 001E5E84 91230014
 
 name: Infinite Berserker
+author: jgduff1
 mode: once
 w32 001E62C0 60000000

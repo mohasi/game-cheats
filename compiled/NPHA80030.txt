@@ -1,11 +1,13 @@
 # Dark Mist - The Depths of Darkness
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00131E50 A009003C
 w32 00131E54 B009003E
 
 name: Infinite Special + Infinite Arrow
+author: Randy97Killa
 mode: once
 w32 000879DC 39290000
 w32 0008ECD4 48000010

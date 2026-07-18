@@ -1,13 +1,16 @@
 # Bodycount
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 00425390 90030008
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 009F5E98 EC224028
 
 name: Infinite Grenades
+author: jgduff1
 mode: once
 w32 00AFCA50 60000000

@@ -1,58 +1,72 @@
 # Fallout 3: Game of the Year Edition
 
 name: Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+author: dron_3
 mode: once
 w8 0112076C 01
 
 name: No Collision
+author: dron_3
 mode: once
 w8 012B7410 01
 
 name: Raise Max Level Cap To 255 (30 default)
+author: veritassdg
 mode: once
 w32 012BACD4 000000FF
 
 name: More Skill Points Per Level Up
+author: veritassdg
 mode: once
 w32 012BAC94 00000002
 
 name: Raise Max Damage Resistance
+author: veritassdg
 mode: once
 w32 012BB1C4 4F8F3800
 w32 012BB1D4 4F8F3800
 
 name: Action Points Regen Really Fast
+author: veritassdg
 mode: once
 w32 012C74AC 42C80000
 
 name: More EXP From Lock Picking
+author: veritassdg
 mode: once
 w32 012BAEB4 00002724
 
 name: More EXP From Hacking
+author: veritassdg
 mode: once
 w32 012BAEA4 00002724
 
 name: More EXP From Killing Opponent
+author: veritassdg
 mode: once
 w32 012BAEC4 00002724
 
 name: More EXP From Discovering Map Markers
+author: veritassdg
 mode: once
 w32 012BAE94 00002724
 
 name: More EXP From Discovering Secret Areas
+author: veritassdg
 mode: once
 w32 012BAE84 00002724
 
 name: 0% Chance To Take Leg Damage
+author: veritassdg
 mode: once
 w32 012BC174 00000000
 
 name: AoB Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+author: dron_3
 mode: once
 aob 88840000FBC100882C04000040820058 3BE00001FBC100889BE4000048000058
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00702BCC 60000000

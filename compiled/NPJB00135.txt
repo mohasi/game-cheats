@@ -1,38 +1,47 @@
 # BioHazard Code: Veronica Kanzenban
 
 name: Always Low Time
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3E38 00000000
 
 name: Retry Always 0
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3E40 00000000
 
 name: No Save Record
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3618 00000000
 
 name: Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00BDEA9E 00C8
 
 name: Unlock Everything
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB358C 00001FFF
 
 name: Unlock All Files
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3E04 00FFFFFF
 
 name: 1st Person View
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35F7 12
 
 name: Normal View
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35F7 C2
 
 name: Special Weapon in Item Box
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3AE4 002003E7
 w32 00BB3AE8 00020BB5
@@ -45,21 +54,26 @@ w32 00BB3B00 000B03E7
 w32 00BB3B04 000103E7
 
 name: Save Free Near Typewriter
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35FD 20
 
 name: Item Box Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35FD 04
 
 name: Security Box 1 Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35FD 0C
 
 name: Security Box 2 Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB35FD 14
 
 name: Remove Door Animations
+author: Kapdap
 mode: once
 w32 001AE304 38600000

@@ -1,14 +1,17 @@
 # BlackSite
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 00057778 38090000
 
 name: ASM Infinite Grenade
+author: jgduff1
 mode: once
 w32 0067EEB4 39690000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 52008F30 52008F30
 w32 52008F34 52008F30
@@ -17,6 +20,7 @@ w32 52E1D1EC 3F800000
 w32 5203FB54 101E0444
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00061AE8 60000000
 w32 000D1CD8 60000000

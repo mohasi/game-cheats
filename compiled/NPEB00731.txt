@@ -1,19 +1,23 @@
 # Call of Duty: Modern Warfare 2
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 010D5AAC 000003E7
 w32 010D5AB0 000003E7
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0120E80C 000003E7
 
 name: Infinite Flash Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0120E818 000003E7
 
 name: Infinite Ammo for All
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0120E7F4 000003E7
 w32 0120E778 0000270F

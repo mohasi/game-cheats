@@ -1,20 +1,24 @@
 # Trinity: Souls of Zill O'll
 
 name: Memory Health Regeneration After Battle And Level Up
+author: jgduff1
 mode: once
 w32 36F893A8 000003E7
 
 name: Memory Max Level + Hp + Mp + Atk + Def + Spr + Mgr On Kill
+author: jgduff1
 mode: once
 w32 00B5E124 00000046
 w32 340CE4E0 00000046
 w32 340CE4E4 00000046
 
 name: ASM Max Level + Hp + Mp + Atk + Def + Spr + Mgr On Kill
+author: jgduff1
 mode: once
 w32 002789CC 91630034
 
 name: Memory Max + Infinite Skills Points On Gain
+author: jgduff1
 mode: once
 w32 00B5E0EC 0000002E
 w32 33E5512C 0000002E
@@ -22,132 +26,164 @@ w32 340DF3D0 0000002E
 w32 340DF3D4 0000002E
 
 name: ASM Max + Infinite Skills Points On Gain
+author: jgduff1
 mode: once
 w32 0027DA98 91630028
 
 name: Memory Max + Infinite Gold In Shop
+author: jgduff1
 mode: once
 w32 00B5E0D8 000003E7
 w32 33E54EE4 000003E7
 
 name: ASM Max + Infinite Gold In Shop + Arena
+author: jgduff1
 mode: once
 w32 0027DC90 90030014
 
 name: ASM Gold Never Increases Or Decreases
+author: jgduff1
 mode: once
 w32 00103038 60000000
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w32 00B61A38 00000005
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 002802E8 91230000
 
 name: Memory Instant + Infinite Full Burst On Kill In Battle
+author: jgduff1
 mode: once
 w32 36F85374 00000000
 
 name: ASM Instant + Infinite Full Burst On Kill In Battle
+author: jgduff1
 mode: once
 w32 0016C154 90430004
 w32 0016C17C 91230004
 
 name: Gold 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00B49508 0098967F
 
 name: SP 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00B4951C 0001869F
 
 name: Max Money On Buy
+author: JorgeFFC
 mode: once
 w32 0027DC84 60000000
 
 name: Max Casino Coins In Exchange For A Prize
+author: JorgeFFC
 mode: once
 w32 0027DA10 60000000
 
 name: Max Skill Points After Using An SP Item
+author: JorgeFFC
 mode: once
 w32 0027DA60 60000000
 
 name: Infinite Item Usage
+author: JorgeFFC
 mode: once
 w32 002802E0 60000000
 
 name: Instant Max Level On 1 Kill
+author: JorgeFFC
 mode: once
 w32 002789C4 60000000
 
 name: Instant Recover HP After Exit Battle Mode
+author: JorgeFFC
 mode: once
 w32 0016A98C 60000000
 
 name: Hero Actual HP
+author: JorgeFFC
 mode: once
 w16 36F893AA 270F
 
 name: Max Money On Buy
+author: JorgeFFC
 mode: once
 w32 0027DC90 60000000
 
 name: Max Casino Coins In Exchange For A Prize
+author: JorgeFFC
 mode: once
 w32 0027DA1C 60000000
 
 name: Max Skill Points After Using An SP Item
+author: JorgeFFC
 mode: once
 w32 0027DA6C 60000000
 
 name: Infinite Item Usage
+author: JorgeFFC
 mode: once
 w32 002802EC 60000000
 
 name: Instant Max Level On 1 Kill
+author: JorgeFFC
 mode: once
 w32 002789D0 60000000
 
 name: Instant Recover HP After Exit Battle Mode
+author: JorgeFFC
 mode: once
 w32 0016A998 60000000
 
 name: AoB Max Money On Buy
+author: JorgeFFC
 mode: once
 aob 6000967F7F840040409D00087C04037881622914 6000967F7F840040600000007C04037881622914
 
 name: AoB Max Casino Coins In Exchange For A Prize
+author: JorgeFFC
 mode: once
 aob 6000423F7F840040409D00087C040378 6000423F7F840040600000007C040378
 
 name: AoB Max Skill Points After Using An SP Item
+author: JorgeFFC
 mode: once
 aob 409D00087C040378908300284E80002081230028 600000007C040378908300284E80002081230028
 
 name: AoB Infinite Item Usage
+author: JorgeFFC
 mode: once
 aob 2F840063409D00083880006390830000 2F840063600000003880006390830000
 
 name: AoB Instant Max Level On 1 Kill
+author: JorgeFFC
 mode: once
 aob 7F845800409D00087D645B7890830034 7F845800600000007D645B7890830034
 
 name: AoB Instant Recover HP After Exit Battle Mode
+author: JorgeFFC
 mode: once
 aob 7FC300387F834800409D00087D234B78 7FC300387F834800600000007D234B78
 
 name: ASM Max + Infinite Skills Points On Gain
+author: jgduff1
 mode: once
 w32 0027DAA4 91630028
 
 name: ASM Gold Never Increases Or Decreases
+author: jgduff1
 mode: once
 w32 00103044 60000000
 
 name: ASM Instant + Infinite Full Burst On Kill In Battle
+author: jgduff1
 mode: once
 w32 0016C160 90430004
 w32 0016C188 91230004

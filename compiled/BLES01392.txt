@@ -1,24 +1,29 @@
 # Ace Combat: Assault Horizon
 
 name: Max + Infinite Resistance
+author: FBML
 mode: once
 w32 000FDCFC C00A016C
 w32 000FDD00 D00A0168
 w32 000FDD04 4800002C
 
 name: Max + Infinite Missiles + Flares After Use
+author: FBML
 mode: once
 w32 0041D7B0 48000018
 
 name: No Cooldown For Regular Missiles
+author: FBML
 mode: once
 w32 0041F8A0 EC000032
 
 name: No Cooldown For Special Missiles
+author: FBML
 mode: once
 w32 00421E88 EC000032
 
 name: 999,999,999 Points After Buying Something
+author: FBML
 mode: once
 w32 00571BA0 3C803B9A
 w32 00571BA4 7F23CB78

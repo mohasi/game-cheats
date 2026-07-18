@@ -1,10 +1,12 @@
 # Masquerade - The Baubles of Doom
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 3ADE903C 42C80000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 0042FF7C 896A0000
 w32 0045D3E0 60000000

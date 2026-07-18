@@ -1,6 +1,7 @@
 # Punisher, The - No Mercy
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 12F221B0 00000015
 w32 16998B8C 00000015
@@ -8,10 +9,12 @@ w32 16B53FEC 00000020
 w32 16B5427C 00000016
 
 name: ASM Infinite Ammo + No Reload NPEB00098 01.02
+author: jgduff1
 mode: once
 w32 008233DC 3BC30000
 
 name: ASM Infinite Ammo + No Reload NPUB30070 01.01
+author: jgduff1
 mode: once
 w32 00822FFC 39280000
 w32 0082301C 3BC30000

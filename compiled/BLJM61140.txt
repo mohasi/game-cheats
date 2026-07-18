@@ -1,6 +1,7 @@
 # Shin Gundam Musou
 
 name: Infinite Burst
+author: dron_3
 mode: once
 w32 0001CAB4 80BD06F0
 w32 0001CABC F8A10088
@@ -10,15 +11,18 @@ w32 0001CACC D03D06F4
 w32 0001CAD0 F8810088
 
 name: Infinite Armor
+author: dron_3
 mode: once
 w32 0001CADC 80DD06E0
 w32 0001CAE0 90DD06E4
 
 name: Infinite Thruster
+author: dron_3
 mode: once
 w32 0001CB08 D05D074C
 
 name: Infinite SP
+author: dron_3
 mode: once
 w32 0001CB10 A07D06E8
 w32 0001CB14 F8610088
@@ -27,67 +31,83 @@ w32 0001CB1C FC40169C
 w32 0001CB20 D05D075C
 
 name: AoB Infinite Burst
+author: dron_3
 mode: once
 aob C03D074C3863C230C0430014A09D074AEC21102A78840020FC200E5ED8210088 80BD06F03863C230F8A10088A09D074AC8210088FC200E9CD03D06F4F8810088
 
 name: AoB Infinite Armor
+author: dron_3
 mode: once
 aob 78A60020F8C10088C0230030 80DD06E090DD06E4C0230030
 
 name: AoB Infinite Thruster
+author: dron_3
 mode: once
 aob FC401E9CFC401018EC211024 FC401E9CD05D074CEC211024
 
 name: AoB Infinite SP
+author: dron_3
 mode: once
 aob C0430010FC620828FC2308AEFC41F828FFE20FEE A07D06E8F8610088C8410088FC40169CD05D075C
 
 name: Infinite Team Points
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 002E2B44 60000000
 
 name: Infinite Materials
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 001090CC 7D044378
 
 name: Infinite Money
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 0032A344 90A307B8
 
 name: Transformation Back To 0 (Synthesis)
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 00100C84 3BA00000
 
 name: Transformation Back To 0 (Special Equipment)
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 00100580 38800000
 
 name: 30,000 Plays, Clears, + Kills
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 w32 00108F0C 39007530
 w32 00108F1C 38C07530
 
 name: AoB Infinite Team Points
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 7C9B2010909D003C4BFFE8857C7D0734 60000000909D003C4BFFE8857C7D0734
 
 name: AoB Infinite Materials
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 7C8540105483043EB08700004E800020 7D0443785483043EB08700004E800020
 
 name: AoB Infinite Money
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 908307B84E800020F821FF917C0802A6 90A307B84E800020F821FF917C0802A6
 
 name: AoB Transformation Back To 0 (Synthesis)
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 4081000863A40000989F0004E80100B0 3BA0000063A40000989F0004E80100B0
 
 name: AoB Transformation Back To 0 (Special Equipment)
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 408100086085000098A300044E800020 388000006085000098A300044E800020
 
 name: AoB 30,000 Plays, Clears, & Kills
+author: games24.blog.fc2.com/blog-entry-226.html
 mode: once
 aob 7D04182E78C6002078E7002031230008 390003E778C6002078E7002031230008
 aob 80C600047D05192E7D2307B490C70004 38C003E77D05192E7D2307B490C70004

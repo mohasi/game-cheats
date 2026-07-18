@@ -1,11 +1,13 @@
 # Makai Senki Disgaea 3
 
 name: HL 99999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10B86348 00000017
 w32 10B8634C 4876E7FF
 
 name: All Story Character EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10B86C70 00000017
 w32 10B86C74 4876E7FF
@@ -23,6 +25,7 @@ w32 10B946E0 00000017
 w32 10B946E4 4876E7FF
 
 name: All Story Character HP 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E7D2EC 0098967F
 w32 00E7F754 0098967F
@@ -40,6 +43,7 @@ w32 00E88904 0098967F
 w32 00E8AD6C 0098967F
 
 name: All Story Character SP 999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E7D2F4 000F423F
 w32 00E7F75C 000F423F
@@ -57,6 +61,7 @@ w32 00E8890C 000F423F
 w32 00E8AD74 000F423F
 
 name: All Story Character Stats 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E7D30C 0001869F
 w32 00E7F774 0001869F
@@ -102,11 +107,13 @@ w32 00E8893C 0001869F
 w32 00E8ADA4 0001869F
 
 name: HL 99999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E7C060 00000017
 w32 00E7C064 4876E7FF
 
 name: All Story Character EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E7C988 00000017
 w32 00E7C98C 4876E7FF
@@ -124,27 +131,33 @@ w32 00E8A3F8 00000017
 w32 00E8A3FC 4876E7FF
 
 name: Max Mana
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 w32 000DF458 2F800000
 
 name: Max HL
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 w32 001B1D3C 2F9D0000
 w32 0018F4D8 2F800000
 
 name: Max Damage
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 w32 000DCE20 7C000050
 
 name: AoB Max Mana
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 aob 7F804840409D0008912B0A1080750074 2F800000409D0008912B0A1080750074
 
 name: AoB Max HL
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 aob 7FBD0000409D0008F81F03A038600002 2F9D0000409D0008F81F03A038600002
 aob 7FA04800409D0008F92B03A07F83E378 2F800000409D0008F92B03A07F83E378
 
 name: AoB Max Damage
+author: games24.blog.fc2.com/blog-entry-157.html
 mode: once
 aob 7C090050F80B09604800000C38000000 7C000050F80B09604800000C38000000

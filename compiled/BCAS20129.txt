@@ -1,66 +1,81 @@
 # Chou Jigen Game: Neptune
 
 name: Neptune EXP Max
+author: xtatu
 mode: once
 w32 010FF940 3B9AC9FF
 
 name: Neptune Exp Max
+author: xtatu
 mode: once
 w32 0138A638 3B9AC9FF
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 00284250 38C90000
 
 name: Death
+author: xtatu
 mode: once
 w32 00284250 7CC94850
 
 name: 0 GP
+author: xtatu
 mode: once
 w32 00284284 7D4C6050
 
 name: Infinite Hammer Attack Gauge
+author: xtatu
 mode: once
 w32 001BD274 C1A10070
 w32 001BD278 D1BF001C
 
 name: Infinite Treasure Search
+author: xtatu
 mode: once
 w32 001BD33C D1BF0030
 w32 001BD39C D1BF0020
 
 name: Encounters Off
+author: xtatu
 mode: once
 w32 00174B68 38E80000
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 002785D0 38C90000
 
 name: Instant Death
+author: xtatu
 mode: once
 w32 002785D0 7CC94850
 
 name: 0 GP
+author: xtatu
 mode: once
 w32 00278604 7D4C6050
 
 name: Infinite Hammer Attack Gauge
+author: xtatu
 mode: once
 w32 001BAE40 C1A10070
 w32 001BAE44 D1BF001C
 
 name: Infinite Treasure Search
+author: xtatu
 mode: once
 w32 001BAF0C D1BF0030
 w32 001BAE6C D1BF0020
 
 name: No Encounters
+author: xtatu
 mode: once
 w32 001730C0 38E80000
 
 name: All Items 100% Skills
+author: xtatu
 mode: once
 w32 01109728 00000064
 w32 0110973C 00000064
@@ -319,6 +334,7 @@ w32 0110AAEC 00000064
 w32 0110AB00 00000064
 
 name: Item 999 Synthetic Material
+author: xtatu
 mode: once
 w32 39484808 000003E7
 w32 39484834 000003E7

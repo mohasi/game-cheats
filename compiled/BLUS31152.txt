@@ -1,65 +1,81 @@
 # Atelier Ayesha: The Alchemist of Dusk
 
 name: Synthesis Does Not Decrease Materials
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 0016CDDC 60000000
 
 name: Infinite Item Usage ON (May Freeze game when using same item fast)
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 00174A14 60000000
 
 name: Infinite Item Usage OFF
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 00174A14 30A5FFFF
 
 name: Infinite MP
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 000B9784 60000000
 
 name: Max Quality During Synthesis
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 0027E54C 48000008
 
 name: Freeze Day ON (Use after getting your first workshop from Harry)
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 0024B018 7CC53378
 
 name: Freeze Day OFF
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 0024B018 7CA62814
 
 name: Max Cole or Money
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 01528D0C 0098967F
 
 name: Max Points
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 w32 015B8384 000F423F
 
 name: AoB Synthesis Does Not Decrease Materials
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 7CC6F0142C0600004080000838C00000 600000002C0600004080000838C00000
 
 name: AoB Infinite Item Usage ON (May Freeze game when using same item fast)
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 30A5FFFF2C05000090A3001C41810048 600000002C05000090A3001C41810048
 
 name: AoB Infinite Item Usage OFF
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 600000002C05000090A3001C41810048 30A5FFFF2C05000090A3001C41810048
 
 name: AoB Infinite MP
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 7CA518147C8418147C8307B460640000 38A51388388413887C8307B460640000
 
 name: AoB Max Quality During Synthesis
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 4181000848000008FFE00890C03A0004 4800000848000008FFE00890C03A0004
 
 name: AoB Freeze Day ON (Use after getting your first workshop from Harry)
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 7CA628142C0500004180000860A40000 7CC533782C0500004180000860A40000
 
 name: AoB Freeze Day OFF (Use after getting your first workshop from Harry)
+author: games24.blog.fc2.com/blog-entry-178.html
 mode: once
 aob 7CC533782C0500004180000860A40000 7CA628142C0500004180000860A40000

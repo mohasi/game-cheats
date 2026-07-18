@@ -1,9 +1,11 @@
 # Harry Potter and the Order of the Phoenix
 
 name: 60 FPS (RPCS3) [Tested]
+author: RPCS3, NunoRS2000
 mode: once
 w32 0066B764 38800001
 
 name: 60 FPS (PSXPlace) [Tested]
+author: RPCS3, NunoRS2000
 mode: once
 w32 0066B764 38800001

@@ -1,10 +1,12 @@
 # LEGO Batman: The Videogame
 
 name: Infinite Gold
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007A23F0 3B9AC9FF
 
 name: Infinite Box
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0080D800 0000000A
 w32 0080D804 0000000A

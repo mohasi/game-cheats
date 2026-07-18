@@ -1,34 +1,42 @@
 # Raystorm HD
 
 name: Infinite Player Stock
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00BB4324 0005
 
 name: 99,999,999 Score
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 31A631F0 0098967F
 
 name: Memory Infinite Credits
+author: jgduff1
 mode: once
 w32 00984FD0 34000000
 
 name: ASM Infinite Credits
+author: jgduff1
 mode: once
 w32 0013FACC 30E30000
 
 name: Memory Easy High Score
+author: jgduff1
 mode: once
 w32 31A631F0 00003530
 
 name: ASM Easy High Score
+author: jgduff1
 mode: once
 w32 000148E4 60000000
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 00BB4324 00030000
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00270F30 30630000
 w32 00270F34 B07F0070

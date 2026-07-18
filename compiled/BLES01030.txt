@@ -1,21 +1,26 @@
 # Atelier Rorona: The Alchemist of Arland
 
 name: Max Cole on Change in Value
+author: xilium
 mode: once
 w32 002CD0B8 60000000
 
 name: Max HP Battle
+author: ChaosZage
 mode: once
 w32 001D0010 409D0128
 
 name: Max Attack During Combat
+author: xilium
 mode: once
 w32 001D0054 409D00C4
 
 name: Max Defense During Combat
+author: xilium
 mode: once
 w32 001D0098 409D0074
 
 name: Lv 999
+author: ChaosZage
 mode: once
 w32 001CFF88 409D01F0

@@ -1,25 +1,31 @@
 # Castlevania - Lords of Shadow - Mirror of Fate HD
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0024D00C C0230070
 
 name: Infinite Magic
+author: dron_3
 mode: once
 w32 001FBC4C C05F0040
 
 name: Infinite Secondary Weapon
+author: dron_3
 mode: once
 w32 002363CC 38600064
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob FB61007838A00001 FB610078C0230070
 
 name: AoB Infinite Magic
+author: dron_3
 mode: once
 aob FC4408AEFC021800 C05F0040FC021800
 
 name: AoB Infinite Secondary Weapon
+author: dron_3
 mode: once
 aob 60000000607F0000480000183C6000968084002C3063BF2C 38600064607F0000480000183C6000968084002C3063BF2C

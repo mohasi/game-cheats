@@ -1,10 +1,12 @@
 # Port Royale 3
 
 name: Memory Lot + Infinite Gold When You Buy + Sell Or When The Time Past
+author: jgduff1
 mode: once
 w32 418AF304 00007530
 
 name: ASM Lot + Infinite Gold When You Buy + Sell Or When The Time Past
+author: jgduff1
 mode: once
 w32 0036C20C 7C852014
 w32 0036C218 904302A4

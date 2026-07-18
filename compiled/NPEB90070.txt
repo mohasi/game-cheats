@@ -1,14 +1,17 @@
 # Race Driver: Grid
 
 name: Memory Infinite Flashback
+author: jgduff1
 mode: once
 w16 715BA2D6 0000
 
 name: ASM Infinite Flashback
+author: jgduff1
 mode: once
 w32 004BB080 39290000
 
 name: Memory Lots Of Money After One Race
+author: jgduff1
 mode: once
 w32 30078D88 00002904
 w32 32B74FE8 00002904
@@ -22,6 +25,7 @@ w32 72293CF4 00002904
 w32 72296BD4 00002904
 
 name: Memory Always First
+author: jgduff1
 mode: once
 w32 32514528 00000002
 w32 326C99A8 00000002
@@ -35,6 +39,7 @@ w32 700BB434 00000002
 w32 700BB43C 00000002
 
 name: ASM Always First
+author: jgduff1
 mode: once
 w32 008CFA70 60000000
 w32 008CFA90 60000000

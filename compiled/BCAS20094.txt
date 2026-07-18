@@ -1,5 +1,6 @@
 # Tears to Tiara Gaiden : Avalon no Nazo
 
 name: Max HP + MP + LV + SKL [01.02]
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30340360 3B9AC9FF

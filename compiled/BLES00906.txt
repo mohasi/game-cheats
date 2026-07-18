@@ -1,6 +1,7 @@
 # Prince of Persia: The Forgotten Sands
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 012032D0 F821FFF9
 w32 012032D4 F8A10000
@@ -20,6 +21,7 @@ w32 01203308 482C04F2
 w32 002C04EC 492032D2
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 012032D0 F821FFF9
 w32 012032D4 F8A10000
@@ -39,6 +41,7 @@ w32 01203308 482C04F2
 w32 002C04EC 492032D2
 
 name: Health Never Decreases, Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 012032D0 F821FFF9
 w32 012032D4 F8A10000
@@ -58,51 +61,63 @@ w32 01203308 482C04F2
 w32 002C04EC 492032D2
 
 name: Some Higher Jumps
+author: bungholio
 mode: once
 w32 00BFF1A4 60000000
 
 name: Energy Never Decreases
+author: bungholio
 mode: once
 w32 003A2794 60000000
 w32 007964B0 60000000
 
 name: Max Energy On Gain
+author: bungholio
 mode: once
 w32 003A28EC 60000000
 
 name: Gain 1 Exp For Max Exp And Upgrade Points
+author: bungholio
 mode: once
 w32 003A2D1C 60000000
 
 name: Individual Powers Stay On Forever
+author: bungholio
 mode: once
 w32 0080F004 3CE07FF0
 
 name: Flow Power Never Decreases
+author: bungholio
 mode: once
 w32 00804568 D3FC0014
 
 name: Can Reverse Time Past Normal Limit
+author: bungholio
 mode: once
 w32 003973C4 60000000
 
 name: Challenge Mode Timer Never Increases
+author: bungholio
 mode: once
 w32 004095AC 60000000
 
 name: Max XP Points
+author: shark2003
 mode: once
 w8 1159FF9B FF
 
 name: Infinite Rewind + Powers
+author: shark2003
 mode: once
 w8 11648DB7 FF
 
 name: Infinite Freeze
+author: shark2003
 mode: once
 w8 114BA6ED FF
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 012033B0 81030028
 w32 012033B4 91030044
@@ -110,102 +125,124 @@ w32 012033B8 4B6192F2
 w32 006192EC 492033B2
 
 name: Infinite Rewind
+author: Hiei-YYH
 mode: once
 w32 00796508 39440000
 
 name: Max Upgrade Points After Level Up
+author: Hiei-YYH
 mode: once
 w32 003A2D2C 38000063
 
 name: AoB Health Never Decreases
+author: bungholio
 mode: once
 aob 002C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 002C00000000000000000000000000000000000000000000F821FFF9F8A100003CA0016580A5DB1080A502B080A5001C38A500307F9D2800E8A1000038210008409E000C809D0018480000087C840050482C04F2
 aob 7C0048507C840050 7C004850492032D2
 
 name: AoB Enemies Die From Any Damage
+author: bungholio
 mode: once
 aob 002C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 002C00000000000000000000000000000000000000000000F821FFF9F8A100003CA0016580A5DB1080A502B080A5001C38A500307F9D2800E8A1000038210008409E000C7C8400504800000838800000482C04F2
 aob 7C0048507C840050 7C004850492032D2
 
 name: AoB Health Never Decreases, Enemies Die From Any Damage
+author: bungholio
 mode: once
 aob 002C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 002C00000000000000000000000000000000000000000000F821FFF9F8A100003CA0016580A5DB1080A502B080A5001C38A500307F9D2800E8A1000038210008409E000C809D00184800000838800000482C04F2
 aob 7C0048507C840050 7C004850492032D2
 
 name: AoB Some Higher Jumps
+author: bungholio
 mode: once
 aob 57BD063E98890046 57BD063E60000000
 
 name: AoB Energy Never Decreases
+author: bungholio
 mode: once
 aob 812B0004906B0014 812B000460000000
 aob 419E0054812B0004914B0014 419E0054812B000460000000
 
 name: AoB Max Energy On Gain
+author: bungholio
 mode: once
 aob 7F841840409D0008 7F84184060000000
 
 name: AoB Gain 1 Exp For Max Exp And Upgrade Points
+author: bungholio
 mode: once
 aob 7F83E840419D0038 7F83E84060000000
 
 name: AoB Individual Powers Stay On Forever
+author: bungholio
 mode: once
 aob 409C02487CEB4A14 409C02483CE07FF0
 
 name: AoB Flow Power Never Decreases
+author: bungholio
 mode: once
 aob 813C0004D3FC0014 813C000460000000
 
 name: AoB Can Reverse Time Past Normal Limit
+author: bungholio
 mode: once
 aob 7BFC00207FA3EB78D0010070 7BFC00207FA3EB7860000000
 
 name: AoB Challenge Mode Timer Never Increases
+author: bungholio
 mode: once
 aob 38210080D009000C 3821008060000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 1402EC24 000000C8
 w32 1650F454 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002C0690 7C00D850
 w32 002C06A4 93630048
 w32 002C06B8 901D0014
 
 name: Memory Infinite Rewind
+author: jgduff1
 mode: once
 w32 11648D34 00000008
 
 name: ASM Infinite Rewind
+author: jgduff1
 mode: once
 w32 003A3E80 7C6F0050
 w32 003A3E94 900B0000
 w32 00796ED0 908B0014
 
 name: Memory Max Level + Upgrade On 2 Kill
+author: jgduff1
 mode: once
 w32 114FD664 00000007
 
 name: ASM Max Level + Upgrade On 2 Kill
+author: jgduff1
 mode: once
 w32 003A2DC0 904B0014
 
 name: Memory Infinite Upgrade Points
+author: jgduff1
 mode: once
 w16 12E383AA 0020
 w32 13314008 0000001E
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 161B08C4 161B97A0
 w32 1624AFC4 1625EE90
 w32 1624F044 1624E630
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 01203D60 81030028
 w32 01203D64 91030044
@@ -213,9 +250,11 @@ w32 01203D68 4B404808
 w32 00619D0C 48BEA054
 
 name: Infinite Rewind
+author: Hiei-YYH
 mode: once
 w32 00796F28 39440000
 
 name: Max Upgrade Points After Level Up
+author: Hiei-YYH
 mode: once
 w32 003A2D84 38000063

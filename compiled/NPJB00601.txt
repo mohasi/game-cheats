@@ -1,15 +1,18 @@
 # One Piece: Unlimited World R
 
 name: Infinite Item Usage
+author: Hiei-YYH
 mode: once
 w32 002AAC1C 30A30000
 
 name: Max Money After Buying Something
+author: Hiei-YYH
 mode: once
 w32 002AB63C 3D003B9A
 w32 002AB644 6108C9FF
 
 name: Infinite HP + SP
+author: Hiei-YYH
 mode: once
 w32 008A9510 807F0498
 w32 008A9514 80830004

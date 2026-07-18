@@ -1,6 +1,7 @@
 # From Dust
 
 name: Infinite Sand + Water (Press L3+R3)
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010100 3DC00006
 w32 00010104 80BE01AC

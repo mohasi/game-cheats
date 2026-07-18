@@ -1,10 +1,12 @@
 # Sly 3 - Honor Among Thieves
 
 name: Max Money
+author: Hereisme
 mode: once
 w32 006CC808 000F423F
 
 name: Have All Gadgets
+author: Hereisme
 mode: once
 w32 006CC7F8 FFFFFFFF
 w32 006CC7FC FFFFFFFF

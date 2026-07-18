@@ -1,9 +1,11 @@
 # Sengoku Musou 4-II
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 0006C820 4E800020
 
 name: Invincible
+author: xtatu
 mode: once
 w32 000ACD60 60000000

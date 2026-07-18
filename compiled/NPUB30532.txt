@@ -1,6 +1,7 @@
 # Deep Black
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 349B0358 3F800000
 w32 349B049C 3E2D602B
@@ -12,6 +13,7 @@ w32 34D15C68 42AEFE7C
 w32 35549870 000C0000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 003587B8 7C883010
 w32 003587BC B0C70114

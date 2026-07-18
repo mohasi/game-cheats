@@ -1,6 +1,7 @@
 # Bionic Commando
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 40DDBB70 42400000
 w32 40E7C688 42400000
@@ -16,5 +17,6 @@ w32 40E7AED0 42400000
 w32 40E92338 42400000
 
 name: Infinite Ammo (Freezes Game)
+author: jgduff1
 mode: once
 w32 004E2D28 931E0000

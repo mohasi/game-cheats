@@ -1,6 +1,7 @@
 # Tomb Raider
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00422AC8 38002710
 w32 00422AD0 90030010
@@ -8,18 +9,22 @@ w32 00422AD4 90030014
 w32 00422AD8 4BFFFC8C
 
 name: Infinite Ammo + Fragments
+author: Hiei-YYH
 mode: once
 w32 00611504 A3A90000
 
 name: No Reload
+author: Hiei-YYH
 mode: once
 w32 00642614 39290000
 
 name: 10000 Fragments On Gain
+author: Hiei-YYH
 mode: once
 w32 00612C8C 38002710
 
 name: Bullet Time Mode (R3 = On, L3 = Off)
+author: Hiei-YYH
 mode: once
 w32 01212220 3E00015D
 w32 01212224 6210B54C
@@ -40,6 +45,7 @@ w32 0121225C 4E800020
 w32 003E0C9C 48E31585
 
 name: Moon Jump
+author: Hiei-YYH
 mode: once
 w32 012124E0 7C0901CE
 w32 012124E4 3F60015D
@@ -54,57 +60,71 @@ w32 01212504 4E800020
 w32 0075A140 48AB83A1
 
 name: Infinite Arrows, Bullets, Salvage, Parts
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00611504 7C1D0378
 
 name: Infinite Ammo In Clip
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00642614 39200064
 
 name: Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00751CD0 60000000
 
 name: AoB Infinite Arrows, Bullets, Salvage, Parts
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 7FBD00507FBC07342F9C0000409CFCC8 7C1D03787FBC07342F9C0000409CFCC8
 
 name: AoB Infinite Ammo In Clip
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 3929FFFF913800A47E639B7838800000 39200064913800A47E639B7838800000
 
 name: AoB Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 7C090050900B00184BFFFF5C807C2300 60000000900B00184BFFFF5C807C2300
 
 name: Infinite Arrows, Bullets, Salvage, Parts
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 005F230C 7C1D0378
 
 name: Infinite Ammo In Clip
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00628CAC 39200064
 
 name: Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 007395DC 60000000
 
 name: AoB Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 7C090050900B0018 60000000900B0018
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00611504 7C1D0378
 
 name: No Reload
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00642614 39200064
 
 name: AoB Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 7FBD00507FBC07342F9C0000409CFCC8 7C1D03787FBC07342F9C0000409CFCC8
 
 name: AoB No Reload
+author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 aob 3929FFFF913800A47E639B7838800000 39200064913800A47E639B7838800000

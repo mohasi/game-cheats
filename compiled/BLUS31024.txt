@@ -1,33 +1,41 @@
 # Doom 3
 
 name: No Bullet Damage
+author: DANNY G
 mode: once
 w32 004AD504 60000000
 
 name: No Fall Damage
+author: DANNY G
 mode: once
 w32 007E960C 60000000
 
 name: No Death On Oxygen Depletion
+author: DANNY G
 mode: once
 w32 007F2F60 60000000
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 00855BD8 60000000
 
 name: AoB No Bullet Damage
+author: DANNY G
 mode: once
 aob 484F7EA9E84100287FE3FB784BFE58AD 60000000E84100287FE3FB784BFE58AD
 
 name: AoB No Fall Damage
+author: DANNY G
 mode: once
 aob 4BFF0F1DEB810140EB0100E87F8803A6 60000000EB810140EB0100E87F8803A6
 
 name: AoB No Death On Oxygen Depletion
+author: DANNY G
 mode: once
 aob 4BFFECA94BFFFE603F520001835A8228 600000004BFFFE603F520001835A8228
 
 name: AoB Infinite Ammo
+author: DANNY G
 mode: once
 aob 4BF8AAD960000000EBC100B0EB410070 6000000060000000EBC100B0EB410070

@@ -1,6 +1,7 @@
 # Murdered: Soul Suspect
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00877518 38802710
 w32 00877520 908502F4

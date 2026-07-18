@@ -1,9 +1,11 @@
 # LEGO Star Wars III: The Clone Wars
 
 name: Max Studs On Gain
+author: dron_3
 mode: once
 w32 0073CB84 60000000
 
 name: AoB Max Studs On Gain
+author: dron_3
 mode: once
 aob 409D00603880FFFF 600000003880FFFF

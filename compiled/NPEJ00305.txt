@@ -1,6 +1,7 @@
 # Child of Light
 
 name: Infinite Health + 1 Hit Kill
+author: Medo
 mode: once
 w32 00B79504 7C053000
 w32 00B79508 81FFFFFC
@@ -12,6 +13,7 @@ w32 00B7951C 48158123
 w32 00158110 48B79507
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 00B79504 7C053000
 w32 00B79508 81FFFFFC
@@ -22,76 +24,94 @@ w32 00B79518 48158123
 w32 00158110 48B79507
 
 name: Infinite Igniculus Gauge
+author: Medo
 mode: once
 w32 001A4AF4 60000000
 
 name: Recover Max Health With Igniculus
+author: Medo
 mode: once
 w32 0015809C 3880270F
 
 name: Infinite MP
+author: Medo
 mode: once
 w32 001582DC 60000000
 
 name: Infinite Items
+author: Medo
 mode: once
 w32 0006227C 60000000
 
 name: Max Items On Use
+author: Medo
 mode: once
 w32 0006226C 3B800064
 
 name: Max Items on Gain
+author: Medo
 mode: once
 w32 000600E4 38800063
 
 name: Max Skill Points on Use
+author: Medo
 mode: once
 w32 00105900 38600063
 
 name: Level 99 After 1 Battle
+author: Medo
 mode: once
 w32 00156B5C 60000000
 
 name: AoB Infinite Health + 1 Hit Kill
+author: Medo
 mode: once
 aob 7302B35E20DE080000000000000000000000000000000000000000000000000000000000 7302B35E20DE08007C05300081FFFFFC2F8F0283419D000C38A000004815811748158123
 aob 7C0530004080000860A6000090DF0010 48B795074080000860A6000090DF0010
 
 name: AoB Infinite Health
+author: Medo
 mode: once
 aob 7302B35E20DE0800000000000000000000000000000000000000000000000000 7302B35E20DE08007C05300081FFFFFC2F8F0283419D00084815811748158123
 aob 7C0530004080000860A6000090DF0010 48B795074080000860A6000090DF0010
 
 name: AoB Infinite Igniculus Gauge
+author: Medo
 mode: once
 aob 907E002CD03E000C48000240C03E0014 907E002C6000000048000240C03E0014
 
 name: AoB Recover Max Health With Igniculus
+author: Medo
 mode: once
 aob 7C0620004080000860C40000909F0010 7C062000408000083880270F909F0010
 
 name: AoB Infinite MP
+author: Medo
 mode: once
 aob 60A6000090DF0014E8010090 60A6000060000000E8010090
 
 name: AoB Max Items On Use
+author: Medo
 mode: once
 aob 4E9E0421839D00087C1CF040 4E9E04213B8000647C1CF040
 
 name: AoB Max Items on Gain
+author: Medo
 mode: once
 aob 837C000C7C84E814909C0008 837C000C38800063909C0008
 
 name: AoB Max Skill Points on Use
+author: Medo
 mode: once
 aob 809B02047C7DF81090640294 809B02043860006390640294
 
 name: AoB Level 99 After 1 Battle
+author: Medo
 mode: once
 aob 7C041840418000A0807D0008809D0004 7C04184060000000807D0008809D0004
 
 name: Infinite Health + 1 Hit Kill
+author: Medo
 mode: once
 w32 00B8887C 7C053000
 w32 00B88880 81FFFFFC
@@ -103,29 +123,36 @@ w32 00B88894 48159503
 w32 001494F0 48B9887F
 
 name: Infinite Igniculus Gauge
+author: Medo
 mode: once
 w32 00195BB4 60000000
 
 name: Recover Max Health With Igniculus
+author: Medo
 mode: once
 w32 0014947C 3880270F
 
 name: Infinite MP
+author: Medo
 mode: once
 w32 001496BC 60000000
 
 name: Max Items on Gain
+author: Medo
 mode: once
 w32 000507AC 38800063
 
 name: Max Items on Use
+author: Medo
 mode: once
 w32 00052934 3B800064
 
 name: Max Skill Points on Use
+author: Medo
 mode: once
 w32 000F6608 38600063
 
 name: Level 99 After 1 Battle
+author: Medo
 mode: once
 w32 00147F3C 60000000

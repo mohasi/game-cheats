@@ -1,29 +1,36 @@
 # Mercenaries 2: World in Flames
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0041EC58 39290001
 
 name: Infinite Grenades
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0042141C 38090001
 
 name: Infinite Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01801D6C 05F5E0FF
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 0042993C 60000000
 
 name: Max Money On Gain
+author: bungholio
 mode: once
 w32 00556CB4 3C007F7F
 
 name: AoB Health Never Decreases
+author: bungholio
 mode: once
 aob FC00602ED00B0004 FC00602E60000000
 
 name: AoB Max Money On Gain
+author: bungholio
 mode: once
 aob 813E80203860000080010074 813E8020386000003C007F7F

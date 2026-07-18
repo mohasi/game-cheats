@@ -1,26 +1,31 @@
 # Darksiders II
 
 name: Max Coins on Gain
+author: Medo
 mode: once
 w32 0027EDF0 3C007FFF
 w32 0027EDF4 90090028
 
 name: Infinite Skill Points (Must have at least 1)
+author: Medo
 mode: once
 w32 0027D324 60000000
 
 name: Max + Infinite Wrath
+author: Medo
 mode: once
 w32 002213A8 C3E90008
 w32 002213AC EC0CF82A
 w32 002213B0 D0090004
 
 name: Max Stats After 1 Fight (9999)
+author: Medo
 mode: once
 w32 00353F7C 3920270F
 w32 00353F80 913D0000
 
 name: Max Reaper Gauge + Infinite Reaper Mode
+author: Medo
 mode: once
 w32 002214A4 60000000
 w32 002214A8 80090000
@@ -34,14 +39,17 @@ w32 002214C4 EC006FBA
 w32 002214C8 D00B0008
 
 name: Max Yellow Coins After Save
+author: Medo
 mode: once
 w32 0027F50C 3C007FFF
 
 name: Max Blue Coins After Save
+author: Medo
 mode: once
 w32 002A06D4 3C007FFF
 w32 002A06D8 900B002C
 
 name: Max Coins On Load
+author: Medo
 mode: once
 w32 0027D7E4 3C607FFF

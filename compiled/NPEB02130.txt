@@ -1,13 +1,16 @@
 # Juju
 
 name: Stop Timer On Time Trial Mode + More Time For Fly
+author: CMbl4
 mode: once
 w32 00058D50 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 10CC2844 00000002
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00FC0F90 60000000

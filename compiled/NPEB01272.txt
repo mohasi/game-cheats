@@ -1,19 +1,23 @@
 # Mad Dog II - The Lost Gold
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w8 001FF54B 05
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00041D78 39890000
 w32 00041D7C 912A0000
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w8 001FEFCB 04
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0004F37C 3ACB0000
 w32 0004F384 60000000
