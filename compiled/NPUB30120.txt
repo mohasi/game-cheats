@@ -1,8 +1,9 @@
 # Earthworm Jim HD
 
 name: Unlimited Lives
+score NPEB00226 01.00: 75 1+ 0-
 mode: once
-w32 001C8C60 39290000
+w32 001C8C60 39290000 working-val=3929FFFF:1
 
 name: Unlimited Ammo (Normal Gun)
 mode: once
