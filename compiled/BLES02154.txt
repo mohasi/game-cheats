@@ -1,5 +1,6 @@
 # Space Hulk
 
 name: AP + CP Never Decrease
+author: bungholio
 mode: once
 w32 0234E570 60000000

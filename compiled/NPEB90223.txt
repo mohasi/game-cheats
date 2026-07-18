@@ -1,30 +1,36 @@
 # Yakuza 3
 
 name: Infinite Money
+author: Skiller
 mode: once
 w32 00562C24 90840004
 w32 00562C28 80840004
 
 name: Exp Max
+author: Skiller
 mode: once
 w32 00A5F000 6063967F
 w32 00A5F004 907E0018
 w32 00A5F008 48000060
 
 name: Max Exp
+author: chewbl
 mode: once
 w32 012FFFFC 7F7F7F7F
 
 name: Max Heat
+author: chewbl
 mode: once
 w32 012FFFE4 03E803E8
 
 name: Gold Gun Slot 1
+author: chewbl
 mode: once
 w32 01300170 034BFFFF
 w32 01300174 FFFF0001
 
 name: God Of Talisman Slot 2
+author: chewbl
 mode: once
 w32 01300178 03D20000
 w32 0130017C 00000001

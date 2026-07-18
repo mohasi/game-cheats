@@ -1,22 +1,27 @@
 # Naruto: Ultimate Ninja Storm
 
 name: Gold 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00AAF414 0001869F
 
 name: Scroll 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00AAF524 0001869F
 
 name: Steps 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00AAF41C 0001869F
 
 name: Object Destroyed 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00AAF420 0001869F
 
 name: Infinite Chakra, Awakening, Support, and Storm Gauge
+author: uzimakiuchiha
 mode: once
 w32 008D5128 807F0000
 w32 008D512C 2C030000
@@ -40,18 +45,22 @@ w32 008D5170 4B740A18
 w32 00017684 488BE5A4
 
 name: Infinite Items
+author: uzimakiuchiha
 mode: once
 w32 003E67AC 39290000
 
 name: Max Scrolls On Gain
+author: uzimakiuchiha
 mode: once
 w32 0027F75C 3800270F
 
 name: No Exp Required For Missions
+author: uzimakiuchiha
 mode: once
 w32 00348350 380003E7
 
 name: Max Ryos On Buy + Gain
+author: tekman, uzimakiuchiha
 mode: once
 w32 00346F6C 3C000098
 w32 00346F70 6000967F
@@ -63,54 +72,65 @@ w32 0027F4A0 3C000098
 w32 0027F4A4 6000967F
 
 name: Max And Infinite Items
+author: tekman
 mode: once
 w32 003108F8 38800063
 w32 003111EC 38000063
 w32 003112B0 38000063
 
 name: 9,999 Destroyed Objects
+author: tekman
 mode: once
 w32 002B3ED8 3920270F
 
 name: Max Steps
+author: tekman
 mode: once
 w32 003AE524 3D200001
 w32 003AE528 6129869F
 
 name: Max And Infinite Secret Scrolls
+author: tekman
 mode: once
 w32 00195338 3800270F
 w32 0027F750 3920270F
 
 name: Max Mission Exp
+author: tekman
 mode: once
 w32 00347230 380003E7
 
 name: AoB Max Ryos On Buy + Gain
+author: tekman, uzimakiuchiha
 mode: once
 aob 8122A5D88062A5D880090F187C1C0050 8122A5D88062A5D83C0005F56000E0FF
 aob 600000008122A5D880090F187C030050 600000008122A5D83C0005F56000E0FF
 aob 8062CF64812B0F18801D02847C004A14 8062CF64812B0F183C0005F56000E0FF
 
 name: AoB Max And Infinite Items
+author: tekman
 mode: once
 aob 4D9D00205469083C2F84000039290010 4D9D00205469083C3880006339290010
 aob 7C0458502F800000419C00187C044850 7C0458502F800000419C001838800063
 aob 7C045A14B0080006419E001088030002 38800063B0080006419E001088030002
 
 name: AoB 9,999 Destroyed Objects
+author: tekman
 mode: once
 aob 8062DD2C812B0F2439290001912B0F24 8062DD2C812B0F243920270F912B0F24
 
 name: AoB Max Steps
+author: tekman
 mode: once
 aob 8062FC7C812B0F2039290001912B0F20 8062FC7C3D2000016129869F912B0F20
 
 name: AoB Max And Infinite Secret Scrolls
+author: tekman
 mode: once
 aob 8062A5D8800910287C1C005090091028 8062A5D8800910283800270F90091028
 aob 3929000157A018387C00EA147C004A14 3920270F57A018387C00EA147C004A14
 
 name: AoB Max Mission Exp
+author: tekman
 mode: once
 aob 7C090214901C11144811EF3960000000 380003E7901C11144811EF3960000000

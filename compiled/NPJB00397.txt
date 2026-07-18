@@ -1,79 +1,97 @@
 # Far Cry 2
 
 name: Health Never Decreases (Except From Drowning)
+author: bungholio
 mode: once
 w32 00BBA5C0 EC01682A
 w32 00C14610 60000000
 w32 00C148CC EFFEF82A
 
 name: 9999 Diamonds Upon Gain Or Buying
+author: bungholio
 mode: once
 w32 00B89C58 3800270F
 w32 00B89E14 3800270F
 
 name: Weapons Never Break
+author: bungholio
 mode: once
 w32 00798EF8 60000000
 
 name: Weapons Never Jam
+author: bungholio
 mode: once
 w32 007B7E44 60000000
 
 name: Instantly Fully Repair Vehicles
+author: bungholio
 mode: once
 w32 0079B63C 60000000
 
 name: Damaging Vehicles Gives Them Black Smoke
+author: bungholio
 mode: once
 w32 0079B5F4 4800000C
 
 name: Loaded Ammo Does Not Decrease
+author: bungholio
 mode: once
 w32 0079C8E4 60000000
 
 name: Grenades + Molotovs Do Not Decrease
+author: bungholio
 mode: once
 w32 00580A9C 60000000
 
 name: Syringes + Reserve Ammo Do Not Decrease
+author: bungholio
 mode: once
 w32 006165DC 60000000
 
 name: Vehicles Can Not Be Damaged
+author: bungholio
 mode: once
 w32 0079B4B8 60000000
 w32 0079B5F0 60000000
 
 name: AoB weapons Never Break
+author: Stinger101
 mode: once
 aob FF8D6000D1AB000C FF8D600060000000
 
 name: AoB Weapons never jam
+author: stinger101
 mode: once
 aob 7C601B78901F001C 7C601B7860000000
 
 name: AoB instantly repair vehicles
+author: stinger101
 mode: once
 aob D0030074419C0030 D003007460000000
 
 name: AoB loaded ammo doesnt decrease + inf grenades/molotovs
+author: stinger101
 mode: once
 aob 7C8307B491690020 7C8307B460000000
 aob 4C9E0020912B007C 4C9E002060000000
 
 name: AoB Syringes and reserve ammo dont decrease
+author: stinger101
 mode: once
 aob 38210090915F0014 3821009060000000
 
 name: AoB fire+explosives increase health
+author: stinger101
 mode: once
 aob EFFEF828807E0040 EFFEF82A807E0040
 aob C1A300B4EC016828 C1A300B4EC01682A
 
 name: AoB buy anything from vendors pc get 9999 diamonds
+author: stinger101
 mode: once
 aob 7FC9F3787C090050 7FC9F3783800270F
 
 name: AoB Earn or Find diamonds get 9999
+author: stinger101
 mode: once
 aob 382100B07C00DA14 382100B03800270F

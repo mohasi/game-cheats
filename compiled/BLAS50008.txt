@@ -1,23 +1,28 @@
 # Sonic the Hedgehog
 
 name: 999 Rings
+author: xtatu
 mode: once
 w32 0018E110 380003E8
 
 name: Infinite Ring Buy Mode
+author: xtatu
 mode: once
 w32 00074D3C 60000000
 
 name: Never Lose Rings When Hit
+author: xtatu
 mode: once
 w32 0018E5B8 419D00D4
 
 name: Enable Code
+author: GuitarMan
 mode: once
 w32 00010064 0160FFFC
 w32 0001006C 0160FFFC
 
 name: Infinite Rings
+author: GuitarMan
 mode: once
 w32 01606AD0 3900270F
 w32 01606AD4 91030028
@@ -26,11 +31,13 @@ w32 01606ADC 4818EA52
 w32 0018EA4C 49606AD2
 
 name: Freeze Timer
+author: GuitarMan
 mode: once
 w32 0003AEA4 60000000
 w32 00079420 60000000
 
 name: Invincibility (Up = On, Down = Off)
+author: GuitarMan
 mode: once
 w32 01606AE8 3C805002
 w32 01606AEC 88841619
@@ -49,49 +56,60 @@ w32 01606B1C 4928586E
 w32 01285868 49606AEA
 
 name: Infinite Lives
+author: GuitarMan
 mode: once
 w32 000790E4 396B0000
 
 name: Max Score On Gain
+author: GuitarMan
 mode: once
 w32 00074ACC 3C007F7F
 w32 00074D7C 3C007F7F
 
 name: Special Meter Never Decreases For Sonic Or Silver
+author: GuitarMan
 mode: once
 w32 001F4518 60000000
 w32 001F4EEC 60000000
 w32 001F4E80 60000000
 
 name: Tails Fly Stamina Never Decreases
+author: GuitarMan
 mode: once
 w32 000FFC58 60000000
 
 name: AoB 999 Rings
+author: xtatu
 mode: once
 aob 7C002214900300284E800020806300287C6307B44E800020908300284E800020 380003E8900300284E800020806300287C6307B44E800020908300284E800020
 
 name: AoB Infinite Ring Buy Mode
+author: xtatu
 mode: once
 aob 7D605850916900084BFFEBF0881F000C386000012F800000419EEBDC801F00087C6A1B78 60000000916900084BFFEBF0881F000C386000012F800000419EEBDC801F00087C6A1B78
 
 name: AoB Never Lose Rings When Hit
+author: xtatu
 mode: once
 aob 409D00D4381B0060393B0028780B002079290020800B0000812900007F890000419C010C794A0020 419D00D4381B0060393B0028780B002079290020800B0000812900007F890000419C010C794A0020
 
 name: 999 Rings
+author: xtatu
 mode: once
 w32 0018E988 380003E8
 
 name: Infinite Ring Buy Mode
+author: xtatu
 mode: once
 w32 00074D48 60000000
 
 name: Never Lose Rings When Hit
+author: xtatu
 mode: once
 w32 0018EE30 419D00D4
 
 name: Infinite Rings
+author: GuitarMan
 mode: once
 w32 016075F0 81030028
 w32 016075F4 3900270F
@@ -100,29 +118,35 @@ w32 016075FC 4818F2CA
 w32 0018F2C4 496075F2
 
 name: Freeze Timer
+author: GuitarMan
 mode: once
 w32 0003AEB0 60000000
 w32 0007942C 60000000
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 002B023C 4E800020
 
 name: Infinite Lives
+author: GuitarMan
 mode: once
 w32 000790F0 396B0000
 
 name: Max Score On Gain
+author: GuitarMan
 mode: once
 w32 00074AD8 3C007F7F
 w32 00074D88 3C007F7F
 
 name: Special Meter Never Decreases For Sonic Or Silver
+author: GuitarMan
 mode: once
 w32 001F4D90 60000000
 w32 001F5764 60000000
 w32 001F56F8 60000000
 
 name: Tails Fly Stamina Never Decreases
+author: GuitarMan
 mode: once
 w32 000FFC38 60000000

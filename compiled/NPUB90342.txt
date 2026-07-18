@@ -1,37 +1,46 @@
 # Topatoi - Spinning through the Worlds
 
 name: Memory Infinite Fuel + Increase By 1 Per Second
+author: jgduff1
 mode: once
 w32 00BC3648 00000128
 
 name: ASM Infinite Fuel + Increase By 1 Per Second
+author: jgduff1
 mode: once
 w32 004B72D0 FDA2682A
 
 name: ASM Infinite Fuel Jump
+author: jgduff1
 mode: once
 w32 004A3D04 60000000
 
 name: Memory Star (Story Mode) + Cube x99 (Arcade Mode) On Gain
+author: jgduff1
 mode: once
 w8 00BC3427 06
 
 name: ASM Star (Story Mode) + Cube x99 (Arcade Mode) On Gain
+author: jgduff1
 mode: once
 w32 004A492C 39290063
 
 name: Memory Yellow Bar Never Decreases
+author: jgduff1
 mode: once
 w32 3377F7A8 3F800000
 
 name: ASM Yellow Bar Never Decreases
+author: jgduff1
 mode: once
 w32 00500A14 EC02F028
 
 name: Memory Diamond x99 On Gain
+author: jgduff1
 mode: once
 w32 00BC342C 00000002
 
 name: ASM Diamond x99 On Gain
+author: jgduff1
 mode: once
 w32 004A48BC 396B0063

@@ -1,10 +1,12 @@
 # Tokyo Jungle
 
 name: 999999 Points
+author: xtatu
 mode: once
 w32 000FF76C 419D0008
 
 name: Infinite Life, Hunger, Stamina
+author: jijibecali
 mode: once
 w32 003D09C4 4B18967F
 w32 003D09C0 4B18967F
@@ -17,11 +19,13 @@ w32 003D0A3C 4B18967F
 w32 003D0A40 4B18967F
 
 name: Max Life
+author: jijibecali
 mode: once
 w32 003FEB38 4B18967F
 w32 003FEB40 4B18967F
 
 name: Max Attack
+author: jijibecali
 mode: once
 w32 003FEB40 4B18967F
 w32 003FEB44 4B18967F
@@ -29,6 +33,7 @@ w32 003D0F38 4B18967F
 w32 003D0F3C 4B18967F
 
 name: Max Defense
+author: jijibecali
 mode: once
 w32 003FF0CC 4B18967F
 w32 003FF0D0 4B18967F
@@ -36,6 +41,7 @@ w32 003D0F50 4B18967F
 w32 003D0F54 4B18967F
 
 name: Max Speed
+author: jijibecali
 mode: once
 w32 003D0D38 44178000
 w32 003D0D34 44178000

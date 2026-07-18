@@ -1,59 +1,73 @@
 # Shin Sangoku Musou 7
 
 name: 9999 Kills
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 00256B04 2F800000
 
 name: 9999 Chain
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 002556E8 3929270F
 
 name: Max Kakusei
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 00255414 816301F4
 
 name: Infinite Musou
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 002555B4 60000000
 
 name: Max Money
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 002F26B0 2B830000
 
 name: Syouseimode Rensen 30
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 w32 002FA274 3863001E
 w32 00611DBC 38800000
 
 name: AoB 1P Invincible + Untouchable
+author: xtatu
 mode: once
 aob 3F80000000016A74412000003DCCCCCD3F00000000C67414 4000000000016A74412000003DCCCCCD3F00000000C67414
 
 name: AoB 1P Invincible + Untouchable Alternative
+author: xtatu
 mode: once
 aob 3F80000000016B58412000003DCCCCCD3F00000000C6E914 4000000000016B58412000003DCCCCCD3F00000000C6E914
 
 name: AoB 9999 Kills
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 2F80270F409D00083800270F901F0128 2F800000409D00083800270F901F0128
 
 name: AoB 9999 Chain
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 392900017F8048407D2B4B782B09270F 3929270F7F8048407D2B4B782B09270F
 
 name: AoB Max Kakusei
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 816301F0814301F4FC00001E7C004FAE 816301F4814301F4FC00001E7C004FAE
 
 name: AoB Infinite Musou
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 419D0014380000009963000890030000 60000000380000009963000890030000
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 7F830040409D00087C0303782F840000 2B830000409D00087C0303782F840000
 
 name: AoB Syouseimode Rensen 30
+author: games24.blog.fc2.com/blog-entry-129.html
 mode: once
 aob 7C6322142B8303E7419D00282B8303E7 3863001E2B8303E7419D00282B8303E7
 aob 38800001786300204BCE6DA960000000 38800000786300204BCE6DA960000000

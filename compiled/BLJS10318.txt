@@ -1,59 +1,73 @@
 # JoJo no Kimyou na Bouken: Eyes of Heaven
 
 name: JP Never Decreases
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 w32 000891BC 91230000
 
 name: Dual Heat Max
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 w32 007E6880 60000000
 
 name: Dual Combo Max
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 w32 007E68EC 60000000
 
 name: AoB JP Never Decreases
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 aob 900300004BFFFF24F821FF717C0802A6 912300004BFFFF24F821FF717C0802A6
 
 name: AoB Dual Heat Max
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 aob 409D000C7D204B78912304402F800000 600000007D204B78912304402F800000
 
 name: AoB Dual Combo Max
+author: games24.blog.fc2.com/blog-entry-298.html
 mode: once
 aob 409D000C7D204B78912304482F800000 600000007D204B78912304482F800000
 
 name: JP Never Decreases
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 w32 00089368 91690000
 w32 000893D4 91230000
 
 name: Dual Heat Max
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 w32 007EC710 60000000
 
 name: Dual Combo Max
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 w32 007EC77C 60000000
 
 name: Max Ability Points After Use
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 w32 0006006C 60000000
 
 name: AoB JP Never Decreases
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 aob 900900004BFFFF9049449A31E8410028 916900004BFFFF9049449A31E8410028
 aob 900300004BFFFF24F821FF717C0802A6 912300004BFFFF24F821FF717C0802A6
 
 name: AoB Dual Heat Max
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 aob 409D000C7D204B78912304442F800000 600000007D204B78912304442F800000
 
 name: AoB Dual Combo Max
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 aob 409D000C7D204B789123044C2F800000 600000007D204B789123044C2F800000
 
 name: AoB Max Ability Points After Use
+author: games24.blog.fc2.com/blog-entry-299.html
 mode: once
 aob 409D00083800270F7C0900F838600001 600000003800270F7C0900F838600001

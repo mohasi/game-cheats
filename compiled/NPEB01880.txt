@@ -1,17 +1,21 @@
 # Dead Island: Riptide: Complete Edition
 
 name: Player Damage 0
+author: xtatu
 mode: once
 w32 00C0CF10 00000000
 
 name: Player 1 Invincible
+author: xtatu
 mode: once
 w32 00C0CF98 408221D0
 
 name: Speed Punch Or Knock
+author: xtatu
 mode: once
 w32 00CE3820 4E800020
 
 name: Zombies Do Not Grab
+author: xtatu
 mode: once
 w32 0077F698 4E800020

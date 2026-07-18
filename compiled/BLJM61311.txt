@@ -1,14 +1,17 @@
 # Dragon Quest Builders: Alefgard o Fukkatsu Seyo
 
 name: Placed Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 w32 0007F2D0 30A50000
 
 name: Making And Eating Items Never Decreases Them
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 w32 000D39B8 7C651B78
 
 name: 2x Movement Speed And Jump Height Multipliers
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 w32 00B51000 3C003318
 w32 00B51004 60009D80
@@ -22,6 +25,7 @@ w32 00B51020 481A974A
 w32 001A9744 48B51002
 
 name: 3x Movement Speed And Jump Height Multipliers
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 w32 00B51000 3C003318
 w32 00B51004 60009D80
@@ -36,6 +40,7 @@ w32 00B51024 481A974A
 w32 001A9744 48B51002
 
 name: 4x Movement Speed And Jump Height Multipliers
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 w32 00B51000 3C003318
 w32 00B51004 60009D80
@@ -51,9 +56,11 @@ w32 00B51028 481A974A
 w32 001A9744 48B51002
 
 name: AoB Placed Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 aob 30A5FFFF2C0500004181001463C30000 30A500002C0500004181001463C30000
 
 name: AoB Making And Eating Items Never Decreases Them
+author: games24.blog.fc2.com/blog-entry-327.html
 mode: once
 aob 7CA518102C0500004181001863830000 7C651B782C0500004181001863830000

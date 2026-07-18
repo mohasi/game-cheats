@@ -1,6 +1,7 @@
 # Ni no Kuni: Wrath of the White Witch
 
 name: Quick Level Up And Max HP + MP
+author: Medo
 mode: once
 w32 0193BF8C 3D203123
 w32 0193BF90 61293814
@@ -41,6 +42,7 @@ w32 0193C018 48727AAB
 w32 00727AA4 4993BF8F
 
 name: Quick Level Up Only
+author: Medo
 mode: once
 w32 0193BF8C 3D203123
 w32 0193BF90 61293814
@@ -57,26 +59,32 @@ w32 0193BFB8 48727AAB
 w32 00727AA4 4993BF8F
 
 name: Super Quick Level Up
+author: Medo
 mode: once
 w32 007263F0 3CA07FFF
 
 name: Super Quick Level Up 2
+author: Medo
 mode: once
 w32 006F96B8 3CA07FFF
 
 name: Max EXP
+author: Medo
 mode: once
 w32 006F96BC 38007FFE
 
 name: Max Item On Get
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Infinite Item Usage
+author: Hiei-YYH, Medo
 mode: once
 w32 00725184 7CDF3378
 
 name: Infinite HP + MP, No Status Ailments + Buffs Status
+author: Hiei-YYH
 mode: once
 w32 01933870 2C0500E0
 w32 01933874 80A30014
@@ -105,27 +113,33 @@ w32 019338CC 4E800020
 w32 00295844 4969E02D
 
 name: Disable Infinite Health
+author: Hiei-YYH
 mode: once
 w32 019338A4 60000000
 
 name: Disable Infinite MP
+author: Hiei-YYH
 mode: once
 w32 019338AC 60000000
 w32 019338B0 60000000
 
 name: Disable Stats Up
+author: Hiei-YYH
 mode: once
 w32 019338B8 60000000
 
 name: Disable Invincible To Most Attacks
+author: Hiei-YYH
 mode: once
 w32 019338C0 60000000
 
 name: Disable No Bad Stats
+author: Hiei-YYH
 mode: once
 w32 019338C8 60000000
 
 name: Planetary Monster Exp
+author: Medo
 mode: once
 w32 00727A78 3D203123
 w32 00727A7C 61293814
@@ -141,58 +155,72 @@ w32 00727AA0 3B5A0001
 w32 00727AA4 4BFFFFEC
 
 name: Max Casino Coins
+author: Medo
 mode: once
 w32 00727AA4 913F089C
 
 name: 100% Critical Hit Rate
+author: Medo
 mode: once
 w32 005CC994 60000000
 
 name: Max Stats All Characters + Imajin
+author: Medo
 mode: once
 w32 0070F130 4081FDA0
 
 name: Damage 0
+author: xtatu
 mode: once
 w32 005CD724 4086EC88
 
 name: AoB Planetary Monster Exp
+author: Medo
 mode: once
 aob 419C005C800308987D60F214386000103FA005F5917F08984BFF3FE560000000837F089863A9E0FF7F9B4840409D0008913F0898 3D203123612938143A807FFF92890000928902003B4000012F9A0063419E001492890000392901003B5A00014BFFFFEC913F0898
 
 name: AoB Super Quick Level Up
+author: Medo
 mode: once
 aob 4E8000207C691B783860000180A900087C052214 4E8000207C691B78386000013CA07FFF7C052214
 
 name: AoB Max Money On Gain
+author: Medo
 mode: once
 aob 4BFF3FE560000000837F089863A9E0FF7F9B4840409D0008 4BFF3FE560000000837F089863A9E0FF7F9B484060000000
 
 name: AoB Max Money Casino
+author: Medo
 mode: once
 aob 4BFF3FE560000000837F089863A9E0FF7F9B4840409D0008913F0898 4BFF3FE560000000837F089863A9E0FF7F9B4840913F089C913F0898
 
 name: AoB 100% Critical Hit Rate
+author: Medo
 mode: once
 aob 67BD00802F9C0000419E0008 67BD00802F9C000060000000
 
 name: AoB 100% Auto Guard Rate
+author: Medo
 mode: once
 aob 63BD20002F9E0000419E000863BD1000 63BD20002F9E00006000000063BD1000
 
 name: AoB Max Stats All Characters + Imajin
+author: Medo
 mode: once
 aob 2F800000409D011C2C0003E7386003E74181FDA07C030378 2F800000409D011C2C0003E7386003E74081FDA07C030378
 
 name: AoB Damager 0
+author: xtatu
 mode: once
 aob 826100A42C9300014186EC88 826100A42C9300014086EC88
 
 name: Max Item On Gain
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Infinite HP + MP, No Status Ailments + Buffs Status
+author: Hiei-YYH
 mode: once
 w32 01933720 2C0500E0
 w32 01933724 80A30014
@@ -221,54 +249,67 @@ w32 0193377C 4E800020
 w32 0029583C 4969DEE5
 
 name: Disable Infinite HP
+author: Hiei-YYH
 mode: once
 w32 01933754 60000000
 
 name: Disable Infinite MP
+author: Hiei-YYH
 mode: once
 w32 0193375C 60000000
 w32 01933760 60000000
 
 name: Disable Stats Up
+author: Hiei-YYH
 mode: once
 w32 01933768 60000000
 
 name: Disable Invincible To Most Attacks
+author: Hiei-YYH
 mode: once
 w32 01933770 60000000
 
 name: Disable No Bad Stats
+author: Hiei-YYH
 mode: once
 w32 01933778 60000000
 
 name: Max Item On Get
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Gain
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Get
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Gain
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Get
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Gain
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Get
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063
 
 name: Max Item On Gain
+author: Hiei-YYH, Medo
 mode: once
 w32 0071CD74 3BA00063

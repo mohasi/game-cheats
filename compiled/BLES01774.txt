@@ -1,6 +1,7 @@
 # Mass Effect
 
 name: Max + Infinite Health For All Players
+author: FBML
 mode: once
 w32 008D95E4 C3FB02E0
 w32 008D96AC 60000000
@@ -8,11 +9,13 @@ w32 008D9658 C3FB02E0
 w32 008D9688 C3FB02E0
 
 name: Max + Infinite Vehicle Health
+author: FBML
 mode: once
 w32 0096FA48 C0230228
 w32 0096FA4C D023021C
 
 name: Max + Infinite Vehicle Armor
+author: FBML
 mode: once
 w32 00971890 C0440150
 w32 00971894 FC400890
@@ -22,39 +25,48 @@ w32 009718A0 EC640072
 w32 009718A4 FC202890
 
 name: Weapons Never Overheat
+author: FBML
 mode: once
 w32 00A599F8 FC201090
 
 name: Max + Infinite Grenades
+author: FBML
 mode: once
 w32 00882914 60000000
 
 name: Infinite Talent Points After Use
+author: FBML
 mode: once
 w32 00962758 30840000
 
 name: Max + Infinite Medi-Gel After Use
+author: FBML
 mode: once
 w32 00882CD8 FC40F890
 
 name: Max Omni-Gel After It Decreases From Recovered Items
+author: FBML
 mode: once
 w32 00881100 60000000
 
 name: Max + Infinite Credits After Change
+author: FBML
 mode: once
 w32 00880FC4 60000000
 w32 008827F0 60000000
 
 name: No Cooldown Timer for Med + Tech
+author: FBML
 mode: once
 w32 009C0814 FFE0C890
 
 name: Max Squad Skills (Biotic, Tech, Combat)
+author: FBML
 mode: once
 w32 00E5C530 C0090024
 
 name: AoB Max + Infinite Health For All Players
+author: FBML
 mode: once
 aob EFE1F82AD3FB02D4 C3FB02E0D3FB02D4
 aob 4186FF1C3F80019F 600000003F80019F
@@ -62,38 +74,47 @@ aob EFE1F82A907B0CBC C3FB02E0907B0CBC
 aob EFE2F82AD03B0CBC C3FB02E0D03B0CBC
 
 name: AoB Max + Infinite Vehicle Health
+author: FBML
 mode: once
 aob FC01E80041820010 C0230228D023021C
 
 name: AoB Max + Infinite Vehicle Armor
+author: FBML
 mode: once
 aob C0440150C09F02F0EC640072FC202890FC0208004180001C C0440150FC400890D0440150C09F02F0EC640072FC202890
 
 name: AoB Weapons Never Overheat
+author: FBML
 mode: once
 aob EC22082AFC01F800 FC201090FC01F800
 
 name: AoB Max + Infinite Grenades
+author: FBML
 mode: once
 aob 40810008609D000063E40000 60000000609D000063E40000
 
 name: AoB Infinite Talent Points After Use
+author: FBML
 mode: once
 aob 308400019061009C90610098 308400009061009C90610098
 
 name: AoB Max + Infinite Medi-Gel After Use
+author: FBML
 mode: once
 aob EC42082AD05F0068 FC40F890D05F0068
 
 name: AoB Max Omni-Gel After It Decreases From Recovered Items
+author: FBML
 mode: once
 aob 41860008D03F006C 60000000D03F006C
 
 name: AoB Max + Infinite Credits After Change
+author: FBML
 mode: once
 aob 40810008607B00003C60019F 60000000607B00003C60019F
 aob 4081000C60A300001043182C 6000000060A300001043182C
 
 name: AoB No Cooldown Timer for Med + Tech
+author: FBML
 mode: once
 aob EFFF0072807F0078 FFE0C890807F0078

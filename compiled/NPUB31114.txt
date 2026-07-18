@@ -1,33 +1,41 @@
 # Mugen Souls
 
 name: Max G After 1 Battle
+author: xtatu
 mode: once
 w32 002C700C 409D0068
 
 name: Max Mugen P After 1 Battle
+author: xtatu
 mode: once
 w32 002C6F50 409D0058
 
 name: Max G Up Points on Use or Gain
+author: xtatu
 mode: once
 w32 002C652C 419D000C
 
 name: Max PP During Battle
+author: xtatu
 mode: once
 w32 002C6648 419D0008
 
 name: AoB Max G After 1 Battle
+author: xtatu
 mode: once
 aob 419D00687C030378 409D00687C030378
 
 name: AoB Max Mugen P After 1 Battle
+author: xtatu
 mode: once
 aob 419D0058F80B6BD8 409D0058F80B6BD8
 
 name: AoB Max G Up Points on Use or Gain
+author: xtatu
 mode: once
 aob 409D000C7C6B4850 419D000C7C6B4850
 
 name: AoB Max PP During Battle
+author: xtatu
 mode: once
 aob 409D0008386003E790696BE84E 419D0008386003E790696BE84E

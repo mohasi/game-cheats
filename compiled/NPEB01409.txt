@@ -1,156 +1,192 @@
 # Final Exam
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0055726C 38C00001
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0020A0A8 C0250114
 w32 0020A0AC D0250110
 w32 0020A0B0 48000008
 
 name: No Reload
+author: dron_3
 mode: once
 w32 0039FB48 38800063
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 003A2EB4 38C003E7
 
 name: Infinite Grenades
+author: dron_3
 mode: once
 w32 0039FBD4 38800063
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 80BC011838C00000 80BC011838C00001
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob C0250110FC01100041810008 C0250114D025011048000008
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 2C8600004081000860A400007C842810 2C8600004081000860A4000038800063
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 7CC430102C06000090C305AC 38C003E72C06000090C305AC
 
 name: AoB Infinite Grenades
+author: dron_3
 mode: once
 aob 418200307C0428404081000860A400007C842810 418200307C0428404081000860A4000038800063
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 33F5BF30 42DC0000
 w32 33F8F3E0 3F800000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00556E98 EFC10828
 w32 00556EA0 60000000
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0039FB50 90A30584
 
 name: Memory Infinite Grenades
+author: jgduff1
 mode: once
 w8 338B35B7 03
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 0039FBDC 90A30584
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w8 33F977EF 05
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 001C30E0 30840000
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w8 33CFCC3F 05
 w8 33F800DB 05
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 005597FC 38C00001
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0020C560 C0250114
 w32 0020C564 D0250110
 w32 0020C568 48000008
 
 name: No Reload
+author: dron_3
 mode: once
 w32 003A1FF8 38800063
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 003A5364 38C003E7
 
 name: Infinite Grenades
+author: dron_3
 mode: once
 w32 003A2084 38800063
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00559428 EFC10828
 w32 00559430 60000000
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 003A2000 90A30584
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 003A208C 90A30584
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 001C5598 30840000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0055757C 38C00001
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0020A5A0 C0250114
 w32 0020A5A4 D0250110
 w32 0020A5A8 48000008
 
 name: No Reload
+author: dron_3
 mode: once
 w32 003A0038 38800063
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 003A33A4 38C003E7
 
 name: Infinite Grenades
+author: dron_3
 mode: once
 w32 003A00C4 38800063
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 005571A8 EFC10828
 w32 005571B0 60000000
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 003A0040 90A30584
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 003A00CC 90A30584
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 001C35D8 30840000

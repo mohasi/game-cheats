@@ -1,17 +1,21 @@
 # ICO
 
 name: Enemy 1 Hit Kill
+author: bitcopa
 mode: once
 w32 0012CF5C 60000000
 
 name: Enemy Low AI
+author: bitcopa
 mode: once
 w32 001328FC 60000000
 
 name: Zoom Out
+author: CodeUnique3
 mode: once
 w32 0052F770 3F000000
 
 name: Normal Zoom
+author: CodeUnique3
 mode: once
 w32 0052F770 3F800000

@@ -1,6 +1,7 @@
 # Rock of Ages
 
 name: Memory Infinite Money
+author: jgduff1
 mode: once
 w32 113CF160 0000065E
 w32 113CF554 0000065E
@@ -8,5 +9,6 @@ w32 14B890D4 000F423F
 w32 161FFD80 000F423F
 
 name: ASM Infinite Money
+author: jgduff1
 mode: once
 w32 000E62A8 60000000

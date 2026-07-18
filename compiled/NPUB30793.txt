@@ -1,43 +1,53 @@
 # Realms of Ancient War
 
 name: Memory Infinite Magic
+author: jgduff1
 mode: once
 w32 33A62C30 449C4000
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 0017B9EC EC210FFA
 
 name: Memory No Waiting Time For Magic (Use One Time To Work)
+author: jgduff1
 mode: once
 w32 33E5E4B4 BCE5AFDA
 
 name: ASM No Waiting Time For Magic (Use One Time To Work)
+author: jgduff1
 mode: once
 w32 0017FFF0 60000000
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w8 33942EEB 04
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 000A8270 30630000
 
 name: Memory Max Level
+author: jgduff1
 mode: once
 w32 32031F94 C5EC6925
 w32 320387A4 C5EC6925
 
 name: ASM Max Level
+author: jgduff1
 mode: once
 w32 0022FA2C D3F8000C
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 33A626A0 442F0000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000851D8 60000000
 w32 00085224 60000000

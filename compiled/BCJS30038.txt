@@ -1,21 +1,26 @@
 # Ratchet &amp;amp; Clank Future 2
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E24F68 3B9AC9FF
 
 name: Max Exp
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E24F64 3B9AC9FF
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E25068 3B9AC9FF
 
 name: Max Exp
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E25064 3B9AC9FF
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 0008DB88 419A0038

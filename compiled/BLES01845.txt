@@ -1,6 +1,7 @@
 # Ninja Gaiden 3: Razor's Edge
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0152B7E0 7C7F3010
 w32 0152B7E4 3CA0028E
@@ -21,6 +22,7 @@ w32 0030BEB4 4921F949
 w32 0030D0D8 38A00000
 
 name: Energy Max
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 w32 0030D534 D03F0BC4
 w32 0078C508 3CA0028E
@@ -30,32 +32,39 @@ w32 0078C530 90650004
 w32 0078C538 60000000
 
 name: Karma Max
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 w32 000C6970 48000008
 
 name: Rengeki 999
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 w32 001FB0D0 306303E7
 
 name: AoB Karma Max
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 aob 4081000830C1003078A417647C632014 4800000830C1003078A417647C632014
 
 name: AoB Rengeki 999
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 aob 30630001B07F073A38600001987F0739 306303E7B07F073A38600001987F0739
 
 name: AoB Energy Max
+author: games24.blog.fc2.com/blog-entry-148.html
 mode: once
 aob D3FF0BC448000020C05F0BC4EC42F82A D03F0BC448000020C05F0BC4EC42F82A
 aob 80BF0A68E8410028815F001CC03F0A647C032800 3CA0028EE8410028815F001CC03F0A6460A50E70
 aob 41820008907F0A682C0A000590BF0A6C 80650000906500042C0A000560000000
 
 name: Invincible
+author: xtatu
 mode: once
 w32 0030B1F8 60000000
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 0152F030 80032FF4
 w32 0152F034 3CA0019C
@@ -67,6 +76,7 @@ w32 0152F048 481C23E6
 w32 001C23E0 4952F032
 
 name: Damage Fully Refills Health
+author: bungholio
 mode: once
 w32 0152EFCC A0D90000
 w32 0152EFD0 3C60019C
@@ -80,6 +90,7 @@ w32 0152EFEC 4830B8C6
 w32 0030B8C0 4952EFCE
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 0152EFA0 3C60019C
 w32 0152EFA4 8063CA90
@@ -92,5 +103,6 @@ w32 0152EFBC 4830B8C2
 w32 0030B8BC 4952EFA2
 
 name: Combo Timer Never Decreases
+author: bungholio
 mode: once
 w32 001FF0D8 30630000

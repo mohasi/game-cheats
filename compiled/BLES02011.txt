@@ -1,26 +1,32 @@
 # Far Cry 4
 
 name: Max Money On Gain
+author: dron_3
 mode: once
 w32 006AEB58 3CC03B9A
 w32 006AEB5C 60C6C9FF
 
 name: Money Never Decreases
+author: dron_3
 mode: once
 w32 006AEC80 607F0000
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 004D21D0 D0430010
 
 name: Have 999 Bullets When You Reload
+author: ciao1102
 mode: once
 w32 0068D8D8 388003E7
 
 name: Ammo Does Not Decrease No Reload
+author: ciao1102
 mode: once
 w32 007895C8 7CA42B78
 
 name: Grenade, Bait, Knife, Molotov Do Not Decrease
+author: ciao1102
 mode: once
 w32 0068E7DC 60000000

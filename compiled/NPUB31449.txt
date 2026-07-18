@@ -1,10 +1,12 @@
 # Dynasty Warriors 8: Xtreme Legends
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 000C6240 60000000
 
 name: Infinite Health 2
+author: jgduff1
 mode: once
 w32 000BBB20 60000000
 w32 000BBB30 60000000
@@ -17,28 +19,34 @@ w32 000C6244 60000000
 w32 000C6254 60000000
 
 name: Memory Instantly Full + Infinite Musou
+author: jgduff1
 mode: once
 w32 00EB1E58 03030000
 
 name: ASM Instantly Full + Infinite Musou
+author: jgduff1
 mode: once
 w32 000C3A98 98830008
 w32 000C3A9C 90E30000
 
 name: Max + Infinite Money On Change And After Finishing A Level
+author: jgduff1
 mode: once
 w32 00334718 907F0014
 
 name: Max Level On Level Up
+author: jgduff1
 mode: once
 w32 00088A34 60000000
 
 name: Max K.O. On 1 Hit
+author: jgduff1
 mode: once
 w32 0008A2B0 38C0270F
 w32 0008A308 901C0128
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00B75110 2C060000
 w32 00B75114 4082000C
@@ -49,16 +57,19 @@ w32 00B75124 48081916
 w32 00081910 48B75112
 
 name: Infinite Musou
+author: Hiei-YYH
 mode: once
 w32 00023CD0 88E80009
 w32 00023CD4 98E80008
 
 name: Infinite Rage
+author: Hiei-YYH
 mode: once
 w32 00023CE0 817F02B0
 w32 00023CE4 917F02AC
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00B59A30 2C060000
 w32 00B59A34 4082000C
@@ -69,19 +80,23 @@ w32 00B59A44 48081746
 w32 00081740 48B59A32
 
 name: Max Gold On buy
+author: Hiei-YYH
 mode: once
 w32 0032D25C 607E0000
 
 name: Max Level On Level Up
+author: jgduff1
 mode: once
 w32 00088864 60000000
 
 name: Max K.O. On 1 Hit
+author: jgduff1
 mode: once
 w32 0008A0E0 38C0270F
 w32 0008A138 901C0128
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00B599C0 2C060000
 w32 00B599C4 4082000C
@@ -92,6 +107,7 @@ w32 00B599D4 4B527D70
 w32 00081740 48AD8280
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00B750B0 2C060000
 w32 00B750B4 4082000C

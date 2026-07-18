@@ -1,10 +1,12 @@
 # Thexder Neo
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 000C362C 409D03A8
 w32 000C5130 419D0008
 
 name: Infinite Shields Mode
+author: xtatu
 mode: once
 w32 000C5AB4 4082FE64

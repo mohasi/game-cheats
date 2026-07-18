@@ -1,98 +1,122 @@
 # Lost Dimension
 
 name: Max Money On Buy (Energy)
+author: JorgeFFC
 mode: once
 w32 002613FC 40810008
 
 name: Infinite Gift Exp (Skill Points)
+author: JorgeFFC
 mode: once
 w32 00263CF4 60000000
 w32 00263CD8 60000000
 
 name: Freeze Turn Counter
+author: JorgeFFC
 mode: once
 w32 00083140 30A60000
 
 name: Infinite GP (MP During Battle)
+author: JorgeFFC
 mode: once
 w32 00071994 3BC0270F
 
 name: Infinite SAN (Sanity)
+author: JorgeFFC
 mode: once
 w32 00071FC8 3BC00064
 
 name: Vision Points Never Decrease Or Increase
+author: JorgeFFC
 mode: once
 w32 000775C0 60000000
 
 name: 98 Items On Change
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 00261070 38E00062
 
 name: Infinite GP
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 00263CD8 60000000
 
 name: 99 VP
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 000775B8 60000000
 
 name: DLC Items Like Amplify EN, Exp, And Gift EXP Never Lose Their Effect
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 0006EF54 3BA00001
 
 name: Effects From Gifts Will Be Constant On Enemies
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 003C3354 907F0010
 
 name: Effects From Sanity Will Be Constant On Enemies
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 w32 00071FD8 907F0018
 
 name: AoB Max Money On Buy (Energy)
+author: JorgeFFC
 mode: once
 aob 60A5C9FF7C04280041810008 60A5C9FF7C04280040810008
 
 name: AoB Infinite Gift Exp (Skill Points)
+author: JorgeFFC
 mode: once
 aob 7CC62014808301EC2C0600004180000860C500007C0428004080000860850000 60000000808301EC2C0600004180000860C500007C0428004080000860000000
 
 name: AoB Freeze Turn Counter
+author: JorgeFFC
 mode: once
 aob 60A4000090A3036830A6000190A30364 60A4000090A3036830A6000090A30364
 
 name: AoB Infinite GP (MP During Battle)
+author: JorgeFFC
 mode: once
 aob 93DF0010E80100A07C0803A6EB810070EBA10078EBC10080EBE10088382100904E800020609E0000 93DF0010E80100A07C0803A6EB810070EBA10078EBC10080EBE10088382100904E8000203BC0270F
 
 name: AoB Infinite SAN (Sanity)
+author: JorgeFFC
 mode: once
 aob 80840064F841002880A40000804400047CA903A64E9E04217C9DE014 80840064F841002880A40000804400047CA903A64E9E04213BC00064
 
 name: AoB Vision Points Never Decrease Or Increase
+author: JorgeFFC
 mode: once
 aob 60A40000908300004E800020 60A40000600000004E800020
 
 name: AoB 98 Items On Change
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 7CFC38142C8700632C07000041810098 38E000622C8700632C07000041810098
 
 name: AoB Infinite GP
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 7CC62014808301EC2C06000041800008 60000000808301EC2C06000041800008
 
 name: AoB VP 99 and Infinite
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 4185000860A40000908300004E800020 6000000060000000908300004E800020
 
 name: AoB DLC Items Like Amplify EN, Exp, And Gift EXP Never Lose Their Effect
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 2C1D0000408200247FBEF9AEE80100A0 3BA00001408200247FBEF9AEE80100A0
 
 name: AoB Effects From Gifts Will Be Constant On Enemies
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 93DF0010E80100A07C0803A6EB810070 907F0010E80100A07C0803A6EB810070
 
 name: AoB Effects From Sanity Will Be Constant On Enemies
+author: bbs.duowan.com/forum.php?mod=viewthread&tid=40441815, ported by JorgeFFC
 mode: once
 aob 93DF0018E80100A07C0803A6EB810070 907F0018E80100A07C0803A6EB810070

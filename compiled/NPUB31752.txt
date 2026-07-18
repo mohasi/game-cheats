@@ -1,32 +1,39 @@
 # Deception IV: The Nightmare Princess
 
 name: Ellaborate
+author: JorgeFFC
 mode: once
 w32 3256FB14 00000034
 
 name: Hits Combo
+author: JorgeFFC
 mode: once
 w16 37467822 0001
 
 name: Ark
+author: JorgeFFC
 mode: once
 w32 374677C0 0000000E
 
 name: HP 300
+author: JorgeFFC
 mode: once
 w16 3745C9CE 012C
 
 name: Infinite HP
+author: JorgeFFC
 mode: once
 w32 005F0838 40850008
 w32 005F0840 60630000
 
 name: Instant Death
+author: JorgeFFC
 mode: once
 w32 005F0838 41850008
 w32 005F0840 60660000
 
 name: Nightmare Princess HP
+author: boltcrank
 mode: once
 w32 35885A94 0000045A
 w32 3745C9CC 0000045A

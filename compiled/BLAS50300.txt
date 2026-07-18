@@ -1,6 +1,7 @@
 # Castlevania: Lords of Shadow
 
 name: Invincible
+author: cagao123
 mode: once
 w32 0140FC70 3E00FFFF
 w32 0140FC74 921B048C
@@ -9,11 +10,13 @@ w32 0140FC7C 4815870E
 w32 00158708 4940FC72
 
 name: Infinite Double Jumps
+author: cagao123
 mode: once
 w32 000C1868 9A1B0F2B
 w32 000C60D8 3C600100
 
 name: 1 Hit Kills v1
+author: cagao123
 mode: once
 w32 0140FD58 7F83F040
 w32 0140FD5C 409E0008
@@ -23,6 +26,7 @@ w32 0140FD68 481ED6D6
 w32 001ED6D0 4940FD5A
 
 name: 1 Hit Kills v2
+author: cagao123
 mode: once
 w32 0140FD58 7F83F040
 w32 0140FD5C 409E0008
@@ -32,11 +36,13 @@ w32 0140FD68 481ED6D6
 w32 001ED6D0 4940FD5A
 
 name: AoB Infinite Double Jumps
+author: cagao123
 mode: once
 aob 887B0D442C83000040860028C03C0040 887B0D442C8300009A1B0F2BC03C0040
 aob 98BD120D4186018C3C60010138800000 98BD120D4186018C3C60010038800000
 
 name: Infinite Secondary Weapon Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE6FA8 0000000A
 w32 00FE6FDC 0000000A
@@ -44,42 +50,50 @@ w32 00FE7010 0000000A
 w32 00FE7044 0000001E
 
 name: Infinite Light Magic Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE6DE4 41F00000
 
 name: Infinite Shadow Magic Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE6ED8 41F00000
 
 name: Infinite Health (use after Besieged Village)
+author: dron_3
 mode: once
 w32 0015B778 907B0488
 
 name: Max Experience after pause (use after Besieged Village)
+author: dron_3
 mode: once
 w32 0015FDD8 3C607FFF
 w32 0015FDDC 6063FFFF
 w32 0015FDE0 9064002C
 
 name: Infinite Daggers (use after Besieged Village)
+author: dron_3
 mode: once
 w32 0015B2EC 38C00005
 w32 0015B2F0 90C5002C
 w32 0015B2F4 80A5002C
 
 name: Infinite Crystals (use after Sanctuary Entrance)
+author: dron_3
 mode: once
 w32 0015B2B4 38800004
 w32 0015B2B8 9083002C
 w32 0015B2BC 8063002C
 
 name: Infinite Holy Water (use after Abbey Tower)
+author: dron_3
 mode: once
 w32 0015B2D0 38A00063
 w32 0015B2D4 90A4002C
 w32 0015B2D8 8084002C
 
 name: Infinite Magic
+author: dron_3
 mode: once
 w32 00158AAC D026002C
 w32 00158AB8 D047002C
@@ -87,49 +101,60 @@ w32 00158AD8 D03C0274
 w32 00158ADC D05C027C
 
 name: AoB Infinite Health (use after Besieged Village)
+author: dron_3
 mode: once
 aob 809B04887C8407B48063121C7C6307B4 809B04887C8407B48063121C907B0488
 
 name: AoB Max Experience after pause (use after Besieged Village)
+author: dron_3
 mode: once
 aob 386000002C05000240820008 3C607FFF6063FFFF9064002C
 
 name: AoB Infinite Daggers (use after Besieged Village)
+author: dron_3
 mode: once
 aob 80A5002C7C05300040800008 38C0000590C5002C80A5002C
 
 name: AoB Infinite Crystals (use after Sanctuary Entrance)
+author: dron_3
 mode: once
 aob 8063002C7C03200040800008 388000049083002C8063002C
 
 name: AoB Infinite Holy Water (use after Abbey Tower)
+author: dron_3
 mode: once
 aob 8084002C7C04280040800008 38A0006390A4002C8084002C
 
 name: AoB Infinite Magic
+author: dron_3
 mode: once
 aob C066002C8065002C2C830000C087002C4186001C4085002C3C6001073063BF0C8063002C2C03000540800018D07C0274D09C027C D026002C8065002C2C830000D047002C4186001C4085002C3C6001073063BF0C8063002C2C03000540800018D03C0274D05C027C
 
 name: Debug Menu At Main Menu
+author: dron_3
 mode: once
 w32 00014C94 38C00003
 w32 00014C9C 90D6002C
 
 name: No Gravity
+author: ChaosZage
 mode: once
 w32 000D4AF0 60000000
 w32 000D4AF4 60000000
 w32 000D4AF8 3C8042C6
 
 name: AoB Debug Menu At Main Menu
+author: dron_3
 mode: once
 aob 6000000093D9FC949356002C 38C0000393D9FC9490D6002C
 
 name: AoB No Gravity
+author: ChaosZage
 mode: once
 aob 41810008480000183C80461CFC40089060844000 60000000600000003C8042C6FC40089060844000
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00D598E0 3E000142
 w32 00D598E4 9370F010
@@ -139,11 +164,13 @@ w32 00D598F0 48158702
 w32 001586FC 48D598E2
 
 name: AoB Invincibility
+author: GuitarMan
 mode: once
 aob 001000100008000800080008008000000000000000000000000000000000000000000000 001000100008000800080008008000003E0001429370F010909B048C809B048848158702
 aob 7CA903A64E9E042180630020809B0488 7CA903A64E9E04218063002048D598E2
 
 name: Infinite Secondary Weapon Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE7030 0000000A
 w32 00FE7064 0000000A
@@ -151,9 +178,11 @@ w32 00FE7098 0000000A
 w32 00FE70CC 0000001E
 
 name: Infinite Light Magic Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE6E6C 41F00000
 
 name: Infinite Shadow Magic Usage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FE6F60 41F00000

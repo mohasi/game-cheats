@@ -1,6 +1,7 @@
 # Blades of Time
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 00AD29EC 813E0680
 w32 00AD29F0 3C004448
@@ -21,6 +22,7 @@ w32 00090214 48AD29EE
 w32 004136F4 48AD2A42
 
 name: Hold Jump To Fly
+author: bungholio
 mode: once
 w32 00AD2A6C 3CE00141
 w32 00AD2A70 93471800
@@ -42,6 +44,7 @@ w32 002239F8 48AD2A6E
 w32 005B7B98 48AD2A9A
 
 name: Enable Code
+author: bungholio
 mode: once
 w32 00AD2F10 F821FFB1
 w32 00AD2F14 7C0802A6
@@ -166,17 +169,21 @@ w32 00B33BD8 3A800000
 w32 00B33BDC 48B31022
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 00B05030 00B33BA0
 
 name: Health Kits Never Decrease
+author: bungholio
 mode: once
 w32 00B05034 00B33BB0
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 00B05060 00B33BC0
 
 name: Time Never Decreases
+author: bungholio
 mode: once
 w32 00B05064 00B33BD0

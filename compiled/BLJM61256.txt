@@ -1,35 +1,42 @@
 # Dragon Quest Heroes: Yamiryuu to Sekaiju no Shiro
 
 name: Invincibility For Everything
+author: xtatu from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 003116B0 4E800020
 w32 003BF340 4E800020
 
 name: Critical Hit
+author: xtatu
 mode: once
 w32 000A2908 4E800020
 
 name: Money Max
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 002793A0 41800010
 w32 002793A4 60000000
 
 name: MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C2D2C FC800890
 w32 000C2D30 FC041000
 
 name: Max Tension On Change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C7390 60000000
 w32 000C7394 60A40000
 
 name: Tension Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C0CA0 60000000
 w32 000C0C9C 2C040000
 
 name: All Enemy Attacks Miss
+author: asd, xtatu
 mode: once
 w32 00C24000 7C032000
 w32 00C24004 4080000C
@@ -39,6 +46,7 @@ w32 00C24010 4E800020
 w32 000A1F50 48B820B0
 
 name: Toggle Enemy Attacks Miss
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 00C24000 90660004
 w32 00C24004 2C050010
@@ -69,63 +77,78 @@ w32 00C24120 480A1F56
 w32 000A1F50 48B821B0
 
 name: Max SP On Change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 00122E8C 60000000
 
 name: AoB Critical Hit
+author: xtatu
 mode: once
 aob F821FF317C0802A6F80100E0DB8100B0DBA100B8DBC100C0DBE100C8FB610088FBA10098FB810090 4E8000207C0802A6F80100E0DB8100B0DBA100B8DBC100C0DBE100C8FB610088FBA10098FB810090
 
 name: AoB Money Max
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 418000104085000C60C40000480000102C0400004080000863C400007C83292E 418000106000000060C40000480000102C0400004080000863C400007C83292E
 
 name: AoB MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob FC800890FC022000418000084800000848000018FC0308004180000848000008 FC800890FC041000418000084800000848000018FC0308004180000848000008
 
 name: AoB Max Tension On change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 60A400005484043EA0DF0226608500007C0530004080000860C5000060A30000 600000005484043EA0DF0226608500007C0530004080000860C5000060A30000
 
 name: AoB Tension Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 2C040000408000083880000060850000B0BF02384800005C2C03000040800054 2C040000600000003880000060850000B0BF02384800005C2C03000040800054
 
 name: AoB Max SP On Change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 38A0000060A60000B0DB00702C1D0000 38A0000060000000B0DB00702C1D0000
 
 name: Invincibility
+author: xtatu from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 003CAF60 4E800020
 w32 00230900 4E800020
 
 name: Money Max
+author: asd from games24.blog.fc2.com/blog-entry-247.html, games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00282C44 60000000
 
 name: MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C57A8 FC041000
 
 name: Max Tension On Change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C9EC0 60000000
 
 name: Tension Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C34B8 60000000
 
 name: Special Moves Never Decrease Tension
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 000C2ED4 60000000
 
 name: Max SP On Change
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 00126D4C 60000000
 
 name: HP Never Decreases For Anything
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 w32 00C34000 90660004
 w32 00C34004 2C050010
@@ -156,138 +179,172 @@ w32 00C34120 480C9626
 w32 000C9620 48B6AAE0
 
 name: Max Small Medals On Use
+author: asd from games24.blog.fc2.com/blog-entry-247.html, games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00282E1C 60000000
 
 name: AoB Money Max
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 3CC0000F2C04000060C6423F7C843000418000104085000C60C4000048000010 3CC0000F2C04000060C6423F7C843000418000106000000060C4000048000010
 
 name: AoB MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob C0230204FC0408004180000848000008FC800890FC0220004180000848000008 C0230204FC0408004180000848000008FC800890FC0410004180000848000008
 
 name: AoB Special Moves Never Decrease Tension
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 408000083BE000017FE307742C030000 40800008600000007FE307742C030000
 
 name: AoB Max Small Medals On Use
+author: asd from games24.blog.fc2.com/blog-entry-247.html
 mode: once
 aob 2C8403E72C040000418000104085000C 2C8403E72C0400004180001060000000
 
 name: MP Never Decreases
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 0007F32C 60000000
 
 name: Maximum tension fluctuation
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000B9E14 60000000
 
 name: Tension maintenance
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000B3514 60000000
 
 name: Not fall deadly tension
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000B2F34 60000000
 
 name: After Combat Gold Max
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000D9374 7C863010
 
 name: After combat experience value MAX
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000D989C 7C663010
 
 name: Madan Gun Does Not Decrease
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 000CA6D0 38600063
 
 name: Max Gold After Purchase
+author: asd from games24.blog.fc2.com/blog-entry-247.html, games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00282C44 60000000
 
 name: Combo 999
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 000CB37C 48000014
 
 name: Max Small Medals After Use
+author: asd from games24.blog.fc2.com/blog-entry-247.html, games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00282E1C 60000000
 
 name: 99 Materials When You Get A 2nd One Of Them
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00128198 48000014
 
 name: AoB MP Never Decreases
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob FC401890FC20101ED0440200D821FFF0 60000000FC20101ED0440200D821FFF0
 
 name: AoB Maximum tension fluctuation
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 60860000B0DF02244800006C2C1E0000 60000000B0DF02244800006C2C1E0000
 
 name: AoB Tension maintenance
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 408000083880000060850000B0BF0238 600000003880000060850000B0BF0238
 
 name: AoB Not fall deadly tension
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 63A400004085000860C400003C60000C 600000004085000860C400003C60000C
 
 name: AoB After Combat Gold Max
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C87301060C500007C04F80041800020 7C86301060C500007C04F80041800020
 
 name: AoB After combat experience value MAX
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C6730107C03E0004180002C3C600098 7C6630107C03E0004180002C3C600098
 
 name: AoB Madan Gun Does Not Decrease
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 aob 60830000309F00647884002080A54024 38600063309F00647884002080A54024
 
 name: AoB Max Gold After Purchase
+author: games24.blog.fc2.com/blog-category-10.html, games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 4085000C60C40000480000102C040000 6000000060C40000480000102C040000
 
 name: AoB Combo 999
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 aob 30E400018083000054E7043E2C8703E7 30E600018083000054E7043E2C8703E7
 
 name: AoB Max Small Medals After Use
+author: games24.blog.fc2.com/blog-category-10.html, asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 4085000C388003E7480000102C040000 60000000388003E7480000102C040000
 
 name: AoB 99 Materials When You Get A 2nd One Of Them
+author: games24.blog.fc2.com/blog-category-10.html, games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 418100142C0400004080000863040000 480000142C0400004080000863040000
 
 name: Max Gold After Gain
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 00285314 60000000
 
 name: MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000C5D78 FC041000
 
 name: Max Tension After Change
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000CA490 60000000
 
 name: Tension Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000C3A18 60000000
 
 name: Special Moves Never Decrease Tension
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000C3434 60000000
 
 name: Max SP After Change
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 0012737C 60000000
 
 name: HP Never Decreases (R2 + Up = On, R2 + R1 = Off)
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 00C34000 90660004
 w32 00C34004 2C050010
@@ -318,93 +375,116 @@ w32 00C34130 480C9BF6
 w32 00545B74 486EE48C
 
 name: AoB MP Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob FC600890FC401890FC20101ED0440200D821FFF0 FC60089060000000FC20101ED0440200D821FFF0
 
 name: AoB Max Tension After Change
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 408000083880000060850000B0BF02384800005C 600000003880000060850000B0BF02384800005C
 
 name: AoB Tension Never Decreases
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 60860000B0DF02244800006C2C1E000040800064 60000000B0DF02244800006C2C1E000040800064
 
 name: AoB Special Moves Never Decrease Tension
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 63A400004085000860C400003C60000C38C00000 600000004085000860C400003C60000C38C00000
 
 name: AoB Infinite Gun
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 60830000309F0064 38600063309F0064
 
 name: AoB Max Combo
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 30E400018083000054E7043E2C8703E72C070000 30E600018083000054E7043E2C8703E72C070000
 
 name: AoB Max Gold After Gain
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C87301060C500007C04F800418000207CA7F814 7C86301060C500007C04F800418000207CA7F814
 
 name: AoB Max Exp After Battle
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C6730107C03E0004180002C3C6000987CC7E014 7C6630107C03E0004180002C3C6000987CC7E014
 
 name: AoB Max Materials After Getting A 2nd One
+author: asd from games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 418100142C040000408000086304000060860000 480000142C040000408000086304000060860000
 
 name: AoB Enemy Attack Always Miss
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C8430002C040000418000104085000C 7C8430002C0400004180001060000000
 
 name: Max Gold After Spending
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 002858FC 60000000
 
 name: 99 Materials
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 00128B30 48000014
 
 name: Combo 999
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000CBB7C 48000014
 
 name: Movement Speed Up
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000CDB68 40000000
 
 name: MP Never Decreases
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 0008F47C 60000000
 
 name: Max Tension After Change
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000CA614 60000000
 
 name: Max Exp After Combat
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 w32 000EA090 7C663010
 
 name: AoB Max Gold After Spending
+author: games24.blog.fc2.com/blog-category-10.html, games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 4085000C60C40000480000102C040000 6000000060C40000480000102C040000
 
 name: AoB 99 Materials
+author: games24.blog.fc2.com/blog-category-10.html, games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 418100142C0400004080000863040000 480000142C0400004080000863040000
 
 name: AoB Combo 999
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 4185001460E600002C06000040800008 4800001460E600002C06000040800008
 
 name: AoB Movement Speed Up
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 3F80000042C80000A06302987C630734 4000000042C80000A06302987C630734
 
 name: AoB Max Tension After Change
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 60860000B0DF02244800006C2C1E0000 60000000B0DF02244800006C2C1E0000
 
 name: AoB Max Exp After Combat
+author: games24.blog.fc2.com/blog-entry-248.html
 mode: once
 aob 7C6730107C03E0004180002C3C600098 7C6630107C03E0004180002C3C600098

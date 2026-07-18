@@ -1,25 +1,31 @@
 # Rune Factory: Oceans
 
 name: Max Dragon Shrine Donations
+author: ChaosZage
 mode: once
 w32 00135E2C 40810010
 
 name: Max Money When Buying + Selling
+author: ChaosZage
 mode: once
 w32 00135E68 40810010
 
 name: Max RP 9999 On Level Up
+author: ChaosZage
 mode: once
 w32 003B7440 38A0270F
 
 name: Max HP 9999 On Level Up
+author: ChaosZage
 mode: once
 w32 003B73D4 3880270F
 
 name: Max Money On Buy
+author: crapulecorp
 mode: once
 w32 00135E58 90A60004
 
 name: AoB Max Money On Buy
+author: crapulecorp
 mode: once
 aob 80C4F2508084F25090660004806400047C032800 80C4F2508084F25090A60004806400047C032800

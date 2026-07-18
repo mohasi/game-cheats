@@ -1,14 +1,17 @@
 # Totori no Atelier: Arland no Renkinjutsushi 2
 
 name: Gold 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3530 0098967F
 
 name: 1st Day
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01299A2C 00000000
 
 name: All Characters Adv. Exp Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3668 000F423F
 w32 012D37F4 000F423F
@@ -19,6 +22,7 @@ w32 012D3E24 000F423F
 w32 012D3FB0 000F423F
 
 name: All Characters HP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D366C 000003E7
 w32 012D37F8 000003E7
@@ -43,6 +47,7 @@ w32 012D3E50 000003E7
 w32 012D3FDC 000003E7
 
 name: All Characters MP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3670 000003E7
 w32 012D37FC 000003E7
@@ -67,6 +72,7 @@ w32 012D3E54 000003E7
 w32 012D3FE0 000003E7
 
 name: All Characters LP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3674 000003E7
 w32 012D3800 000003E7
@@ -91,6 +97,7 @@ w32 012D3E58 000003E7
 w32 012D3FE4 000003E7
 
 name: All Characters ATK 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3684 000003E7
 w32 012D3810 000003E7
@@ -101,6 +108,7 @@ w32 012D3E40 000003E7
 w32 012D3FCC 000003E7
 
 name: All Characters DEF 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3688 000003E7
 w32 012D3814 000003E7
@@ -111,6 +119,7 @@ w32 012D3E44 000003E7
 w32 012D3FD0 000003E7
 
 name: All Characters SPD 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D368C 000003E7
 w32 012D3818 000003E7
@@ -121,18 +130,22 @@ w32 012D3E48 000003E7
 w32 012D3FD4 000003E7
 
 name: Totooria Alchemy EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3274 000F423F
 
 name: Gold 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DBB0 0098967F
 
 name: 1st Day
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 012D3F2C 00000004
 
 name: All Characters Adv. Exp Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DCE8 000F423F
 w32 0130DE74 000F423F
@@ -143,6 +156,7 @@ w32 0130E4A4 000F423F
 w32 0130E630 000F423F
 
 name: All Characters HP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DCEC 000003E7
 w32 0130DE78 000003E7
@@ -167,6 +181,7 @@ w32 0130E4D0 000003E7
 w32 0130E65C 000003E7
 
 name: All Characters MP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DCF0 000003E7
 w32 0130DE7C 000003E7
@@ -191,6 +206,7 @@ w32 0130E4D4 000003E7
 w32 0130E660 000003E7
 
 name: All Characters LP 999 + 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DCF4 000003E7
 w32 0130DE80 000003E7
@@ -215,6 +231,7 @@ w32 0130E4D8 000003E7
 w32 0130E664 000003E7
 
 name: All Characters ATK 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DD04 000003E7
 w32 0130DE90 000003E7
@@ -225,6 +242,7 @@ w32 0130E4C0 000003E7
 w32 0130E64C 000003E7
 
 name: All Characters DEF 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DD08 000003E7
 w32 0130DE94 000003E7
@@ -235,6 +253,7 @@ w32 0130E4C4 000003E7
 w32 0130E650 000003E7
 
 name: All Characters SPD 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130DD0C 000003E7
 w32 0130DE98 000003E7
@@ -245,5 +264,6 @@ w32 0130E4C8 000003E7
 w32 0130E654 000003E7
 
 name: Totooria Alchemy EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0130D8D4 000F423F

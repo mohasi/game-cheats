@@ -1,45 +1,56 @@
 # The Idolmaster 2
 
 name: Manny 999,999,999
+author: games24.blog.fc2.com/blog-entry-76.html
 mode: once
 w32 004CC9E0 2F800000
 
 name: Additional lesson time 999
+author: games24.blog.fc2.com/blog-entry-77.html
 mode: once
 w32 0013D444 2F880000
 
 name: Fixed Total Sales 9,999,999
+author: games24.blog.fc2.com/blog-entry-77.html
 mode: once
 w32 004D76B4 2F800000
 
 name: Replace all four parts of chain 999
+author: games24.blog.fc2.com/blog-entry-101.html
 mode: once
 w32 000A51A8 388403E9
 
 name: AoB Manny 999,999,999
+author: games24.blog.fc2.com/blog-entry-76.html
 mode: once
 aob 7F804800409D00087D204B787C0900F87D29FE707C00483890030000 2F800000409D00087D204B787C0900F87D29FE707C00483890030000
 
 name: AoB Additional lesson time 999
+author: games24.blog.fc2.com/blog-entry-77.html
 mode: once
 aob 2F8803E77D004378419D00347C0507B4 2F8800007D004378419D00347C0507B4
 
 name: AoB Total Sales 9,999,999
+author: games24.blog.fc2.com/blog-entry-76.html
 mode: once
 aob 7F844800409D00087D204B787C0900F8 2F840000409D00087D204B787C0900F8
 
 name: AoB Fixed Total Sales 9,999,999
+author: games24.blog.fc2.com/blog-entry-77.html
 mode: once
 aob 7F805800409D00087D605B787C0900F8 2F800000409D00087D605B787C0900F8
 
 name: AoB Replace all four parts of chain 999
+author: games24.blog.fc2.com/blog-entry-101.html
 mode: once
 aob 38840001913F00D4909F00D87C8407B4 388403E9913F00D4909F00D87C8407B4
 
 name: AoB Activity week does not advance
+author: games24.blog.fc2.com/blog-entry-101.html
 mode: once
 aob 392900017C7F1B787D2007742F800038409D000C 392900007C7F1B787D2007742F800038409D000C
 
 name: AoB Activity week back one week
+author: games24.blog.fc2.com/blog-entry-101.html
 mode: once
 aob 392900017C7F1B787D2007742F800038409D000C 3929FFFF7C7F1B787D2007742F800038409D000C

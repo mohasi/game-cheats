@@ -1,5 +1,6 @@
 # Goat Simulator
 
 name: 10 Score In Flappy Goat Mini Game
+author: CMbl4
 mode: once
 w32 01BB7420 0000000A

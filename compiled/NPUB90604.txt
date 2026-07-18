@@ -1,26 +1,32 @@
 # Sonic Generations
 
 name: Rings 999 While Increasing
+author: xtatu
 mode: once
 w32 00973BCC 60000000
 
 name: Life 99 While Changing
+author: dron_3
 mode: once
 w32 00D43204 60000000
 
 name: Timer Always 00:00.00
+author: dron_3
 mode: once
 w32 00D1A18C 60000000
 
 name: 99999 PT While Changing
+author: dron_3
 mode: once
 w32 00D3D30C 9169A0F0
 
 name: AoB Rings 999 While Increasing
+author: xtatu
 mode: once
 aob 409D000C392003E7480000107D2048F87C00FE707D290038913B05A82F980000419E0010 60000000392003E7480000107D2048F87C00FE707D290038913B05A82F980000419E0010
 
 name: Free Super Sonic
+author: dron_3
 mode: once
 w32 009687C4 60000000
 w32 0098603C 60000000
@@ -29,18 +35,22 @@ w32 00BDECC8 48000020
 w32 00B28CCC 48000020
 
 name: Rings Never Decrease
+author: dron_3
 mode: once
 w32 00968714 60000000
 
 name: Freeze Time
+author: dron_3
 mode: once
 w32 00D1A358 60000000
 
 name: 99 Lives On Gain + Lose
+author: dron_3
 mode: once
 w32 00D433D0 60000000
 
 name: AoB Free Super Sonic
+author: dron_3
 mode: once
 aob 7D2448507D2048F8816B00BC 600000007D2048F8816B00BC
 aob 419E00B4801E05A87B9F00202F800031409D00A4 60000000801E05A87B9F00202F80003160000000
@@ -48,18 +58,22 @@ aob 388001B35460063E7FE3FB782F800000419E0020 388001B35460063E7FE3FB782F800000480
 aob 388000115460063E7FE3FB782F800000419E0020 388000115460063E7FE3FB782F80000048000020
 
 name: AoB Rings Never Decrease
+author: dron_3
 mode: once
 aob 7C1B00503BA10070 600000003BA10070
 
 name: AoB Freeze Time
+author: dron_3
 mode: once
 aob C0030184EC00082A C003018460000000
 
 name: AoB 99 Lives On Gain Or Loss
+author: dron_3
 mode: once
 aob 409D00083880006390839FDC 600000003880006390839FDC
 
 name: Free Super Sonic
+author: dron_3
 mode: once
 w32 009686EC 60000000
 w32 00985F64 60000000
@@ -68,26 +82,32 @@ w32 00B28BF4 48000020
 w32 00BDEBF0 48000020
 
 name: Rings Never Decrease
+author: dron_3
 mode: once
 w32 0096863C 60000000
 
 name: Timer Always 00:00.00
+author: dron_3
 mode: once
 w32 00D1A3AC 60000000
 
 name: Gain 99 Lives On Lose + Gain
+author: dron_3
 mode: once
 w32 00D43424 60000000
 
 name: 99999 PT While Changing
+author: dron_3
 mode: once
 w32 00D3D52C 9169A0F0
 
 name: Rings 999 While Increasing
+author: xtatu
 mode: once
 w32 00973CC0 60000000
 
 name: AoB Free Super Sonic
+author: dron_3
 mode: once
 aob 7D2448507D2048F8816B00BC 600000007D2048F8816B00BC
 aob 419E00B4801E05A87B9F0020 60000000801E05A87B9F0020
@@ -96,17 +116,21 @@ aob 419E00209B9E00644BE4BD29 480000209B9E00644BE4BD29
 aob 419E00209B9E00644BD95D2D 480000209B9E00644BD95D2D
 
 name: AoB Rings Never Decrease
+author: dron_3
 mode: once
 aob 7C1B00503BA10070812900BC 600000003BA10070812900BC
 
 name: AoB Timer Always 00:00.00
+author: dron_3
 mode: once
 aob EC00082AFF806000D0030184 60000000FF806000D0030184
 
 name: AoB 99999 PT While Changing
+author: dron_3
 mode: once
 aob 9009A0F0409C001038000000 9169A0F0409C001038000000
 
 name: AoB Rings 999 While Increasing
+author: dron_3
 mode: once
 aob 409D000C392003E748000010 60000000392003E748000010

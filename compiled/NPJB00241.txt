@@ -1,21 +1,26 @@
 # ソニック ジェネレーションズ 白の時空
 
 name: Infinite Money + Items
+author: games24.blog.fc2.com
 mode: once
 w32 00F9979C 7C090378
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 00613E7C 60000000
 
 name: Infinite Money
+author: xtatu
 mode: once
 w32 00A5DFA4 60000000
 
 name: Infinite HP
+author: games24.blog.fc2.com/blog-entry-166.html
 mode: once
 w32 0039DCFC 480000CC
 
 name: AoB Infinite HP
+author: games24.blog.fc2.com/blog-entry-166.html
 mode: once
 aob 409D00CC2F9D000093BC0014419C0354 480000CC2F9D000093BC0014419C0354

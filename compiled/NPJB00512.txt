@@ -1,6 +1,7 @@
 # Kidou Senshi Gundam: Extreme VS Full Boost
 
 name: Memory Ammo
+author: jgduff1
 mode: once
 w32 41AF8010 00000008
 w32 41C14BBC 00000008
@@ -9,19 +10,23 @@ w32 42080E54 00000008
 w32 4FBA0BB0 00000006
 
 name: Memory Infinite Armor
+author: jgduff1
 mode: once
 w32 41C14144 000002A8
 w32 41EA0164 000002A8
 
 name: ASM Infinite Armor
+author: jgduff1
 mode: once
 w32 00AB039C 901F0114
 w32 00AB03A4 60000000
 
 name: Max SP After Combat
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0052E4ED 68021490
 
 name: AoB Max SP After Combat
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 aob 680214907C000880FF043C7D833A14 620214907C000880FF043C7D833A14

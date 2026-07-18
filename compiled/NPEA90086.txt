@@ -1,20 +1,24 @@
 # Killzone 3
 
 name: Debug Options
+author: dron_3
 mode: once
 w32 00EDCB80 74727565
 w32 00EDCB84 00000000
 
 name: Debug Options
+author: dron_3
 mode: once
 w32 00E61018 74727565
 w32 00E6101C 00000000
 
 name: AoB Debug Options
+author: dron_3
 mode: once
 aob 63686561745F656E61626C656400000066616C7365000000 63686561745F656E61626C65640000007472756500000000
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010050 3C800158
 w32 00010054 60847FE0
@@ -46,6 +50,7 @@ w32 000100B8 481F5F48
 w32 00205FFC 4BE0A054
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 000100C0 3C800158
 w32 000100C4 60847FE0
@@ -76,33 +81,40 @@ w32 00010124 481F5EE0
 w32 00206000 4BE0A0C0
 
 name: Extended FOV (PSXPlace) [Tested]
+author: vFxMz
 mode: once
 w32 0139BDF0 3F59999A
 w32 0139BEEC 3F59999A
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 33A8E950 00000020
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 00753010 7C853810
 w32 00753018 60000000
 
 name: Memory Infinite Grenades
+author: jgduff1
 mode: once
 w32 3373BD10 00000003
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 006C524C 30630000
 w32 006C5250 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 3384C870 4295CCCD
 w32 340DFAF4 4295CCCD
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 003459D8 EC3F2828

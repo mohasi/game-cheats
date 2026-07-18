@@ -1,45 +1,56 @@
 # Mafia II: Director's Cut
 
 name: No Reload
+author: crapulecorp, Azagthoth
 mode: once
 w32 00769090 60000000
 
 name: Max Money On Buy
+author: crapulecorp, ported by Azagthoth
 mode: once
 w32 00824504 F8250010
 
 name: AoB No Reload
+author: crapulecorp, Azagthoth
 mode: once
 aob 9085000C808300008084000C 60000000808300008084000C
 
 name: AoB Max Money On Buy
+author: crapulecorp, ported by Azagthoth
 mode: once
 aob F8850010808300008084000C F8250010808300008084000C
 
 name: Police Ignore You
+author: Azagthoth
 mode: once
 w32 0098F5C4 60000000
 
 name: Infinite Mission Time
+author: Azagthoth
 mode: once
 w32 000BCD98 60000000
 
 name: Infinite Vehicle Engine (Car Still Becomes Damaged)
+author: Azagthoth
 mode: once
 w32 00208920 D3DC001C
 
 name: AoB Police Ignore You
+author: Azagthoth
 mode: once
 aob 807C00183B000001937C0008 807C00183B00000160000000
 
 name: AoB Infinite Mission Time
+author: Azagthoth
 mode: once
 aob EC3C107C63E30000D03F004C EC3C107C63E3000060000000
 
 name: AoB Infinite Vehicle Engine (Car Still Becomes Damaged)
+author: Azagthoth
 mode: once
 aob 4082FCF03C600021C03C001C 4082FCF03C600021D3DC001C
 
 name: Infinite Vehicle Engine
+author: Azagthoth
 mode: once
 w32 00208920 D3DC001C

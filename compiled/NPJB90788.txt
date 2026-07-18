@@ -1,6 +1,7 @@
 # Zettai Geigeki Wars
 
 name: Money Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 01EE0184 38800000
 w32 01EE48C0 38800000
@@ -8,45 +9,56 @@ w32 01FC6A04 38800000
 w32 01FC7478 38800000
 
 name: Max Happiness Level On Change
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 w32 01F32C3C 60000000
 
 name: Power Never Changes
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 w32 01F348E0 60000000
 
 name: Max Crystal, Illuminate, Interception, + Operator Results Level
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 w32 014C9C84 60000000
 
 name: Remodeled Module, Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 w32 01F31D70 60000000
 
 name: Endurance Never Decreases During Battle
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 w32 01EA6EF8 60000000
 
 name: AoB Max Happiness Level On Change
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob C02100743C000000600063F87C7E002E 600000003C000000600063F87C7E002E
 
 name: AoB Max Citizens
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob 40810014807C00507C641B78E8840026 60000000807C00507C641B78E8840026
 
 name: AoB Power Never Changes
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob 9383003CE80100B07C0803A6EB610088 60000000E80100B07C0803A6EB610088
 
 name: AoB Max Crystal, Illuminate, Interception, + Operator Results Level
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob 40810008EB4100367F43D378E8010060 60000000EB4100367F43D378E8010060
 
 name: AoB Remodeled Module, Items Never Decrease
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob 7C852050B0830008807B00487F4407B4 60000000B0830008807B00487F4407B4
 
 name: AoB Endurance Never Decreases During Battle
+author: games24.blog.fc2.com/blog-entry-263.html
 mode: once
 aob 939B00A0E80100B07C0803A6EB610088 60000000E80100B07C0803A6EB610088

@@ -1,40 +1,49 @@
 # Fist of the North Star: Ken's Rage 2
 
 name: Enemies Can Not Move
+author: xtatu
 mode: once
 w32 000B3388 419E001C
 w32 000B3434 41860010
 
 name: Level Max 50 Enemy Kill
+author: xtatu
 mode: once
 w32 0003D6C0 4081003C
 
 name: Enemies Explode
+author: xtatu
 mode: once
 w32 00906A2C 42C80000
 
 name: Recover Health
+author: xtatu
 mode: once
 w32 00354EA8 A13E00E4
 w32 00354EB0 B13E00E6
 
 name: Power Recover
+author: xtatu
 mode: once
 w32 0035504C A13E00E8
 w32 00355050 B13E00EA
 
 name: AoB Quick Health Recover
+author: eltyran84
 mode: once
 aob A17E00E6A11E00E27D6907347D040734552618385527083C7CA730507F052000 A13E00E4A11E00E2B13E00E67D040734552618385527083C7CA730507F052000
 
 name: AoB Quick SP Recover
+author: eltyran84
 mode: once
 aob A11E00E87D090734913F010480670000 A13E00E8B13E00EA913F010480670000
 
 name: AoB Quick LV Up
+author: eltyran84
 mode: once
 aob 7D6507B44BFFF38557CA103A7B8800207D4607B47C6A1B787C68312EE98100B0 1CAB00FF4BFFF38557CA103A7B8800207D4607B47C6A1B787C68312EE98100B0
 
 name: AoB Max Combo
+author: eltyran84
 mode: once
 aob 388000017863002038A00000 388000FF7863002038A00000

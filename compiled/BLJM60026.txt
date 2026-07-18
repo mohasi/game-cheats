@@ -1,19 +1,23 @@
 # Marvel: Ultimate Alliance
 
 name: Memory Lot + Infinite Gold On Gain
+author: jgduff1
 mode: once
 w32 63465250 00000365
 
 name: ASM Lot + Infinite Gold On Gain
+author: jgduff1
 mode: once
 w32 00138E2C 90490000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 635507D0 3F800000
 w32 635590A4 426C0000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0006CB00 60000000
 w32 0006CB0C 60000000
@@ -22,9 +26,11 @@ w32 0006CB18 60000000
 w32 0006CB20 60000000
 
 name: Memory Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+author: jgduff1
 mode: once
 w32 632F0F9C 000001D1
 
 name: ASM Max Level + High Health, Energy, Body, Focus, Strike On 1 Hit
+author: jgduff1
 mode: once
 w32 002278A8 9123003C

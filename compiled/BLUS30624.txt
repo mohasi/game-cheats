@@ -1,11 +1,13 @@
 # Dead Space 2 Limited Edition
 
 name: Infinite Credits
+author: Skiller
 mode: once
 w32 001D38E8 7D204B78
 w32 00226AC4 7D234B78
 
 name: Max Nodes + Money 999999
+author: Skiller
 mode: once
 w32 0022708C 6129423C
 w32 00227098 386BF430

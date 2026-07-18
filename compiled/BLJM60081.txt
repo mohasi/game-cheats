@@ -1,13 +1,16 @@
 # Tears to Tiara : Kakan no Daichi
 
 name: Max HP + MP + LV + SKL
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30335F50 3B9AC9FF
 
 name: Max HP + MP + LV + SKL
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30335CA0 3B9AC9FF
 
 name: Max HP + MP + LV + SKL
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30335810 3B9AC9FF

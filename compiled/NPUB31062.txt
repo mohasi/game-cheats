@@ -1,17 +1,21 @@
 # Under Defeat
 
 name: Memory 4 Bombs
+author: SHAkA
 mode: once
 w8 004107D5 04
 
 name: Memory 6 Lives
+author: SHAkA
 mode: once
 w8 004107CE 06
 
 name: AoB Unlimited Bombs
+author: SHAkA
 mode: once
 aob 38800090987F0015 3880009060000000
 
 name: AoB Unlimited Life
+author: SHAkA
 mode: once
 aob 30C6FFFF98C5000E 30C6FFFF60000000

@@ -1,39 +1,47 @@
 # Invizimals: The Lost Kingdom
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 3829969C 437A0000
 w32 3830848C 437A0000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000E7D0C 60000000
 w32 000E80F0 60000000
 w32 000E80F8 60000000
 
 name: Memory Infinite Shield
+author: jgduff1
 mode: once
 w32 3830C6B0 3F800000
 
 name: ASM Shield Never Decreases
+author: jgduff1
 mode: once
 w32 000D2B7C 60000000
 w32 000D2B80 60000000
 
 name: ASM Instant Max Shield
+author: jgduff1
 mode: once
 w32 000D1B10 60000000
 
 name: Memory 9,999 Z Orbs
+author: jgduff1
 mode: once
 w32 01318CE0 0000270F
 w32 01318BA4 0000270F
 
 name: Memory 9,999 Blue Orbs
+author: jgduff1
 mode: once
 w32 01318A64 0000270F
 
 name: Z Orbs Never Decrease From Buying Upgrades
+author: jgduff1
 mode: once
 w32 000620C0 60000000
 w32 000620C4 60000000
@@ -41,9 +49,11 @@ w32 000A5148 60000000
 w32 000A514C 60000000
 
 name: Memory Instant Max Power
+author: jgduff1
 mode: once
 w32 3830C55C 00000005
 
 name: ASM Instant Max Power
+author: jgduff1
 mode: once
 w32 000CFA28 3063270F

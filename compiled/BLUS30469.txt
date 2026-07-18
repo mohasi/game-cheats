@@ -1,19 +1,23 @@
 # Legend of the Guardians: The Owls of Ga'Hoole
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 375BBF18 42280000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000CE500 EC4A087A
 w32 000CE4C0 EC882028
 
 name: Memory Continues Never Decrease
+author: jgduff1
 mode: once
 w32 3593A000 00000002
 
 name: ASM Continues Never Decrease
+author: jgduff1
 mode: once
 w32 00145DC0 30830000
 w32 00145DC8 60000000

@@ -1,25 +1,31 @@
 # Ratchet &amp;amp; Clank 1, 2, 3: Ginga Saikyou Gorgeous Pack
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 0055044C 40860008
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 41860008480000143C60005538630424C0430004 40860008480000143C60005538630424C0430004
 
 name: 1P Infinite Health
+author: xtatu
 mode: once
 w32 0003B91C 408100F8
 
 name: AoB 1P Infinite Health
+author: xtatu
 mode: once
 aob 418100F8C0AB0000FC802890FC602090FC011800 408100F8C0AB0000FC802890FC602090FC011800
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 000EF254 40820210
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 418202103CE0000F3940001038E7F12039800020390000403BC00030 408202103CE0000F3940001038E7F12039800020390000403BC00030

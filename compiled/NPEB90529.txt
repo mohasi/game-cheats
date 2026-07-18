@@ -1,6 +1,7 @@
 # JoJo's Bizarre Adventure All-Star Battle
 
 name: Infinite Health + Special
+author: Hiei-YYH
 mode: once
 w32 00DCB5B0 3CA03815
 w32 00DCB5B4 60A5BABC
@@ -16,30 +17,37 @@ w32 00DCB5D8 4B887180
 w32 00652754 48778E5C
 
 name: Max Gold On Buy
+author: Hiei-YYH
 mode: once
 w32 004D6984 3C8005F5
 w32 004D6988 6084E0FF
 
 name: Max Money
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 w32 004D6984 2F9F0000
 
 name: 999 Combo
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 w32 00157474 380003E7
 
 name: Infinite Special
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 w32 007399B4 48000010
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 aob 7F9F0040419D009890831CB08122D270 2F9F0000419D009890831CB08122D270
 
 name: AoB 999 Combo
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 aob 7C0022147C0900F87D29FE707C004838 380003E77C0900F87D29FE707C004838
 
 name: AoB Infinite Special
+author: games24.blog.fc2.com/blog-entry-190.html
 mode: once
 aob 419D0010C183000CFF806000409C000C 48000010C183000CFF806000409C000C

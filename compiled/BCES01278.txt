@@ -1,6 +1,7 @@
 # God of War Collection: Volume II
 
 name: Infinite Health and Magic
+author: Hiei-YYH
 mode: once
 w32 00150E38 3C60447A
 w32 00150E3C 90640064
@@ -16,37 +17,45 @@ w32 00459654 C03F00D8
 w32 00459658 4BD3BB38
 
 name: Red Orbs Do Not Decrease From Use
+author: sesiom316
 mode: once
 w32 0015111C 60000000
 
 name: Max Red Orbs On Gain
+author: dron_3, sesiom316
 mode: once
 w32 00151000 41810008
 w32 00151004 6084967F
 
 name: AoB Red Orbs Do Not Decrease From Use
+author: sesiom316
 mode: once
 aob 910600007CC7481438E0000090C3001080C4000054C8103A 600000007CC7481438E0000090C3001080C4000054C8103A
 
 name: AoB Max Red Orbs On Gain
+author: dron_3, sesiom316
 mode: once
 aob 418100087C8518149086000040860044807F009C2C030000 3C8000986084967F9086000040860044807F009C2C030000
 
 name: Red Orbs Do Not Decrease From Use
+author: sesiom316
 mode: once
 w32 00151118 60000000
 w32 0015111C 60000000
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 000DB284 D0230064
 
 name: Infinite Magic
+author: GuitarMan
 mode: once
 w32 00150E44 38A00001
 w32 00150E54 90BF00DC
 
 name: Invincibility On = Dpad Up, Invincibility Off = Dpad Down
+author: GuitarMan
 mode: once
 w32 004593E8 3D200114
 w32 004593EC 9089F00C
@@ -71,6 +80,7 @@ w32 000DB27C 484B668E
 w32 000C8EC4 484593EA
 
 name: Infinite Jumps Hold R2
+author: GuitarMan
 mode: once
 w32 00459440 3CA00114
 w32 00459444 9085F004
@@ -92,25 +102,30 @@ w32 000D8104 48472906
 w32 00016E20 48459442
 
 name: Combo Never Break
+author: GuitarMan
 mode: once
 w32 00151A18 60000000
 
 name: Invincible
+author: jgduff1
 mode: once
 w16 3AFA1B74 42BF
 
 name: Max + Infinite Magic
+author: jgduff1
 mode: once
 w32 00651F44 FFFFFFF5
 w32 3AE21B38 42C80000
 
 name: Max + Infinite Orbs
+author: jgduff1
 mode: once
 w32 3AD2B27C 3B9AC9FF
 w32 3AE669F4 3B9AC9FF
 w32 3B02CB58 0001869D
 
 name: Infinite Health + Magic
+author: Hiei-YYH
 mode: once
 w32 002179D8 C0240070
 w32 002179DC D0240064
@@ -122,6 +137,7 @@ w32 002179F0 4807B48D
 w32 00292E7C 63C30000
 
 name: Infinite Thera's Bane
+author: Hiei-YYH
 mode: once
 w32 001FDCF0 C05F0174
 w32 001FDD14 C03F0174
@@ -129,24 +145,29 @@ w32 001FDD18 D03F0170
 w32 001FDD1C 4BFFB085
 
 name: Max Red Orbs on Gain
+author: Hiei-YYH
 mode: once
 w32 002195B4 60000000
 
 name: AoB Infinite Health + Magic
+author: Hiei-YYH
 mode: once
 aob C02400644807B38560000000C03D00F463C300004807B49560000000 C0240070D02400644807B3813C604348907D00F4C03D00F44807B48D
 aob 60000000F821FF817C0802A6F8010090DBE10078FBE10070FFE00890 63C30000F821FF817C0802A6F8010090DBE10078FBE10070FFE00890
 
 name: AoB Infinite Thera's Bane
+author: Hiei-YYH
 mode: once
 aob EC411028D05F0170C0230004FC0208004180000848000360 C05F0174D05F0170C0230004FC0208004180000848000360
 aob D03F01704BFFB089600000002C0300004082001463E30000 C03F0174D03F01704BFFB0852C0300004082001463E30000
 
 name: AoB Max Red Orbs on Gain
+author: Hiei-YYH
 mode: once
 aob 408100103CE0000F60E7423F90E300F0409A003441860030 600000003CE0000F60E7423F90E300F0409A003441860030
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 005EF400 3E400120
 w32 005EF404 9092F008
@@ -157,27 +178,33 @@ w32 005EF414 4812003E
 w32 00120038 485EF402
 
 name: Magic Meter Never Decreases
+author: GuitarMan
 mode: once
 w32 00162D40 60000000
 
 name: Infinite Magic Meter
+author: GuitarMan
 mode: once
 w32 002179B0 907D00F8
 
 name: Thera's Bane Meter Never Decreases
+author: GuitarMan
 mode: once
 w32 001FDCF4 60000000
 w32 00202CC8 60000000
 
 name: Red Orbs Multiplies on Gain
+author: GuitarMan
 mode: once
 w32 00219590 7CA731D6
 
 name: Red Orbs Never Decreases On use
+author: GuitarMan
 mode: once
 w32 002197D4 60000000
 
 name: Invincibility On = Dpad Up, Invincibility Off = Dpad Down
+author: GuitarMan
 mode: once
 w32 005EF444 813E0008
 w32 005EF448 39290018
@@ -204,6 +231,7 @@ w32 0021934C 48653D22
 w32 00101EA4 485EF446
 
 name: Infinite Jumps Hold R2
+author: GuitarMan
 mode: once
 w32 005EF3B8 3CA00120
 w32 005EF3BC 9085F004
@@ -225,5 +253,6 @@ w32 000171D8 485EF3BA
 w32 001771F8 485EF3CA
 
 name: Combo Never Break
+author: GuitarMan
 mode: once
 w32 0021A1CC 60000000

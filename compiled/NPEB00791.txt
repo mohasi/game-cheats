@@ -1,31 +1,38 @@
 # Deus Ex: Human Revolution
 
 name: Extras Debug Menu In The Pause Menu
+author: dron_3
 mode: once
 w32 0072C24C 3BA00001
 
 name: Max Credits On Buy
+author: Medo
 mode: once
 w32 0044F16C 3C007FFF
 
 name: Max Credits While In Shop
+author: Medo
 mode: once
 w32 00751CAC 3FA07FFF
 
 name: Max Praxis Points + Exp On Use Or Gain (Re-enter Menu)
+author: Medo
 mode: once
 w32 0043559C 38000063
 
 name: Quick Level Up (1 Exp till next Level)
+author: Medo
 mode: once
 w32 00435140 409E0024
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 0044A498 3D8042C8
 w32 0044A49C 919F0060
 
 name: Max + Infinite Battery
+author: Medo
 mode: once
 w32 0043B274 60000000
 w32 0043B278 60000000
@@ -33,11 +40,13 @@ w32 0043BC48 3D804316
 w32 0043BC88 919F0004
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 005EDECC 60000000
 w32 005EDEE8 60000000
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 00DF2E78 3C6000FF
 w32 00DF2E7C 806352B8
@@ -58,6 +67,7 @@ w32 00DF2F08 4844861E
 w32 00448618 48DF2E7A
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 00DF2E78 3D2000FF
 w32 00DF2E7C 812952B8
@@ -78,35 +88,43 @@ w32 00DF2F08 48448D72
 w32 00448D6C 48DF2E7A
 
 name: Battery Never Decreases
+author: bungholio
 mode: once
 w32 004392A8 4800000C
 w32 00438F50 4800000C
 
 name: Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 w32 005E8A50 39290000
 
 name: Inventory Items + Total Ammo + Hacking Tools Never Decrease
+author: bungholio
 mode: once
 w32 0062A2C0 60000000
 
 name: Dropped Inventory Items Are Not Removed From Inventory
+author: bungholio
 mode: once
 w32 0062A2B8 60000000
 
 name: Unlimited Sprint
+author: bungholio
 mode: once
 w32 004A8B2C 60000000
 
 name: Credits Never Decrease From Buying
+author: bungholio
 mode: once
 w32 0044CE58 60000000
 
 name: Hacking Attempts Never Decrease
+author: bungholio
 mode: once
 w32 004ED340 39200000
 
 name: Button Enable Code
+author: bungholio
 mode: once
 w32 00DF3088 3D4001FB
 w32 00DF308C 893C0215
@@ -134,6 +152,7 @@ w32 00DF316C 4814F9BE
 w32 0014F9B8 48DF308A
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 00DF2F28 3D2001FB
 w32 00DF2F2C A009F004
@@ -150,6 +169,7 @@ w32 00DF2F8C 486318F2
 w32 006318EC 48DF2F2A
 
 name: Freeze Enemies
+author: bungholio
 mode: once
 w32 00DF2FAC 3D2001FB
 w32 00DF2FB0 8809F006
@@ -174,14 +194,17 @@ w32 00DF3068 48641C96
 w32 00641C90 48DF2FAE
 
 name: Max + Infinite Battery
+author: jgduff1
 mode: once
 w32 009EFEB8 D05C0000
 
 name: Fast Health Regeneration
+author: jgduff1
 mode: once
 w32 0044D22C EC21082A
 
 name: Invincible Player
+author: FBML
 mode: once
 w32 00447FA8 48000598
 w32 00448578 D01F005C
@@ -195,65 +218,80 @@ w32 00448594 FFC05090
 w32 00448598 FFE05090
 
 name: No Alarms
+author: FBML
 mode: once
 w32 003E41FC 480000AC
 
 name: AoB Max Credits On Buy
+author: Medo
 mode: once
 aob 7C0400509003005C4BFFFF648003005C 3C007FFF9003005C4BFFFF648003005C
 
 name: AoB Max Praxis Points + Exo On Use Or Gain
+author: Medo
 mode: once
 aob 800900107C0400503880000190090010 80090010380000633880000190090010
 
 name: AoB Infinite Health
+author: Medo
 mode: once
 aob C11E8010D19F0060FC206090801F0004EC4C0232 3D8042C8919F0060FC206090801F0004EC4C0232
 
 name: AoB Max + Infinite Battery
+author: Medo
 mode: once
 aob C19F0004807F0000FFFF07EEFFE0FE5EDBE10070 3D804316807F0000FFFF07EEFFE0FE5EDBE10070
 aob EFDE0028EDBDF028FDADEFAEED8C682AD19F0004 EFDE0028EDBDF028FDADEFAEED8C682A919F0004
 aob EC2008284099000CD1A30008D0230004 EC2008284099000C6000000060000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 aob B12B0014815C0070A00A00147C0007347C0900F87D29FE707C004838B00A0014 60000000815C0070A00A00147C0007347C0900F87D29FE707C00483860000000
 
 name: Extras Debug Menu In The Pause Menu
+author: dron_3
 mode: once
 w32 00732B94 3BA00001
 
 name: Hacking Attempts Never Decrease
+author: bungholio
 mode: once
 w32 004F1690 39200000
 
 name: Credits Never Decrease From Buying
+author: bungholio
 mode: once
 w32 0044F448 60000000
 
 name: Unlimited Sprint
+author: bungholio
 mode: once
 w32 004AB274 60000000
 
 name: Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 w32 005EE240 39290000
 
 name: Inventory Items + Total Ammo + Hacking Tools Never Decrease
+author: bungholio
 mode: once
 w32 0062FB18 60000000
 
 name: Dropped Inventory Items Are Not Removed From Inventory
+author: bungholio
 mode: once
 w32 0062FB10 60000000
 
 name: Battery Never Decreases
+author: bungholio
 mode: once
 w32 0043B8A0 4800000C
 w32 0043B548 4800000C
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 00DFDA5C 81228B00
 w32 00DFDA60 812980D0
@@ -273,6 +311,7 @@ w32 00DFDAE8 4844B362
 w32 0044B35C 48DFDA5E
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 00DFDA5C 80628B00
 w32 00DFDA60 806380D0
@@ -292,6 +331,7 @@ w32 00DFDAE8 4844AC0E
 w32 0044AC08 48DFDA5E
 
 name: Button Enable Code (Required To Fly And Freeze Enemies)
+author: bungholio
 mode: once
 w32 00DFDC6C 3D4000F7
 w32 00DFDC70 893C0215
@@ -319,6 +359,7 @@ w32 00DFDD50 481509A6
 w32 001509A0 48DFDC6E
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 00DFDB0C 3D2000F7
 w32 00DFDB10 A0097004
@@ -335,6 +376,7 @@ w32 00DFDB70 48637202
 w32 006371FC 48DFDB0E
 
 name: Freeze Enemies (L2 + R3)
+author: bungholio
 mode: once
 w32 00DFDB90 3D2000F7
 w32 00DFDB94 88097006
@@ -358,6 +400,7 @@ w32 00DFDC48 48645376
 w32 00645370 48DFDB92
 
 name: Invincible Player
+author: FBML
 mode: once
 w32 0044A598 48000598
 w32 0044AB58 D01F005C
@@ -371,5 +414,6 @@ w32 0044AB74 FFC05090
 w32 0044AB78 FFE05090
 
 name: AoB No Alarms
+author: FBML
 mode: once
 w32 003E675C 480000AC

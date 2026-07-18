@@ -1,10 +1,12 @@
 # Astro Tripper
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 0037B358 00000003
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00026CBC 30630000
 w32 00026CC4 60000000
@@ -12,26 +14,32 @@ w32 0003A650 30630000
 w32 0003A694 60000000
 
 name: Memory Big Score On Gain
+author: jgduff1
 mode: once
 w32 37D52358 00000000
 
 name: ASM Big Score On Gain
+author: jgduff1
 mode: once
 w32 0002A3C8 905C0278
 
 name: Memory Invincible
+author: jgduff1
 mode: once
 w32 37D521F4 3F800000
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 00026DD4 60000000
 w32 00026E94 60000000
 
 name: Memory Time Increase (Infinite Time)
+author: jgduff1
 mode: once
 w32 00387054 420A457E
 
 name: ASM Time Increase (Infinite Time)
+author: jgduff1
 mode: once
 w32 00016690 60000000

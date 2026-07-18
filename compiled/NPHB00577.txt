@@ -1,22 +1,27 @@
 # Kamen Rider: Battride War
 
 name: 9,999 Combo
+author: games24.blog.fc2.com/blog-entry-171.html
 mode: once
 w32 002C4FE4 38A0270F
 
 name: 10,000 Kills
+author: games24.blog.fc2.com/blog-entry-171.html
 mode: once
 w32 002C48E8 38032710
 
 name: AoB 9,999 Combo
+author: games24.blog.fc2.com/blog-entry-171.html
 mode: once
 aob 7CA5321481480020C00300147D045214 38A0270F81480020C00300147D045214
 
 name: AoB 10,000 Kills
+author: games24.blog.fc2.com/blog-entry-171.html
 mode: once
 aob 7C032A14900400004E80002080030020 38032710900400004E80002080030020
 
 name: P1 Invincibility
+author: GuitarMan
 mode: once
 w32 006211E0 3CE000C1
 w32 006211E4 9167FFFC
@@ -33,6 +38,7 @@ w32 0026FBF4 486211E2
 w32 001CE338 486211F2
 
 name: P1 Infinite Health + Special Meter
+author: GuitarMan
 mode: once
 w32 006211C0 C0690008
 w32 006211C4 D0690004
@@ -43,10 +49,12 @@ w32 006211D4 4826FCB2
 w32 0026FCAC 486211C2
 
 name: Max Points On Gain
+author: GuitarMan
 mode: once
 w32 00137A88 4800000C
 
 name: Enemies Die From Any Damage
+author: GuitarMan
 mode: once
 w32 00621214 2C12FFFF
 w32 00621218 4182000C
@@ -77,9 +85,11 @@ w32 002B7A30 48621216
 w32 0026FCD4 48621232
 
 name: Max Combo
+author: GuitarMan
 mode: once
 w32 002C506C 3CA07F7F
 
 name: Max Kills
+author: GuitarMan
 mode: once
 w32 002C4948 3C007F7F

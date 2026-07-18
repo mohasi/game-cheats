@@ -1,6 +1,7 @@
 # Call of Duty: Black Ops
 
 name: Infinite Health
+author: Peoples00
 mode: once
 w32 007DD620 82E91A20
 w32 007DD624 2C970001
@@ -12,10 +13,12 @@ w32 007DD638 4BA72DF4
 w32 00250428 4858D1F8
 
 name: Invincible Again Melee Attack (Zombie Mode)
+author: Peoples00
 mode: once
 w32 0020D898 60000000
 
 name: Infinite Ammo
+author: Peoples00
 mode: once
 w32 00A22580 386003E7
 w32 00A22584 907F0004
@@ -23,19 +26,23 @@ w32 00A22588 4B67FE00
 w32 000A2384 489801FC
 
 name: Infinite Ammo-No Reload + Infinite Grenades
+author: Peoples00
 mode: once
 w32 000A1864 48000004
 
 name: Infinite Ammo-No Reload + Infinite Grenades Launcher
+author: Peoples00
 mode: once
 w32 00099320 48000010
 w32 0009933C 60000000
 
 name: Infinite Ammo-No Reload For Launcher
+author: Peoples00
 mode: once
 w32 000A18BC 60000000
 
 name: Improved Accuracy
+author: Peoples00
 mode: once
 w32 00090DE8 38000000
 w32 00090DEC 901F052C
@@ -53,15 +60,18 @@ w32 0006AE88 60000000
 w32 0006AE90 60000000
 
 name: Max Score On Gain Zombie Mode
+author: Peoples00
 mode: once
 w32 0025A504 3FA03B9A
 w32 0025A534 63BDC9FF
 
 name: Max Total Kills-Headshoots Zombie Mode (Result)
+author: Peoples00
 mode: once
 w32 00592350 91AC0000
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 010DB850 000003E7
 w32 010DB858 000003E7
@@ -73,30 +83,36 @@ w32 010DB890 000003E7
 w32 010DB898 000003E7
 
 name: Infinite Grenade + Gas
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 010DB860 00000063
 w32 010DB868 00000063
 
 name: Infinite Grenade Launcher
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 010DB7F0 000003E7
 w32 010DB7F8 000003E7
 
 name: Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00F84900 0000270F
 w32 00F84904 0000270F
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 010BBB88 0063
 w16 010BBB90 0063
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 010DB868 0063
 w16 010DB870 0063
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat, games24.blog.fc2.com/blog-entry-175.html
 mode: once
 w32 000A18AC 7FC0F378

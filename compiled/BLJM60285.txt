@@ -1,11 +1,13 @@
 # The Sims 3
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 39B3C20C 05F5E0FF
 w32 39B41B8C 3B9AC9FF
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 002B933C 60000000
 w32 002B9350 7CA3312E

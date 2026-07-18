@@ -1,11 +1,13 @@
 # Enemy Territory: Quake Wars
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 406EA248 00000093
 w32 410D52B0 00000026
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 0081B920 93A90000
 w32 00A57CA8 38090000

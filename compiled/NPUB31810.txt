@@ -1,9 +1,11 @@
 # Amplitude
 
 name: Infinite Energy
+author: jgduff
 mode: once
 w32 0076B394 60000000
 
 name: Big Scores On Gain
+author: jgduff
 mode: once
 w32 007388D8 901F002C

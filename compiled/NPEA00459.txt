@@ -1,38 +1,46 @@
 # CounterSpy
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w16 7130933E 0005
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 02261A28 7C6F1850
 w32 02261A2C 909B017C
 
 name: Memory Max + Infinite Credits When You Buy Something
+author: jgduff1
 mode: once
 w32 70F944E4 00000276
 
 name: ASM Max + Infinite Credits When You Buy Something
+author: jgduff1
 mode: once
 w32 02287170 91630014
 
 name: Memory Infinite Health (Can Kill Enemy Only With Square Button)
+author: jgduff1
 mode: once
 w32 712FC8DC 44160000
 w32 712FC99C 44160000
 w32 712FE3DC 44160000
 
 name: ASM Infinite Health (Can Kill Enemy Only With Square Button)
+author: jgduff1
 mode: once
 w32 022BC4E4 60000000
 w32 022BC4F8 60000000
 w32 022BC504 60000000
 
 name: Memory Max + Infinite Stealth + Retries
+author: jgduff1
 mode: once
 w32 71BFF964 4098D4D3
 
 name: ASM Max + Infinite Stealth + Retries
+author: jgduff1
 mode: once
 w32 0229858C 60000000

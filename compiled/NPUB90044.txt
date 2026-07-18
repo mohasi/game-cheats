@@ -1,50 +1,60 @@
 # Turok
 
 name: Max And Infinite Health & Automatically Escape Grabs
+author: FBML
 mode: once
 w32 007890CC 38000FA0
 w32 007890D0 900902D0
 w32 007890D4 800902D0
 
 name: Ammo Never Decreases And No Reload For Handgun
+author: FBML
 mode: once
 w32 0082B4A8 812303A4
 w32 0082B4AC 60000000
 
 name: Ammo Never Decreases And No Reload For Shotgun
+author: FBML
 mode: once
 w32 0082B4E8 812303A4
 w32 0082B4EC 60000000
 w32 0082B518 60000000
 
 name: Ammo Never Decreases And No Reload For Everything Else
+author: FBML
 mode: once
 w32 0082B5BC 813E03A4
 w32 0082B5C0 60000000
 w32 0082B5E8 60000000
 
 name: Pulse Rifle Never Overheats
+author: FBML
 mode: once
 w32 00827FC4 FC006890
 
 name: AoB Max And Infinite Health & Automatically Escape Grabs
+author: FBML
 mode: once
 aob 800902D02F800000409D0078 38000FA0900902D0800902D0
 
 name: AoB Ammo Never Decreases And No Reload For Handgun
+author: FBML
 mode: once
 aob 4E800020812303A83929FFFF7D2907B4 4E800020812303A4600000007D2907B4
 
 name: AoB Ammo Never Decreases And No Reload For Shotgun
+author: FBML
 mode: once
 aob 7C6B1B78409E002C812303A83929FFFF 7C6B1B78409E002C812303A460000000
 aob 900309A0C0090300 60000000C0090300
 
 name: AoB Ammo Never Decreases And No Reload For Everything Else
+author: FBML
 mode: once
 aob 813E03A83929FFFF 813E03A460000000
 aob 813E03C03929FFFF 813E03C060000000
 
 name: AoB Pulse Rifle Never Overheats
+author: FBML
 mode: once
 aob EC0D002A9121007C FC0068909121007C

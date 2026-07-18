@@ -1,6 +1,7 @@
 # Steredenn
 
 name: Invincibility
+author: Guitarman
 mode: once
 w32 01176E80 807C0028
 w32 01176E84 888300C4
@@ -10,6 +11,7 @@ w32 01176E90 49430549
 w32 025A73D4 49176E82
 
 name: Infinite Health
+author: Guitarman
 mode: once
 w32 01176DD0 C0230040
 w32 01176DD4 3C804800
@@ -20,6 +22,7 @@ w32 01176DE4 4943061D
 w32 025A73FC 49176DD2
 
 name: Max Score On Gain
+author: Guitarman
 mode: once
 w32 01176E00 3C6005F5
 w32 01176E04 6063E0FF
@@ -31,6 +34,7 @@ w32 01176E18 4943ACD9
 w32 025B1AEC 49176E02
 
 name: 1 Hit Kill
+author: Guitarman
 mode: once
 w32 01176E30 3E000117
 w32 01176E34 90706E44
@@ -49,5 +53,6 @@ w32 025A7408 49176E32
 w32 02586EA8 49176E4E
 
 name: Weapons Fast Charged
+author: Guitarman
 mode: once
 w32 025C77AC 60000000

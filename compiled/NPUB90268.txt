@@ -1,6 +1,7 @@
 # Brütal Legend
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00012EF4 3C888889
 w32 000132F0 3C888889

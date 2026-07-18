@@ -1,141 +1,173 @@
 # Resident Evil 5
 
 name: AoB Infinite Ammo
+author: xtatu
 mode: once
 aob 800400087C05005090040008 800400087C05005060000000
 aob 2F97000092F80008 2F97000060000000
 aob 409E00102F940000929B0008 409E00102F94000060000000
 
 name: AoB Infinite HP
+author: xtatu
 mode: once
 aob B12A0004419C007CA10A0006 60000000419C007CA10A0006
 aob B16A00044BFFFF80 600000004BFFFF80
 
 name: AoB Max Money On Use
+author: Skiller
 mode: once
 aob 800300D86129967F7C840214 800300D86129967F7D244B78
 
 name: AoB Max Exchange Points On Gain
+author: Skiller
 mode: once
 aob 800300D46129967F7C840214 800300D46129967F7D244B78
 
 name: AoB Max Vehicle Health
+author: Hiei-YYH
 mode: once
 aob 78630020FB210078FB410080FB610088FB810090F80100C04BF4951960000000815E80CC393D1ADC801E80D0915D00007FAAEB7880FE80D438DD14A03D60FFFF3B8000003B400000940A1AD439000DAC3800000F616B0DFF79390020 78630020FB210078FB410080FB610088FB810090F80100C04BF4951960000000815E80CC393D1ADC801E80D0915D00007FAAEB7880FE80D438DD14A03D60FFFF3B8000003B400000940A1AD439007FFF3800000F616B0DFF79390020
 
 name: 1 Hit Kill
+author: dron_3
 mode: once
 w32 0053F9E8 60000000
 
 name: Mercenaries Max Score
+author: dron_3
 mode: once
 w32 00017608 3FA0000F
 w32 0001760C 63BD423F
 
 name: Mercenaries Combo Never Break
+author: dron_3
 mode: once
 w32 0001E924 60000000
 
 name: Mercenaries Max Time
+author: dron_3
 mode: once
 w32 00920964 3D2045B9
 w32 00920968 912B03E4
 
 name: Invincible
+author: puzzle
 mode: once
 w32 009C7000 801700D0
 w32 009C7004 2F80000F
 w32 009C7008 419D006C
 
 name: Speedhack 2x
+author: dron_3
 mode: once
 w32 008609FC EC7BD82A
 
 name: Speedhack 5x
+author: dron_3
 mode: once
 w32 008609FC C07E0070
 
 name: Speedhack 4x
+author: dron_3
 mode: once
 w32 008607C8 EF63182A
 w32 008609FC EC7BD82A
 
 name: Mercenaries Time Never Decrease + Combo Never Break
+author: dron_3
 mode: once
 w32 0001E85C C3FE801C
 
 name: Mercenaries Add 9999 sec by Killing with Melee
+author: dron_3
 mode: once
 w32 0002319C 3880270F
 
 name: Mercenaries Add 999 sec by Killing with Melee
+author: dron_3
 mode: once
 w32 0002319C 388003E7
 
 name: Mercenaries Add 99 sec by Killing with Melee
+author: dron_3
 mode: once
 w32 0002319C 38800063
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 38879778 0098967F
 
 name: Infinite Money
+author: Skiller
 mode: once
 w32 00AEA734 7D244B78
 
 name: EX Point
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 3887977C 05F5E0FF
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 0085EEB4 60000000
 w32 0085EF38 60000000
 
 name: Infinite Ammo
+author: xtatu
 mode: once
 w32 001A7AB4 60000000
 w32 001A812C 60000000
 w32 009D2B18 60000000
 
 name: AoB Invincible
+author: xtatu
 mode: once
 aob 801700C42F800001419E006C6000000038000300EAA10328EAC10330EAE10338 801700D02F80000F419D006C6000000038000300EAA10328EAC10330EAE10338
 
 name: AoB 1 Hit Kill
+author: dron_3
 mode: once
 aob 409D000838607FFF 6000000038607FFF
 
 name: AoB Mercenaries Max Score
+author: dron_3
 mode: once
 aob 800B00087FBD0214 3FA0000F63BD423F
 
 name: AoB Mercenaries Combo Never Break
+author: dron_3
 mode: once
 aob C00B0404EC00F828 C00B040460000000
 
 name: AoB Mercenaries Max Time
+author: dron_3
 mode: once
 aob 7C0A1C2ED00B03E4 3D2045B9912B03E4
 
 name: AoB Speedhack 2x
+author: dron_3
 mode: once
 aob FC60D89054A5452E EC7BD82A54A5452E
 
 name: AoB Speedhack 4x
+author: dron_3
 mode: once
 aob FF601890F8010110 EF63182AF8010110
 aob FC60D89054A5452E EC7BD82A54A5452E
 
 name: AoB Speedhack 5x
+author: dron_3
 mode: once
 aob FC60D89054A5452E C07E007054A5452E
 
 name: AoB Mercenaries Time Never Decrease + Combo Never Break
+author: dron_3
 mode: once
 aob C3EB002C812A82D4 C3FE801C812A82D4
 
 name: AoB Mercenaries Add 30 Seconds By Killing With Melee
+author: dron_3
 mode: once
 aob 409E024C7FE3FB7838800005 409E024C7FE3FB783880001E

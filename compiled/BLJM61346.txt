@@ -1,65 +1,80 @@
 # Persona 5
 
 name: Memory Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w32 010B1700 03000000
 
 name: ASM Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w32 00261A00 98A30A00
 
 name: HP + SP Never Decrease When Using Persona Skill
+author: jgduff1
 mode: once
 w32 006D3F54 4800022C
 
 name: HP + Knowledge + Dexterity + Softness + Attractiveness At 999
+author: jgduff1
 mode: once
 w32 00258E1C 60000000
 
 name: Material Can Be Synthesized
+author: jgduff1
 mode: once
 w32 005FD8D8 48000010
 
 name: Max Material On Gain
+author: jgduff1
 mode: once
 w32 001020F0 60000000
 
 name: Limit Release During Persona Synthesis
+author: jgduff1
 mode: once
 w32 001EEC08 1C79270F
 
 name: Max Money On Change
+author: Hiei-YYH
 mode: once
 w32 0024B35C 48000008
 w32 0024B3A0 60000000
 
 name: Max Items On Change Or Gain
+author: Hiei-YYH
 mode: once
 w32 002619F0 48000008
 w32 00261B38 48000008
 
 name: 100% Drop Rate
+author: Hiei-YYH
 mode: once
 w32 0025B564 60000000
 
 name: Max All MC Social Parameters After Change
+author: Hiei-YYH
 mode: once
 w32 001EEC40 38A000C8
 
 name: Stop Day Date Advance
+author: Hiei-YYH
 mode: once
 w32 000491C0 60000000
 
 name: Stop Time Flow
+author: Hiei-YYH
 mode: once
 w32 00048F84 60000000
 w32 0004A6E4 60000000
 
 name: Infinite Ammo In Dungeon
+author: Hiei-YYH
 mode: once
 w32 0025B874 38A00063
 
 name: Infinite HP + SP v2
+author: Hiei-YYH
 mode: once
 w32 00B65100 2C080000
 w32 00B65104 41820010
@@ -71,6 +86,7 @@ w32 00B65118 4B72B604
 w32 00290718 488D49E8
 
 name: Detection Gauge Always 0
+author: Hiei-YYH
 mode: once
 w32 00B65130 2C03020C
 w32 00B65134 40820008
@@ -80,6 +96,7 @@ w32 00B65140 4B6E6920
 w32 0024BA5C 489196D4
 
 name: Have All Cards (No dummy cards)
+author: Hiei-YYH
 mode: once
 w32 00B65160 2C1F0000
 w32 00B65164 41820044
@@ -107,6 +124,7 @@ w32 00B651B8 4BFFFFE8
 w32 00261808 48903959
 
 name: Fused Persona Result Modifier
+author: Hiei-YYH
 mode: once
 w32 00B65200 2C080000
 w32 00B65204 41820054
@@ -163,184 +181,228 @@ w32 00B652CC 4BFFFF84
 w32 005E12F4 48583F0C
 
 name: AoB Max Money On Change
+author: Hiei-YYH
 mode: once
 aob 7C0320404080000860640000 7C0320404800000860640000
 aob 7C0428004081000860A40000 7C0428006000000060A40000
 
 name: AoB Max Items On Change Or Gain
+author: Hiei-YYH
 mode: once
 aob 7C1F20004080000863E400007C63F0147863002098830A00 7C1F20004800000863E400007C63F0147863002098830A00
 aob 4BFE98016000000063A400007C1F20004080000863E40000 4BFE98016000000063A400007C1F20004800000863E40000
 
 name: AoB 100% Drop Rate
+author: Hiei-YYH
 mode: once
 aob 7C1B1800408000A863A30000 7C1B18006000000063A30000
 
 name: AoB Max All MC Social Parameters After Change
+author: Hiei-YYH
 mode: once
 aob 7C25E7AE7CBA30147CA50734 7C25E7AE38A000C87CA50734
 
 name: AoB Stop Day Date Advance
+author: Hiei-YYH
 mode: once
 aob 8063E938B3E30000A0630000 8063E93860000000A0630000
 
 name: AoB Infinite Ammo In Dungeon
+author: Hiei-YYH
 mode: once
 aob 7CA62010B0A302944E800020 38A00063B0A302944E800020
 
 name: AoB Infinite HP + SP v2
+author: Hiei-YYH
 mode: once
 aob 5200000054000000740000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 5200000054000000740000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002C08000041820010386003E79068000C90680010806600084B72B60400000000000000000000000000000000000000000000000000000000000000000000000000000000
 aob 7C0820004082001080660008 7C082000488D49E880660008
 
 name: AoB Detection Gauge Always 0
+author: Hiei-YYH
 mode: once
 aob 5200000054000000740000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 5200000054000000740000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002C03020C40820008388000007C85192E4B6E6920
 aob 7C6307B47C85192E4E800020F821FF81 7C6307B4489196D44E800020F821FF81
 
 name: 999,999,999 Money
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 010AF994 3B9AC9FF
 
 name: Time Never Passes
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 000493B8 38A00001
 
 name: Pseudo High-Glow Effect
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 003F9DB4 7C992378
 
 name: Item Drop 100%
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 0025AFE4 60000000
 
 name: Winning Effect Of Victory
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00665D18 38600001
 
 name: Breath Effect Of Victory
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00665D6C 38600001
 
 name: Ammo Never Decreases
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00723E90 38800000
 
 name: Skill 1
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA90 0000
 
 name: Skill 2
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA92 0000
 
 name: Skill 3
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA94 0000
 
 name: Skill 4
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA96 0000
 
 name: Skill 5
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA98 0000
 
 name: Skills 6
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA9A 0000
 
 name: Skills 7
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA9C 0000
 
 name: Skill 8
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACA9E 0000
 
 name: 1st Person Skill 1
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD30 0000
 
 name: 1st Person Skill 2
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD32 0000
 
 name: 1st Person Skill 3
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD34 0000
 
 name: 1st Person Skill 4
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD36 0000
 
 name: 1st Person Skill 5
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD38 0000
 
 name: 1st Person Skills 6
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD3A 0000
 
 name: 1st Person Skills 7
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD3C 0000
 
 name: 1st Person Skill 8
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w16 010ACD3E 0000
 
 name: Summon Cost Of Prisoners Roster (Full Devil) 0 Money
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00603C68 3BC00000
 
 name: Co-op Conversation, Determination Of Possession Of Arcanas
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 0054BE7C 7F83E378
 w32 0054C1A0 7FA3EB78
 
 name: P Character Supplement Member Exp Never Decreases
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 003F9A7C 60630001
 
 name: Rank 10 Judgement At Persona Imprisonment
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00602FF4 3860000A
 
 name: Finish Watching Any Book Or DVD With 1 Use
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 0054CEF0 60000000
 w32 0054A89C 60000000
 
 name: No Gun Firefighting Limit
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 007234C8 60000000
 
 name: Shuffle Invalid
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 002CD224 48000160
 
 name: Forced Killing
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 002CD224 48000074
 
 name: Co-op Conversation 1 Rank Up (Except For Mission Clearing)
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00549704 60000000
 
 name: 999,999,999 Fishing Points
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 01080BA8 3B9AC9FF
 
 name: Mentions Search Always Invoked
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 0029AD78 60000000
 w32 0029AD98 38600001
 
 name: Persona Itemization Once A Day Unlimited
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 005F5CB0 48000014
 
 name: Ammo Never Decreases
+author: nichecode.blog.fc2.com/blog-entry-120.html
 mode: once
 w32 00723590 38800000

@@ -1,69 +1,85 @@
 # Shoot Many Robots
 
 name: Memory Infinite Health Drinks
+author: jgduff1
 mode: once
 w32 365EF7F0 00000003
 
 name: ASM Infinite Health Drinks
+author: jgduff1
 mode: once
 w32 001A9980 39290000
 w32 001A9988 60000000
 
 name: Memory Lot + Infinite Bolts + Instant 5 Stars
+author: jgduff1
 mode: once
 w32 365EF7A8 00000064
 
 name: ASM Lot + Infinite Bolts + Instant 5 Stars
+author: jgduff1
 mode: once
 w32 00195D68 904307B8
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 36B13948 00000018
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 0023AEEC 38090000
 
 name: Memory Players Instant Max Level
+author: jgduff1
 mode: once
 w32 353B4B34 00003000
 
 name: ASM Players Instant Max Level
+author: jgduff1
 mode: once
 w32 001ACFE8 92E907B4
 
 name: Juice Never Decrease
+author: dron_3
 mode: once
 w32 001A9980 60000000
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00193204 C01F0100
 w32 0019320C D01F0088
 w32 00193218 D01F0084
 
 name: 999,999,999 Nuts On Gain (displayed as 000000 sometimes)
+author: dron_3
 mode: once
 w32 00195D60 3C003B9A
 w32 00195D64 6000C9FF
 
 name: Max Ammo After Shot
+author: dron_3
 mode: once
 w32 0023AEEC 380003E7
 
 name: AoB Juice Never Decrease
+author: dron_3
 mode: once
 aob 3929FFFF396B0001913E0800 60000000396B0001913E0800
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob C01F008438810070FF80F00078630020C0290248409D00F8 C01F010038810070D01F008878630020C0290248D01F0084
 
 name: AoB 999,999,999 Nuts On Gain (displayed as 000000 sometimes)
+author: dron_3
 mode: once
 aob 800307B87C002214 3C003B9A6000C9FF
 
 name: AoB Max Ammo After Shot
+author: dron_3
 mode: once
 aob 3809FFFF901B0038 380003E7901B0038

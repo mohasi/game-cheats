@@ -1,45 +1,54 @@
 # DreamWorks Rise of the Guardians
 
 name: Memory Infinite Sand Of Dreams
+author: jgduff1
 mode: once
 w32 002BB68C 00060000
 w32 002BB6A8 00060000
 
 name: ASM Infinite Sand Of Dreams
+author: jgduff1
 mode: once
 w32 00087DA8 60000000
 w32 00087DD4 60000000
 
 name: Memory Infinite Magic
+author: jgduff1
 mode: once
 w32 31253408 00000168
 w32 312534B0 00000168
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 000523F4 901F00E8
 w32 0003F8B0 60000000
 w32 0003F898 7C802010
 
 name: Memory Instant Health Regeneration
+author: jgduff1
 mode: once
 w32 312502FC 000000B0
 
 name: ASM Instant Health Regeneration
+author: jgduff1
 mode: once
 w32 00165000 7C692014
 
 name: ASM Infinite Sand Of Dreams
+author: jgduff1
 mode: once
 w32 00087DB0 60000000
 w32 00087DB8 60000000
 
 name: ASM Infinite Magic
+author: jgduff1
 mode: once
 w32 0003F898 7C802010
 w32 0003F8B0 60000000
 w32 000523F4 901F00E8
 
 name: ASM Instant Health Regeneration
+author: jgduff1
 mode: once
 w32 00165010 7C692014

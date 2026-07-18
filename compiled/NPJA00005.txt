@@ -1,33 +1,41 @@
 # Lemmings
 
 name: Unlimited Climber
+author: CMbl4
 mode: once
 w32 31B3606C 00000064
 
 name: Unlimited Floater
+author: CMbl4
 mode: once
 w32 31B3607C 00000064
 
 name: Unlimited Bomber
+author: CMbl4
 mode: once
 w32 31B3608C 00000064
 
 name: Unlimited Bloker
+author: CMbl4
 mode: once
 w32 31B3609C 00000064
 
 name: Unlimited Builder
+author: CMbl4
 mode: once
 w32 31B360AC 00000064
 
 name: Unlimited Basher
+author: CMbl4
 mode: once
 w32 31B360BC 00000064
 
 name: Unlimited Digger
+author: CMbl4
 mode: once
 w32 31B360CC 00000064
 
 name: Unlimited Miner
+author: CMbl4
 mode: once
 w32 31B360DC 00000064

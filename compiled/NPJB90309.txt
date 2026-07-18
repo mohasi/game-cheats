@@ -1,6 +1,7 @@
 # Moon Diver
 
 name: P1 Infinite HP + MP
+author: GuitarMan
 mode: once
 w32 005AA8A0 9201FFFC
 w32 005AA8A4 3E000062
@@ -24,6 +25,7 @@ w32 005AA8E8 484BF22A
 w32 004BF224 485AA8A2
 
 name: P1 Easy Level Up
+author: GuitarMan
 mode: once
 w32 005D0180 9201FFE4
 w32 005D0184 3E000062
@@ -55,6 +57,7 @@ w32 004CAA10 485D01B6
 w32 004C0164 485D0182
 
 name: P1 Invincibility On Or Off Press L3
+author: GuitarMan
 mode: once
 w32 005AA8F0 92010000
 w32 005AA8F4 9221FFFC
@@ -98,6 +101,7 @@ w32 00275868 485AA8F2
 w32 004D4B2C 485AA946
 
 name: P1 Infinite Jumps
+author: GuitarMan
 mode: once
 w32 005D0128 9201FFFC
 w32 005D012C 820301E4
@@ -111,14 +115,17 @@ w32 005D0148 484D2232
 w32 004D222C 485D012A
 
 name: Unlock All Skills
+author: GuitarMan
 mode: once
 w32 000A3DD4 7C842B78
 w32 0009E704 7C831B78
 
 name: Unlock All Characters
+author: GuitarMan
 mode: once
 w32 000A2968 30630000
 
 name: Unlock All Chapters
+author: GuitarMan
 mode: once
 w32 00043E24 7C831B78

@@ -1,6 +1,7 @@
 # All Zombies Must Die!
 
 name: Invulnerability
+author: GuitarMan
 mode: once
 w32 0164AD5C A0A4000C
 w32 0164AD60 2805AB38
@@ -15,15 +16,18 @@ w32 0164AD80 480403E2
 w32 000403DC 4964AD5E
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 0091EC34 807D02F0
 w32 0091EC38 907D02EC
 
 name: Infinite Bombs
+author: GuitarMan
 mode: once
 w32 0091BD40 3860001E
 
 name: Infinite Ammo
+author: GuitarMan
 mode: once
 w32 0164AD88 801F0024
 w32 0164AD8C 28007768
@@ -37,6 +41,7 @@ w32 0164ADA8 4805973A
 w32 00059734 4964AD8A
 
 name: Infinite Spend Points
+author: GuitarMan
 mode: once
 w32 0091B970 80830010
 w32 0091B974 38807F7F

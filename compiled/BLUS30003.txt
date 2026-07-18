@@ -1,6 +1,7 @@
 # F.E.A.R.: First Encounter Assault Recon
 
 name: Mostly Full Brightness
+author: bungholio
 mode: once
 w32 001DE890 60000000
 w32 001DE894 60000000
@@ -10,6 +11,7 @@ w32 001DE93C 60000000
 w32 001DE940 60000000
 
 name: Infinite Starting Focus Capacity
+author: bungholio
 mode: once
 w32 005D9C60 3C007F80
 w32 005D9C64 901B0064
@@ -18,10 +20,12 @@ w32 005DBFD0 901B0064
 w32 005DBFD4 480D3241
 
 name: Focus Always Starts Decreasing From Full
+author: bungholio
 mode: once
 w32 005DC278 60000000
 
 name: Nothing Attacks
+author: bungholio
 mode: once
 w32 0084F194 60000000
 w32 008557B4 60000000
@@ -29,26 +33,31 @@ w32 008557C4 60000000
 w32 008558AC 60000000
 
 name: Flashlight Battery Never Decreases
+author: bungholio
 mode: once
 w32 0034997C 60000000
 
 name: Ammo + Grenades Never Decrease
+author: bungholio
 mode: once
 w32 0035F944 60000000
 w32 0044E6A0 813F01FC
 w32 00869744 60000000
 
 name: Slow Motion Never Decreases
+author: bungholio
 mode: once
 w32 0057BF48 3C607FF0
 w32 0057BF70 907C0008
 
 name: Medical Kits Do Not Decrease
+author: bungholio
 mode: once
 w32 0035E87C 3920000A
 w32 005E0984 3800000A
 
 name: Your Health Never Decreases, Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 00F0E5C0 893F0084
 w32 00F0E5C4 2F890000
@@ -68,6 +77,7 @@ w32 00F0E64C 4B9F5070
 w32 009036B8 4860AF08
 
 name: Your Health Never Decreases
+author: bungholio
 mode: once
 w32 00F0E5C0 893F0084
 w32 00F0E5C4 2F890000

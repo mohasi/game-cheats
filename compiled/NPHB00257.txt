@@ -1,6 +1,7 @@
 # TerRover
 
 name: Memory Lot + Infinite Screws
+author: jgduff1
 mode: once
 w32 30B1F444 41300000
 w32 30C3AA08 41300000
@@ -9,6 +10,7 @@ w32 30CA5020 41300000
 w32 30CA5040 41300000
 
 name: ASM Lot + Infinite Screws
+author: jgduff1
 mode: once
 w32 0037CFAC 916A0000
 w32 00380148 901E0004

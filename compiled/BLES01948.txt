@@ -1,82 +1,100 @@
 # Call of Duty: Ghosts
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 002725E0 38602710
 w32 002725E4 90790154
 w32 002725E8 90790158
 
 name: No Reload
+author: dron_3
 mode: once
 w32 003ABF4C 38800063
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 003B481C 386003E7
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00272188 38602710
 w32 0027218C 90790154
 w32 00272190 90790158
 
 name: No Reload
+author: dron_3
 mode: once
 w32 003ABACC 38800063
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 003B439C 386003E7
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 806700047C632814 80670004386003E7
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 808300007C843014 8083000038800063
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 807901542C0300004081051C 386027109079015490790158
 
 name: Unknown Cheat
+author: ZombiKillah
 mode: once
 w32 000DD370 42BE0000
 w32 000DD374 42BE0000
 w32 000DD378 43BE0000
 
 name: Super Jump??
+author: ZombiKillah
 mode: once
 w32 002905BC 42C60000
 
 name: Part Of Super Jump Cheat Or Something Else??
+author: ZombiKillah
 mode: once
 w32 00385050 42DC0000
 w32 00385058 44FA0000
 
 name: No Recoil??
+author: ZombiKillah
 mode: once
 w32 003A05C4 60000000
 
 name: Infinite Ammo??
+author: ZombiKillah
 mode: once
 w32 003AC05C 38C00000
 
 name: Part Of Infinite Ammo Cheat Or Something Else??
+author: ZombiKillah
 mode: once
 w32 007CD08C 00340001
 
 name: Part Of Infinite Ammo Cheat Or Something Else?? 0X07BC9C5
+author: ZombiKillah
 mode: once
 w32 007CD0B4 00340001
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 00385050 42DC0000
 w32 00385058 44FA0000
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 0038F33C 3727C5AB
 w32 0038F340 3727C5AB
@@ -87,29 +105,35 @@ w32 0038F358 3727C5AB
 w32 0038F35C 3727C5AB
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 003A04FC C0230000
 w32 003A0504 4082003C
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 003A05C4 60000000
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 003A05DC C0230000
 w32 003A05E4 4800003C
 
 name: ZombiKillah Mod v2.0
+author: ZombiKillah
 mode: once
 w32 003AC05C 38C00000
 
 name: Memory Extinction Always Have 9,999 Teeth
+author: bungholio
 mode: once
 w8 017AF4EB 0F
 w8 017AF4EC 27
 
 name: Extinction Always Have 98 Skill Points
+author: bungholio
 mode: once
 w32 0081D128 7D2A41AE
 w32 0081D12C 3C603951
@@ -137,6 +161,7 @@ w32 0081D20C 483844AA
 w32 003844A4 4881D12A
 
 name: Extinction Always Have $6,000
+author: bungholio
 mode: once
 w32 0081D020 7D2A41AE
 w32 0081D024 3C603951

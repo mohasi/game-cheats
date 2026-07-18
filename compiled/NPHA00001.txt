@@ -1,5 +1,6 @@
 # Gran Turismo HD Concept
 
 name: Memory Infinite Time
+author: jgduff1
 mode: once
 w32 57EF21EC 0003599E

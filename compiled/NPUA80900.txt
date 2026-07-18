@@ -1,25 +1,31 @@
 # Resogun
 
 name: God Mode
+author: dron_3
 mode: once
 w32 00186264 480003C4
 
 name: Infinite Lives
+author: dron_3
 mode: once
 w32 00185B54 48000030
 
 name: Infinite Bombs
+author: dron_3
 mode: once
 w32 00010288 38600001
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 408203C4C03A0044 480003C4C03A0044
 
 name: AoB Infinite Lives
+author: dron_3
 mode: once
 aob 408200304BE8A709 480000304BE8A709
 
 name: AoB Infinite Bombs
+author: dron_3
 mode: once
 aob 8863CFC74E800020 386000014E800020

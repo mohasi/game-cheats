@@ -1,9 +1,11 @@
 # Winning Post 8
 
 name: 99 Amulets After Change
+author: games24.blog.fc2.com/blog-entry-236.html
 mode: once
 w32 001163C0 3BC00063
 
 name: AoB 99 Amulets After Change
+author: games24.blog.fc2.com/blog-entry-236.html
 mode: once
 aob 7C9E23782B040063419D00084099001C 3BC000632B040063419D00084099001C

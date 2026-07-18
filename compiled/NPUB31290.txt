@@ -1,21 +1,26 @@
 # Pac-Man and the Ghostly Adventures
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 369E195C 40400000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0084F534 60000000
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 360B6D70 42C60000
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00843DD0 D0660000
 
 name: Memory Have Many Eyes
+author: jgduff1
 mode: once
 w32 392DC068 4479C000

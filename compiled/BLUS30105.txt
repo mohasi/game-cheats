@@ -1,40 +1,48 @@
 # Soldier of Fortune: Payback
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 55828570 0000001E
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0022F8D8 39290000
 w32 0022F8DC 60000000
 
 name: Memory Infinite Ammo + Grenades
+author: jgduff1
 mode: once
 w32 532CC698 0000012C
 
 name: ASM Infinite Ammo + Grenades
+author: jgduff1
 mode: once
 w32 00210490 60000000
 w32 00210498 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 5579BBF8 42C80000
 w32 55C8AC68 42C80000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 004D2850 D01F0008
 w32 004D2D04 EFE0E828
 w32 004D2D14 60000000
 
 name: Memory Fast Health Regeneration
+author: jgduff1
 mode: once
 w32 5579BBF8 42C80000
 w32 55C8AC68 42C80000
 
 name: ASM Fast Health Regeneration
+author: jgduff1
 mode: once
 w32 004D2838 60000000
 w32 004D283C EC1F6B3A
@@ -42,10 +50,12 @@ w32 004D2840 EC0C002A
 w32 004D2848 D3BF0008
 
 name: Memory Infinite Sprint
+author: jgduff1
 mode: once
 w32 55FB0760 41F00000
 
 name: ASM Infinite Sprint
+author: jgduff1
 mode: once
 w32 0016C1AC 60000000
 w32 0016C1B8 60000000

@@ -1,29 +1,35 @@
 # Biohazard Zero: HD Remaster
 
 name: Infinite Ammo
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00153944 48000048
 
 name: Infinite Ammo v2 (Infinity Symbol)
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00152C20 3BE000FF
 w32 00152C24 93E30000
 w32 00152C28 60000000
 
 name: Low Time
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 0026D8EC 60000000
 
 name: Save 0
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00313814 38800000
 
 name: Infinite Countdown Timer
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 0038C8D8 60000000
 w32 002122F8 60000000
 
 name: Infinite Health
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00AA04A4 80D90244
 w32 00AA04A8 2C06000C
@@ -35,6 +41,7 @@ w32 00AA04BC 4B7163B4
 w32 001B686C 488E9C38
 
 name: Never Poisoned
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00AA050C 819F0244
 w32 00AA0510 2C0C000C
@@ -51,6 +58,7 @@ w32 00AA0538 4E800020
 w32 001995E4 48906F29
 
 name: Invincible
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00AA04E8 80D90244
 w32 00AA04EC 2C06000C
@@ -64,6 +72,7 @@ w32 00AA0508 4E800020
 w32 001B6848 488E9CA1
 
 name: Real Time Item Modifier
+author: codemasterhieiyyh.wordpress.com/2016/04/04/バイオハザード0-hdリマスター-bljm61272/
 mode: once
 w32 00ACE618 3A310001
 w32 00ACE61C 2C110015
@@ -110,30 +119,36 @@ w32 00ACE6BC 4BFFFF98
 w32 009D1ED4 480FC744
 
 name: Bullets Never Decrease
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 w32 00153948 7F9FE378
 
 name: Health Never Decreases
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 w32 00198BB0 60000000
 w32 00199120 48000024
 
 name: 0 Play Time
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 w32 002122F0 60000000
 w32 0026D8EC C0840090
 w32 0038C8D8 60000000
 
 name: AoB Bullets Never Decrease
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 aob 7FFFE01083BE003C57FF043E281D0006 7F9FE37883BE003C57FF043E281D0006
 
 name: AoB Health Never Decreases
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 aob 4801EC65E80100C07C0803A6EB610088 60000000E80100C07C0803A6EB610088
 aob 41820024636300004801B64D2C030010 48000024636300004801B64D2C030010
 
 name: AoB 0 Play Time
+author: games24.blog.fc2.com/blog-entry-323.html
 mode: once
 aob EC2120FCFC01F800D02300004CC01382 EC2120FCFC01F800600000004CC01382
 aob C0840090EC2100B2EC21193AD03F0040 C0840090EC2100B2EC21193AD0600000

@@ -1,17 +1,21 @@
 # Overlord: Raising Hell
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 002A2600 D1BD047C
 
 name: Infinite Mana
+author: dron_3
 mode: once
 w32 002A2630 D03D04C0
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob D1BF0140C01D04C0 D1BD047CC01D04C0
 
 name: AoB Infinite Mana
+author: dron_3
 mode: once
 aob D03F0148981F033F D03D04C0981F033F

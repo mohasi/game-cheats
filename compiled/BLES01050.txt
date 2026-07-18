@@ -1,6 +1,7 @@
 # Saw II: Flesh &amp;amp; Blood
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00B6A0C0 2B890000
 w32 00B6A078 2B800000

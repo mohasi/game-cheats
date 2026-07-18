@@ -1,26 +1,32 @@
 # Mega Man 9
 
 name: Infinite Lives
+author: optantic
 mode: once
 w8 06481750 09
 
 name: Invincible
+author: optantic
 mode: once
 w8 064816AC 80
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 000C14C4 38000080
 w32 000C14C8 981F00A8
 
 name: Infinite Lives
+author: dron_3
 mode: once
 w32 000BFF54 38600009
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 60000000881F00A8 38000080981F00A8
 
 name: AoB Infinite Lives
+author: dron_3
 mode: once
 aob 7C630038987C014C 38600009987C014C

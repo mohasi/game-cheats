@@ -1,43 +1,53 @@
 # James Cameron's Avatar: The Game
 
 name: Max XP On Gain
+author: crapulecorp
 mode: once
 w32 0059EE20 921C4FD4
 
 name: Unlimited Ammo
+author: crapulecorp
 mode: once
 w32 00540DFC 60000000
 
 name: No Reload
+author: crapulecorp
 mode: once
 w32 005E0640 60000000
 
 name: AoB Max XP On Gain
+author: crapulecorp
 mode: once
 aob 901C4FD4880B00002F800000 921C4FD4880B00002F800000
 
 name: AoB Unlimited Ammo
+author: crapulecorp
 mode: once
 aob 7C1D0050900900044BFFEBD5 60000000900900044BFFEBD5
 
 name: AoB No Reload
+author: crapulecorp
 mode: once
 aob 93C300083821008049211730 600000003821008049211730
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00132344 60000000
 w32 00596300 60000000
 
 name: Infinite Ammo
+author: Randy97Killa
 mode: once
 w32 004E419C 380003E8
 
 name: Infinite Ammo No Reload
+author: Randy97Killa
 mode: once
 w32 004E6B04 48000004
 
 name: Max XP On Gain
+author: Randy97Killa
 mode: once
 w32 00589B60 3C003B9A
 w32 00589B6C 6000C9FF
@@ -60,5 +70,6 @@ mode: once
 aob 409D00902F850000409E01F83D2001C3801C4FD47BFE0020396977987C1D0214 409D00902F850000409E01F83D2001C33C003B9A7BFE0020396977986000C9FF
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 00A785E8 3BE00002

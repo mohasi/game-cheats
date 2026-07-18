@@ -1,37 +1,45 @@
 # Dragon Ball Xenoverse
 
 name: Money 999999999 On Buy
+author: games24.blog.fc2.com/blog-category-0.html
 mode: once
 w32 0053E2F0 90A30020
 
 name: Trick Force Gauge Does Not Decrease
+author: games24.blog.fc2.com/blog-category-0.html
 mode: once
 w32 000F5B88 FC201890
 
 name: Energy Gauge Does Not Decrease
+author: games24.blog.fc2.com/blog-category-0.html
 mode: once
 w32 000DF230 FC201890
 
 name: Parameter Points Does Not Decrease
+author: games24.blog.fc2.com/blog-category-0.html
 mode: once
 w32 00533368 60000000
 
 name: 999,999,999 Money
+author: eltyran94
 mode: once
 w32 39D6C7A0 3B9AC9FF
 w32 39FC2A20 3B9AC9FF
 
 name: 99 Customization Points
 score BLES02096 01.08: 75 1+ 0-
+author: eltyran94
 mode: once
 w32 39D29B30 00000063 working-val=0000006A:1
 w32 39D7E01C 00000063 working-val=0000006A:1
 
 name: AoB Max Money
+author: eltyran94
 mode: once
 aob 7C042840908300204081000C60A40000 3CC0000060C6423F4081000C60A40000
 
 name: P1 Infinite Health + Ki + Stamina
+author: GuitarMan
 mode: once
 w32 010026D8 2C100000
 w32 010026DC 4082001C
@@ -46,6 +54,7 @@ w32 010026FC 48155F26
 w32 00155F20 490026DA
 
 name: Enemies + Partners Die From Any Damage
+author: GuitarMan
 mode: once
 w32 01002760 D08300C4
 w32 01002764 3CE0021B
@@ -60,6 +69,7 @@ w32 01002784 480F328A
 w32 000F3284 49002762
 
 name: P1 Invincibility Against Physical Attacks
+author: GuitarMan
 mode: once
 w32 01002718 3E00021B
 w32 0100271C 8210A2A4
@@ -73,16 +83,19 @@ w32 01002738 4813F1B2
 w32 0013F1AC 4900271A
 
 name: Max Zeni On Buy Or Sell
+author: GuitarMan
 mode: once
 w32 003C75B4 3C607F7F
 w32 00559600 90A30020
 
 name: Infinite Attribute Points
 score BLES02096 01.08: 75 1+ 0-
+author: GuitarMan
 mode: once
 w32 003B7934 38607F7F working-val=2C030000:1
 
 name: P1 Invincibility
+author: GuitarMan
 mode: once
 w32 01002718 3E00021B
 w32 0100271C 8210A2A4

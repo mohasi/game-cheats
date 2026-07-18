@@ -1,22 +1,27 @@
 # Dragon Fin Soup
 
 name: Max + Infinite Items
+author: jgduff1
 mode: once
 w32 00250F04 90A3021C
 
 name: Infinite Magic
+author: jgduff1
 mode: once
 w32 001DFB08 909F01A8
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 001DF3E4 D3FD019C
 
 name: Level 99 On Level Up
+author: jgduff1
 mode: once
 w32 00485300 93DC0010
 
 name: Lot Of Money On Change
+author: jgduff1
 mode: once
 w32 00492178 9003002C
 w32 004A37B0 911D0024

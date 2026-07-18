@@ -1,42 +1,52 @@
 # Mass Effect 3
 
 name: Invincible Player Mode And No Fire Enemy
+author: xtatu
 mode: once
 w32 002DAD9C 40800000
 
 name: Credits Never Decrease
+author: Medo
 mode: once
 w32 000608FC 60000000
 
 name: Invincible
+author: xtatu
 mode: once
 w32 002DAFAC 40800000
 
 name: AoB Invincible Player Mode And No Fire Enemy
+author: xtatu
 mode: once
 aob 3F8000003E45798EE2308C3A40A0000038D1B717F821EAA17C0802A6F8011570DB011520DB211528DB411530DB611538DB811540DBA11548DBC11550DBE11558FB0114E0 408000003E45798EE2308C3A40A0000038D1B717F821EAA17C0802A6F8011570DB011520DB211528DB411530DB611538DB811540DBA11548DBC11550DBE11558FB0114E0
 
 name: Invincible Player Mode And No Fire Enemy
+author: xtatu
 mode: once
 w32 002DAFFC 40800000
 
 name: Credits Never Decrease
+author: Medo
 mode: once
 w32 000609A8 60000000
 
 name: Invincible Player Mode And No Fire Enemy
+author: xtatu
 mode: once
 w32 002DAFAC 40800000
 
 name: Credits Never Decrease
+author: Medo
 mode: once
 w32 00060B64 60000000
 
 name: Infinite Ammo
+author: Medo
 mode: once
 w32 00062084 60000000
 
 name: Infinite Ammo (Alt)
+author: Medo
 mode: once
 w32 00062218 807C0004
 w32 0006221C 7C641810
@@ -44,18 +54,22 @@ w32 00062220 907C0000
 w32 00062224 907F0000
 
 name: AoB Credits Never Decrease
+author: Medo
 mode: once
 aob 306300017C852010907E001C909F0000 3063000160000000907E001C909F0000
 
 name: Invincible Player Mode + No Fire Enemy
+author: xtatu
 mode: once
 w32 002DAFAC 40800000
 
 name: Infinite Ammo (Bottomless Clip)
+author: Medo
 mode: once
 w32 00062084 60000000
 
 name: Infinite Ammo (Bottomless Clip) (Alt)
+author: Medo
 mode: once
 w32 00062218 807C0004
 w32 0006221C 7C641810
@@ -63,10 +77,12 @@ w32 00062220 907C0000
 w32 00062224 907F0000
 
 name: Memory Unknown Code 1 (Action Mode)
+author: jgduff1
 mode: once
 w32 42DEAA20 0000000F
 
 name: ASM Unknown Code 1 (Action Mode)
+author: jgduff1
 mode: once
 w32 0004CDE0 60000000
 w32 00A7FA4C 60000000

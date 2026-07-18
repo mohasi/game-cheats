@@ -1,6 +1,7 @@
 # Aaru's Awakening
 
 name: Unknown Code 1
+author: jgduff1
 mode: once
 w32 000E3764 7D295850
 w32 000E3770 80FF0000

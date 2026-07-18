@@ -1,5 +1,6 @@
 # Mortal Kombat: Komplete Edition
 
 name: 1 Hit X-Ray Max Infinite
+author: xtatu
 mode: once
 w32 0019C798 4082000C

@@ -1,19 +1,23 @@
 # Transformers: Fall of Cybertron
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00B0C038 C0450354
 w32 00B0C03C D0450350
 w32 00B0C040 EC221028
 
 name: Infinite Ammo + No Reload
+author: dron_3
 mode: once
 w32 00B7147C 60000000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob C0250350C0450354EC211028 C0450354D0450350EC221028
 
 name: AoB Infinite Ammo + No Reload
+author: dron_3
 mode: once
 aob F8010080908302B44BFFFF25 F8010080600000004BFFFF25

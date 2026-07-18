@@ -1,14 +1,17 @@
 # Medal of Honor: Frontline
 
 name: Infinite HP
+author: SHAkA, jgduff1, Ghost9
 mode: once
 w32 034FD588 00000064
 
 name: Infinite Ammo And Never Need To Reload
+author: Azagthoth, jgduff
 mode: once
 w32 000D1308 30840000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 000C8E04 93FE07D4
 w32 000CA200 935E0830
@@ -17,10 +20,12 @@ w32 00113FE0 60000000
 w32 00113FE8 7CD0192E
 
 name: Infinite Ammo And Never Need To Reload
+author: Azagthoth, jgduff
 mode: once
 w32 000D11B8 30840000
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 000C8CB4 93FE07D4
 w32 000CA0B0 935E0830
@@ -29,5 +34,6 @@ w32 00113E90 60000000
 w32 00113E98 7CD0192E
 
 name: Memory Infinite HP
+author: SHAkA, jgduff1, Ghost9
 mode: once
 w32 034FD588 00000064

@@ -1,6 +1,7 @@
 # Zombie Apocalypse - Never Die Alone
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 0089AC10 42C80000
 w32 008A7E9C 00000000
@@ -14,15 +15,18 @@ w32 573636FC D730E929
 w32 57B7E11C 02000000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 00037F48 60000000
 w32 00037F48 D009034C
 
 name: Memory Infinite Cash
+author: jgduff1
 mode: once
 w32 0089A46C 470A4800
 w32 552A1B08 00000898
 
 name: Memory Life 99
+author: jgduff1
 mode: once
 w32 00BCFA18 00000064

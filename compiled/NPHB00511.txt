@@ -1,82 +1,102 @@
 # Devil May Cry: HD Collection
 
 name: Max + Infinite Red Orbs
+author: Medo
 mode: once
 w32 0015BFDC 60000000
 
 name: Max + Infinite Yellow Orbs
+author: Medo
 mode: once
 w32 00164330 38A003E7
 
 name: Max Blue Orbs
+author: Medo
 mode: once
 w32 01D50BA8 00000004
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 01D67524 000006A4
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00038410 60000000
 
 name: AoB Max + Infinite Red Orbs
+author: Medo
 mode: once
 aob 40850008913C2294887F001639200005819C2294 60000000913C2294887F001639200005819C2294
 
 name: AoB Max + Infinite Yellow Orbs
+author: Medo
 mode: once
 aob 38A100703860024478BD0020A0B12280 38A100703860024478BD002038A003E7
 
 name: Max Red Orbs on Gain
+author: Medo
 mode: once
 w32 0028EEB8 409D0048
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 000379F4 39604E20
 
 name: Infinite Devil Trigger
+author: Medo
 mode: once
 w32 002E4430 301F042E
 
 name: AoB Max Red Orbs on Gain
+author: Medo
 mode: once
 aob 419D0048792900208009007C7C040214 409D0048792900208009007C7C040214
 
 name: AoB Infinite Health
+author: Medo
 mode: once
 aob A17F01007C1E5A14B17F01027C0907347C0B0378 39604E207C1E5A14B17F01027C0907347C0B0378
 
 name: AoB Infinite Devil Trigger
+author: Medo
 mode: once
 aob B01F042E2F8B0000409D07ECC1BF0478 301F042E2F8B0000409D07ECC1BF0478
 
 name: Max Red Orbs On Buy
+author: Medo
 mode: once
 w32 000A35D4 3C007FFF
 
 name: Max Yellow + Blue Orbs
+author: Medo
 mode: once
 w32 305D0458 03E70006
 
 name: 3 Of 4 Blue Orb (Gain 1 To Get 4 Of 4)
+author: Medo
 mode: once
 w32 002DAD9C 3F800000
 
 name: Max Vital Star S + L, Devil Star, Holy Water
+author: Medo
 mode: once
 w32 305D0464 63636363
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 0030CF10 60000000
 
 name: Max Red Orbs
+author: GuitarMan
 mode: once
 w32 003E7A98 90A90004
 
 name: Max Style Xp On Gain
+author: GuitarMan
 mode: once
 w32 006DB1B0 3D0047C3
 w32 006DB1B4 61085000
@@ -85,12 +105,14 @@ w32 006DB1BC 48323A7A
 w32 00323A74 486DB1B2
 
 name: Infinite Blue Orbs On Shop
+author: GuitarMan
 mode: once
 w32 003FDBC0 98C9000F
 w32 003FDBD8 811133F0
 w32 003FDC18 98C8004A
 
 name: Max + Infinite Devil Trigger For Dante + Vergil
+author: GuitarMan
 mode: once
 w32 006DB1D0 61500000
 w32 006DB1D4 D1B02CF0
@@ -104,52 +126,63 @@ w32 006DB1F0 483E6C6E
 w32 003E6C68 486DB1D2
 
 name: Unlimited Trickster Dash For Dante
+author: GuitarMan
 mode: once
 w32 00309E50 99FF4100
 
 name: Unlimited Sky Star, Air Trick, Trick Up, & Trick Down For Dante + Vergil
+author: GuitarMan
 mode: once
 w32 00301648 60000000
 w32 00301708 60000000
 w32 00301794 60000000
 
 name: Always SSS Stylish
+author: GuitarMan
 mode: once
 w32 002F27B8 39200007
 w32 002F27C8 913F4274
 w32 003E3048 60000000
 
 name: Max Red Orbs On Gain
+author: GuitarMan, jgduff1
 mode: once
 w32 002AD1DC 7C021214
 w32 002AD1E8 90090094
 
 name: Memory Infinite Red Orbs
+author: jgduff1
 mode: once
 w32 319394E0 000F423F
 
 name: ASM Infinite Red Orbs
+author: jgduff1
 mode: once
 w32 003FB768 60000000
 
 name: Memory Max Red Orbs On Gain
+author: jgduff1
 mode: once
 w32 305D0450 0000001F
 
 name: Infinite Item Usage
+author: GuitarMan
 mode: once
 w32 000A3920 409E0008
 
 name: Memory Max Items On Buy
+author: jgduff1
 mode: once
 w8 319394F5 07
 w8 31939522 07
 
 name: ASM Max Items On Buy
+author: jgduff1
 mode: once
 w32 003FB7F0 39600063
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w8 31952D80 62
 w8 31952D81 62
@@ -157,22 +190,26 @@ w8 31952D83 62
 w8 305D0467 62
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 0045A1EC 396B0000
 w32 0045A2CC 396B0000
 w32 0045A2E8 396B0000
 
 name: Infinite Jumps (AirHike)
+author: GuitarMan
 mode: once
 w32 002FE07C 60000000
 
 name: Infinite Health For Dante + Vergil
+author: GuitarMan
 mode: once
 w32 0031E288 3CE0469C
 w32 0031E294 60E74000
 w32 0031E2A0 90FF2F28
 
 name: Access Divinity Statue Anywhere (L3)
+author: GuitarMan
 mode: once
 w32 0077360C 80030018
 w32 00773610 3E0000AB
@@ -186,10 +223,12 @@ w32 0077362C 4BC1633D
 w32 00389964 4877360E
 
 name: Dante + Vergil Weapons Are Always Fully Charged
+author: GuitarMan
 mode: once
 w32 0030A820 3C00462C
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 302BEDFC 00000000
 w32 302E9728 00000000
@@ -197,6 +236,7 @@ w32 302FA704 3F800000
 w32 31952E1C 45DAC000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00589794 60000000
 w32 0058795C 60000000
@@ -210,49 +250,60 @@ w32 005879E8 90E90034
 w32 005879EC 60000000
 
 name: AoB Invincibility
+author: GuitarMan
 mode: once
 aob 7F24CB78786300207F45D3787F66DB784BD96BED 7F24CB78786300207F45D3787F66DB7860000000
 
 name: AoB Max Red Orbs
+author: GuitarMan
 mode: once
 aob 901B55A8419E02A47929002083E90004 901B55A8419E02A490A9000483E90004
 
 name: AoB Infinite Blue Orbs On Shop
+author: GuitarMan
 mode: once
 aob 60000000786300203880000038A0060038C00000480E8A9960000000 98C9000F786300203880000038A0060038C00000480E8A99811133F0
 aob 6000000057BD2036579C20367FA507B4 98C8004A57BD2036579C20367FA507B4
 
 name: AoB Unlimited Trickster Dash For Dante
+author: GuitarMan
 mode: once
 aob 600000002F830002419E0128A13F4F38 99FF41002F830002419E0128A13F4F38
 
 name: AoB Unlimited Sky Star, Air Trick, Trick Up, & Trick Down For Dante + Vergil
+author: GuitarMan
 mode: once
 aob 409DF5C83809FFFF893E2DE43880001B 600000003809FFFF893E2DE43880001B
 aob 409DF5083809FFFF893E2DE438800017 600000003809FFFF893E2DE438800017
 aob 409DF47C3809FFFF893E2DE4 600000003809FFFF893E2DE4
 
 name: AoB Always SSS Stylish
+author: GuitarMan
 mode: once
 aob 600000007FE4FB78806206EC4823430960000000 392000077FE4FB78806206EC48234309913F4274
 aob 60000000EFFF0072EFDEF828D3DF0004 60000000EFFF0072EFDEF82860000000
 
 name: AoB Max Red Orbs On Gain
+author: GuitarMan
 mode: once
 aob 7C0A02147D6A5A149009001C91690094 7C0212147D6A5A149009001C90090094
 
 name: AoB Infinite Item Usage
+author: GuitarMan
 mode: once
 aob 419E00087D2A01AE4320FFD0800513AC 409E00087D2A01AE4320FFD0800513AC
 
 name: AoB Infinite Jumps (AirHike)
+author: GuitarMan
 mode: once
 aob 409DFFBC83A207D838800040A39F4F14 6000000083A207D838800040A39F4F14
 
 name: AoB Infinite Health For Dante + Vergil
+author: GuitarMan
 mode: once
 aob 600000007FC3F37848005DFD600000007FC3F3784BFEC7BD60000000 3CE0469C7FC3F37848005DFD60E740007FC3F3784BFEC7BD90FF2F28
 
 name: AoB Dante + Vergil Weapons Are Always Fully Charged
+author: GuitarMan
 mode: once
 aob 38000000993F0005901F0008993F0000 3C00462C993F0005901F0008993F0000

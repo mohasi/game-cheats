@@ -1,6 +1,7 @@
 # Dragon Age: Inquisition
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 0175779C 2C0303D0
 w32 017577A0 4082000C
@@ -11,6 +12,7 @@ w32 017577B0 4BB2B99C
 w32 01283148 484D4654
 
 name: Infinite Skill Points
+author: Hiei-YYH
 mode: once
 w32 017577B4 D03F0024
 w32 017577B8 2C180001
@@ -21,6 +23,7 @@ w32 017577C8 4AE7C5EC
 w32 005D3DB0 49183A04
 
 name: Infinite Ability Points + Mana
+author: Hiei-YYH
 mode: once
 w32 017577B4 D03F0024
 w32 017577B8 2C180001
@@ -36,18 +39,22 @@ w32 017577DC 4E800020
 w32 005D3DB0 49183A05
 
 name: No Cooldown
+author: Hiei-YYH
 mode: once
 w32 004FF4A8 C03F0014
 
 name: Max Money
+author: aquanaft
 mode: once
 w32 85E0072C 0FFFFFFF
 
 name: Max Money 2
+author: aquanaft
 mode: once
 w32 85E0132C 05F5E0FF
 
 name: Max Many Stats
+author: GuitarMan
 mode: once
 w32 018BC5F4 280507A0
 w32 018BC5F8 40820038
@@ -69,6 +76,7 @@ w32 018BC634 485D46DA
 w32 005D46D4 498BC5F6
 
 name: Pick Up And Have 99 Crafting Materials Potions And Valuables
+author: GuitarMan
 mode: once
 w32 018BC954 3A000063
 w32 018BC958 9A1F0024
@@ -77,6 +85,7 @@ w32 018BC960 4843EA9A
 w32 0043EA94 498BC956
 
 name: Easy Level Up
+author: GuitarMan
 mode: once
 w32 0177A46C 28050420
 w32 0177A470 40820014
@@ -97,6 +106,7 @@ w32 005D2F18 4977A46E
 w32 0047CC94 4977A48E
 
 name: 9,999,999 Power, Gold, And Inquisition Perks
+author: GuitarMan
 mode: once
 w32 017F9120 A0E50018
 w32 017F9124 2807CB39
@@ -119,10 +129,12 @@ w32 017F9164 48C216B2
 w32 00C216AC 497F9122
 
 name: No Cooldown
+author: GuitarMan
 mode: once
 w32 00325E9C D3C30014
 
 name: Infinite Upgrade Points
+author: GuitarMan
 mode: once
 w32 018CE74C 280507E0
 w32 018CE750 4082000C

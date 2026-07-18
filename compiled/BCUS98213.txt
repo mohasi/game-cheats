@@ -1,11 +1,13 @@
 # Welcome to PlayStation Network and PlayStation 3 Slim
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E9BD88 05F5E0FF
 w32 00E9BD8C 00000000
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00AEA3C0 80030030
 w32 00AEA3C4 9003002C
@@ -13,20 +15,24 @@ w32 00AEA3C8 4E800020
 w32 000A2888 48A47B39
 
 name: Infinite Health v2
+author: Hiei-YYH
 mode: once
 w32 005B6C70 60000000
 w32 005B6E14 60000000
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 0086FF68 396B0000
 
 name: Max Money After Earning Any Amount
+author: Hiei-YYH
 mode: once
 w32 000D59D4 3C0005F5
 w32 000D59D8 6000E0FF
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00AEA8E0 80030030
 w32 00AEA8E4 9003002C
@@ -34,22 +40,27 @@ w32 00AEA8E8 4E800020
 w32 0009F658 48A4B289
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 0086E0D8 396B0000
 
 name: Max Money After Earning Any Amount
+author: Hiei-YYH
 mode: once
 w32 000CEE7C 3C0005F5
 w32 000CEE80 6000E0FF
 
 name: Unlock FPS
+author: PSXPlace
 mode: once
 w8 00E9C1FB 00
 
 name: 60 FPS
+author: PSXPlace
 mode: once
 w8 00E9C1FB 01
 
 name: 30 FPS
+author: PSXPlace
 mode: once
 w8 00E9C1FB 02

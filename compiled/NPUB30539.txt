@@ -1,18 +1,22 @@
 # Shift 2: Unleashed
 
 name: Cash
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 33E093FC 05F5E0FF
 w32 33E09400 05F5E0FF
 
 name: Memory Lot Of Cash On 1 Race
+author: jgduff1
 mode: once
 w32 3401BEFC 0000251D
 
 name: ASM Lot Of Cash On 1 Race
+author: jgduff1
 mode: once
 w32 000434B8 9043257C
 
 name: Memory Lot Of XP On 1 Race
+author: jgduff1
 mode: once
 w32 01951540 0000034F

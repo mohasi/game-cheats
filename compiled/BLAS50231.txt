@@ -1,14 +1,17 @@
 # WORLD SOCCER Winning Eleven 2011
 
 name: GP 999,999,999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 3007A7B0 3B9AC9FF
 
 name: Loss Time
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 019D0BD8 00000000
 
 name: Home 21 + Away When Goaling
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 019CAC38 000A
 w16 019CAC3C 000A
@@ -18,6 +21,7 @@ w16 019CAF2E 0000
 w16 019CAF34 0000
 
 name: Away 21 + Home When Goaling
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 019CAC38 0000
 w16 019CAC3C 0000

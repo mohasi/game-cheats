@@ -1,122 +1,151 @@
 # Hard Corps - Uprising
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0095133C 60000000
 w32 009533E8 60000000
 
 name: Infinite Lives
+author: dron_3
 mode: once
 w32 00951240 60000000
 
 name: Max Corps Points
+author: dron_3
 mode: once
 w32 000CEEA0 60000000
 
 name: Max Score
+author: dron_3
 mode: once
 w32 000CEFE4 60000000
 
 name: Infinite Mid-Air Jumps
+author: dron_3
 mode: once
 w32 00951020 60000000
 
 name: Infinite Dash
+author: dron_3
 mode: once
 w32 00951044 60000000
 
 name: Invincibility (after first hit)
+author: dron_3
 mode: once
 w32 00142E14 60000000
 
 name: Unlimited Health P1 And P2
+author: crapulecorp
 mode: once
 w32 009513F4 60000000
 
 name: Player 1 Unlimited Lives
+author: crapulecorp
 mode: once
 w32 009512F8 39290000
 
 name: Player 1 Max Score If Increase
+author: crapulecorp
 mode: once
 w32 000CEFC8 F94800C8
 
 name: Max Corps Points P1
+author: crapulecorp
 mode: once
 w32 000CEEE0 60000000
 
 name: Max Corps Points P2
+author: crapulecorp
 mode: once
 w32 000CEE90 60000000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob D0290018C4031048FF806800 60000000C4031048FF806800
 aob D0090018C40B1048 60000000C40B1048
 
 name: AoB Max Corps Points
+author: dron_3
 mode: once
 aob 409D0008F92B0000E80100B0 60000000F92B0000E80100B0
 
 name: AoB Max Score
+author: dron_3
 mode: once
 aob 409D0008F95D0000 60000000F95D0000
 aob 409D0008F9690000 60000000F9690000
 
 name: AoB Infinite Mid-Air Jumps
+author: dron_3
 mode: once
 aob 392900019923119D 600000009923119D
 
 name: AoB Infinite Dash
+author: dron_3
 mode: once
 aob 392900019923119F 600000009923119F
 
 name: AoB Invincibility (after first hit)
+author: dron_3
 mode: once
 aob 3809FFFF7C090734 600000007C090734
 
 name: AoB Unlimited Health P1 And P2
+author: crapulecorp
 mode: once
 aob C19E8008D0290018C4031048FF806800 C19E800860000000C4031048FF806800
 
 name: AoB Player 1 Unlimited Lives
+author: crapulecorp
 mode: once
 aob 812B00C03929FFFF912B00C0840310F0 812B00C039290000912B00C0840310F0
 
 name: AoB Player 1 Max Score If Increase
+author: crapulecorp
 mode: once
 aob 7D29DA14F92800C8E81D00007FA05040 7D29DA14F94800C8E81D00007FA05040
 
 name: AoB Max Corps Points P1
+author: crapulecorp
 mode: once
 aob 7FA30040409DFFB8F8090000E80100B0 7FA3004060000000F8090000E80100B0
 
 name: AoB Max Corps Points P2
+author: crapulecorp
 mode: once
 aob 7FA04840409D0008F92B0000E80100B0 7FA0484060000000F92B0000E80100B0
 
 name: AoB Infinite Lives (get a 1-Up for "Disposable Warrior" Trophy)
+author: optantic
 mode: once
 aob 3929FFFF912B00C0 39200013912B00C0
 
 name: AoB Defeating More Than 50 Privates Does Not Affect "Innate Guerilla Warfare" Trophy
+author: optantic
 mode: once
 aob 7F89584038090001 7F8958403800000A
 aob 7D3B502E7F89584039290001 7D3B502E7F8958403920000A
 
 name: AoB Pickup Weapons Does Not Affect "The definition of a warrior!" Trophy
+author: optantic
 mode: once
 aob 38000001817E8010386300A07C6307B4812B00007D291A1498090008 38000000817E8010386300A07C6307B4812B00007D291A1498090008
 
 name: AoB Dying Does Not Affect "I'll make them pay..." Trophy
+author: optantic
 mode: once
 aob 38000001817E8010386300A07C6307B4812B00007D291A149809000B 38000000817E8010386300A07C6307B4812B00007D291A149809000B
 
 name: AoB Combo x100
+author: optantic
 mode: once
 aob C19E8030D0031210 C19E8030D1831210
 
 name: AoB Always Keep Weapons
+author: optantic
 mode: once
 aob 7D2907B47C6B492E 7D2907B460000000
 aob 7D204A1490690008 7D204A1460000000

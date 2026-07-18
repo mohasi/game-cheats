@@ -1,6 +1,7 @@
 # Tales of Symphonia Chronicles
 
 name: Max Gald, Max Encounters, Max Combo, Max Have All Items (Hold Square + DPAD Right) Recover HP TP, Max EXP (Hold Square + DPAD Left)
+author: Medo
 mode: once
 w32 000A0408 607F0000
 w32 000A040C 3DC00045
@@ -45,6 +46,7 @@ w32 000A04A4 480120BF
 w32 000120B8 480A040B
 
 name: Infinite Unison Attack
+author: Medo
 mode: once
 w32 000A04A8 2C090004
 w32 000A04AC 41820008
@@ -65,87 +67,103 @@ w32 000A04E4 48032193
 w32 0003218C 480A04AB
 
 name: Max Money
+author: gootah
 mode: once
 w32 119BDEF0 05F5E0FF
 
 name: Max Battle Counters
+author: gootah
 mode: once
 w32 119BF94C 7F7F7F7F
 w32 119BF964 7F7F7F7F
 
 name: Max Encounters In Menu
+author: aoshi22
 mode: once
 w16 119BDEF4 270F
 
 name: Max Combo In Menu
+author: aoshi22
 mode: once
 w16 119BDEF6 270F
 
 name: Total Playtime Not Counting The Current Playtime
+author: aoshi22
 mode: once
 w32 119BDEF8 00000000
 
 name: Max + Infinite TP Lloyd In Menu
+author: aoshi22
 mode: once
 w16 119BE1C4 03E7
 w16 119BE1D8 03E7
 w16 119BE1E8 03E7
 
 name: Max + Infinite TP Collette In Menu
+author: aoshi22
 mode: once
 w16 119BE2DC 03E7
 w16 119BE2F0 03E7
 w16 119BE300 03E7
 
 name: Max + Infinite TP Genis In Menu
+author: aoshi22
 mode: once
 w16 119BE3F4 03E7
 w16 119BE408 03E7
 w16 119BE418 03E7
 
 name: Max + Infinite TP Raine In Menu
+author: aoshi22
 mode: once
 w16 119BE50C 03E7
 w16 119BE520 03E7
 w16 119BE530 03E7
 
 name: Max + Infinite TP Sheena In Menu
+author: aoshi22
 mode: once
 w16 119BE624 03E7
 w16 119BE638 03E7
 w16 119BE648 03E7
 
 name: Max + Infinite TP Zelos In Menu
+author: aoshi22
 mode: once
 w16 119BE73C 03E7
 w16 119BE750 03E7
 w16 119BE760 03E7
 
 name: Max + Infinite TP Presea In Menu
+author: aoshi22
 mode: once
 w16 119BE854 03E7
 w16 119BE868 03E7
 w16 119BE878 03E7
 
 name: Max + Infinite TP Regal In Menu
+author: aoshi22
 mode: once
 w16 119BE96C 03E7
 w16 119BE980 03E7
 w16 119BE990 03E7
 
 name: Max + Infinite TP Kratos In Menu
+author: aoshi22
 mode: once
 w16 119BEA84 03E7
 w16 119BEA98 03E7
 w16 119BEAA8 03E7
 
 name: Max + Infinite TP Noishe In Menu
+author: aoshi22
 mode: once
 w16 119BEB9C 03E7
 w16 119BEBB0 03E7
 w16 119BEBC0 03E7
 
 name: All Characters Max Tech Usage
+author: aoshi22
 mode: once
 w32 119BE238 03E703E7
 w32 119BE23C 03E703E7
@@ -257,6 +275,7 @@ w32 119BEB20 03E703E7
 w32 119BEB24 03E703E7
 
 name: Lloyd Has All Techs
+author: aoshi22
 mode: once
 w32 119BE220 00000003
 w32 119BE224 FE7FFFFF
@@ -264,11 +283,13 @@ w32 119BE228 00000003
 w32 119BE22C FE7FFFFF
 
 name: Collette Has All Techs
+author: aoshi22
 mode: once
 w32 119BE33C 5F8BAFFF
 w32 119BE344 5F8BAFFF
 
 name: Genis Has All Techs
+author: aoshi22
 mode: once
 w32 119BE450 00000007
 w32 119BE454 FFFFFFFF
@@ -276,11 +297,13 @@ w32 119BE458 00000007
 w32 119BE45C FFFFFFFF
 
 name: Raine Has All Techs
+author: aoshi22
 mode: once
 w32 119BE56C 4FFFFFFF
 w32 119BE574 4FFFFFFF
 
 name: Sheena Has All Techs
+author: aoshi22
 mode: once
 w32 119BE680 0000001F
 w32 119BE684 FFFFFFFF
@@ -288,26 +311,31 @@ w32 119BE688 0000001F
 w32 119BE68C FFFFFFFF
 
 name: Zelos Has All Techs
+author: aoshi22
 mode: once
 w32 119BE79C 0DFFFFFF
 w32 119BE7A4 0DFFFFFF
 
 name: Presea Has All Techs
+author: aoshi22
 mode: once
 w32 119BE8B4 01DFFFEF
 w32 119BE8BC 01DFFFEF
 
 name: Regal Has All Techs
+author: aoshi22
 mode: once
 w32 119BE9CC 07FFFE7F
 w32 119BE9D4 07FFFE7F
 
 name: Kratos Has All Techs
+author: aoshi22
 mode: once
 w32 119BEAE4 1BFFFFFF
 w32 119BEAEC 1BFFFFFF
 
 name: All Characters M Level EX Gem
+author: aoshi22
 mode: once
 w32 119BE29A 05050505
 w32 119BE3B2 05050505
@@ -320,6 +348,7 @@ w32 119BEA42 05050505
 w32 119BEB5A 05050505
 
 name: Have 63 Of All 24 Of Lloyd's Weapons
+author: hustla_77
 mode: once
 w32 119BEE2C 3F3F3F3F
 w32 119BEE30 3F3F3F3F
@@ -329,29 +358,35 @@ w32 119BEE3C 3F3F3F3F
 w32 119BEE40 3F3F3F3F
 
 name: Have 15 Of All Herbs
+author: aoshi22
 mode: once
 w32 119BEDBE 0F0F0F0F
 w32 119BEDC2 0F0F0F0F
 w32 119BEDC6 0F0F0F0F
 
 name: Have 15 Of All Gems
+author: aoshi22
 mode: once
 w32 119BEDCD 0F0F0F0F
 
 name: Have 15 Of All Quartzes
+author: aoshi22
 mode: once
 w32 119BEDD1 0F0F0F0F
 w32 119BEDD5 0F0F0F0F
 
 name: Have Technical Ring
+author: hustla_77
 mode: once
 w8 119BEF82 3F
 
 name: Have Strike Ring
+author: hustla_77
 mode: once
 w8 119BEF81 3F
 
 name: Have 100% Of All Monster Book
+author: aoshi22
 mode: once
 w32 119BDF00 FFFFFFFF
 w32 119BDF04 FFFFFFFF
@@ -420,84 +455,104 @@ w32 119BDFFC FFFFFFFF
 w32 119BE000 FFFFFFFF
 
 name: Lloyd Has All Titles
+author: aoshi22
 mode: once
 w32 119BE1D0 7FFFDFFE
 
 name: Collette Has All Titles
+author: aoshi22
 mode: once
 w32 119BE2E8 00FFFFFE
 
 name: Genis Has All Titles
+author: aoshi22
 mode: once
 w32 119BE400 007FFFFE
 
 name: Raine Has All Titles
+author: aoshi22
 mode: once
 w32 119BE518 000FFFFE
 
 name: Sheena Has All Titles
+author: aoshi22
 mode: once
 w32 119BE630 000FFFFE
 
 name: Zelos Has All Titles
+author: aoshi22
 mode: once
 w32 119BE748 0007FFFE
 
 name: Presea Has All Titles
+author: aoshi22
 mode: once
 w32 119BE860 0003FFFE
 
 name: Regal Has All Titles
+author: aoshi22
 mode: once
 w32 119BE978 0003FFFE
 
 name: Kratos Has All Titles
+author: aoshi22
 mode: once
 w32 119BEA90 00011EFE
 
 name: Enter City Or Dungeon From Field To Go To Flanoir
+author: hustla_77
 mode: once
 w16 119BEFCA 0136
 
 name: Enter City Or Dungeon From Field To Go To Meltokio
+author: hustla_77
 mode: once
 w16 119BEFCA 0178
 
 name: Enter City Or Dungeon From Field To Go To Sybak
+author: hustla_77
 mode: once
 w16 119BEFCA 01B2
 
 name: Enter City Or Dungeon From Field To Go To Luin
+author: hustla_77
 mode: once
 w16 119BEFCA 01C0
 
 name: Enter City Or Dungeon From Field To Go To Temple of Lightning
+author: hustla_77
 mode: once
 w16 119BEFCA 01DB
 
 name: Enter City Or Dungeon From Field To Go To Gaoracchia Forest
+author: hustla_77
 mode: once
 w16 119BEFCA 01FF
 
 name: Add All Grade Shop Effects To Your Current Game
+author: aoshi22
 mode: once
 w8 119BF94D EF
 
 name: Max Level After 1 Battle
+author: tekman
 mode: once
 w32 00D96178 60000000
 w32 00D96180 60000000
 
 name: Max And Infinite Flouz On Buy
+author: tekman, bungholio
 mode: once
 w32 00E5A8AC 3CE03B9A
 w32 00E5A8B4 60E7C9FF
 
 name: Max And Infinite Items Use
+author: tekman
 mode: once
 w32 00E512F0 38800014
 
 name: Damage Fully Refills HP For The Character You Are Controlling
+author: bungholio
 mode: once
 w32 010CD738 F8C1FFF8
 w32 010CD73C F8E1FFF0
@@ -525,6 +580,7 @@ w32 010CD790 4E800020
 w32 00D39C50 48393AE9
 
 name: Damage Fully Refills HP For Your Allies That You Are Not Controlling
+author: bungholio
 mode: once
 w32 010CD794 F8C1FFF8
 w32 010CD798 F8E1FFF0
@@ -561,6 +617,7 @@ w32 010CD810 4E800020
 w32 00D39C54 48393B41
 
 name: Any Damage Kills Enemies
+author: bungholio
 mode: once
 w32 010CD814 80650024
 w32 010CD818 7F841800
@@ -599,6 +656,7 @@ w32 010CD898 4E800020
 w32 00D39C58 48393BBD
 
 name: Invincibility For The Character You Are Currently Controlling
+author: bungholio
 mode: once
 w32 010CD89C 7F032014
 w32 010CD8A0 3C60011A
@@ -623,6 +681,7 @@ w32 010CD8E8 4E800020
 w32 00D6E970 4835EF2D
 
 name: Invincibility For Your Allies That You Are Not Controlling
+author: bungholio
 mode: once
 w32 010CD8EC 7B180020
 w32 010CD8F0 38600003
@@ -653,10 +712,12 @@ w32 010CD950 4E800020
 w32 00D6E974 4835EF79
 
 name: Everything Can Always Do Things That Use TP
+author: bungholio
 mode: once
 w32 00D39C18 4800000C
 
 name: Using TP Fully Restores TP For The Character You Are Currently Controlling
+author: bungholio
 mode: once
 w32 010CD954 7C63F014
 w32 010CD958 F8C1FFF8
@@ -682,6 +743,7 @@ w32 010CD9A4 4E800020
 w32 00D39C84 48393CD1
 
 name: Allies You Are Not Controlling Fully Refill TP By Using TP
+author: bungholio
 mode: once
 w32 010CD9A8 F8C1FFF8
 w32 010CD9AC F8E1FFF0
@@ -718,6 +780,7 @@ w32 010CDA24 4E800020
 w32 00D39C88 48393D21
 
 name: Button Enable Code
+author: bungholio
 mode: once
 w32 010CDA28 7C7AF12E
 w32 010CDA2C 3D800139
@@ -731,6 +794,7 @@ w32 010CDA48 4E800020
 w32 00EEA1D8 481E3851
 
 name: Press L2 + L3 To Instantly Defeat All Enemies
+author: bungholio
 mode: once
 w32 010CDA4C 3C800139
 w32 010CDA50 A084F000
@@ -742,6 +806,7 @@ w32 010CDA64 4E800020
 w32 00D64B54 48368EF9
 
 name: Always Have At Least 1 Of Every Item
+author: bungholio
 mode: once
 w32 010CDA68 88030EB5
 w32 010CDA6C 2B800000
@@ -753,36 +818,44 @@ w32 010CDA80 4E800020
 w32 00E6FC2C 4825DE3D
 
 name: Buy An Item For 20 Of It
+author: bungholio
 mode: once
 w32 00E5A8C4 38A00014
 
 name: Sell An Item For 20 Of It
+author: bungholio
 mode: once
 w32 00E5AA18 39000014
 
 name: Use An Item While In Battle For 20 Of It
+author: bungholio
 mode: once
 w32 00D9F6EC 38800014
 
 name: Max Gald On Increase
+author: bungholio
 mode: once
 w32 00E5AA34 48000008
 
 name: Max Gald After Buying Anything
+author: tekman, bungholio
 mode: once
 w32 00E5A8AC 3CE03B9A
 w32 00E5A8B4 60E7C9FF
 
 name: Can Walk Through Enemies On The World Map Without Triggering A Battle
+author: bungholio
 mode: once
 w32 00DE214C 48000010
 w32 00DE1E30 4800009C
 
 name: Can Save Anywhere
+author: bungholio
 mode: once
 w32 00E5799C 48000008
 
 name: Unlock Mania Battle Rank And Sound Test
+author: bungholio
 mode: once
 w32 00E3B6A8 83A366D4
 w32 00E3B6AC 38600001
@@ -790,24 +863,29 @@ w32 00E3B6B0 987D0EB2
 w32 00E3B6B4 480000B0
 
 name: Unlock Sound Test
+author: bungholio
 mode: once
 w32 00EB393C 38C00001
 w32 00EB3944 98C499C0
 w32 00EB3950 48000018
 
 name: AoB Max Level After 1 Battle
+author: tekman
 mode: once
 aob 6108967F7C0740004181000860E80000 6108967F600000004181000860000000
 
 name: AoB Max And Infinite Flouz On Buy
+author: tekman
 mode: once
 aob 78C6002080E50000B09900027CFC3810 78C600203CE03B9AB099000260E7C9FF
 
 name: AoB Max And Infinite Items Use
+author: tekman
 mode: once
 aob 88830EB53084FFFF98830EB5480207F1 88830EB53880001498830EB5480207F1
 
 name: Hold SELECT + R2 = Max Hits, Max Encounters, Max Gald, Max Exp, Unlock All Titles, 100% Monster Book, Max + Have All Items
+author: Medo
 mode: once
 w32 000A15FC 60000000
 w32 000A1600 3DC00045
@@ -865,6 +943,7 @@ w32 000A16CC 4801D48F
 w32 0001D1BC 480A15FF
 
 name: Infinite Health + TP + Unisonant
+author: Medo
 mode: once
 w32 000A0280 3DE000D5
 w32 000A0284 81EFAEB4
@@ -895,6 +974,7 @@ w32 000A02E4 4801D493
 w32 0001D48C 480A0283
 
 name: Invincibility For The Character You Are Controlling
+author: bungholio
 mode: once
 w32 00CC0B80 D3E30008
 w32 00CC0B84 809B0000
@@ -910,6 +990,7 @@ w32 00CC0BA8 4E800020
 w32 00A7385C 4824D325
 
 name: Invincibility For Allies You Are Not Controlling
+author: bungholio
 mode: once
 w32 00CC0BAC 809B0000
 w32 00CC0BB0 80840010
@@ -924,6 +1005,7 @@ w32 00CC0BD0 4E800020
 w32 00A73858 4824D355
 
 name: HP Fully Refills From Damage For The Character You Are Controlling
+author: bungholio
 mode: once
 w32 00CC0B18 2C1D0000
 w32 00CC0B1C 4D820020
@@ -940,6 +1022,7 @@ w32 00CC0B44 4E800020
 w32 00A885C8 48238551
 
 name: HP Fully Refills From Damage For Allies You Are Not Controlling
+author: bungholio
 mode: once
 w32 00CC0B48 807A003C
 w32 00CC0B4C 80630010
@@ -955,6 +1038,7 @@ w32 00CC0B70 4E700020
 w32 00A885D0 48238579
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 00CC0B74 3BC00000
 w32 00CC0B78 93C30010
@@ -962,6 +1046,7 @@ w32 00CC0B7C 4E800020
 w32 00A885DC 48237599
 
 name: Changing TP Fully Refills TP For The Character You Are Controlling
+author: bungholio
 mode: once
 w32 00CC0BD4 7CBDF014
 w32 00CC0BD8 807B003C
@@ -977,6 +1062,7 @@ w32 00CC0BFC 4E800020
 w32 00A886F4 482384E1
 
 name: Changing TP Fully Refills TP For Allies You Are Not Controlling
+author: bungholio
 mode: once
 w32 00CC0C00 807B003C
 w32 00CC0C04 80630010
@@ -992,24 +1078,29 @@ w32 00CC0C28 4E800020
 w32 00A886F8 48238509
 
 name: Max Gald On Sell
+author: bungholio
 mode: once
 w32 00B92860 60000000
 
 name: Max Gald On Buy
+author: bungholio
 mode: once
 w32 00B9288C 3CA03B9A
 w32 00B92890 60A5C9FF
 
 name: Max Items On Buy
+author: bungholio
 mode: once
 w32 00B92B0C 60000000
 
 name: Max Items On Sell
+author: bungholio
 mode: once
 w32 00B92B38 60000000
 w32 00B92B54 3BC00014
 
 name: Always Have At Least 1 Of Every Item
+author: bungholio
 mode: once
 w32 00CC0CD4 2F830000
 w32 00CC0CD8 4191000C
@@ -1020,12 +1111,14 @@ w32 00CC0CE8 4E800020
 w32 00B1B6D0 481A5601
 
 name: Unlock Mania Battle Rank
+author: bungholio
 mode: once
 w32 00B15500 38000001
 w32 00B15508 9004B119
 w32 00B1550C 60000000
 
 name: Unlock Unknown Battle Rank
+author: bungholio
 mode: once
 w32 00B1551C 8003BD20
 w32 00B15524 3CA00400
@@ -1033,10 +1126,12 @@ w32 00B15528 7CA50378
 w32 00B1552C 90A3BD20
 
 name: Can Save Anywhere
+author: bungholio
 mode: once
 w32 00B2A9FC 38800000
 
 name: Button Enable Code
+author: bungholio
 mode: once
 w32 00CC0C2C 907E0080
 w32 00CC0C30 2B9F0000
@@ -1050,6 +1145,7 @@ w32 00CC0C4C 4E800020
 w32 00AD75DC 481E9651
 
 name: Press L2 + L3 To Instantly Win Any Battle
+author: bungholio
 mode: once
 w32 00CC0C50 F861FFF8
 w32 00CC0C54 3C6000E4

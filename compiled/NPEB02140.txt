@@ -1,75 +1,92 @@
 # Metal Gear Solid V: The Phantom Pain
 
 name: Max Camo
+author: dron_3
 mode: once
 w32 00C7FC74 3C607F80
 w32 00C7FC78 907E0098
 
 name: Take No Damage
+author: dron_3
 mode: once
 w32 00C6F758 60000000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 00C6F3BC 48000CCC
 
 name: Infinite Battery
+author: dron_3
 mode: once
 w32 02267818 60000000
 
 name: Infinite Item Effect Duration (Use Again To Disable)
+author: dron_3
 mode: once
 w32 0227E1F8 60000000
 w32 0227D690 EC221028
 
 name: Max Resources On Sell
+author: dron_3
 mode: once
 w32 015F4F00 1C780002
 
 name: Max Resources On Gain
+author: dron_3
 mode: once
 w32 020004FC 1C760002
 
 name: Infinite Suppressor
+author: dron_3
 mode: once
 w32 00DF67E8 61260000
 
 name: No Reload
+author: dron_3
 mode: once
 w32 00DF6AD0 63A60000
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 00DF6660 60C70000
 
 name: Infinite Throwing Weapons
+author: dron_3
 mode: once
 w32 00E1B12C 60DE0000
 
 name: Infinite Placed Weapons
+author: dron_3
 mode: once
 w32 00E1F554 607C0000
 
 name: Infinite Items
+author: dron_3
 mode: once
 w32 0226762C 7CC700D0
 
 name: Infinite Tools
+author: dron_3
 mode: once
 w32 00D5D24C 60000000
 
 name: Max GMP
+author: dron_3
 mode: once
 w32 02090834 90A40000
 w32 02090838 7CA407B4
 
 name: Instant Free Development
+author: dron_3
 mode: once
 w32 02119E1C 3BC00000
 w32 0211D254 38600000
 w32 02113E20 38A00001
 
 name: Instant Free Construction
+author: dron_3
 mode: once
 w32 020DED7C 48000294
 w32 020DDD94 38800000
@@ -80,142 +97,176 @@ w32 020DDE04 38A00000
 w32 020DDE08 90BE0008
 
 name: Soldier One Hit Sleep Or Stun
+author: dron_3
 mode: once
 w32 01E9EB38 7C631810
 
 name: Soldier Never Wake Up
+author: dron_3
 mode: once
 w32 01E9EBD8 38600000
 
 name: 0 Mission Time
+author: dron_3
 mode: once
 w32 005192A0 38A00000
 
 name: 0 Alerts
+author: dron_3
 mode: once
 w32 0051A3C4 38A00000
 
 name: 0 Kills
+author: dron_3
 mode: once
 w32 0051A104 38A00000
 
 name: 0 Retries
+author: dron_3
 mode: once
 w32 00519B34 38A00000
 
 name: AoB Max Camo
+author: dron_3
 mode: once
 aob 7C23FC2ED03E0098 3C607F80907E0098
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 41820CCC3FE00000 48000CCC3FE00000
 
 name: AoB Infinite Battery
+author: dron_3
 mode: once
 aob FC43106E41810008 6000000041810008
 
 name: AoB Infinite Item Effect Duration (Use Again To Disable)
+author: dron_3
 mode: once
 aob EC42F8284CC01382 600000004CC01382
 aob EC22082A7C63C014 EC2210287C63C014
 
 name: AoB Max Resources On Sell
+author: dron_3
 mode: once
 aob 7CC31B787C67D92E 1C7800027C67D92E
 
 name: Max Resources On Gain
+author: dron_3
 mode: once
 aob 7C831B787C67F12E 1C7600027C67F12E
 
 name: AoB Infinite Suppressor
+author: dron_3
 mode: once
 aob 7CD4481098C101C7 6126000098C101C7
 
 name: AoB No Reload
+author: dron_3
 mode: once
 aob 7CD4E81078C60020 63A6000078C60020
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 7CF4301078E70020 60C7000078E70020
 
 name: AoB Infinite Throwing Weapons
+author: dron_3
 mode: once
 aob 33C6FFFF7BDE0020 60DE00007BDE0020
 
 name: AoB Infinite Placed Weapons
+author: dron_3
 mode: once
 aob 3383FFFF7B9C002062E30000 607C00007B9C002062E30000
 
 name: AoB Infinite Items
+author: dron_3
 mode: once
 aob 7CC7F0107C832010 7CC700D07C832010
 
 name: AoB Infinite Tools
+author: dron_3
 mode: once
 aob 33BDFFFF7BBD0020 600000007BBD0020
 
 name: AoB Max GMP
+author: dron_3
 mode: once
 aob 3CA0004C60A54B40808400007C8407B4 3CA0004C60A54B4090A400007CA407B4
 
 name: AoB Instant Free Development
+author: dron_3
 mode: once
 aob 83C3000040820068 3BC0000040820068
 aob 7C632010E8010090 38600000E8010090
 aob 786300208883000050A41F38 38A000018883000050A41F38
 
 name: AoB Instant Free Construction
+author: dron_3
 mode: once
 aob 418202942C1B0001 480002942C1B0001
 aob 809E00007C8407B480A3000080A5000480A500007CA903A64E9E04212C030000418200743C6000006063AFE87C7F182E889E000C80630A7880BE00047CA507B480C3000080C6001880C600007CC903A64E9E04212C0300004182003C3C6000006063AFE87C7F182E889E000D80630A7880BE00087CA507B4 38800000909E000080A3000080A5000480A500007CA903A64E9E04212C030000418200743C6000006063AFE87C7F182E889E000C80630A7838A0000090BE000480C3000080C6001880C600007CC903A64E9E04212C0300004182003C3C6000006063AFE87C7F182E889E000D80630A7838A0000090BE0008
 
 name: AoB Soldier One Hit Sleep/Stun
+author: dron_3
 mode: once
 aob 7C634010B07D0020 7C631810B07D0020
 
 name: AoB Soldier Never Wake Up
+author: dron_3
 mode: once
 aob 7C7B1814B07D0020 38600000B07D0020
 
 name: AoB 0 Mission Time
+author: dron_3
 mode: once
 aob 63C5000090C100B8 38A0000090C100B8
 
 name: AoB 0 Alerts
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901DD65 38A0000030610070388000004901DD65
 
 name: AoB 0 Kills
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901E025 38A0000030610070388000004901E025
 
 name: AoB 0 Retries
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901E5F5 38A0000030610070388000004901E5F5
 
 name: AoB Quiet + Camouflage Skulls One Hit Sleep Or Stun
+author: dron_3
 mode: once
 aob 7C63D010B07C0012 7C631810B07C0012
 
 name: AoB Mist + Armor Skulls One Hit Sleep Or Stun
+author: dron_3
 mode: once
 aob EC42082841810008 EC42102841810008
 
 name: AoB Armor Skulls One Hit Break Armor
+author: dron_3
 mode: once
 aob EC21F82841810924 EC21082841810924
 
 name: AoB Mist + Armor Skulls One Hit Kill
+author: dron_3
 mode: once
 aob EC42F82841810008 EC42102841810008
 
 name: AoB Sahelanthropus One Hit Kill
+author: dron_3
 mode: once
 aob 80A400007C651814 80A4FFF47C651814
 
 name: Max Health
+author: Hiei-YYH
 mode: once
 w32 0251369C 3C8046FA
 w32 025136A0 909D0004
@@ -224,6 +275,7 @@ w32 025136A8 4E800020
 w32 00BFF920 49913D7D
 
 name: Teleport
+author: Hiei-YYH
 mode: once
 w32 025135B0 7C4018CE
 w32 025135B4 3CA00251
@@ -301,6 +353,7 @@ w32 018E8AD0 48C078ED
 w32 014D1E10 49041844
 
 name: Instant Weapon + Items Development
+author: Hiei-YYH
 mode: once
 w32 020324BC 3C807F80
 w32 020324CC 90832934
@@ -310,6 +363,7 @@ w32 020915E0 7C9A192E
 w32 020915E4 4800021C
 
 name: Put Every Enemy Into Stun (L1 + L3)
+author: Hiei-YYH
 mode: once
 w32 025CED08 3EA002AD
 w32 025CED0C 62B5DB58
@@ -325,75 +379,92 @@ w32 025CED30 4B839AFC
 w32 01DED220 487E1AE8
 
 name: Max Camo
+author: dron_3
 mode: once
 w32 00C7FC84 3C607F80
 w32 00C7FC88 907E0098
 
 name: Take No Damage
+author: dron_3
 mode: once
 w32 00C6F768 60000000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 00C6F3CC 48000CCC
 
 name: Infinite Battery
+author: dron_3
 mode: once
 w32 02267828 60000000
 
 name: Infinite Item Effect Duration (Use Again To Disable)
+author: dron_3
 mode: once
 w32 0227E208 60000000
 w32 0227D6A0 EC221028
 
 name: Max Resources On Sell
+author: dron_3
 mode: once
 w32 015F4F10 1C780002
 
 name: Max Resources On Gain
+author: dron_3
 mode: once
 w32 0200050C 1C760002
 
 name: Infinite Suppressor
+author: dron_3
 mode: once
 w32 00DF67F8 61260000
 
 name: No Reload
+author: dron_3
 mode: once
 w32 00DF6AE0 63A60000
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 00DF6670 60C70000
 
 name: Infinite Throwing Weapons
+author: dron_3
 mode: once
 w32 00E1B13C 60DE0000
 
 name: Infinite Placed Weapons
+author: dron_3
 mode: once
 w32 00E1F564 607C0000
 
 name: Infinite Items
+author: dron_3
 mode: once
 w32 0226763C 7CC700D0
 
 name: Infinite Tools
+author: dron_3
 mode: once
 w32 00D5D25C 60000000
 
 name: Max GMP
+author: dron_3
 mode: once
 w32 02090844 90A40000
 w32 02090848 7CA407B4
 
 name: Instant Free Development
+author: dron_3
 mode: once
 w32 02119E2C 3BC00000
 w32 0211D264 38600000
 w32 02113E30 38A00001
 
 name: Instant Free Construction
+author: dron_3
 mode: once
 w32 020DED8C 48000294
 w32 020DDDA4 38800000
@@ -404,25 +475,31 @@ w32 020DDE14 38A00000
 w32 020DDE18 90BE0008
 
 name: Soldier One Hit Sleep Or Stun
+author: dron_3
 mode: once
 w32 01E9EB48 7C631810
 
 name: Soldier Never Wake Up
+author: dron_3
 mode: once
 w32 01E9EBE8 38600000
 
 name: AoB 0 Alerts
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901DD75 38A0000030610070388000004901DD75
 
 name: AoB 0 Kills
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901E035 38A0000030610070388000004901E035
 
 name: AoB 0 Retries
+author: dron_3
 mode: once
 aob 78A5002030610070388000004901E605 38A0000030610070388000004901E605
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 380127C4 00010013

@@ -1,5 +1,6 @@
 # The Jak and Daxter Trilogy
 
 name: Infinite Health
+author: Steev
 mode: once
 w32 0025989C 3C004080

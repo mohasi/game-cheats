@@ -1,25 +1,30 @@
 # Tomb Raider: Underworld
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0048163C 60000000
 w32 004816E4 60000000
 
 name: Infinite Adrenaline
+author: Hiei-YYH
 mode: once
 w32 0048229C 3C00447A
 w32 004822B0 60000000
 
 name: Infinite Oxygen
+author: Hiei-YYH
 mode: once
 w32 00500FBC C18B0920
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 00451CB0 38090000
 w32 00454D6C 380B0000
 
 name: Moon Jump
+author: Hiei-YYH
 mode: once
 w32 006DF6F0 7FF8D9CE
 w32 006DF6F4 3D200088

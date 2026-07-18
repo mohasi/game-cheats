@@ -1,25 +1,31 @@
 # Dynasty Warriors 6
 
 name: Instant Max + Infinite Musou (Hold O)
+author: jgduff1
 mode: once
 w32 0019994C EC23682A
 
 name: Memory Max Level On Exp Gain + High Stats
+author: jgduff1
 mode: once
 w32 101DECE0 0000012C
 
 name: ASM Max Level On Exp Gain + High Stats
+author: jgduff1
 mode: once
 w32 00364094 90030098
 
 name: Memory Max K.O. On 1 Kill
+author: jgduff1
 mode: once
 w32 101ED6E8 0000270F
 
 name: ASM Max K.O. On 1 Kill
+author: jgduff1
 mode: once
 w32 00060B4C 905F00B0
 
 name: Always Max + Infinite Skills Points
+author: jgduff1
 mode: once
 w32 002DADA0 905FDF58

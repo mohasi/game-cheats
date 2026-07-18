@@ -1,9 +1,11 @@
 # The LEGO Movie Videogame
 
 name: Max Studs On Gain
+author: crapulecorp
 mode: once
 w32 00D741EC 60000000
 
 name: AoB Max Studs On Gain
+author: crapulecorp
 mode: once
 aob 40810008609D00003C600146 60000000609D00003C600146

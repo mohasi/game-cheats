@@ -1,16 +1,19 @@
 # Painkiller: Hell &amp;amp; Damnation
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 12094160 00000064
 w32 13FC4C90 00000064
 w32 142B1240 00000064
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00055880 7CC63378
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 119FE484 00000064
 w32 12ED02F4 00000064
@@ -21,27 +24,33 @@ w32 145646C4 000000C8
 w32 14AA9594 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000580BC 7C40FFAE
 
 name: Memory Infinite Shield
+author: jgduff1
 mode: once
 w32 1456598C 00000064
 w32 14AAA85C 00000064
 
 name: ASM Infinite Shield
+author: jgduff1
 mode: once
 w32 000580BC 7C40FFAE
 
 name: No Damage From Enemies
+author: DANNY G
 mode: once
 w32 0051B448 60000000
 
 name: AoB No Damage From Enemies
+author: DANNY G
 mode: once
 aob 4BFFE951807F00D02C030000418201F4809F00C0C3FF00CCC07F00C4FC1FF000 60000000807F00D02C030000418201F4809F00C0C3FF00CCC07F00C4FC1FF000
 
 name: God Mode
+author: dron_3
 mode: once
 w32 0046B55C 806301E8
 w32 0046B560 2C030000
@@ -55,5 +64,6 @@ w32 0046B57C 679C4000
 w32 0046B580 938401DC
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 6064000038600000808401E82C04000041820018808401DC54840FFE2C0400004182000838600001 806301E82C0300004182002060640000838401DC57830FFE2C0300004182000C679C4000938401DC

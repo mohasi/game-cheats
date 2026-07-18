@@ -1,6 +1,7 @@
 # Alice: Madness Returns
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00010000 81DE0618
 w32 00010004 2C0E0000
@@ -12,6 +13,7 @@ w32 00010018 48911884
 w32 00921898 4B6EE768
 
 name: Infinite Teeth
+author: Hiei-YYH
 mode: once
 w32 0001001C 81DE0618
 w32 00010020 2C0E0000
@@ -24,6 +26,7 @@ w32 00010038 48911868
 w32 0092189C 4B6EE780
 
 name: Moon Jump
+author: Hiei-YYH
 mode: once
 w32 0001003C 81DE0618
 w32 00010040 2C0E0000
@@ -35,6 +38,7 @@ w32 00010054 48911850
 w32 009218A0 4B6EE79C
 
 name: Super Speed + No Overheat
+author: Hiei-YYH
 mode: once
 w32 00010058 81DE0618
 w32 0001005C 2C0E0000
@@ -46,6 +50,7 @@ w32 00010070 48911838
 w32 009218A4 4B6EE7B4
 
 name: Mini Player Size
+author: Hiei-YYH
 mode: once
 w32 00010074 81DE0618
 w32 00010078 2C0E0000
@@ -59,6 +64,7 @@ w32 00010094 48911818
 w32 009218A8 4B6EE7CC
 
 name: One Hit Kill
+author: Hiei-YYH
 mode: once
 w32 000100A8 39C00001
 w32 000100AC 91DD0354
@@ -67,6 +73,7 @@ w32 000100B4 480581C0
 w32 00068270 4BFA7E38
 
 name: Slow Enemies (50% slower)
+author: Hiei-YYH
 mode: once
 w32 00010098 39C03F00
 w32 0001009C 91DD009C
@@ -75,6 +82,7 @@ w32 000100A4 480581CC
 w32 0006826C 4BFA7E2C
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 008A3238 28030001
 w32 008A30E4 28030001

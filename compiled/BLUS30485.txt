@@ -1,10 +1,12 @@
 # Rage
 
 name: No Move Enemies + Fighters
+author: xtatu
 mode: once
 w32 01DBE864 00000000
 
 name: Infinite Health
+author: bungholio
 mode: once
 w32 00A449DC 3C007F80
 w32 00A449E4 90031B84
@@ -12,6 +14,7 @@ w32 00A449EC C0231B84
 w32 004A1868 60000000
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 01669278 3D207F7F
 w32 0166927C 912100C8
@@ -20,15 +23,18 @@ w32 01669284 4AC9897C
 w32 00301BFC 4936767C
 
 name: Unlimited Sprint
+author: bungholio
 mode: once
 w32 00235ECC 60000000
 w32 00235FC8 60000000
 
 name: Can Jump In Air
+author: bungholio
 mode: once
 w32 00969874 60000000
 
 name: Vehicle Nitro Never Decreases
+author: bungholio
 mode: once
 w32 01669350 7C0802A6
 w32 01669354 3CA00025
@@ -47,6 +53,7 @@ w32 016693DC 48232792
 w32 0023278C 49669352
 
 name: Have 98 Ammo When You Enter Your Weapons Inventory
+author: bungholio
 mode: once
 w32 01669A74 38600062
 w32 01669A78 907C0008
@@ -54,6 +61,7 @@ w32 01669A7C 4874578A
 w32 00745784 49669A76
 
 name: Have 98 Items When You Enter Your Inventory
+author: bungholio
 mode: once
 w32 01668FF4 39600062
 w32 01668FF8 917A0008
@@ -61,6 +69,7 @@ w32 01668FFC 48744FCE
 w32 00744FC8 49668FF6
 
 name: Hold Triangle While Doing A Race Rally And Any Point Picked Up Instantly Wins
+author: bungholio
 mode: once
 w32 01669B20 3F60022F
 w32 01669B24 8B7B916C
@@ -74,6 +83,7 @@ w32 01669B7C 483EE3E2
 w32 003EE3DC 49669B22
 
 name: Hold Triangle While Racing And Crossing The Finish Line Instantly Wins
+author: bungholio
 mode: once
 w32 01669A9C 3CC0022F
 w32 01669AA0 88C6916C
@@ -87,6 +97,7 @@ w32 01669AF8 483E3AC2
 w32 003E3ABC 49669A9E
 
 name: Vehicle Missiles, Machinegun Ammo, Pulses Never Decrease
+author: bungholio
 mode: once
 w32 006376BC 3BE00062
 w32 006376C8 93E30008
@@ -95,6 +106,7 @@ w32 006376D4 7FE307B4
 w32 006376D8 EBE10090
 
 name: Vehicle Quick Items Never Decrease
+author: bungholio
 mode: once
 w32 00774278 38000009
 w32 00774280 900B0008
@@ -110,6 +122,7 @@ w32 0077451C 90EB0008
 w32 00774520 4803DB89
 
 name: On Foot Quick Items Never Decrease
+author: bungholio
 mode: once
 w32 007717E4 3BA00062
 w32 007717EC 93AB0008
@@ -125,34 +138,42 @@ w32 0077197C 914B0008
 w32 00771980 48040729
 
 name: Always Have 4 Ammo In Clip
+author: bungholio
 mode: once
 w32 007B2774 38600004
 w32 007B2784 90690008
 
 name: Turrets Never Overheat
+author: bungholio
 mode: once
 w32 0066E634 60000000
 
 name: Can Have An Unlimited Amount Of Turrets And Sentries Out
+author: bungholio
 mode: once
 w32 001DFB4C 39800001
 
 name: Turrets Never Run Out Of Ammo
+author: bungholio
 mode: once
 w32 005D32E8 60000000
 
 name: Dumb AI
+author: bungholio
 mode: once
 w32 001DFB50 60000000
 
 name: God Mode
+author: dron_3
 mode: once
 w32 0073E60C 4800001C
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 007F18B8 4E800020
 
 name: AoB No Move Enemies + Fighters
+author: xtatu
 mode: once
 aob 42C8000044BB800001FFCC883C23D70A3DCCCCCD3E8000000200365402002F2401FF9B8C01F878B441400000016BE4183E4CCCCD000000000200A07A 0000000044BB800001FFCC883C23D70A3DCCCCCD3E8000000200365402002F2401FF9B8C01F878B441400000016BE4183E4CCCCD000000000200A07A

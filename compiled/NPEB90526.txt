@@ -1,10 +1,12 @@
 # LEGO: The Hobbit
 
 name: Max Items On Gain
+author: Hiei-YYH
 mode: once
 w32 00ACE1D0 38C003E7
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 008305C0 889F05E0
 w32 008305D4 989F05E1

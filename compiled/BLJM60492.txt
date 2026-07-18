@@ -1,21 +1,26 @@
 # Kami Jigen Game Neptune V
 
 name: Max Damager
+author: xtatu
 mode: once
 w32 001A23F0 4081FBE8
 
 name: Max Exp After 1 Battle
+author: games24.blog.fc2.com/blog-entry-102.html
 mode: once
 w32 0019F734 60000000
 
 name: Max Gold After 1 Battle
+author: games24.blog.fc2.com/blog-entry-102.html
 mode: once
 w32 0019F7C4 60000000
 
 name: AoB Max Exp After 1 Battle
+author: games24.blog.fc2.com/blog-entry-102.html
 mode: once
 aob 40850008901C000C2E1E0000419201307BC30020 60000000901C000C2E1E0000419201307BC30020
 
 name: AoB Max Gold After 1 Battle
+author: games24.blog.fc2.com/blog-entry-102.html
 mode: once
 aob 40990008913C0010419200AC7BC3002038800026 60000000913C0010419200AC7BC3002038800026

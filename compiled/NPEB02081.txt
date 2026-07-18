@@ -1,15 +1,18 @@
 # Geometry Wars 3: Dimensions Evolved
 
 name: Unlimited Life
+author: SHAkA
 mode: once
 w32 0074C300 10000000
 
 name: Max Score
+author: SHAkA
 mode: once
 w32 0074C2FC 10124F80
 w32 0074CE44 10124F80
 
 name: Max Multiplier
+author: SHAkA
 mode: once
 w32 0074C34C 10000025
 w32 0074C350 10000025
@@ -17,5 +20,6 @@ w32 0074C36C 10000025
 w32 0074CE48 10000025
 
 name: Bomb
+author: SHAkA
 mode: once
 w32 0074C304 10006004

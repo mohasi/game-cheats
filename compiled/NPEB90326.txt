@@ -1,28 +1,34 @@
 # Dungeon Siege III
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 006A2F90 D11F0014
 
 name: Infinite Health + One Hit Kill
+author: jgduff1
 mode: once
 w32 006A2F88 60000000
 w32 006A2F90 D3BF0014
 
 name: Infinite Magic
+author: jgduff1
 mode: once
 w32 006C87D0 60000000
 
 name: Max Money On Gain
+author: jgduff1
 mode: once
 w32 006CA65C 901E0014
 
 name: Max Level + XP On 1 Kill + High HP + MP + Strength + Agility + Stamina + Will Power
+author: jgduff1
 mode: once
 w32 006CAF1C 7CA0F814
 w32 006CAF24 901E0024
 
 name: Infinite Skills Points
+author: jgduff1
 mode: once
 w32 008E8E64 60000000
 w32 008E8E68 60000000
@@ -33,10 +39,12 @@ w32 008E8A7C 309B0000
 w32 008E8A80 30630000
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w32 38C92CA4 000000D9
 
 name: Infinite MP + Power
+author: GuitarMan
 mode: once
 w32 00B18130 C0230004
 w32 00B18134 D0230000
@@ -44,6 +52,7 @@ w32 00B18138 486C86E6
 w32 006C86E0 48B18132
 
 name: Infinite Hp
+author: GuitarMan
 mode: once
 w32 00B18100 3CE0038B
 w32 00B18104 9067FFF8
@@ -60,6 +69,7 @@ w32 00038158 48B18102
 w32 006A2F90 48B18116
 
 name: P1 Attributes Maxed Out
+author: GuitarMan
 mode: once
 w32 00B18160 3C004F00
 w32 00B18164 3DC0038B
@@ -69,6 +79,7 @@ w32 00B18170 486CBEF2
 w32 006CBEEC 48B18162
 
 name: Infinite Gold
+author: GuitarMan
 mode: once
 w32 006CA4FC 3C60000F
 w32 006CA500 6063423F

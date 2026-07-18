@@ -1,10 +1,12 @@
 # Guilty Gear Xrd -SIGN-
 
 name: Gallery Max Money
+author: eltyran84
 mode: once
 w32 01B8C7BC 3B9AC9FF
 
 name: Infinite Health And Tension
+author: Hiei-YYH
 mode: once
 w32 016957D8 80A54D08
 w32 016957DC 2C1E0000
@@ -20,6 +22,7 @@ w32 01695800 4B286928
 w32 0091C124 48D796B4
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 016957D8 80A54D08
 w32 016957DC 2C1E0000
@@ -35,6 +38,7 @@ w32 01695800 4B286928
 w32 0091C124 48D796B4
 
 name: Infinite Tension
+author: Hiei-YYH
 mode: once
 w32 016957D8 80A54D08
 w32 016957DC 2C1E0000

@@ -1,184 +1,228 @@
 # Mini Ninjas
 
 name: Gain Any EXP To Level Up
+author: bungholio
 mode: once
 w32 000172D0 3C007F7F
 w32 000172D4 90030008
 
 name: High Health
+author: bungholio
 mode: once
 w32 000BF678 3C007F7F
 w32 000BF67C 6000FFFF
 w32 000BF680 901F0008
 
 name: Magic Never Decreases
+author: bungholio
 mode: once
 w32 0003D6C8 60000000
 
 name: Red Power Orbs Never Decrease
+author: bungholio
 mode: once
 w32 0004B8A8 60000000
 
 name: Stamina Never Decreases
+author: bungholio
 mode: once
 w32 00070E20 60000000
 
 name: Can Always Use Magic
+author: bungholio
 mode: once
 w32 0003D2F8 4E800020
 
 name: Pick Up 1 Blue Ki Orb To Get Max Ki
+author: bungholio
 mode: once
 w32 00064C24 3D207FFF
 w32 00064C28 6129FFFF
 w32 00064C2C 913F0978
 
 name: Pick Up 1 Red Power Orb To Get Max Power Orbs
+author: bungholio
 mode: once
 w32 00064A2C 3C007FFF
 w32 00064A30 6000FFFF
 
 name: Camouflage + Slow Time Do Not Drain Magic
+author: bungholio
 mode: once
 w32 0003F56C 60000000
 
 name: Enemies Always Drop Red Power Orbs
+author: bungholio
 mode: once
 w32 00111010 48000008
 
 name: Enemies Always Drop EXP + Ki Orbs
+author: bungholio
 mode: once
 w32 00111010 60000000
 
 name: Archers Never Fire
+author: bungholio
 mode: once
 w32 00187A28 60000000
 
 name: Archer Arrows Go Through You
+author: bungholio
 mode: once
 w32 00066C4C 4800000C
 
 name: Enemies With Spears Rarely Move
+author: bungholio
 mode: once
 w32 001B4C04 60000000
 
 name: Enemies Do Not Do Melee Attacks, Archers Have Rapid Fire
+author: bungholio
 mode: once
 w32 0035E168 60000000
 w32 0035E174 60000000
 
 name: Most Enemy Sword Attacks Miss
+author: bungholio
 mode: once
 w32 00118B9C 60000000
 
 name: Very Fast Game Speed
+author: bungholio
 mode: once
 w32 00319AF0 48000008
 
 name: Can Not Jump, But Instantly Teleport Direction Roll
+author: bungholio
 mode: once
 w32 0003C640 60000000
 
 name: Samurai Healing Brew Does Not Decrease Ki
+author: bungholio
 mode: once
 w32 000430DC 60000000
 
 name: Ghosts Can Not Drain Ki
+author: bungholio
 mode: once
 w32 00223114 60000000
 
 name: Gain An Item For 99 Of That Item
+author: bungholio
 mode: once
 w32 000BAA28 60000000
 
 name: Use An Item For 99 Of That Item
+author: bungholio
 mode: once
 w32 000BAA8C 39600064
 
 name: AoB Gain Any EXP To Level Up
+author: bungholio
 mode: once
 aob 480A835960000000 3C007F7F90030008
 
 name: AoB High Health
+author: bungholio
 mode: once
 aob C00300E4EC1F0028D01F0008 3C007F7F6000FFFF901F0008
 
 name: AoB Magic Never Decreases
+author: bungholio
 mode: once
 aob 380000013D290001D3E90978 380000013D29000160000000
 
 name: AoB Red Power Orbs Never Decrease
+author: bungholio
 mode: once
 aob 81230DC43929FFFF 81230DC460000000
 
 name: AoB Stamina Never Decreases
+author: bungholio
 mode: once
 aob FF8D6000D00B0980 FF8D600060000000
 
 name: AoB Can Always Use Magic
+author: bungholio
 mode: once
 aob 801E8070EBC1FFF0900300004E800020F821FF51 801E8070EBC1FFF0900300004E8000204E800020
 
 name: AoB Pick Up 1 Blue Ki Orb To Get Max Ki
+author: bungholio
 mode: once
 aob FF9F0800409D004CD03F0978 3D207F7F6129FFFF913F0978
 
 name: AoB Pick Up 1 Red Power Orb To Get Max Power Orbs
+author: bungholio
 mode: once
 aob 409DFBC438000003 3C007FFF6000FFFF
 
 name: AoB Camouflage + Slow Time Do Not Drain Magic
+author: bungholio
 mode: once
 aob 813F00083D290001D3E90978 813F00083D29000160000000
 
 name: AoB Enemies Always Drop Red Power Orbs
+author: bungholio
 mode: once
 aob EC006824FF810000419C0008 EC006824FF81000048000008
 
 name: AoB Enemies Always Drop EXP + Ki Orbs
+author: bungholio
 mode: once
 aob EC006824FF810000419C0008 EC006824FF81000060000000
 
 name: AoB Archers Never Fire
+author: bungholio
 mode: once
 aob 2B890001419D0008 2B89000160000000
 
 name: AoB Archer Arrows Go Through You
+author: bungholio
 mode: once
 aob C0160000FF806800409D000C C0160000FF8068004800000C
 
 name: AoB Enemies With Spears Rarely Move
+author: bungholio
 mode: once
 aob FF8A0000419D0008 FF8A000060000000
 
 name: AoB Enemies Do Not Do Melee Attacks, Archers Have Rapid Fire
+author: bungholio
 mode: once
 aob 419D0008394A00207D49077441990008396B00207D6007747F890000419EFFAC3BFF0001 60000000394A00207D49077460000000396B00207D6007747F890000419EFFAC3BFF0001
 
 name: AoB Most Enemy Sword Attacks Miss
+author: bungholio
 mode: once
 aob 7C7B1B7838000001419D0008 7C7B1B783800000160000000
 
 name: AoB Very Fast Game Speed
+author: bungholio
 mode: once
 aob 419D0008FDA06090 48000008FDA06090
 
 name: AoB Can Not Jump, But Instantly Teleport Direction Roll
+author: bungholio
 mode: once
 aob FF9EF800419D0008 FF9EF80060000000
 
 name: AoB Samurai Healing Brew Does Not Decrease Ki
+author: bungholio
 mode: once
 aob EC006828FF806000D0090978 EC006828FF80600060000000
 
 name: AoB Ghosts Can Not Drain Ki
+author: bungholio
 mode: once
 aob FF8DF000D1BD0978 FF8DF00060000000
 
 name: AoB Gain An Item For 99 Of That Item
+author: bungholio
 mode: once
 aob 7D2B2214C19E80087C0007B4409D0050F941FFE0C961FFE0FD605E9CF801FFE0 7D2B2214C19E80087C0007B4409D0050F941FFE0C961FFE0FD605E9C60000000
 
 name: AoB Use An Item For 99 Of That Item
+author: bungholio
 mode: once
 aob 4E800020FBC1FFF08123000483C2809881630000 4E800020FBC1FFF08123000483C2809839600064

@@ -1,28 +1,34 @@
 # GoldenEye 007: Reloaded
 
 name: Memory Infinite Ammo In Clip + Never Need To Reload
+author: jgduff1
 mode: once
 w32 31176ACC 00100000
 
 name: ASM Infinite Ammo In Clip + Never Need To Reload
+author: jgduff1
 mode: once
 w32 000615C0 60000000
 w32 000615CC 60000000
 
 name: Memory Infinite Reserve Ammo
+author: jgduff1
 mode: once
 w32 3109F6AC 00B40000
 
 name: ASM Infinite Reserve Ammo
+author: jgduff1
 mode: once
 w32 00060040 60000000
 w32 00060044 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 314A68FC 42C80000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 001805A4 EDAC4828
 w32 001805A8 ED0B6028
@@ -38,6 +44,7 @@ w32 001805D4 EC0D037A
 w32 00180624 60000000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0018054C EDAC4828
 w32 00180550 ED0B6028

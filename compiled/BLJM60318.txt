@@ -1,17 +1,21 @@
 # Test Drive Unlimited 2
 
 name: Memory Lot Of Money On Gain
+author: jgduff1
 mode: once
 w32 45BE0EEC 0000C350
 
 name: ASM Lot Of Money On Gain
+author: jgduff1
 mode: once
 w32 0074F1FC 9118002C
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 483A1348 00000064
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 00BB27D0 60000064

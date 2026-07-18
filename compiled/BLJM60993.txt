@@ -1,63 +1,78 @@
 # Dark Souls - Path of the Dragon
 
 name: Max Souls + Infinite Souls
+author: Medo, Skiller
 mode: once
 w32 00AF0C6C 3D403E80
 
 name: Reduce all Damage taken to 0
+author: Medo
 mode: once
 w32 0199C790 60000000
 w32 0199C79C 60000000
 
 name: Max Equipment Load
+author: Medo
 mode: once
 w32 0199C71C 49499000
 
 name: Max Stats, Defense, Resistance
+author: Medo
 mode: once
 w32 0199C76C 49000000
 
 name: Max Items on Use + Discard + Buy + Deposit in Storage
+author: Medo
 mode: once
 w32 00AD3710 60000000
 w32 00AD3760 409DFFB4
 
 name: Infinite Magic + Miracles + Pyromancy Slot 1
+author: Medo
 mode: once
 w32 00ADBF5C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 2
+author: Medo
 mode: once
 w32 00ADBF9C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 3
+author: Medo
 mode: once
 w32 00ADBFDC 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 4
+author: Medo
 mode: once
 w32 00ADC01C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 5
+author: Medo
 mode: once
 w32 00ADC05C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 6
+author: Medo
 mode: once
 w32 00ADC09C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 7
+author: Medo
 mode: once
 w32 00ADC0DC 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 8
+author: Medo
 mode: once
 w32 00ADC11C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 9
+author: Medo
 mode: once
 w32 00ADC15C 30A90004
 
 name: Infinite Magic + Miracles + Pyromancy Slot 10
+author: Medo
 mode: once
 w32 00ADC19C 30A90004

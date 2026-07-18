@@ -1,11 +1,13 @@
 # Battlefield: Bad Company
 
 name: Infinite Ammo + No Reload + No Waiting Time For Health Syringe
+author: jgduff1
 mode: once
 w32 00C0C224 60000000
 w32 00C0C238 91230088
 
 name: 3 of Something
+author: jgduff1
 mode: once
 w32 00C0655C 60000000
 w32 00C06560 60000000

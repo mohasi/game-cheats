@@ -1,6 +1,7 @@
 # BioShock 2
 
 name: Infinite HP + Money + Eye + Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010130 3C804700
 w32 00010134 909C0700
@@ -14,42 +15,52 @@ w32 001E72A0 4BE28E91
 w32 001E72A4 3880270F
 
 name: Infinite Ammo + Items
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001DE03C 60000000
 
 name: Max Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001A779C 60000000
 
 name: Max Adam
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001A715C 60000000
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 001BEF20 60000000
 
 name: Any Damage Kills
+author: bungholio
 mode: once
 w32 0019ADC8 EDAD6828
 
 name: Max Money On Gain
+author: bungholio
 mode: once
 w32 001A64EC 60000000
 
 name: Max Money On Buy
+author: bungholio
 mode: once
 w32 001A62E8 60000000
 
 name: Items + Total Ammo Never Decrease From Being Used
+author: bungholio
 mode: once
 w32 001DCD94 60000000
 
 name: Bandages Never Decrease
+author: bungholio
 mode: once
 w32 001898C0 60000000
 
 name: Current Ammo Never Decreases
+author: bungholio
 mode: once
 w32 001C6AD4 38000000
 w32 001C6AD8 F80904A0
@@ -60,22 +71,27 @@ w32 00E5F0EC 480BF96E
 w32 000BF968 48E5F0E2
 
 name: Pick Up An Item Or Ammo For The Max Amount
+author: bungholio
 mode: once
 w32 001DCF50 48000008
 
 name: Max ADAM On Buy
+author: bungholio
 mode: once
 w32 001A5EAC 60000000
 
 name: Max ADAM On Gain
+author: bungholio
 mode: once
 w32 001A60E4 60000000
 
 name: Eve Never Decreases
+author: bungholio
 mode: once
 w32 001A0EF4 C1BF0CA0
 
 name: Instant Little Sister ADAM Retrieval Speed
+author: bungholio
 mode: once
 w32 000C0930 3FA00000
 w32 000C0934 93BA0000
@@ -83,41 +99,51 @@ w32 000C0940 93AB0000
 w32 000C0944 EBA10098
 
 name: Max Photo Points From Any Picture
+author: bungholio
 mode: once
 w32 002516B8 3B807FFF
 
 name: Buy 1 Plasmid Or Tonic Slot To Unlock All
+author: bungholio
 mode: once
 w32 001D9004 90030048
 
 name: Max + Infinite Money On Gain Or Loss
+author: jgduff1
 mode: once
 w32 00719154 48000014
 
 name: EVE + Health Syringes Never Decrease
+author: jgduff1
 mode: once
 w32 00750070 60000000
 
 name: Ammo + Fuel Never Decrease
+author: jgduff1
 mode: once
 w32 007F2D68 60000000
 
 name: Max + Infinite ADAM On Gain Or Loss
+author: jgduff1
 mode: once
 w32 00718D4C 48000014
 
 name: Max + Infinite Money On Gain Or Loss
+author: jgduff1
 mode: once
 w32 00719264 48000014
 
 name: EVE + Health Syringes Never Decrease
+author: jgduff1
 mode: once
 w32 00750180 60000000
 
 name: Ammo + Fuel Never Decrease
+author: jgduff1
 mode: once
 w32 007F2E78 60000000
 
 name: Max + Infinite ADAM On Gain Or Loss
+author: jgduff1
 mode: once
 w32 00718E5C 48000014

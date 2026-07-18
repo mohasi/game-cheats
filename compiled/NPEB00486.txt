@@ -1,14 +1,17 @@
 # Rainbow Moon
 
 name: Max Money
+author: JorgeFFC
 mode: once
 w32 012AFEE4 05F5E0FF
 
 name: Infinite Money
+author: JorgeFFC
 mode: once
 w32 00048248 60000000
 w32 00048254 3C60E0FF
 
 name: Infinite Rainbow Pearls
+author: JorgeFFC
 mode: once
 w32 00093190 3D00E0FF

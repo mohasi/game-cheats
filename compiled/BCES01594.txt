@@ -1,10 +1,12 @@
 # Ratchet &amp;amp; Clank: QForce
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 00050250 60000000
 
 name: Enter Unlockables To Obtain All Skill Points
+author: bungholio
 mode: once
 w32 0031D64C 81210078
 w32 0031D654 55291838
@@ -14,6 +16,7 @@ w32 0031D660 7C7F492A
 w32 0031D664 60830000
 
 name: Unlock Cheats
+author: bungholio
 mode: once
 w32 00C3AA3C 80030820
 w32 00C3AA40 64000307
@@ -26,6 +29,7 @@ w32 002C2F0C 48C3AA3E
 w32 002C2F18 4800000C
 
 name: Have All Gold Bolts
+author: bungholio
 mode: once
 w32 00C3AA94 7C002378
 w32 00C3AA98 F8050000
@@ -42,14 +46,17 @@ w32 00C3AAF0 4856C034
 w32 0056C034 48C3AAC2
 
 name: All Weapons Are Manual Rapid Fire
+author: bungholio
 mode: once
 w32 004E1A4C 48000008
 
 name: Ratchet Has A Massive Damage Scale
+author: bungholio
 mode: once
 w32 002C30E8 44FA0000
 
 name: Have All Weapons
+author: bungholio
 mode: once
 w32 00111BD0 60A50001
 w32 00111BD4 98BB0010
@@ -108,6 +115,7 @@ w32 00C7CA80 484DD3F2
 w32 004DD3EC 48C7CA52
 
 name: Max Bolts
+author: bungholio
 mode: once
 w32 00C79360 3C00001C
 w32 00C79364 6000D8D0
@@ -125,15 +133,18 @@ w32 0054A2AC 48C79362
 w32 0054A2B0 93FE0024
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 004D28C4 60000000
 
 name: Use A Weapon On An Enemy To Max Its Level
+author: bungholio
 mode: once
 w32 004D2BC4 D03F0008
 w32 004D2BC8 C3FF0008
 
 name: Ratchet Is Invincible
+author: bungholio
 mode: once
 w32 00C76AD0 3CA04280
 w32 00C76AD4 80A50F44
@@ -144,6 +155,7 @@ w32 00C76AE4 4805046E
 w32 00050468 48C76AD2
 
 name: Ratchet's Health Never Decreases
+author: bungholio
 mode: once
 w32 00C76AB0 63E00000
 w32 00C76AB4 3FE04280
@@ -157,6 +169,7 @@ w32 0054A79C 48C76AB2
 w32 0054A7A0 D3FF0024
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 00C3A98C 807D0058
 w32 00C3A990 3CA00169
@@ -179,11 +192,13 @@ w32 002D2898 48C3A9BA
 w32 001C1344 4800003C
 
 name: Time Never Increases
+author: bungholio
 mode: once
 w32 0056B7F0 C02600A4
 w32 0056B7F8 D0240000
 
 name: Position Modifier
+author: bungholio
 mode: once
 w32 00C3A98C 807D0058
 w32 00C3A990 3CA00169
@@ -250,6 +265,7 @@ w32 00C82C80 4E800020
 w32 001C15DC 48C82BA3
 
 name: Weapon Properties Modifier
+author: bungholio
 mode: once
 w32 00C3A98C 807D0058
 w32 00C3A990 3CA00169
@@ -328,9 +344,11 @@ w32 00C859A0 484D2FE6
 w32 004D2FE0 48C85892
 
 name: infinite ammo
+author: Smich
 mode: once
 w32 004D28C8 60000000
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 33BD9008C3C30010309C00F0FC20F09063A300007884002048752311337B0001 60000000C3C30010309C00F0FC20F09063A300007884002048752311337B0001

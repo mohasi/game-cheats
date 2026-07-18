@@ -1,6 +1,7 @@
 # Helldivers
 
 name: Master Code
+author: bungholio
 mode: once
 w32 0010DBEC 4E800020
 w32 0066DE90 3D000076
@@ -183,53 +184,66 @@ w16 006A6950 7473
 w8 006A6952 00
 
 name: Reserve Ammo Never Decreases
+author: bungholio
 mode: once
 w32 00765C20 00799580
 
 name: Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 w32 00765C24 00799590
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 00765C28 00799708
 
 name: Grenades Never Decrease
+author: bungholio
 mode: once
 w32 00765C2C 007995B0
 
 name: Stratagems Never Decrease
+author: bungholio
 mode: once
 w32 00765C30 007995C0
 
 name: Stratagems Always Instantly Ready
+author: bungholio
 mode: once
 w32 00765C34 007995D0
 
 name: Extraction Instantly Arrives
+author: bungholio
 mode: once
 w32 00765C38 007995E0
 
 name: Defend Timers Instantly 0
+author: bungholio
 mode: once
 w32 00765C3C 007995F0
 
 name: Instantly Capture Areas
+author: bungholio
 mode: once
 w32 00765C40 0079974C
 
 name: Stratagems Instantly Drop
+author: bungholio
 mode: once
 w32 00765C44 007995A0
 
 name: 10,000 Research Samples On Change
+author: bungholio
 mode: once
 w32 00765C48 00799600
 
 name: 10,000 Enemies Defeated After Defeating Any Enemies
+author: bungholio
 mode: once
 w32 00765C4C 00799610
 
 name: 10,000 Research Points On Change
+author: bungholio
 mode: once
 w32 00765C50 00799620

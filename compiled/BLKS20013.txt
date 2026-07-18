@@ -1,9 +1,11 @@
 # Tom Clancy's Rainbow Six: Vegas
 
 name: Infinite Grenades
+author: DANNY G
 mode: once
 w32 00608E4C 60000000
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 0006A39C 60000000

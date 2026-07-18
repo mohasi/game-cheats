@@ -1,22 +1,27 @@
 # Senjou no Valkyria
 
 name: Exp 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1030C5A0 05F5E0FF
 
 name: DCT 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10343584 05F5E0FF
 
 name: CP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10318C9C 00000014
 
 name: AP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001A0118 D19F0310
 
 name: Infinite HP + Tank BHP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10318CE0 0000270F
 w32 10318E34 0000270F
@@ -100,6 +105,7 @@ w32 1031F478 0000270F
 w32 1031F5CC 0000270F
 
 name: Can Continuous Attack
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 10318CEE 00
 w8 10318E42 00
@@ -183,17 +189,21 @@ w8 1031F486 00
 w8 1031F5DA 00
 
 name: Experience 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 102FAC30 05F5E0FF
 
 name: Gold 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10331C14 05F5E0FF
 
 name: Experience 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1030BCA0 05F5E0FF
 
 name: Gold 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 10342C84 05F5E0FF

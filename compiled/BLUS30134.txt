@@ -1,6 +1,7 @@
 # Iron Man
 
 name: Infinite Hp + Energy
+author: GuitarMan
 mode: once
 w32 00A2BB40 C1DE0008
 w32 00A2BB44 D1DF0070
@@ -11,6 +12,7 @@ w32 00A2BB54 4830BD76
 w32 0030BD70 48A2BB42
 
 name: Infinite Auxiliary Weapons + Rapid Fire
+author: GuitarMan
 mode: once
 w32 00A2BAD4 A12100BC
 w32 00A2BAD8 2809B145
@@ -24,6 +26,7 @@ w32 00A2BAF4 48064F26
 w32 00064F20 48A2BAD6
 
 name: Max Money On Upgrade
+author: GuitarMan
 mode: once
 w32 00A2BB1C 281B00E0
 w32 00A2BB20 4082000C
@@ -33,6 +36,7 @@ w32 00A2BB2C 48153F26
 w32 00153F20 48A2BB1E
 
 name: Can Use Energy Shield Any Time L3 On/Off
+author: GuitarMan
 mode: once
 w32 00A2BB6C 3CA00123
 w32 00A2BB70 3E0000DD
@@ -58,5 +62,6 @@ w32 00A2BBBC 4830BD72
 w32 0030BD6C 48A2BB6E
 
 name: Some Enemies Will Not Attack
+author: GuitarMan
 mode: once
 w32 003027A8 4E800020

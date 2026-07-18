@@ -1,17 +1,21 @@
 # Sengoku Basara Sanada Yukimura-Den
 
 name: Invincible
+author: xtatu
 mode: once
 w32 0007C17C 807A0004
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 0007B59C 60000000
 
 name: AoB Invincible
+author: xtatu
 mode: once
 aob 7CA318382C0300004182006063C3000030C10070 807A00042C0300004182006063C3000030C10070
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob 62030000480003AC626300006384000048932365 60000000480003AC626300006384000048932365

@@ -1,6 +1,7 @@
 # BlazBlue: Continuum Shift
 
 name: Timer 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00F5C6B0 00001733
 w32 00F5C6B4 00000063

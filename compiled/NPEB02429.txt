@@ -1,6 +1,7 @@
 # The Legend of Heroes: Trails of Cold Steel II
 
 name: ASM Max + Infinite CP
+author: jgduff1
 mode: once
 w32 0010AF78 931F0224
 w32 005C88C8 60000000
@@ -8,9 +9,11 @@ w32 005C88CC 60000000
 w32 005C88D0 60000000
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 0021F988 B0C30002
 
 name: ASM Infinite EP
+author: jgduff1
 mode: once
 w32 0010A8C4 93FE0220

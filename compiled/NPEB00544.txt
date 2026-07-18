@@ -1,17 +1,20 @@
 # Battle: Los Angeles
 
 name: Infinite Ammo + Grenades + No Reload
+author: jgduff1
 mode: once
 w32 001BE318 60000000
 w32 001BE32C 60000000
 w32 001BE334 60000000
 
 name: Memory Unknown Code 1 (Possibly Health)
+author: jgduff1
 mode: once
 w32 11B7BB24 42C80000
 w32 11B7BC0C 42C80000
 
 name: Unknown Code 1 (Possibly Health)
+author: jgduff1
 mode: once
 w32 0016943C 60000000
 w32 00169438 60000000

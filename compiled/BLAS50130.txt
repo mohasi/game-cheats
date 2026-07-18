@@ -1,38 +1,47 @@
 # Musou Orochi Z
 
 name: Total EXP 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00653CB8 0001869F
 
 name: K.O.9999 in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00654308 0000270F
 
 name: Limited Time Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 006546FC 00000000
 
 name: Player Attack Max in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0063051A 03E8
 
 name: Player Defense Max in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0063051C 03E8
 
 name: Player Agility Max in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0063051E 01F4
 
 name: Player Hyper Move in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00630520 41F00000
 
 name: Player Mega Jump in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00630524 41F00000
 
 name: Player Special Effects Enabled in Quest
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00654374 00000010
 w32 0065437C 00000708
@@ -41,6 +50,7 @@ w32 00654384 00000708
 w32 00654388 00000708
 
 name: All Officers Level Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 0064E314 62
 w8 0064E3F0 62
@@ -236,18 +246,22 @@ w32 006533DC 00035B60
 w32 006534B8 00035B60
 
 name: Collect All Movies
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00653CF2 FFFF
 w32 00653CF4 FFBFFFFF
 
 name: Exp 50000
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00653338 0000C350
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 000CC0E0 4E800020
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob F821FE817C0802A6DBE10178FFE00890F801019081030054FB0101382F880000FB410148FB610150FBA10160FBC10168 4E8000207C0802A6DBE10178FFE00890F801019081030054FB0101382F880000FB410148FB610150FBA10160FBC10168

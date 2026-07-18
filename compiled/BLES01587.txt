@@ -1,23 +1,28 @@
 # Batman: Arkham City: Game of the Year Edition
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00540BE0 38600080
 w32 00540BE4 907E0294
 w32 00540BE8 60000000
 
 name: Debug Menu (R1 + Start)
+author: dron_3, Joey
 mode: once
 w32 00E36504 38600000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 807E02942C03000040810040 38600080907E029460000000
 
 name: Debug Menu (PSXPlace)
+author: dron_3, Joey
 mode: once
 w32 00E36504 38600000
 
 name: Debug Menu (press R1+START)
+author: dron_3, Joey
 mode: once
 w32 00E36504 38600000

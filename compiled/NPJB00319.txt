@@ -1,47 +1,58 @@
 # Biohazard 6
 
 name: Invincible Mode
+author: xtatu
 mode: once
 w32 0025B254 418101C0
 
 name: Invincible Mode 2
+author: xtatu
 mode: once
 w32 0024EA54 41810074
 
 name: Max Skill Points On Gain
+author: Skiller
 mode: once
 w32 00779D2C 60000000
 
 name: Max Score In Mercenaries Always S Rank
+author: Skiller
 mode: once
 w32 001688FC 60000000
 
 name: Always 0 Deaths Campaigns
+author: Skiller
 mode: once
 w32 006E6068 3C800000
 w32 006E607C 909C0018
 
 name: Max Kills Campaigns
+author: Skiller
 mode: once
 w32 006E608C 60000000
 
 name: Infinite Energy + Stamina
+author: xtatu
 mode: once
 w32 007EAAE0 00000000
 
 name: Zombie + Dog No Attack
+author: xtatu
 mode: once
 w32 007E6F70 4182000C
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 007E709C 4082000C
 
 name: Infinite Ammo + No Reload + Grenade
+author: vosman
 mode: once
 w32 00B7F0CC 60000000
 
 name: Zombies Can Not Grab
+author: xtatu
 mode: once
 w32 00475408 41812AF0
 w32 00475410 418106CC
@@ -49,6 +60,7 @@ w32 0047541C 418106C0
 w32 00475424 418124A0
 
 name: AoB Counter Anything Anywhere
+author: puzzle
 mode: once
 aob 607F00002C1F0066418200E02C1F00457FFE07B4 3BE000352C1F0066418200E02C1F00457FFE07B4
 aob 4182067C4186056C419A0394419E01FC2C030001 4800067C4186056C419A0394419E01FC2C030001

@@ -1,69 +1,85 @@
 # Sengoku Basara 4 Sumeragi
 
 name: Invincible
+author: xtatu
 mode: once
 w32 000646FC 807A0004
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 00063B1C 60000000
 
 name: Gold Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 00455D94 60C40000
 w32 0056AA7C 607B0000
 w32 005A7CB8 607F0000
 
 name: Strength Leveling Code
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0053B008 60000000
 
 name: Strength Leveling Code 2
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0053B708 60000000
 
 name: Grindstone Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 005A2924 30840000
 
 name: Grindstone 10 Code
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 005A2B80 60830000
 
 name: Weapon Enhancement Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 005A214C 30840000
 w32 005A3134 30840000
 
 name: Fortune Gavel Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0051F5C8 30C40000
 
 name: Combo Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0008C7DC 60000000
 
 name: Instant Max Basara Guage
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 00187B64 60000000
 
 name: AoB Invincible
+author: xtatu
 mode: once
 aob 7CA318382C0300004182006063C3000030C10070 807A00042C0300004182006063C3000030C10070
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob 62030000480003AC6263000063840000489235F5 60000000480003AC6263000063840000489235F5
 
 name: Invincible
+author: xtatu
 mode: once
 w32 0006474C 807A0004
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 00063B6C 60000000
 
 name: Infinite HP
+author: Randy97Killa
 mode: once
 w32 01299900 28040000
 w32 01299904 40820004
@@ -75,10 +91,12 @@ w32 01299918 4AEB82A8
 w32 00151BBC 49147D44
 
 name: Infinite Musou
+author: Randy97Killa
 mode: once
 w32 00187A8C 41810008
 
 name: Max Exp On Gain + Max Combo On Gain + Max Total K.O.s On Gain + Max Musou
+author: Randy97Killa
 mode: once
 w32 0007C1C4 61070000
 w32 0008D80C 60000000
@@ -87,15 +105,18 @@ w32 00091BBC 3C603B9A
 w32 00091BC0 6063C9FF
 
 name: Max Gold Coin On Gain
+author: Randy97Killa
 mode: once
 w32 00070D14 3CE03B9A
 w32 00070D18 60E7C9FF
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob 62030000480003AC626300006384000048923825 60000000480003AC626300006384000048923825
 
 name: AoB Infinite HP
+author: Randy97Killa
 mode: once
 aob 4A4F424352542056657200000000000000000000FFFFFFF0FFFFFFF000000000000000310000004800001B0400001B1800000000000000000000000000000000000000000000000000000000 4A4F424352542056657200000000000000000000FFFFFFF0FFFFFFF000000000000000310000004800001B0400001B1828040000408200043E004F00920302D4920302D0808301244AEB82A8
 aob 48000048887E1041C3FF00705463F7FE2C03000041820210480001D080830124 48000048887E1041C3FF00705463F7FE2C03000041820210480001D049147D44

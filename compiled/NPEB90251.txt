@@ -1,25 +1,31 @@
 # Star Wars: The Force Unleashed II
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 001A599C D043000C
 
 name: Infinite Force
+author: dron_3
 mode: once
 w32 001A59B4 D043000C
 
 name: Infinite Fury
+author: dron_3
 mode: once
 w32 001A59CC D043000C
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 4BEEFAA960000000 4BEEFAA9D043000C
 
 name: AoB Infinite Force
+author: dron_3
 mode: once
 aob 4BEEFA9160000000 4BEEFA91D043000C
 
 name: AoB Infinite Fury
+author: dron_3
 mode: once
 aob 4BEEFA7960000000 4BEEFA79D043000C

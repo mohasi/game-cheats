@@ -1,21 +1,26 @@
 # Split/Second
 
 name: Memory Auto Add + Infinite Pyrotechnic
+author: jgduff1
 mode: once
 w32 4694A828 42C80000
 
 name: ASM Auto Add + Infinite Pyrotechnic
+author: jgduff1
 mode: once
 w32 002174B0 EC1D002A
 
 name: ASM Max At Start + Infinite Pyrotechnic
+author: jgduff1
 mode: once
 w32 002174B0 EC1C002A
 
 name: Memory Always 1st
+author: jgduff1
 mode: once
 w32 4694A910 00000000
 
 name: ASM Always 1st
+author: jgduff1
 mode: once
 w32 0020B9B8 90A9000C

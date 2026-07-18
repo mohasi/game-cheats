@@ -1,11 +1,13 @@
 # Final Fight - Double Impact
 
 name: 200x Health
+author: optantic
 mode: once
 w16 35EF8AF0 7080
 w16 35EF8BB0 7080
 
 name: Infinite Health P1
+author: GuitarMan
 mode: once
 w32 0031DC50 3E000032
 w32 0031DC54 9150DCC0
@@ -22,6 +24,7 @@ w32 0031DC7C 4830F9EA
 w32 0030F9E4 4831DC52
 
 name: P1 Invincibility
+author: GuitarMan
 mode: once
 w32 0031DD58 3C600032
 w32 0031DD5C 9143DDB8
@@ -34,6 +37,7 @@ w32 0031DD74 481AD666
 w32 001AD660 4831DD5A
 
 name: Infinite Time
+author: GuitarMan
 mode: once
 w32 0031DC84 280A0001
 w32 0031DC88 40820018
@@ -46,6 +50,7 @@ w32 0031DCA0 48184D1E
 w32 00184D18 4831DC86
 
 name: Press R1 To Stay Up
+author: GuitarMan
 mode: once
 w32 0031DCE0 80C30060
 w32 0031DCE4 3CA00FFF

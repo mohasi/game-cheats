@@ -1,6 +1,7 @@
 # Saint Seiya: Sanctuary Battle
 
 name: Infinite Cosmo (MP)
+author: vosman, JorgeFFC
 mode: once
 w32 00107A64 60000000
 w32 00107F5C 60000000
@@ -8,6 +9,7 @@ w32 001086CC 60000000
 w32 001087A8 60000000
 
 name: Infinite CP (Cosmo Points)
+author: vosman, JorgeFFC
 mode: once
 w32 001CCE40 3CA04B18
 w32 001CCE44 60A5967F

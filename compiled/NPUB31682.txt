@@ -1,10 +1,12 @@
 # Shovel Knight
 
 name: 9999 Gold
+author: martin1978
 mode: once
 w32 303FA5D8 0000270F
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0022B86C 3C603F80
 w32 0022B870 907E0438
@@ -12,26 +14,32 @@ w32 0022B874 C05E0438
 w32 0022B894 60000000
 
 name: Max Gold On Gain
+author: dron_3
 mode: once
 w32 00236D9C 48000008
 
 name: Infinite Magic
+author: dron_3
 mode: once
 w32 00237188 63E40000
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob FC02F0004CC0138241860074EC22F828C05E043CEC42F828FC01F000D03E0438FC82F000D05E043C41810020 3C603F80907E0438C05E0438EC22F828C05E043CEC42F828FC01F000D03E0438FC82F000D05E043C60000000
 
 name: AoB Max Gold On Gain
+author: dron_3
 mode: once
 aob 4080000861060000307E00B4 4800000861060000307E00B4
 
 name: AoB Infinite Magic
+author: dron_3
 mode: once
 aob 7C9DF810989E0595 63E40000989E0595
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 00282CD8 3C604000
 w32 00282CDC 907D0454
@@ -39,14 +47,17 @@ w32 00282CE0 C05D0454
 w32 00282D00 60000000
 
 name: Max Gold On Gain
+author: dron_3
 mode: once
 w32 0028E82C 48000008
 
 name: Infinite Magic
+author: dron_3
 mode: once
 w32 0028EBF4 63E40000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 305C0018 00000001
 w32 305C001C 00000000
@@ -59,24 +70,29 @@ w32 305C61DC 40000000
 w32 305C61E0 00020000
 
 name: ASM Infinite Health V1
+author: jgduff1
 mode: once
 w32 000A3968 60000000
 w32 000A3970 60000000
 
 name: ASM Infinite Health V2
+author: jgduff1
 mode: once
 w32 00282CF4 D03D0454
 w32 00282CE4 EC22E828
 
 name: Memory Max Gold On Gain
+author: jgduff1
 mode: once
 w32 305BFF40 000000AC
 
 name: Memory Invincible
+author: jgduff1
 mode: once
 w32 305BFDD4 3F84444C
 
 name: ASM Invincible
+author: jgduff1
 mode: once
 w32 00282C90 EC21182A
 w32 00282C94 EC42202A
@@ -89,13 +105,16 @@ w32 00282CF4 60000000
 w32 00282CFC D3DD0458
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob FC02E0004CC0138241860074EC22E828C05D0458EC42E828FC01E000D03D0454FC82E000D05D045841810020 3C604000907D0454C05D0454EC22E828C05D0458EC42E828FC01E000D03D0454FC82E000D05D045860000000
 
 name: Max Gold On Gain
+author: dron_3
 mode: once
 aob 4080000861060000307E00B4 4800000861060000307E00B4
 
 name: Infinite Magic
+author: dron_3
 mode: once
 aob 7C9DF810989E 63E40000989E

@@ -1,35 +1,43 @@
 # Sky Force Anniversary
 
 name: Memory Lot Of Point On Gain
+author: jgduff1
 mode: once
 w32 60196FE8 41200000
 w32 60196FEC 41200000
 
 name: Memory Lot + Infinite Resources On Buy
+author: jgduff1
 mode: once
 w32 6019467C 000003E7
 
 name: ASM Lot + Infinite Resources On Buy
+author: jgduff1
 mode: once
 w32 032C9F80 93C30000
 
 name: Memory Infinite Shield
+author: jgduff1
 mode: once
 w32 601946A8 00000005
 
 name: ASM Infinite Shield
+author: jgduff1
 mode: once
 w32 032CAA80 93030000
 
 name: Memory Infinite Laser
+author: jgduff1
 mode: once
 w32 601946A0 00000003
 
 name: ASM Infinite Laser
+author: jgduff1
 mode: once
 w32 032CA820 93030000
 
 name: Memory Infinite Bomb
+author: jgduff1
 mode: once
 w32 601946A4 00000002
 w32 602CF6AC 00000002
@@ -38,14 +46,17 @@ w32 602CF990 00000002
 w32 602DFF3C 00000002
 
 name: ASM Infinite Bomb
+author: jgduff1
 mode: once
 w32 032CA950 93030000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 6045E688 42C80000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 032882A0 60000000
 w32 03288298 FC2200B2

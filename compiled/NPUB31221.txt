@@ -1,17 +1,21 @@
 # R.I.P.D. - Rest in Peace Department - The Game
 
 name: Memory Lot + Infinite Money On Buy
+author: jgduff1
 mode: once
 w32 3091DB48 000009C4
 
 name: ASM Lot + Infinite Money On Buy
+author: jgduff1
 mode: once
 w32 005B94E8 927F0038
 
 name: Memory Infinite Retries + Time
+author: jgduff1
 mode: once
 w32 30E3602C 0000000A
 
 name: ASM Infinite Retries + Time
+author: jgduff1
 mode: once
 w32 00D03EE4 60000000

@@ -1,15 +1,18 @@
 # Castle Crashers
 
 name: 60 FPS (RPCS3) [Tested]
+author: RPCS3, FlexBy
 mode: once
 w32 000956B4 60000000
 w32 002B2044 3C888889
 
 name: 60 FPS (PSXPlace) [Tested]
+author: RPCS3, FlexBy
 mode: once
 w32 000956B4 60000000
 w32 002B2044 3C888889
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 00028D68 60000000

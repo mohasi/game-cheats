@@ -1,18 +1,22 @@
 # Hyperdimension Neptunia
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 002671C0 38C90000
 
 name: Death
+author: xtatu
 mode: once
 w32 002671C0 7CDE4850
 
 name: Infinite GP
+author: xtatu
 mode: once
 w32 002671F4 38C90000
 
 name: 0 GP
+author: xtatu
 mode: once
 w32 002671F4 7D596050
 

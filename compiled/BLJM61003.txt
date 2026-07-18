@@ -1,101 +1,124 @@
 # Hitman: Absolution
 
 name: Never Dead Mode
+author: xtatu
 mode: once
 w32 00F8AEE0 C2C80000
 
 name: Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 w32 007AE7EC 3C604080
 
 name: Infinite Health
+author: [sheep]
 mode: once
 w32 004FF8B0 3D604480
 w32 004FF8B4 91640218
 w32 004FF8B8 9164021C
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 0087D128 60000000
 w32 0087E090 C03E021C
 
 name: Max And Infinite Instinct
+author: FBML
 mode: once
 w32 00669FA0 FC400890
 
 name: Infinite Ammo After Reload
+author: FBML
 mode: once
 w32 006635D0 7F43D378
 w32 00663884 7F23CB78
 
 name: Infinite Ammo After Reload (Clipless)
+author: FBML
 mode: once
 w32 00770208 60000000
 
 name: Suspicion Meter Never Increases
+author: FBML
 mode: once
 w32 00792974 D0830084
 
 name: AoB Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 aob 3C603F8080BF035438800085907F036C60A3000048 3C60408080BF035438800085907F036C60A3000048
 
 name: AoB Infinite Health
+author: [sheep]
 mode: once
 aob C0440218FC020800418100084800003CEC4208283C 3D604480916402189164021C4800003CEC4208283C
 
 name: Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 w32 007AF7AC 3C604080
 
 name: Infinite Health
+author: [sheep]
 mode: once
 w32 00500190 3D604480
 w32 00500194 91640218
 w32 00500190 9164021C
 
 name: Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 w32 007AF41C 3C604080
 
 name: Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 w32 007A0A4C 3C604080
 
 name: Infinite Health
+author: [sheep]
 mode: once
 w32 005005B8 3D604480
 w32 005005BC 91640218
 w32 005005C0 9164021C
 
 name: Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 w32 00771B38 30630000
 
 name: Can Never Be Seen
+author: xtatu
 mode: once
 w32 007AE2C0 4E800020
 
 name: Focus Never Decreases
+author: bungholio
 mode: once
 w32 0066B89C D0230000
 
 name: AoB Infinite Health
+author: [sheep]
 mode: once
 aob C0440218FC02080041810008 3D604480916402189164021C
 
 name: AoB Ammo In Clip Never Decreases
+author: bungholio
 mode: once
 aob 61E4000080BF00003063FFFF 61E4000080BF000030630000
 
 name: AoB Can Never Be Seen
+author: xtatu
 mode: once
 aob 00000000000000003FE6666600000000FFFFFFFFFFFFFFFF00000000000000007C2B0B78 00000000000000003FE6666600000000FFFFFFFFFFFFFFFF00000000000000004E800020
 
 name: AoB Focus Never Decreases
+author: bungholio
 mode: once
 aob EC5C0828807F000CFC22E06EEC5F0828FC220FEED0230000 EC5C0828807F000CFC22E06EEC5F0828FC220FEE60000000
 
 name: Can Never Be Seen + Invincible
+author: xtatu
 mode: once
 w32 007AF62C 3C604080

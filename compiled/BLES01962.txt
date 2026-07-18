@@ -1,14 +1,17 @@
 # Tales of Xillia 2
 
 name: 99999999 Exp
+author: xtatu
 mode: once
 w32 000C6DD4 419D0008
 
 name: 99999999 Gald
+author: xtatu
 mode: once
 w32 000C933C 419D0008
 
 name: Damager Normal Hit Work + Magic Mode X Button
+author: xtatu
 mode: once
 w32 010CFC90 00000000
 w32 010CFC94 00000000
@@ -16,148 +19,183 @@ w32 010CFC98 00000000
 w32 010CFC9C 00000000
 
 name: Recover HP Hit Mode Player + Enemies
+author: xtatu
 mode: once
 w32 010CFC88 C2C80000
 
 name: Recover HP Hit Mode Player Stan On
+author: xtatu
 mode: once
 w32 010CFC84 BE4CCCCD
 
 name: E.Core Max (Max Elemental Points after battle for Skills)
+author: xtatu
 mode: once
 w32 000C930C 419D0008
 
 name: TP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0025809C 40850CF8
 
 name: SP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0025810C 40990C58
 
 name: HP 9999 Max Not Infinite
+author: xtatu
 mode: once
 w32 00257EAC 40850ECC
 
 name: Auto Death Enemy No Fighters Mode
+author: xtatu
 mode: once
 w32 00257EA0 40800010
 
 name: Infinite TP
+author: Medo
 mode: once
 w32 00240D2C 31230014
 w32 00240D30 4E800020
 
 name: Max Arte Count On Use
+author: Medo
 mode: once
 w32 0024745C 3980270F
 
 name: Infinite Over Limit (Must Use 1 Arte Link)
+author: Medo
 mode: once
 w32 00221190 60000000
 w32 002211B8 60000000
 
 name: Max Gald On Buy + Sell + Gain
+author: Medo
 mode: once
 w32 00220FBC 60000000
 
 name: Max Exp On Gain (Level 200)
+author: Medo
 mode: once
 w32 0025605C 3C807FFF
 
 name: Infinite AC
+author: Medo
 mode: once
 w32 00240D50 4081000C
 
 name: Max Items on Sell + Discard + Buy + Gain
+author: Medo
 mode: once
 w32 00542C98 40990020
 
 name: Have All Items + Infinite All Items
+author: Medo
 mode: once
 w32 0053EFEC 38600063
 w32 0053F044 68E00063
 
 name: Freeze Play Time
+author: Medo
 mode: once
 w32 0022D7B8 60000000
 w32 0022D804 60000000
 
 name: AoB 99999999 Exp
+author: xtatu
 mode: once
 aob 409D00087D204B787C0600F87CC5FE707C04283890830094 419D00087D204B787C0600F87CC5FE707C04283890830094
 
 name: AoB 99999999 Gald
+author: xtatu
 mode: once
 aob 800300986129E0FF7C0402147F804800409D0008 800300986129E0FF7C0402147F804800419D0008
 
 name: AoB Damager Normal Hit Work + Magic Mode X Button
+author: xtatu
 mode: once
 aob 3FC000003F6666663F8CCCCD3FA66666 00000000000000000000000000000000
 
 name: AoB Recover HP Hit Mode Player + Enemies
+author: xtatu
 mode: once
 aob 42C8000041000000 C2C8000041000000
 
 name: AoB Recover HP Hit Mode Player Stand On
+author: xtatu
 mode: once
 aob 3F4CCCCD3E4CCCCD 3F4CCCCDBE4CCCCD
 
 name: AoB E.Core Max (Max Elemental Points after battle for Skills)
+author: xtatu
 mode: once
 aob 8003009C6129E0FF7C0402147F804800409D0008 8003009C6129E0FF7C0402147F804800419D0008
 
 name: AoB Auto Death Enemy No Fighters Mode
+author: xtatu
 mode: once
 aob 917F6EF441800010 917F6EF440800010
 
 name: AoB Infinite TP
+author: Medo
 mode: once
 aob 7C89237891230014 312300144E800020
 
 name: AoB Max Arte Count on Use
+author: Medo
 mode: once
 aob 7FDDFE707C0CE838 7FDDFE703980270F
 
 name: AoB Infinite Over Limit [Must Use 1 Arte Link]
+author: Medo
 mode: once
 aob EC616828FC430B6EFC0260AED00900284E80002081230000C182CC04C1A2CC08C0890028EC21202AEC616028 60000000FC430B6EFC0260AED00900284E80002081230000C182CC04C1A2CC08C0890028EC21202A60000000
 
 name: AoB Max Gald on Buy + Sell + Gain
+author: Medo
 mode: once
 aob 7FA04800409D0008 7FA0480060000000
 
 name: AoB Max Exp On Gain (Level 200)
+author: Medo
 mode: once
 aob 2C8600C87C042838 2C8600C83C807FFF
 
 name: AoB Infinite AC
+author: Medo
 mode: once
 aob 80036EFC39200000419C00107C0020007C0903784181000C 80036EFC39200000419C00107C0020007C0903784081000C
 
 name: AoB Max Items on Sell + Discard + Buy + Gain
+author: Medo
 mode: once
 aob 7F05180041990020 7F05180040990020
 
 name: AoB Have All Items + Infinite All Items
+author: Medo
 mode: once
 aob 6000000057A6482C5463063E7CA6F2142C03000057CBE8FE 3860006357A6482C5463063E7CA6F2142C03000057CBE8FE
 aob 68E000017C0307B44E800020809C0000EB8100A07D240214 68E000637C0307B44E800020809C0000EB8100A07D240214
 
 name: AoB Freeze Play Time
+author: Medo
 mode: once
 aob EBCB001038800001F92B0008 EBCB00103880000160000000
 aob EBCB082838800001F92B0010 EBCB08283880000160000000
 
 name: 99999999 Exp
+author: xtatu
 mode: once
 w32 000C68FC 419D0008
 
 name: 99999999 Gald
+author: xtatu
 mode: once
 w32 000C8E64 419D0008
 
 name: Damager Normal Hit Work + Magic Mode X Button
+author: xtatu
 mode: once
 w32 010AF534 00000000
 w32 010AF538 00000000
@@ -165,70 +203,86 @@ w32 010AF53C 00000000
 w32 010AF540 00000000
 
 name: Recover HP Hit Mode Player + Enemies
+author: xtatu
 mode: once
 w32 010AF52C C2C80000
 
 name: Recover HP Hit Mode Player Stand On
+author: xtatu
 mode: once
 w32 010AF528 BE4CCCCD
 
 name: Max E.CORE
+author: xtatu
 mode: once
 w32 000C8E34 419D0008
 
 name: TP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0024FA6C 40850CF8
 
 name: SP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0024FADC 40990C58
 
 name: HP 9999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0024F87C 40850EC0
 
 name: 1 Hit Kills
+author: xtatu
 mode: once
 w32 00250740 48000040
 
 name: Infinite TP
+author: Medo
 mode: once
 w32 00238700 31230014
 w32 00238704 4E800020
 
 name: Max Arte Count On Use
+author: Medo
 mode: once
 w32 0023EE2C 3980270F
 
 name: Infinite Over Limit (Must Use 1 Arte Link)
+author: Medo
 mode: once
 w32 00218B60 60000000
 w32 00218B88 60000000
 
 name: Max Gald On Buy + Sell + Gain
+author: Medo
 mode: once
 w32 0021898C 60000000
 
 name: Max Exp On Gain (Level 200)
+author: Medo
 mode: once
 w32 0024DA2C 3C807FFF
 
 name: Infinite AC
+author: Medo
 mode: once
 w32 00238720 4081000C
 
 name: Infinite HP
+author: Medo
 mode: once
 w32 138D8070 0000270F
 w32 138D8074 0000270F
 
 name: Infinite TP
+author: Medo
 mode: once
 w32 138D8084 0000270F
 w32 138D8088 0000270F
 
 name: Max Stats
+author: Medo
 mode: once
 w32 138D8094 0000270F
 w32 138D8098 0000270F
@@ -238,63 +292,77 @@ w32 138D80A4 0000270F
 w32 138D80A8 0000270F
 
 name: Max Items On Sell + Discard + Buy + Gain
+author: Medo
 mode: once
 w32 00538AD8 40990020
 
 name: Have All Items + Infinite All Items
+author: Medo
 mode: once
 w32 00534E2C 38600063
 w32 00534E84 68E00063
 
 name: Freeze Play Time
+author: Medo
 mode: once
 w32 00225188 60000000
 w32 002251D4 60000000
 
 name: AoB Infinite Over Limit (Must Use 1 Arte Link)
+author: Medo
 mode: once
 aob EC616828FC430B6EFC0260AED00900284E80002081230000C182CB4CC1A2CB50C0890028EC21202AEC616028 60000000FC430B6EFC0260AED00900284E80002081230000C182CB4CC1A2CB50C0890028EC21202A60000000
 
 name: Exp 99999999
+author: xtatu
 mode: once
 w32 000C6DC4 419D0008
 
 name: Gald 99999999
+author: xtatu
 mode: once
 w32 000C932C 419D0008
 
 name: E.CORE Max
+author: xtatu
 mode: once
 w32 000C92FC 419D0008
 
 name: TP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0024FF3C 40850CF8
 w32 0024FFAC 40990C58
 
 name: SP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 0024FFAC 40990C58
 
 name: Auto Death Enemy No Fighters Mode
+author: xtatu
 mode: once
 w32 0024F870 40800010
 
 name: 1 Hit Kills
+author: xtatu
 mode: once
 w32 00250C10 48000040
 
 name: Infinite TP
+author: Medo
 mode: once
 w32 00238BD0 31230014
 w32 00238BD4 4E800020
 
 name: Have All Items + Infinite All Items
+author: Medo
 mode: once
 w32 00533564 38600063
 w32 005335BC 38E00063
 
 name: Bypass Debt Message
+author: Hiei-YYH
 mode: once
 w32 0021CFD4 38600000
 w32 004554E0 80690018
@@ -302,6 +370,7 @@ w32 00456050 80690018
 w32 0039571C 80690018
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 00E86380 82116EF4
 w32 00E86384 92110010
@@ -309,6 +378,7 @@ w32 00E86388 4E800020
 w32 0017A7E8 48D0BB99
 
 name: Infinite Chromatus Gauge
+author: Hiei-YYH
 mode: once
 w32 00E861EC 80690374
 w32 00E861F0 90690370
@@ -318,10 +388,12 @@ w32 0021D890 48C6895C
 w32 0021D874 60000000
 
 name: Instant Max SP (Skill Point)
+author: Hiei-YYH
 mode: once
 w32 002580D4 48000C58
 
 name: Infinite Overdrive
+author: Hiei-YYH
 mode: once
 w32 00E86180 3C60447A
 w32 00E86184 90690028
@@ -329,6 +401,7 @@ w32 00E86188 4B2B6720
 w32 0013C8A4 48D498DC
 
 name: Have All Items (No Key Items)
+author: Hiei-YYH
 mode: once
 w32 00E8618C 2C000A01
 w32 00E86190 40800010
@@ -342,10 +415,12 @@ w32 00E861AC 4B6B8E74
 w32 0053F01C 48947170
 
 name: Instant Get Enemy Kill SP Bonus
+author: Hiei-YYH
 mode: once
 w32 0005F9F4 3AE000C8
 
 name: Instant Job Clear (Enemy if it is more than 1)
+author: Hiei-YYH
 mode: once
 w32 00E861FC 839F0010
 w32 00E86200 2C1C0001
@@ -357,674 +432,841 @@ w32 00E86214 4E800020
 w32 002689B4 48C1D849
 
 name: Max Gald on Buy, Sell, Or Gain
+author: Medo
 mode: once
 w32 00220F84 60000000
 
 name: Max Exp On Gain (Level 200)
+author: Medo
 mode: once
 w32 00256024 3C807FFF
 
 name: Infinite AC
+author: Medo
 mode: once
 w32 00240D18 4081000C
 
 name: Max Items On Sell, Discard, Buy, Or Gain
+author: Medo
 mode: once
 w32 00542C40 40990020
 
 name: Infinite TP
+author: Medo
 mode: once
 w32 00240CF8 31230014
 
 name: Max Arte Count On Use
+author: Medo
 mode: once
 w32 00247424 3980270F
 
 name: Infinite Over Limit (Must Use 1 Arte Link to Gain Max + Infinite)
+author: Medo
 mode: once
 w32 00221158 60000000
 w32 00221180 60000000
 
 name: Have All Items + Infinite All Items
+author: Medo
 mode: once
 w32 0053EF94 38600063
 w32 0053EFEC 68E00063
 
 name: Freeze Play Time
+author: Medo
 mode: once
 w32 0022D780 60000000
 w32 0022D7CC 60000000
 
 name: E-Core Max
+author: xtatu
 mode: once
 w32 000C930C 419D0008
 
 name: TP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 00267064 40850CF8
 
 name: SP 999 Max Not Infinite
+author: xtatu
 mode: once
 w32 002670D4 40990C58
 
 name: HP 9999 Max Not Infinite
+author: xtatu
 mode: once
 w32 002579A4 40850EC0
 
 name: Auto Death Enemies
+author: xtatu
 mode: once
 w32 00257998 40800010
 
 name: 1 Hit Kills
+author: xtatu
 mode: once
 w32 00258D38 48000040
 
 name: Max Grade Amount, Use On Inheritance Screen
+author: JorgeFFC
 mode: once
 w32 17784F3C 0001869F
 
 name: Food Remaining 99
+author: iamzed
 mode: once
 w16 13726FFE 0063
 
 name: Food 80% more Elemental Ore
+author: iamzed
 mode: once
 w8 13726FFB 5A
 
 name: Food 80% more Gald
+author: iamzed
 mode: once
 w8 13726FFB 48
 
 name: Food 80% more Exp
+author: iamzed
 mode: once
 w8 13726FFB 3F
 
 name: All Gradeshops Options
+author: aoshi22
 mode: once
 w32 13726F74 02FFFFFF
 w32 13726F78 FFFFFF00
 
 name: Wilted Filiforlia 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B6A 000E
 
 name: Terra Chirpee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1094A 000E
 
 name: Terra Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A7A 000E
 
 name: Bog Chripee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1095A 000E
 
 name: Gentleman 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D8A 000E
 
 name: Plated Boar 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105EA 000E
 
 name: Cockatrice 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10E0A 000E
 
 name: Water Djinn 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10CAA 000E
 
 name: Faud Djinn 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1193A 000E
 
 name: Alest Chirpee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F11A9A 000E
 
 name: Alest Horse 14 Times Fought
+author: iamzed
 mode: once
 w16 12F119BA 000E
 
 name: Alest Plant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1199A 000E
 
 name: Alest Ribbit 14 Times Fought
+author: iamzed
 mode: once
 w16 12F11ABA 000E
 
 name: Vulture 14 Times Fought
+author: iamzed
 mode: once
 w16 12F108CA 000E
 
 name: Terra Mandragora 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10ADA 000E
 
 name: Wild Boar 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105FA 000E
 
 name: Ancient Cat 14 Times Fought
+author: iamzed
 mode: once
 w16 12F106AA 000E
 
 name: Neo Dragon 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10E5A 000E
 
 name: Blade Beak 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1059A 000E
 
 name: Burrow Goblin 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1088A 000E
 
 name: Lizardman 14 Times Fought
+author: iamzed
 mode: once
 w16 12F106FA 000E
 
 name: Cave Chirpee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1096A 000E
 
 name: Cave Plant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B3A 000E
 
 name: Gun Tortoise 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1074A 000E
 
 name: King Cocktarice 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10E1A 000E
 
 name: Hawk 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1089A 000E
 
 name: Bee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F109CA 000E
 
 name: Filifolia 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B5A 000E
 
 name: Boar 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105BA 000E
 
 name: Grass Polwigle 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1080A 000E
 
 name: Sylvan Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A6A 000E
 
 name: Leafy Mandragora 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10ABA 000E
 
 name: Sylvan Wolf 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1052A 000E
 
 name: Basilisk 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10DDA 000E
 
 name: Sword Bee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F109DA 000E
 
 name: Wind Djinn 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10C8A 000E
 
 name: Angry Tortoise 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1072A 000E
 
 name: Green Butterfly 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1098A 000E
 
 name: Gentlesylph 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10DBA 000E
 
 name: Armored Mountain Bandit 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1143A 000E
 
 name: Mon Grunt 14 Times Fought
+author: iamzed
 mode: once
 w16 12F103AA 000E
 
 name: Snow Tortoise 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1073A 000E
 
 name: Snowmelt Merfish 14 Times Fought
+author: iamzed
 mode: once
 w16 12F106DA 000E
 
 name: Snow Dragon 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10E2A 000E
 
 name: Culmar Beast Warrior 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1039A 000E
 
 name: Culmar Beast Mage 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1249A 000E
 
 name: Spider 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A0A 000E
 
 name: Floral Cat 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1067A 000E
 
 name: Dusk Shade 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10C2A 000E
 
 name: Prickle Spider 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A1A 000E
 
 name: Goblin 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1084A 000E
 
 name: Wolf 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1051A 000E
 
 name: Axe Beak 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1056A 000E
 
 name: Insect Plant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10AFA 000E
 
 name: Fleet Mare 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1060A 000E
 
 name: Tortoise 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1071A 000E
 
 name: Floral Harpy 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D5A 000E
 
 name: Floral Butterfly 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1099A 000E
 
 name: Megistus Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A9A 000E
 
 name: Sylvan Mare 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1062A 000E
 
 name: Coastal Mandragora 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10AAA 000E
 
 name: Ribbit 14 Times Fought
+author: iamzed
 mode: once
 w16 12F107AA 000E
 
 name: Polwigle 14 Times Fought
+author: iamzed
 mode: once
 w16 12F107FA 000E
 
 name: Crab Man 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1076A 000E
 
 name: Merfish 14 Times Fought
+author: iamzed
 mode: once
 w16 12F106CA 000E
 
 name: Chirpee 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1093A 000E
 
 name: Butterfly 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1097A 000E
 
 name: Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A5A 000E
 
 name: Toadstool Goblin 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1085A 000E
 
 name: Terra Goblin 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1087A 000E
 
 name: Terra Ribbit 14 Times Fought
+author: iamzed
 mode: once
 w16 12F107CA 000E
 
 name: Terra Polwigle 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1081A 000E
 
 name: Skunky 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10DFA 000E
 
 name: Prism Beak 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105AA 000E
 
 name: Harpy 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D3A 000E
 
 name: Slyvan Crab 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1078A 000E
 
 name: General Crab 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1190A 000E
 
 name: Filihelia 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B8A 000E
 
 name: Golem 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BDA 000E
 
 name: Erdas 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1075A 000E
 
 name: Shield Boar 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105CA 000E
 
 name: Golem Shade 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10C3A 000E
 
 name: Mine Plant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B4A 000E
 
 name: Ice Golem 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BFA 000E
 
 name: Tundra Plant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B2A 000E
 
 name: Snow Wolf 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1053A 000E
 
 name: Fire Bat 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1091A 000E
 
 name: Fire Djinn 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10CBA 000E
 
 name: Fire Golem 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BEA 000E
 
 name: Fire Hawk 14 Times Fought
+author: iamzed
 mode: once
 w16 12F108BA 000E
 
 name: Magma Scorpion 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A4A 000E
 
 name: Gentlefreet 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D9A 000E
 
 name: Frost Beak 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1058A 000E
 
 name: Snow Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A8A 000E
 
 name: Penguinist 14 Times Fought
+author: iamzed
 mode: once
 w16 12F108AA 000E
 
 name: Crystal Beak 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1191A 000E
 
 name: Ice Harpy 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D4A 000E
 
 name: Unicore 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1064A 000E
 
 name: Filignome 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BAA 000E
 
 name: Filisylph 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BBA 000E
 
 name: Filifreet 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B9A 000E
 
 name: Filindine 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10BCA 000E
 
 name: Armored Boar 14 Times Fought
+author: iamzed
 mode: once
 w16 12F105DA 000E
 
 name: Snow Bat 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1092A 000E
 
 name: Rime Cat 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1069A 000E
 
 name: Frost Skeleton 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10D0A 000E
 
 name: Ice Mandragora 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10ACA 000E
 
 name: Gentlemundine 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10DCA 000E
 
 name: Protek Spider (Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10A3A 000E
 
 name: Mighty Plant(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10B0A 000E
 
 name: Night Bat(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1090A 000E
 
 name: Azure Hawk(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F108DA 000E
 
 name: Runed Crab(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1079A 000E
 
 name: Lizitar(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1070A 000E
 
 name: Rune Butterfly(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F109AA 000E
 
 name: Wind Butterfly(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F109BA 000E
 
 name: Arena Gate(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10E4A 000E
 
 name: Power Shade(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F10C6A 000E
 
 name: Scorpactus(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F127AA 000E
 
 name: Veywind Eye(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F125BA 000E
 
 name: Heavy Claw(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1278A 000E
 
 name: Pterobronc(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1026A 000E
 
 name: Greater Demon(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1257A 000E
 
 name: Radiant Horn(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1268A 000E
 
 name: Graddic Claw(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F125CA 000E
 
 name: Moralzamm(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F126AA 000E
 
 name: Brutaur(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F125AA 000E
 
 name: Bluetaur(Coliseum) 14 Times Fought
+author: iamzed
 mode: once
 w16 12F126EA 000E
 
 name: Western Wolf 14 Times Fought
+author: iamzed
 mode: once
 w16 12F119AA 000E
 
 name: Swamp Polwigle 14 Times Fought
+author: iamzed
 mode: once
 w16 12F11ACA 000E
 
 name: Striker Crab Man 14 Times Fought
+author: iamzed
 mode: once
 w16 12F11A1A 000E
 
 name: Withered Treant 14 Times Fought
+author: iamzed
 mode: once
 w16 12F1198A 000E
 
 name: AoB Max Gald On Buy, Sell, Or Gain
+author: Medo
 mode: once
 aob 7FA04800409D00087D204B787C0500F8 7FA04800600000007D204B787C0500F8
 
 name: AoB Max Exp On Gain (Level 200)
+author: Medo
 mode: once
 aob 7C042838909D00204086001C4800004C 3C807FFF909D00204086001C4800004C
 
 name: AoB Infinite AC
+author: Medo
 mode: once
 aob 4181000C912300184E8000207C89237891230018 4081000C912300184E8000207C89237891230018
 
 name: AoB Max Items On Sell, Discard, Buy, Or Gain
+author: Medo
 mode: once
 aob 7F0518004199002056E8482C7BE400207CE8E2147CE607B47D24321498A90001 7F0518004099002056E8482C7BE400207CE8E2147CE607B47D24321498A90001
 
 name: AoB Infinite TP
+author: Medo
 mode: once
 aob 912300144E8000202F84000080036EFC39200000419C 312300144E8000202F84000080036EFC39200000419C
 
 name: AoB Max Arte Count On Use
+author: Medo
 mode: once
 aob 7C0CE83891830004EBE100A0EBA100787FE803A6EBC1 3980270F91830004EBE100A0EBA100787FE803A6EBC1
 
 name: AoB Infinite Over Limit (Must Use 1 Arte Link to Gain Max + Infinite)
+author: Medo
 mode: once
 aob EC616828FC430B6EFC0260AED00900284E80002081230000C182CC04C1A2CC08C0890028EC21202AEC616028FC430B2E 60000000FC430B6EFC0260AED00900284E80002081230000C182CC04C1A2CC08C0890028EC21202A60000000FC430B2E
 
 name: AoB Freeze Play Time
+author: Medo
 mode: once
 aob F92B00084805416D60000000FC000890C822CC38FC60065E 600000004805416D60000000FC000890C822CC38FC60065E
 aob F92B00104805412160000000FC000890C822CC38FCA0065E 600000004805412160000000FC000890C822CC38FCA0065E
 
 name: AoB E-Core Max
+author: xtatu
 mode: once
 aob 409D00087D204B787C0600F87CC5FE707C0428389083009C 419D00087D204B787C0600F87CC5FE707C0428389083009C
 
 name: AoB TP 999 Max Not Infinite
+author: xtatu
 mode: once
 aob 806900004E800020C08300003961FFE0C0A2D2987C691B78 40850CF84E800020C08300003961FFE0C0A2D2987C691B78
 
 name: AoB SP 999 Max Not Infinite
+author: xtatu
 mode: once
 aob 4E80002081230000886946394E8000208123 40990C5881230000886946394E8000208123
 
 name: AoB HP 9999 Max Not Infinite
+author: xtatu
 mode: once
 aob 7CC8521490DF6F4C419AFAF878630020482D274160000000 40850EC090DF6F4C419AFAF878630020482D274160000000
 
 name: AoB Auto Death Enemies
+author: xtatu
 mode: once
 aob 811F6F4C2F030000814C003C7CC8521490DF 408000102F030000814C003C7CC8521490DF
 
 name: AoB 1 Hit Kills
+author: xtatu
 mode: once
 aob 4BFFF1407D685B784BFFF9A47D0743784BFF 480000407D685B784BFFF9A47D0743784BFF

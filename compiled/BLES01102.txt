@@ -1,46 +1,56 @@
 # Ar tonelico Qoga: Knell of Ar Ciel
 
 name: Max DP
+author: ChaosZage
 mode: once
 w32 00463D54 60000000
 
 name: Max Money After Buy + Gain
+author: Skiller
 mode: once
 w32 0035A80C 60000000
 
 name: All Super Skills
+author: Skiller
 mode: once
 w32 0034D588 409C0090
 w32 0034D58C 38000000
 w32 0034D598 2B830009
 
 name: Max ATK, DEF, HP for the 3 Battle Members
+author: Skiller
 mode: once
 w32 0034C7C0 60000000
 w32 0034C7D0 60000000
 w32 0034C7E0 60000000
 
 name: Max DP (Alt)
+author: ChaosZage
 mode: once
 w32 0035EB18 409D0018
 
 name: AoB Max Money After Buy + Gain
+author: Skiller
 mode: once
 aob 7F804800409D001C913F0000 7F80480060000000913F0000
 
 name: AoB Max ATK, DEF, HP for the 3 Battle Members
+author: Skiller
 mode: once
 aob 409D000C38A0270F90BF00342F86270F409D000C38C0270F90DF00382F8703E7409D000C 6000000038A0270F90BF00342F86270F6000000038C0270F90DF00382F8703E760000000
 
 name: Max Money After Buy + Gain
+author: Skiller
 mode: once
 w32 0035A80C 60000000
 w32 0035A810 913F0000
 
 name: Filla's Mind DP
+author: JorgeFFC
 mode: once
 w32 015E6644 0098967F
 
 name: Saki's Mind DP
+author: JorgeFFC
 mode: once
 w32 015E6640 0098967F

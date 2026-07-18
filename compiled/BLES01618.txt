@@ -1,6 +1,7 @@
 # The Amazing Spider-Man
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00B00424 806448FC
 w32 00B00428 90644900
@@ -8,52 +9,63 @@ w32 00B0042C 808548FC
 w32 00B00440 480001D4
 
 name: No Visual Damage
+author: Hiei-YYH
 mode: once
 w32 009CBA2C 807C00C0
 w32 009CBA30 907C00BC
 w32 009CBA34 60000000
 
 name: Maximum Visual Damage
+author: Hiei-YYH
 mode: once
 w32 009CBA2C 38600000
 w32 009CBA30 907C00BC
 w32 009CBA34 48000030
 
 name: Infinite Character Upgrade Points
+author: Hiei-YYH
 mode: once
 w32 00AF1548 7C7A1B78
 
 name: Infinite Tech Upgrade Points
+author: Hiei-YYH
 mode: once
 w32 00AF9204 7C791B78
 
 name: Remove Upgrade Available on Screen
+author: Hiei-YYH
 mode: once
 w32 00AFC204 38A00000
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 00B5C220 90A44900
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00A3F858 38600001
 
 name: 1,000 Combo
+author: GuitarMan
 mode: once
 w32 00ADBDDC 386003E8
 w32 00ADBDE8 60000000
 w32 00ADBD18 392003E8
 
 name: Can Upgrade Tech Upgrade
+author: GuitarMan
 mode: once
 w32 00FCF2B4 60000000
 
 name: Can Upgrade Character Upgrade
+author: GuitarMan
 mode: once
 w32 00AF13D0 60000000
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00AF97BC 806448FC
 w32 00AF97C0 90644900
@@ -61,25 +73,30 @@ w32 00AF97C4 808548FC
 w32 00AF97D8 480001D4
 
 name: No Visual Damage
+author: Hiei-YYH
 mode: once
 w32 009C4DC4 807C00C0
 w32 009C4DC8 907C00BC
 w32 009C4DCC 60000000
 
 name: Maximum Visual Damage
+author: Hiei-YYH
 mode: once
 w32 009C4DC4 38600000
 w32 009C4DC8 907C00BC
 w32 009C4DCC 48000030
 
 name: Infinite Character Upgrade Points
+author: Hiei-YYH
 mode: once
 w32 00AEA8E0 7C7A1B78
 
 name: Infinite Tech Upgrade Points
+author: Hiei-YYH
 mode: once
 w32 00AF259C 7C791B78
 
 name: Remove Upgrade Available on Screen
+author: Hiei-YYH
 mode: once
 w32 00AF559C 38A00000

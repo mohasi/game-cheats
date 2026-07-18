@@ -1,6 +1,7 @@
 # Persona 4 Arena
 
 name: Infinite Health + 1 Hit Kill
+author: Medo
 mode: once
 w32 00A29CE8 81230008
 w32 00A29CEC 3DC000E0
@@ -17,6 +18,7 @@ w32 00A29D14 483AEDDF
 w32 00056DBC 48A29CEB
 
 name: Infinite Health Only
+author: Medo
 mode: once
 w32 00A29CE8 81230008
 w32 00A29CEC 3DC000E0
@@ -28,9 +30,11 @@ w32 00A29D00 483AEDDF
 w32 00056DBC 48A29CEB
 
 name: Infinite SP
+author: Medo
 mode: once
 w32 0049B5D4 409D0014
 
 name: Max Score
+author: Medo
 mode: once
 w32 00057660 7D605B78

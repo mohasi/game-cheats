@@ -1,9 +1,11 @@
 # Uncharted: El Dorado no Hihou
 
 name: There is no reduction
+author: games24.blog.fc2.com/blog-entry-119.html
 mode: once
 w32 005D14D8 60000000
 
 name: AoB There is no reduction
+author: games24.blog.fc2.com/blog-entry-119.html
 mode: once
 aob 3929FFFF912B0010E80100C0EB410080EB6100887C0803A6 60000000912B0010E80100C0EB410080EB6100887C0803A6

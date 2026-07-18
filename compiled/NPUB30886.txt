@@ -1,51 +1,63 @@
 # Family Guy: Back to the Multiverse
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 00829248 60000000
 
 name: Infinite Items
+author: DANNY G
 mode: once
 w32 0080DD68 60000000
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 005B6064 FFA0D090
 
 name: Infinite Drinks
+author: Randy97Killa
 mode: once
 w32 008286AC 60000000
 
 name: Infinite Ammo + No Reload
+author: Randy97Killa
 mode: once
 w32 00638778 63F00000
 w32 00638790 921F016C
 
 name: Max Money On Gain
+author: Randy97Killa
 mode: once
 w32 0061CDE0 901F0224
 
 name: AoB Infinite Ammo
+author: DANNY G
 mode: once
 aob 4BFCA4E5815F00D04BFFF4647EE3BB783880FFFF4BFCAD81 60000000815F00D04BFFF4647EE3BB783880FFFF4BFCAD81
 
 name: AoB Infinite Items
+author: DANNY G
 mode: once
 aob 4BFE59C54BFFFB94386000004BFFFEB07D800026F821FD91 600000004BFFFB94386000004BFFFEB07D800026F821FD91
 
 name: AoB Infinite Health
+author: Randy97Killa
 mode: once
 aob FC20F890812B017C80090000 FFA0D090812B017C80090000
 
 name: AoB Infinite Drinks
+author: Randy97Killa
 mode: once
 aob 7B8900203D290001D1A9EFBC 7B8900203D29000160000000
 
 name: AoB Infinite Ammo + No Reload
+author: Randy97Killa
 mode: once
 aob 419EFFA083BF016C7FE3FB78 419EFFA063F000007FE3FB78
 aob 7F9D1840419C010C817C0160 921F016C419C010C817C0160
 
 name: AoB Max Money On Gain
+author: Randy97Killa
 mode: once
 aob 93BF02246000423F7F9D0000 901F02246000423F7F9D0000

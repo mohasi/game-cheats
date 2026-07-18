@@ -1,10 +1,13 @@
 # LittleBigPlanet 2
 
 name: Unlimited Respawn
+score NPEA00324 01.33: 25 0+ 1-
+author: dron_3
 mode: once
 w32 0006E340 39600000
 
 name: AoB Unlimited Respawn
 score NPUA80662 01.33: 25 0+ 1-
+author: dron_3
 mode: once
 aob 8178000C2F890001380BFFFF7C005B78 396000002F890001380BFFFF7C005B78

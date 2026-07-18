@@ -1,28 +1,34 @@
 # Oddworld: Stranger's Wrath HD
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 35B6CE20 0000000A
 w32 35C7ED24 00000003
 
 name: ASM Reserve Ammo Never Decreases
+author: jgduff1
 mode: once
 w32 0011F3B8 30840000
 
 name: ASM Ammo In Clip Never Decreases
+author: jgduff1
 mode: once
 w32 0011F398 30C60000
 
 name: Memory Infinite Health Against Most Enemies
+author: jgduff1
 mode: once
 w32 35DD6F9C 43FA0000
 w32 35DC6F9C 43160000
 
 name: ASM Infinite Health Against Most Enemies V1
+author: jgduff1
 mode: once
 w32 000A5AA8 FC030828
 
 name: ASM Infinite Health Against Most Enemies V2
+author: jgduff1
 mode: once
 w32 000A5AAC FDE5186E
 w32 000A5AB0 FC202028
@@ -32,9 +38,11 @@ w32 000A5ABC 60000000
 w32 000A5AC4 60000000
 
 name: Memory Lot Money On Gain
+author: jgduff1
 mode: once
 w32 35C01BDC 42D60000
 
 name: ASM Lot Money On Gain
+author: jgduff1
 mode: once
 w32 00076F60 D3C3000C

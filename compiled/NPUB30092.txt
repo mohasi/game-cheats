@@ -1,14 +1,17 @@
 # Crystal Defenders
 
 name: Gil 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 300CE040 0001869F
 
 name: Crystal 499
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 300CE16C 000001F3
 
 name: Characters Level 7
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 300CEE60 00000006
 w32 300CEEF0 00000006

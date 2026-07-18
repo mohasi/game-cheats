@@ -1,10 +1,12 @@
 # Green Lantern: Rise of the Manhunters
 
 name: Memory Infinite Health
+author: Ghost9
 mode: once
 w32 35609A24 457A0000
 
 name: One Hit Kill
+author: Ghost9
 mode: once
 w32 00439D1C FDA0086E
 w32 00439D14 ECA16828
@@ -14,17 +16,21 @@ w32 0011B238 FC0B032E
 w32 0011B240 60000000
 
 name: Memory Lot Of White Orbs On Gain
+author: Ghost9
 mode: once
 w32 32D09000 00000506
 
 name: Infinite Health
+author: Azagthoth
 mode: once
 w32 000F9AF0 D1AB05A4
 
 name: 1 Hit Kill + Dumb Enemies
+author: Azagthoth
 mode: once
 w32 0006908C D3E905A4
 
 name: Lots Of White Orbs
+author: Azagthoth
 mode: once
 w32 000174E4 93870130

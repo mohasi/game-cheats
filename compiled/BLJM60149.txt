@@ -1,10 +1,12 @@
 # X-Blades
 
 name: Max Souls
+author: xtatu
 mode: once
 w32 001C6EC0 3F603B9A
 w32 001C6EC4 637BCA00
 
 name: Max Health
+author: xtatu
 mode: once
 w32 002E7704 C01D0004

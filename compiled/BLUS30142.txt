@@ -1,10 +1,12 @@
 # Grid
 
 name: ASM Infinite Flashback
+author: jgduff1
 mode: once
 w32 004BB014 39290000
 
 name: ASM Always First
+author: jgduff1
 mode: once
 w32 008CFA04 60000000
 w32 008CFA24 60000000

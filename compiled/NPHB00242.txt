@@ -1,24 +1,29 @@
 # Shank
 
 name: Memory Partial Infinite Health + One Hit Kills
+author: jgduff1
 mode: once
 w32 3157CE70 43480000
 w32 35F180C0 3F800000
 
 name: ASM Partial Infinite Health + One Hit Kills
+author: jgduff1
 mode: once
 w32 00138D10 EFEAF028
 w32 00138D18 D15F0070
 
 name: ASM Have Shotgun
+author: jgduff1
 mode: once
 w32 0037E83C 60000000
 
 name: Memory Infinite Grenades
+author: jgduff1
 mode: once
 w16 377607D2 0004
 w16 378033F2 0004
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 0014EE04 39290000

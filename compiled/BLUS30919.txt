@@ -1,30 +1,37 @@
 # Sniper: Ghost Warrior 2
 
 name: AoB Infinite Ammo
+author: bitcopa
 mode: once
 aob 7CBC2B787C7F1B78FB2100C8FB4100D0 3B80000A7C7F1B78FB2100C8FB4100D0
 
 name: AoB Infinite Medikits
+author: bitcopa
 mode: once
 aob 7C03D8507C00FE707C09D8387C600078 7C601B787C00FE707C09D8387C600078
 
 name: Infinite Ammo
+author: bitcopa, games24.blog.fc2.com/blog-entry-184.html
 mode: once
 w32 0029514C 3B80000A
 
 name: Infinite Medikits
+author: bitcopa, games24.blog.fc2.com/blog-entry-184.html
 mode: once
 w32 0040B994 7C601B78
 
 name: Infinite Medikits Alt?
+author: bitcopa
 mode: once
 w32 0030B824 7C601B78
 w32 0111F588 7C601B78
 
 name: Infinite Ammo
+author: bitcopa
 mode: once
 w32 0029509C 3B80000A
 
 name: Infinite Medikits
+author: bitcopa
 mode: once
 w32 0040B824 7C601B78

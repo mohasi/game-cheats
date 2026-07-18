@@ -1,6 +1,7 @@
 # The Chronicles of Riddick: Assault on Dark Athena
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 00A3B67C 60000000
 w32 00A3B680 60000000
@@ -10,15 +11,18 @@ w32 00A3BB10 60000000
 w32 00A3BB14 60000000
 
 name: Ammo Never Decreases + Never Reload
+author: bungholio
 mode: once
 w32 00B4B1C0 60000000
 
 name: Always "Normal" Hidden
+author: bungholio
 mode: once
 w32 00697AC0 480002FC
 w32 00697DE0 48000268
 
 name: Disable Almost All Enemy AI
+author: bungholio
 mode: once
 w32 006616A0 4E800020
 w32 00661B40 4E800020
@@ -43,20 +47,24 @@ w32 00663CB0 4E800020
 w32 00663EC8 4E800020
 
 name: AoB Health Never Decreases
+author: bungholio
 mode: once
 aob D00907D8D0090788D009079C914907EC 600000006000000060000000914907EC
 aob D00907D8D0090788D009079CD00907B0 600000006000000060000000D00907B0
 
 name: AoB Ammo Never Decreases + Never Reload
+author: bungholio
 mode: once
 aob 7D290038B12301A0 7D29003860000000
 
 name: AoB Always "Normal" Hidden
+author: bungholio
 mode: once
 aob FF8B0000419E02FC FF8B0000480002FC
 aob 901A007841820268 901A007848000268
 
 name: AoB Disable Almost All Enemy AI
+author: bungholio
 mode: once
 aob 3B9C00014BFFFECC600000007D800026 3B9C00014BFFFECC600000004E800020
 aob 4BFFFBFCF821FF11 4BFFFBFC4E800020

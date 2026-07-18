@@ -1,6 +1,7 @@
 # Ratchet &amp;amp; Clank: All 4 One
 
 name: Dump Player Health Addresses
+author: bungholio
 mode: once
 w32 00BBA0F8 3C600152
 w32 00BBA0FC 6063F000
@@ -13,6 +14,7 @@ w32 00BBA130 480124E2
 w32 000124DC 48BBA0FA
 
 name: Health Never Decreases For All Players
+author: bungholio
 mode: once
 w32 00BBA150 EC21F02A
 w32 00BBA154 38600004
@@ -31,6 +33,7 @@ w32 00BBA1D8 48046B5E
 w32 00046B58 48BBA152
 
 name: All Players Are Invincible
+author: bungholio
 mode: once
 w32 00BBA1DC 38A00004
 w32 00BBA1E0 48000020
@@ -48,6 +51,7 @@ w32 00BBA260 4804626E
 w32 00046268 48BBA1DE
 
 name: Hold X To Fly
+author: bungholio
 mode: once
 w32 00BBA284 3CC00153
 w32 00BBA288 9066F020
@@ -69,14 +73,17 @@ w32 00BBA314 482BDFAA
 w32 002BDFA4 48BBA2B2
 
 name: Max Critters On Gain
+author: bungholio
 mode: once
 w32 001E5798 38E003E7
 
 name: Ammo Never Decreases
+author: bungholio
 mode: once
 w32 004A8FF0 60000000
 
 name: Have All Weapons
+author: bungholio
 mode: once
 w32 00BBA43C 38040006
 w32 00BBA440 90060000
@@ -100,6 +107,7 @@ w32 00BBA4B4 4816ADD6
 w32 0016ADD0 48BBA496
 
 name: Have All Weapons Fully Upgraded
+author: bungholio
 mode: once
 w32 00BBA3E4 38000007
 w32 00BBA3E8 98030019
@@ -108,30 +116,37 @@ w32 00BBA3F0 484A904E
 w32 004A9048 48BBA3E6
 
 name: Manual Rapid Fire
+author: bungholio
 mode: once
 w32 004B6CE8 48000008
 
 name: Unlimited Sprint
+author: bungholio
 mode: once
 w32 0013F560 7F800000
 
 name: Taxi Health Never Decreases
+author: bungholio
 mode: once
 w32 0048FC90 38800000
 
 name: Guardian Robot Health Never Decreases
+author: bungholio
 mode: once
 w32 00449414 C03E0028
 
 name: Ornithoptor Health Never Decreases
+author: bungholio
 mode: once
 w32 00046B58 C03F0028
 
 name: Ornithoptor Fuel Never Decreases
+author: bungholio
 mode: once
 w32 00497E94 60000000
 
 name: Have All RYNO Parts
+author: bungholio
 mode: once
 w32 00BBA410 38000001
 w32 00BBA414 90040000
@@ -140,6 +155,7 @@ w32 00BBA41C 481E54BA
 w32 001E54B4 48BBA412
 
 name: Unlock Cheats
+author: bungholio
 mode: once
 w32 00543944 E8830000
 w32 00543948 7C842B78
@@ -147,6 +163,7 @@ w32 0054394C F8830000
 w32 00543950 60000000
 
 name: Have All Skill Points
+author: bungholio
 mode: once
 w32 00532C94 E9270000
 w32 00532C98 7CC64B78
@@ -154,6 +171,7 @@ w32 00532C9C F8C70000
 w32 00532CA0 60000000
 
 name: Have All Gold Bolts
+author: bungholio
 mode: once
 w32 001E58D8 7C832014
 w32 001E58DC 3084072C

@@ -1,6 +1,7 @@
 # BlazBlue: Chrono Phantasma
 
 name: Infinite Health + Special + Barrier + Overdrive
+author: Hiei-YYH
 mode: once
 w32 00BD6450 81630004
 w32 00BD6454 2C090850
@@ -16,28 +17,34 @@ w32 00BD6478 4B83A080
 w32 004104F4 487C5F5C
 
 name: Disable Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00BD6460 60000000
 
 name: Disable Infinite Special
+author: Hiei-YYH
 mode: once
 w32 00BD6468 60000000
 
 name: Disable Infinite Barrier
+author: Hiei-YYH
 mode: once
 w32 00BD646C 60000000
 
 name: Disable Infinite Overdrive
+author: Hiei-YYH
 mode: once
 w32 00BD6474 60000000
 
 name: Max Reward After Gain
+author: Hiei-YYH
 mode: once
 w32 006F49E4 60000000
 w32 0015EE10 60000000
 w32 0015EE5C 60000000
 
 name: Max Stats In Abyss Mode After Increasing Attack Once
+author: Hiei-YYH
 mode: once
 w32 00BD6490 380003E7
 w32 00BD6494 90090008

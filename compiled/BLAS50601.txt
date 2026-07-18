@@ -1,10 +1,12 @@
 # Star Trek
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 4CA40100 4CA400C0
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 0060E288 60000000
 w32 0060E1F0 60000000

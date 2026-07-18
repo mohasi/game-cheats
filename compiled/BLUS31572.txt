@@ -1,16 +1,19 @@
 # The Legend of Heroes: Trails of Cold Steel
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 0082AAF4 0000199E
 w32 0082AAF8 0000199E
 w32 3441EF40 0000199E
 
 name: ASM Character 1 Infinite Health
+author: jgduff1
 mode: once
 w32 000586D0 90BE01F0
 
 name: ASM Max + Infinite CP
+author: jgduff1
 mode: once
 w32 000D4C3C 93FE0220
 w32 000D5300 931F0224
@@ -19,22 +22,27 @@ w32 004C6DCC 60000000
 w32 004C6DD0 60000000
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w32 353F9940 0000000A
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 001A71FC B0C30002
 
 name: Memory Infinite EP
+author: jgduff1
 mode: once
 w32 350A1D74 00000230
 
 name: ASM Infinite EP
+author: jgduff1
 mode: once
 w32 000D4C3C 93FE0220
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 341BDA6C 3F800000
 w32 341BDA7C 3F800000
@@ -370,6 +378,7 @@ w32 358F84CC 00000062
 w32 358F8818 00000050
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 3560DF30 0000006E
 w32 3560DF34 0000006E
@@ -380,6 +389,7 @@ w32 3560E888 42DC0000
 w32 3560F63C 0000006E
 
 name: Memory Unknown Code 3
+author: jgduff1
 mode: once
 w32 356C57E8 00010000
 w32 356C6B68 01010000
@@ -387,6 +397,7 @@ w32 356C7C08 01010000
 w32 356C7D78 01010000
 
 name: ASM Max + Infinite CP
+author: jgduff1
 mode: once
 w32 000D5300 931F0224
 w32 004C6DC8 60000000

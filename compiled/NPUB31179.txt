@@ -1,35 +1,43 @@
 # Deadly Premonition - Director's Cut
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 0006B154 C023000C
 w32 0006B158 D0230000
 
 name: Stamina Never Increase
+author: Randy97Killa
 mode: once
 w32 002809CC C1893290
 
 name: Unlimited Ammo
+author: Randy97Killa
 mode: once
 w32 0027C5EC 82080004
 w32 0027C5F0 92080008
 
 name: AoB Infinite Health
+author: Randy97Killa
 mode: once
 aob E8410028786300204820369560000000C0029C10C1A30000FF8D0000 E8410028786300204820369560000000C0029C10C023000CD0230000
 
 name: AoB Stamina Never Increase
+author: Randy97Killa
 mode: once
 aob EC1DD024EC1F0032EDADD024EFE00372ED9F5B3A EC1DD024EC1F0032EDADD024EFE00372C1893290
 
 name: AoB Unlimited Ammo
+author: Randy97Killa
 mode: once
 aob C8010070FC00069CFDA00018C0080008FF806800 C8010070FC00069CFDA000188208000492080008
 
 name: Enemy No Attack
+author: xtatu
 mode: once
 w32 0017C7BC 419D0084
 
 name: Player Hit Kill
+author: xtatu
 mode: once
 w32 0017A950 419D0BA4

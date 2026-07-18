@@ -1,6 +1,7 @@
 # Disgaea 4: A Promise Unforgotten
 
 name: Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 00134108 8816055B
 w32 0013410C 2F800000
@@ -9,6 +10,7 @@ w32 00134114 419E0008
 w32 00134118 3C000000
 
 name: Infinite SP For You, SP For Enemies After 1 Use
+author: bungholio
 mode: once
 w32 002C86B0 7A6B0020
 w32 002C86B4 814B01AC
@@ -19,6 +21,7 @@ w32 002C86C4 419E0008
 w32 002C86C8 3C000000
 
 name: Can Control Anything
+author: bungholio
 mode: once
 w32 00306250 48000014
 w32 0030695C 4BFFF908
@@ -26,6 +29,7 @@ w32 002D6620 60000000
 w32 002D662C 48000158
 
 name: Unlimited Moves
+author: bungholio
 mode: once
 w32 00306228 3D800000
 w32 00306240 B19D055C
@@ -41,6 +45,7 @@ w32 0001DAFC 4846D786
 w32 0002F240 4846D75A
 
 name: Sell Buy Or Anything For Max HL
+author: bungholio
 mode: once
 w32 0002838C 60000000
 w32 0002965C 60000000
@@ -48,427 +53,532 @@ w32 00029614 48000024
 w32 0002963C 60000000
 
 name: All Evil Symbols Can Now Be Suggested
+author: bungholio
 mode: once
 w32 0008119C 60000000
 
 name: Class A + B Created Or Reincarnated Characters Do Not Require Approval
+author: bungholio
 mode: once
 w32 0034447C 60000000
 
 name: Sell An Evility For Max Mana
+author: bungholio
 mode: once
 w32 0036D288 60000000
 
 name: Kill Anything With A Magichanged Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001E0D8 60000000
 
 name: Kill Anything With A Fused Monster Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001E208 60000000
 
 name: Kill Anything With A Normal Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001E22C 60000000
 
 name: Enter The "Create A New Character" Or "Reincarnate" Menu For Max Mana
+author: bungholio
 mode: once
 w32 001EC818 3C000099
 
 name: Create A New Character Or Reincarnate For Max Mana
+author: bungholio
 mode: once
 w32 003443A8 3C000099
 
 name: Boost A Non-Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 00371414 3C000099
 
 name: Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 0037149C 3C000099
 
 name: Learn A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 w32 00372C50 3C000099
 
 name: Win The Instant A Stage Starts
+author: bungholio
 mode: once
 w32 002CBA0C 3C000000
 
 name: New Items Have Max MV
+author: bungholio
 mode: once
 w32 00078A18 3800001F
 
 name: New Items Have Max JMP
+author: bungholio
 mode: once
 w32 00078A20 38000063
 
 name: New Items Are At Level 255 (Do Not Use With Items Have Max Counters)
+author: bungholio
 mode: once
 w32 00078A10 396000FF
 
 name: New Items Have Max Attack Range
+author: bungholio
 mode: once
 w32 000789F8 38000009
 
 name: New Items Have Max Critical Rate
+author: bungholio
 mode: once
 w32 00078A00 38000063
 
 name: New Items Have Max Counters (Do Not Use With Items Level 255)
+author: bungholio
 mode: once
 w32 00078A10 38000009
 w32 00078A14 981C00EB
 
 name: New Items Are Legendary
+author: bungholio
 mode: once
 w32 00077998 60000000
 w32 0007799C 38600002
 
 name: New Items Have 8 Innocents Capacity
+author: bungholio
 mode: once
 w32 00078BB4 39200008
 w32 00078D14 38000008
 
 name: All New Items Have 8 Innocents
+author: bungholio
 mode: once
 w32 00078CC8 2F9A0008
 
 name: New Item Innocents Are At Max Levels
+author: bungholio
 mode: once
 w32 0007891C 60000000
 w32 00078920 38004E1E
 
 name: New Item Innocents Are Transferable
+author: bungholio
 mode: once
 w32 00078908 60000000
 
 name: Kill Anything With A Special Tower Attack For Max EXP
+author: bungholio
 mode: once
 w32 0001CAA8 60000000
 
 name: Unknown EXP Maximizer 1
+author: bungholio
 mode: once
 w32 0001E38C 60000000
 
 name: Unknown EXP Maximizer 2
+author: bungholio
 mode: once
 w32 0001E400 60000000
 
 name: Unknown EXP Maximizer 3
+author: bungholio
 mode: once
 w32 0001E470 60000000
 
 name: Kill Anything With A Single Small Magichanged Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001E4E0 60000000
 
 name: Unknown EXP Maximizer 4
+author: bungholio
 mode: once
 w32 0001E5A4 60000000
 
 name: Kill Anything With A Small Fused Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001E610 60000000
 
 name: Kill Anything With A Normal Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001E634 60000000
 
 name: Bought Evilities Are "Miasma of Silence"
+author: bungholio
 mode: once
 w32 00372C68 38800073
 
 name: Bought Evilities Are "Dark Aura"
+author: bungholio
 mode: once
 w32 00372C68 38800074
 
 name: Bought Evilities Are "Bond of Souls"
+author: bungholio
 mode: once
 w32 00372C68 388000D2
 
 name: Bought Evilities Are "Attack with Cure"
+author: bungholio
 mode: once
 w32 00372C68 388000FB
 
 name: Bought Evilities Are "Attack with Steal"
+author: bungholio
 mode: once
 w32 00372C68 388000FC
 
 name: Bought Evilities Are "Attack Multiple"
+author: bungholio
 mode: once
 w32 00372C68 388000FD
 
 name: Bought Evilities Are "Attack Reversal"
+author: bungholio
 mode: once
 w32 00372C68 388000FE
 
 name: Bought Evilities Are "Protect"
+author: bungholio
 mode: once
 w32 00372C68 3880012C
 
 name: Bought Evilities Are "Death's Heal"
+author: bungholio
 mode: once
 w32 00372C68 3880012D
 
 name: Bought Evilities Are "Support Attack"
+author: bungholio
 mode: once
 w32 00372C68 38800131
 
 name: Bought Evilities Are "More Counter Hits"
+author: bungholio
 mode: once
 w32 00372C68 3880013F
 
 name: Bought Evilities Are "Echo"
+author: bungholio
 mode: once
 w32 00372C68 38800140
 
 name: Bought Evilities Are "Soul Crush"
+author: bungholio
 mode: once
 w32 00372C68 38800141
 
 name: Bought Evilities Are "Mind Blast"
+author: bungholio
 mode: once
 w32 00372C68 38800142
 
 name: Bought Evilities Are "100% Accuracy"
+author: bungholio
 mode: once
 w32 00372C68 38800143
 
 name: Bought Evilities Are "Double Lock-On"
+author: bungholio
 mode: once
 w32 00372C68 38800144
 
 name: Bought Evilities Are "Null Non-Element"
+author: bungholio
 mode: once
 w32 00372C68 38800173
 
 name: Bought Evilities Are "Null Fire"
+author: bungholio
 mode: once
 w32 00372C68 38800174
 
 name: Bought Evilities Are "Null Wind"
+author: bungholio
 mode: once
 w32 00372C68 38800175
 
 name: Bought Evilities Are "Null Ice"
+author: bungholio
 mode: once
 w32 00372C68 38800176
 
 name: Bought Evilities Are "Null Star"
+author: bungholio
 mode: once
 w32 00372C68 38800177
 
 name: Bought Evilities Are "Null Physical"
+author: bungholio
 mode: once
 w32 00372C68 38800178
 
 name: Bought Evilities Are "Null Magic"
+author: bungholio
 mode: once
 w32 00372C68 38800179
 
 name: Bought Evilities Are "Void Justice"
+author: bungholio
 mode: once
 w32 00372C68 3880017D
 
 name: Bought Evilities Are "Faint"
+author: bungholio
 mode: once
 w32 00372C68 3880017E
 
 name: Bought Evilities Are "Healthy Bod"
+author: bungholio
 mode: once
 w32 00372C68 38800180
 
 name: Bought Evilities Are "Love Field"
+author: bungholio
 mode: once
 w32 00372C68 38800183
 
 name: Bought Evilities Are "Backstab Poison"
+author: bungholio
 mode: once
 w32 00372C68 3880018B
 
 name: Bought Evilities Are "Backstab Sleep"
+author: bungholio
 mode: once
 w32 00372C68 3880018C
 
 name: Bought Evilities Are "Backstab Paralyze"
+author: bungholio
 mode: once
 w32 00372C68 3880018D
 
 name: Bought Evilities Are "Backstab Forget"
+author: bungholio
 mode: once
 w32 00372C68 3880018E
 
 name: Bought Evilities Are "Backstab Deprave"
+author: bungholio
 mode: once
 w32 00372C68 3880018F
 
 name: Bought Evilities Are "Backstab Half HP"
+author: bungholio
 mode: once
 w32 00372C68 38800190
 
 name: Bought Evilities Are "Wpn EXP Up"
+author: bungholio
 mode: once
 w32 00372C68 38800194
 
 name: Bought Evilities Are "Skill EXP Up"
+author: bungholio
 mode: once
 w32 00372C68 38800195
 
 name: Bought Evilities Are "Heart Steal"
+author: bungholio
 mode: once
 w32 00372C68 38800198
 
 name: Bought Evilities Are "Lucky Finger"
+author: bungholio
 mode: once
 w32 00372C68 3880019B
 
 name: Bought Evilities Are "Law by Range"
+author: bungholio
 mode: once
 w32 00372C68 3880019D
 
 name: Bought Evilities Are "Tower Walk"
+author: bungholio
 mode: once
 w32 00372C68 388001C3
 
 name: Bought Evilities Are "Sky Swim"
+author: bungholio
 mode: once
 w32 00372C68 388001C7
 
 name: Bought Evilities Are "Judo Black Belt"
+author: bungholio
 mode: once
 w32 00372C68 388001C8
 
 name: Bought Evilities Are "Multiple Cube Lift"
+author: bungholio
 mode: once
 w32 00372C68 388001CD
 
 name: Bought Evilities Are "Sky High"
+author: bungholio
 mode: once
 w32 00372C68 388001D0
 
 name: Bought Evilities Are "Learn Geo Warp"
+author: bungholio
 mode: once
 w32 00372C68 388001D8
 
 name: Bought Evilities Are "Explosive Nature"
+author: bungholio
 mode: once
 w32 00372C68 388001DA
 
 name: Bought Evilities Are "Level Spurt"
+author: bungholio
 mode: once
 w32 00372C68 388001FE
 
 name: Bought Evilities Are "Ties"
+author: bungholio
 mode: once
 w32 00372C68 3880026A
 
 name: Bought Evilities Are "Copy Ninjitsu"
+author: bungholio
 mode: once
 w32 00372C68 3880026B
 
 name: Bought Evilities Are "Angel Blessings"
+author: bungholio
 mode: once
 w32 00372C68 38800273
 
 name: Bought Evilities Are "Metal Detector"
+author: bungholio
 mode: once
 w32 00372C68 3880028B
 
 name: Bought Evilities Are "Jet-black Sword"
+author: bungholio
 mode: once
 w32 00372C68 38800291
 
 name: Bought Evilities Are "Tyrant Guard"
+author: bungholio
 mode: once
 w32 00372C68 3880029B
 
 name: Bought Evilities Are "Infinite Power"
+author: bungholio
 mode: once
 w32 00372C68 3880029C
 
 name: Bought Evilities Are "Revenge Throw"
+author: bungholio
 mode: once
 w32 00372C68 388002A2
 
 name: Bought Evilities Are "Red Scarf"
+author: bungholio
 mode: once
 w32 00372C68 388002A7
 
 name: Bought Evilities Are "Weapon Break"
+author: bungholio
 mode: once
 w32 00372C68 388002AE
 
 name: Bought Evilities Are "Learn Special Skill"
+author: bungholio
 mode: once
 w32 00372C68 388002B0
 
 name: Bought Evilities Are "Tower of Babel"
+author: bungholio
 mode: once
 w32 00372C68 388002BF
 
 name: Bought Evilities Are "Tes 6"
+author: bungholio
 mode: once
 w32 00372C68 388002C2
 
 name: Bought Evilities Are "Tes 11"
+author: bungholio
 mode: once
 w32 00372C68 388002C7
 
 name: Bought Evilities Are "Tes 12"
+author: bungholio
 mode: once
 w32 00372C68 388002C8
 
 name: Bought Evilities Are "Tes 13"
+author: bungholio
 mode: once
 w32 00372C68 388002C9
 
 name: Bought Evilities Are "Radar"
+author: bungholio
 mode: once
 w32 00372C68 388002CB
 
 name: Bought Evilities Are "Tes 16"
+author: bungholio
 mode: once
 w32 00372C68 388002CC
 
 name: Bought Evilities Are "Dual Bonus"
+author: bungholio
 mode: once
 w32 00372C68 388002CE
 
 name: Bought Evilities Are "Tes 19"
+author: bungholio
 mode: once
 w32 00372C68 388002CF
 
 name: Bought Evilities Are "Tes 20"
+author: bungholio
 mode: once
 w32 00372C68 388002D0
 
 name: Bought Evilities Are "Replacement Doll"
+author: bungholio
 mode: once
 w32 00372C68 388002D9
 
 name: Bought Evilities Are "Protect"
+author: bungholio
 mode: once
 w32 00372C68 3880032B
 
 name: Bonus Gauge Always Starts At 9
+author: bungholio
 mode: once
 w32 002A8BBC 3BC00009
 
 name: Can Dispatch An Unlimited Amount Of Units On Stage
+author: bungholio
 mode: once
 w32 002BA2DC 60000000
 
 name: Special Skills Are Higher Than +9 Only In Battle
+author: bungholio
 mode: once
 w32 00145D08 60000000
 w32 00145D0C 3800007F
 
 name: Items Do Not Disappear From Shops When You Buy Them
+author: bungholio
 mode: once
 w32 0026F784 60000000
 
 name: Unlock All Classes
+author: bungholio
 mode: once
 w32 0006A4EC 4E800020
 w32 0007072C 3BE0FFFF
@@ -482,36 +592,44 @@ w32 00070D3C 3BE0FFFF
 w32 00070D60 3BE0FFFF
 
 name: Unlock All Appointable Positions
+author: bungholio
 mode: once
 w32 000711E0 60000000
 
 name: Heal 1 Unit At Hospital For Max HP Healed
+author: bungholio
 mode: once
 w32 0026D118 60000000
 
 name: Heal 1 Unit At Hospital For Max SP Healed
+author: bungholio
 mode: once
 w32 0026D13C 60000000
 
 name: Revive 1 Unit At Hospital For Max Revives
+author: bungholio
 mode: once
 w32 0026D0F4 60000000
 
 name: Can Use Unlimited Character Creation Or Reincarnation Bonus Points
+author: bungholio
 mode: once
 w32 00341A1C 38000000
 w32 00341B80 38000001
 w32 00341C20 38000000
 
 name: Unlimited Magichange Turns
+author: bungholio
 mode: once
 w32 002CC5BC 60000000
 
 name: Fused Monsters Do Not Lose SP At The End Of Turns
+author: bungholio
 mode: once
 w32 002CC344 60000000
 
 name: Press L3 + R3 To Instantly Win A Stage
+author: bungholio
 mode: once
 w32 0046D700 3C60301C
 w32 0046D704 A063E598
@@ -523,6 +641,7 @@ w32 0046D734 482CBA12
 w32 002CBA0C 4846D702
 
 name: Item World Floor Modifier
+author: bungholio
 mode: once
 w32 004706B0 60800000
 w32 004706B4 3C60301C
@@ -560,6 +679,7 @@ w32 00470730 48028AE2
 w32 00028ADC 484706B2
 
 name: Item Innocent Modifier
+author: bungholio
 mode: once
 w32 00471BB0 3FA0301C
 w32 00471BB4 A3BDE59A
@@ -689,440 +809,548 @@ w32 00471DE0 48092742
 w32 0009273C 48471BB2
 
 name: AoB Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 aob 7C0007B47D290214E80B0B98E92900087C090050 8816055B2F800000E80B0BA8419E00083C000000
 
 name: AoB Infinite SP For You, 0 SP For Enemies After 1 Use
+author: bungholio
 mode: once
 aob 600000007A6B0020814B01AC813B0D887D2907B4E80A0BA07C090050 7A6B0020814B01AC880B055B2F800000E80A0BB0419E00083C000000
 
 name: AoB Can Control Anything
+author: bungholio
 mode: once
 aob 418200142F830000 480000142F830000
 aob 3BA000014BFFF9DC 3BA000014BFFF908
 aob 4BFFE1C160000000A09F0FBC88BF0FEE 6000000060000000A09F0FBC48000158
 
 name: AoB Unlimited Moves
+author: bungholio
 mode: once
 aob 3BDE000E881F0582 3BDE000E4846D786
 aob 419E0074887C055B889F055B 419E0074887C055B4846D75A
 aob 000000000000000000000000000000002C0000010009001200000000000000000046D0B00046D2B8004A58E000000000000000000000000000000000 38800000909F055C889F055B4802F2462C0000010009001200000000000000000046D0B00046D2B8004A58E038000000901F0580881F05824801DB02
 
 name: AoB Buy Or Sell Anything For Max HL
+author: bungholio
 mode: once
 aob 409D0010F9230AA8386000014800000C 60000000F9230AA8386000014800000C
 aob 409C0010F9630AA838600001 60000000F9630AA838600001
 aob 408000247C0400D0E9230AA87FA90000409C004838000000F8030AA83860FFFF480000502FA40000409D003039600918796B07C6656B4E72616B9FFF7C045850E9230AA87FA04800409C0010 480000247C0400D0E9230AA87FA90000409C004838000000F8030AA83860FFFF480000502FA400006000000039600918796B07C6656B4E72616B9FFF7C045850E9230AA87FA0480060000000
 
 name: AoB All Evil Symbols Can Now Be Suggested
+author: bungholio
 mode: once
 aob 4BFFEEA92F830000419E000C 4BFFEEA92F83000060000000
 
 name: AoB Sell An Evility For Max Mana
+author: bungholio
 mode: once
 aob 409D000891230C487BC90020 6000000091230C487BC90020
 
 name: AoB Kill Anything With A Magichanged Unit For Max Mana
+author: bungholio
 mode: once
 aob 7F804840409D015C 7F80484060000000
 
 name: AoB Kill Anything With A Fused Monster Unit For Max Mana
+author: bungholio
 mode: once
 aob 7F804840409D002C 7F80484060000000
 
 name: AoB Kill Anything With A Normal Unit For Max Mana
+author: bungholio
 mode: once
 aob 409D0008917D0C48E80100C0 60000000917D0C48E80100C0
 
 name: AoB Enter The "Create A New Character" Or "Reincarnate" Menu For Max Mana
+author: bungholio
 mode: once
 aob 80090C487C030050 80090C483C000099
 
 name: AoB Create A New Character Or Reincarnate For Max Mana
+author: bungholio
 mode: once
 aob 80090C487C1E0050 80090C483C000099
 
 name: AoB Boost A Non-Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 7C180050901C0C487F23CB78 3C000099901C0C487F23CB78
 
 name: AoB Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 aob 7C180050901C0C487F43D378 3C000099901C0C487F43D378
 
 name: AoB Learn A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 aob 801E0C487C1F0050 801E0C483C000099
 
 name: AoB Win The Instant A Stage Starts
+author: bungholio
 mode: once
 aob 408201A8881F055B 408201A860000000
 
 name: AoB New Items Have Max MV
+author: bungholio
 mode: once
 aob A009001A981C00F4 3800001F981C00F4
 
 name: AoB New Items Have Max JMP
+author: bungholio
 mode: once
 aob 880900DF981C00F5 38000063981C00F5
 
 name: AoB New Items Are At Level 255 (Do Not Use With Items Have Max Counters)
+author: bungholio
 mode: once
 aob 39600000B17C00D2 396000FFB17C00D2
 
 name: AoB New Items Have Max Attack Range
+author: bungholio
 mode: once
 aob 880900DE981C00F7 38000009981C00F7
 
 name: AoB New Items Have Max Critical Rate
+author: bungholio
 mode: once
 aob 880900E1981C00FA 38000063981C00FA
 
 name: AoB New Items Have Max Counters (Do Not Use With Items Level 255)
+author: bungholio
 mode: once
 aob 39600000B17C00D2 38000009981C00EB
 
 name: AoB New Items Are Legendary
+author: bungholio
 mode: once
 aob 409D0018386000084816E2ED 60000000386000024816E2ED
 
 name: AoB New Items Have 8 Innocents Capacity
+author: bungholio
 mode: once
 aob 380000007C0307B44E800020FBC1FFF0 38000000386000044E800020FBC1FFF0
 
 name: AoB All New Items Have 8 Innocents
+author: bungholio
 mode: once
 aob 7F98D000409EFF2C 2F9A0008409EFF2C
 
 name: AoB New Item Innocents Are At Max Levels
+author: bungholio
 mode: once
 aob 2F800072409E000C38000001 2F8000726000000038004E1E
 
 name: AoB New Item Innocents Are Transferable
+author: bungholio
 mode: once
 aob 2F800071409E000C38000001 2F8000716000000038000001
 
 name: AoB Kill Anything With A Special Tower Attack For Max EXP
+author: bungholio
 mode: once
 aob 409D0008F80B0008787D0020 60000000F80B0008787D0020
 
 name: AoB Unknown EXP Maximizer 1
+author: bungholio
 mode: once
 aob 409D0008F80B000838E700024200FF6C788A0020 60000000F80B000838E700024200FF6C788A0020
 
 name: AoB Unknown EXP Maximizer 2
+author: bungholio
 mode: once
 aob 409D0078F80B000848000070 60000000F80B000848000070
 
 name: AoB Unknown EXP Maximizer 3
+author: bungholio
 mode: once
 aob 409D0008F80B00082F830002 60000000F80B00082F830002
 
 name: AoB Kill Anything With A Single Small Magichanged Unit For Max EXP
+author: bungholio
 mode: once
 aob 409D015CF81D0008 60000000F81D0008
 
 name: AoB Unknown EXP Maximizer 4
+author: bungholio
 mode: once
 aob 409D0008F80B000838E700024200FF6C7FE9AE76 60000000F80B000838E700024200FF6C7FE9AE76
 
 name: AoB Kill Anything With A Small Fused Unit For Max EXP
+author: bungholio
 mode: once
 aob 409D002CF81D000848000024 60000000F81D000848000024
 
 name: AoB Kill Anything With A Normal Unit For Max EXP
+author: bungholio
 mode: once
 aob 409D0008F97D0008 60000000F97D0008
 
 name: AoB Bought Evilities Are "Miasma of Silence"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800073
 
 name: AoB Bought Evilities Are "Dark Aura"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800074
 
 name: AoB Bought Evilities Are "Bond of Souls"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388000D2
 
 name: AoB Bought Evilities Are "Attack with Cure"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388000FB
 
 name: AoB Bought Evilities Are "Attack with Steal"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388000FC
 
 name: AoB Bought Evilities Are "Attack Multiple"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388000FD
 
 name: AoB Bought Evilities Are "Attack Reversal"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388000FE
 
 name: AoB Bought Evilities Are "Protect"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880012C
 
 name: AoB Bought Evilities Are "Death's Heal"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880012D
 
 name: AoB Bought Evilities Are "Support Attack"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800131
 
 name: AoB Bought Evilities Are "More Counter Hits"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880013F
 
 name: AoB Bought Evilities Are "Echo"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800140
 
 name: AoB Bought Evilities Are "Soul Crush"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800141
 
 name: AoB Bought Evilities Are "Mind Blast"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800142
 
 name: AoB Bought Evilities Are "100% Accuracy"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800143
 
 name: AoB Bought Evilities Are "Double Lock-On"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800144
 
 name: AoB Bought Evilities Are "Null Non-Element"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800173
 
 name: AoB Bought Evilities Are "Null Fire"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800174
 
 name: AoB Bought Evilities Are "Null Wind"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800175
 
 name: AoB Bought Evilities Are "Null Ice"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800176
 
 name: AoB Bought Evilities Are "Null Star"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800177
 
 name: AoB Bought Evilities Are "Null Physical"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800178
 
 name: AoB Bought Evilities Are "Null Magic"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800179
 
 name: AoB Bought Evilities Are "Void Justice"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880017D
 
 name: AoB Bought Evilities Are "Faint"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880017E
 
 name: AoB Bought Evilities Are "Healthy Bod"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800180
 
 name: AoB Bought Evilities Are "Love Field"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800183
 
 name: AoB Bought Evilities Are "Backstab Poison"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880018B
 
 name: AoB Bought Evilities Are "Backstab Sleep"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880018C
 
 name: AoB Bought Evilities Are "Backstab Paralyze"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880018D
 
 name: AoB Bought Evilities Are "Backstab Forget"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880018E
 
 name: AoB Bought Evilities Are "Backstab Deprave"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880018F
 
 name: AoB Bought Evilities Are "Backstab Half HP"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800190
 
 name: AoB Bought Evilities Are "Wpn EXP Up"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800194
 
 name: AoB Bought Evilities Are "Skill EXP Up"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800195
 
 name: AoB Bought Evilities Are "Heart Steal"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800198
 
 name: AoB Bought Evilities Are "Lucky Finger"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880019B
 
 name: AoB Bought Evilities Are "Law by Range"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880019D
 
 name: AoB Bought Evilities Are "Tower Walk"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001C3
 
 name: AoB Bought Evilities Are "Sky Swim"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001C7
 
 name: AoB Bought Evilities Are "Judo Black Belt"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001C8
 
 name: AoB Bought Evilities Are "Multiple Cube Lift"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001CD
 
 name: AoB Bought Evilities Are "Sky High"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001D0
 
 name: AoB Bought Evilities Are "Learn Geo Warp"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001D8
 
 name: AoB Bought Evilities Are "Explosive Nature"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001DA
 
 name: AoB Bought Evilities Are "Level Spurt"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388001FE
 
 name: AoB Bought Evilities Are "Ties"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880026A
 
 name: AoB Bought Evilities Are "Copy Ninjitsu"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880026B
 
 name: AoB Bought Evilities Are "Angel Blessings"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800273
 
 name: AoB Bought Evilities Are "Metal Detector"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880028B
 
 name: AoB Bought Evilities Are "Jet-black Sword"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB7838800291
 
 name: AoB Bought Evilities Are "Tyrant Guard"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880029B
 
 name: AoB Bought Evilities Are "Infinite Power"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880029C
 
 name: AoB Bought Evilities Are "Revenge Throw"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002A2
 
 name: AoB Bought Evilities Are "Red Scarf"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002A7
 
 name: AoB Bought Evilities Are "Weapon Break"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002AE
 
 name: AoB Bought Evilities Are "Learn Special Skill"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002B0
 
 name: AoB Bought Evilities Are "Tower of Babel"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002BF
 
 name: AoB Bought Evilities Are "Tes 6"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002C2
 
 name: AoB Bought Evilities Are "Tes 11"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002C7
 
 name: AoB Bought Evilities Are "Tes 12"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002C8
 
 name: AoB Bought Evilities Are "Tes 13"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002C9
 
 name: AoB Bought Evilities Are "Radar"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002CB
 
 name: AoB Bought Evilities Are "Tes 16"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002CC
 
 name: AoB Bought Evilities Are "Dual Bonus"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002CE
 
 name: AoB Bought Evilities Are "Tes 19"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002CF
 
 name: AoB Bought Evilities Are "Tes 20"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002D0
 
 name: AoB Bought Evilities Are "Replacement Doll"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB78388002D9
 
 name: AoB Bought Evilities Are "Protect"
+author: bungholio
 mode: once
 aob 7B6900207FE3FB78A0890008 7B6900207FE3FB783880032B
 
 name: AoB Bonus Gauge Always Starts At 9
+author: bungholio
 mode: once
 aob 60000000B3DFCD34 3BC00009B3DFCD34
 
 name: AoB Can Dispatch An Unlimited Amount Of Units On Stage
+author: bungholio
 mode: once
 aob 3929FFFF992BCD3E 3929FFFF60000000
 
 name: AoB Special Skills Are Higher Than +9 Only In Battle
+author: bungholio
 mode: once
 aob 7C0007742F800009409D000C38000009 7C0007742F800009600000003800007F
 
 name: AoB Unlock All Classes
+author: bungholio
 mode: once
 aob A009396E7C0007347F801800409E0018A0090FB87C0007347F880000409C00087C080378396B00014200FFBC7D0307B44E80002081228980 A009396E7C0007347F801800409E0018A0090FB87C0007347F880000409C00087C080378396B00014200FFBC7D0307B44E8000204E800020
 aob 918100987C7D1B787C9C23783BC000003BE00000 918100987C7D1B787C9C23783BC000003BE0FFFF
@@ -1136,51 +1364,62 @@ aob 480000447B290020A34900003B8000003BE00000 480000447B290020A34900003B8000003BE
 aob 3B2900E07B290020A34900003B8000003BE00000 3B2900E07B290020A34900003B8000003BE0FFFF
 
 name: AoB Unlock All Appointable Positions
+author: bungholio
 mode: once
 aob 4BFFEDC92F830000419E000C 4BFFEDC92F83000060000000
 
 name: AoB Heal 1 Unit At Hospital For Max HP Healed
+author: bungholio
 mode: once
 aob 9169CCD88162DD0439205AF3792907C66529107A61293FFFE80B0AC07FA04800409D0008 9169CCD88162DD0439205AF3792907C66529107A61293FFFE80B0AC07FA0480060000000
 
 name: AoB Heal 1 Unit At Hospital For Max SP Healed
+author: bungholio
 mode: once
 aob 409D0008F92B0AC87BA90020 60000000F92B0AC87BA90020
 
 name: AoB Revive 1 Unit At Hospital For Max Revives
+author: bungholio
 mode: once
 aob 8009CCD87F805800409D0008 8009CCD87F80580060000000
 
 name: AoB Can Use Unlimited Character Creation Or Reincarnation Bonus Points
+author: bungholio
 mode: once
 aob 8009001C7C0B0214 8009001C38000000
 aob 409D00F8800B001C 409D00F838000001
 aob 8009001C7C0B0050 8009001C38000000
 
 name: AoB Unlimited Magichange Turns
+author: bungholio
 mode: once
 aob 3809FFFF981F05B2 3809FFFF60000000
 
 name: AoB Fused Monsters Do Not Lose SP At The End Of Turns
+author: bungholio
 mode: once
 aob 7C040050F80B0BA0 7C04005060000000
 
 name: AoB Press L3 + R3 To Instantly Win A Stage
+author: bungholio
 mode: once
 aob 000000000000000000000000000000002C0000010009000A00000000000000000046D0900046D250004A5868000000000000000000000000 3C60301CA063E5982B830006480000202C0000010009000A00000000000000000046D0900046D250004A5868419E0008881F055B482CBA12
 aob 408201A8881F055B 408201A84846D702
 
 name: AoB Item World Floor Modifier
+author: bungholio
 mode: once
 aob 18000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 18000000608000003C60301CA063E5983C8002DDA08403007F841840419E00603C8002DDB0640300A089A8402B830011409E000C38840001480000102B830041409E00303884FFFFB089A840B089A8443C6000B0B0833CC8B0833CCE3C600134B083F0CA3C60015AB083235E48000010386000003C8002DDB064030060040000A069A84048028AE2
 aob 3D29001CA069A840 3D29001C484706B2
 
 name: AoB Item Innocent Modifier
+author: bungholio
 mode: once
 aob 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 3FA0301CA3BDE59A3C6002DDA08303027F9D2040419E0218B3A30302A08500042B9D0014409E00DC2B840008409E000C3880000B480001E82B840011409E000C38800015480001D82B84001A409E000C3880001F480001C82B840022409E000C38800029480001B82B840030409E000C38800033480001A82B84003B409E000C3880003D480001982B84003F409E000C38800041480001882B840042409E000C38800047480001782B840048409E000C3880006F480001682B840072409E000C38800083480001582B84008A409E000C3880008D480001482B84008D409E000C388000C9480001382B8400E2409E000C388000014800012838840001480001202B9D0084409E01282B840001409E000C388000E2480001082B84000B409E000C38800008480000F82B840015409E000C38800011480000E82B84001F409E000C3880001A480000D82B840029409E004C000000000000000000000000006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B006B00000000000000000000000038800022480000C82B840033409E000C38800030480000782B84003D409E000C3880003B480000682B840041409E000C3880003F480000582B840047409E000C38800042480000482B84006F409E000C38800048480000382B840083409E000C38800072480000282B84008D409E000C3880008A480000182B8400C9409E000C3880008D480000083884FFFFB08500044800000C38800000B083030283A28DF048092742
 aob 7CD5337883A28DF0 7CD5337848471BB2
 
 name: Infinite HP For You, Enemies Die From 1 Hit
+author: bungholio
 mode: once
 w32 001319F0 8816052B
 w32 001319F4 2F800000
@@ -1189,6 +1428,7 @@ w32 001319FC 419E0008
 w32 00131A00 3C000000
 
 name: Infinite SP For You, SP For Enemies After 1 Use
+author: bungholio
 mode: once
 w32 002DEE48 7A6B0020
 w32 002DEE4C 814B01AC
@@ -1199,176 +1439,218 @@ w32 002DEE5C 419E0008
 w32 002DEE60 3C000000
 
 name: Can Control Anything
+author: bungholio
 mode: once
 w32 0032008C 60000000
 w32 00320098 4BFFF8FC
 
 name: Unlimited Moves
+author: bungholio
 mode: once
 w32 0031F958 3D800000
 w32 0031F97C B19D055C
 
 name: Sell Anything For Max HL
+author: bungholio
 mode: once
 w32 0002B2B4 60000000
 
 name: All Evil Symbols Can Now Be Suggested
+author: bungholio
 mode: once
 w32 000757A8 60000000
 
 name: Class A + B Created Or Reincarnated Characters Do Not Require Approval
+author: bungholio
 mode: once
 w32 0035FA5C 60000000
 
 name: Sell An Evility For Max Mana
+author: bungholio
 mode: once
 w32 00386F00 60000000
 
 name: Kill Anything With A Magichanged Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001D070 60000000
 
 name: Kill Anything With A Fused Monster Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001D264 60000000
 
 name: Kill Anything With A Normal Unit For Max Mana
+author: bungholio
 mode: once
 w32 0001D288 60000000
 
 name: Enter The "Create A New Character" Or "Reincarnate" Menu For Max Mana
+author: bungholio
 mode: once
 w32 001EEB48 3C000099
 
 name: Create A New Character Or Reincarnate For Max Mana
+author: bungholio
 mode: once
 w32 0035F998 3C000099
 
 name: Boost A Non-Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 0038B054 3C000099
 
 name: Boost A Character Specific Skill For Max Mana
+author: bungholio
 mode: once
 w32 0038B0E0 3C000099
 
 name: Learn A Skill Or Evility For Max Mana
+author: bungholio
 mode: once
 w32 0038B578 3C000099
 
 name: Win The Instant A Stage Starts
+author: bungholio
 mode: once
 w32 002E3558 3C000000
 
 name: Instant Wins On
+author: bungholio
 mode: once
 w32 002E3558 3C000000
 
 name: New Items Have Max MV
+author: bungholio
 mode: once
 w32 0007DB70 3800001F
 
 name: New Items Have Max JMP
+author: bungholio
 mode: once
 w32 0007DB78 38000063
 
 name: New Items Are At Level 255 (Do Not Use With Items Have Max Counters)
+author: bungholio
 mode: once
 w32 0007DB68 396000FF
 
 name: New Items Have Max Attack Range
+author: bungholio
 mode: once
 w32 0007DB50 38000009
 
 name: New Items Have Max Critical Rate
+author: bungholio
 mode: once
 w32 0007DB58 38000063
 
 name: New Items Have Max Counters (Do Not Use With Items Level 255)
+author: bungholio
 mode: once
 w32 0007DB68 38000009
 w32 0007DB6C 981C00EB
 
 name: New Items Are Legendary
+author: bungholio
 mode: once
 w32 0007DBF4 60000000
 w32 0007DBF8 38600002
 
 name: New Items Have 8 Innocents Capacity
+author: bungholio
 mode: once
 w32 0007DD0C 39200008
 w32 0007DE6C 38000008
 
 name: All New Items Have 8 Innocents
+author: bungholio
 mode: once
 w32 0007DE1C 2F9A0008
 
 name: New Item Innocents Are At Max Levels
+author: bungholio
 mode: once
 w32 0007D384 60000000
 w32 0007D388 38004E1E
 
 name: New Item Innocents Are Transferable
+author: bungholio
 mode: once
 w32 0007D370 60000000
 
 name: Kill Anything With A Special Tower Attack For Max EXP
+author: bungholio
 mode: once
 w32 0001E210 60000000
 
 name: Unknown EXP Maximizer 1
+author: bungholio
 mode: once
 w32 0001D400 60000000
 
 name: Unknown EXP Maximizer 2
+author: bungholio
 mode: once
 w32 0001D474 60000000
 
 name: Unknown EXP Maximizer 3
+author: bungholio
 mode: once
 w32 0001D4E4 60000000
 
 name: Kill Anything With A Single Small Magichanged Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001D748 60000000
 
 name: Unknown EXP Maximizer 4
+author: bungholio
 mode: once
 w32 0001D80C 60000000
 
 name: Kill Anything With A Small Fused Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001D93C 60000000
 
 name: Kill Anything With A Normal Unit For Max EXP
+author: bungholio
 mode: once
 w32 0001D960 60000000
 
 name: Bonus Gauge Always Starts At 9
+author: bungholio
 mode: once
 w32 002CE644 3BC00009
 
 name: Can Dispatch An Unlimited Amount Of Units On Stage
+author: bungholio
 mode: once
 w32 002CF85C 60000000
 
 name: Special Skills Are Higher Than +9 Only In Battle
+author: bungholio
 mode: once
 w32 001436CC 60000000
 w32 001436D0 3800007F
 
 name: Items Do Not Disappear From Shops When You Buy Them
+author: bungholio
 mode: once
 w32 0027FAA8 60000000
 
 name: AoB Max Mana
+author: datetext.blog109.fc2.com/blog-entry-17.html
 mode: once
 aob 6000967E81320C487F890040419D006038600CAF 6000967E81320C487C09037891320C4838600CAF
 
 name: AoB 100% Steal Rate
+author: datetext.blog109.fc2.com/blog-entry-17.html
 mode: once
 aob 386000644BEAC099600000007F83E800409C07BC 386000004BEAC099600000007F83E80060000000
 
 name: AoB Max Stats For Player Magichange Weapons
+author: datetext.blog109.fc2.com/blog-entry-17.html
 mode: once
 aob 409D0008F92B0000394A0001396B00083863000842400800 60000000F92B0000394A0001396B00083863000842400800

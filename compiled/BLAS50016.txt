@@ -1,49 +1,60 @@
 # Bladestorm: Hyakunen Sensou
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1A34F5FC 0098967F
 
 name: Infinite Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00072A18 409D0008
 
 name: Reputation
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 1A34F600 000007D0
 
 name: Point
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 000F05F8 409D0134
 
 name: Exp
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001D8348 409D007C
 
 name: Infinite SP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0036409C 60000000
 
 name: Combo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 000FC334 3940270F
 
 name: Unit 1
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 1A34F8B2 1E
 w8 1A34F8B3 09
 
 name: Unit 2
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 1A34F8B6 1E
 w8 1A34F8B7 09
 
 name: Unit 3
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 1A34F8BA 1E
 w8 1A34F8BB 09
 
 name: Battle Book SP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 1A34F90E 270F
 w16 1A34F962 270F
@@ -58,6 +69,7 @@ w16 1A34FC02 270F
 w16 1A34FC56 270F
 
 name: Battle Book LV 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 1A34F907 63
 w8 1A34F95B 63
@@ -72,17 +84,21 @@ w8 1A34FBFB 63
 w8 1A34FC4F 63
 
 name: 99,999,999 Money
+author: xtatu
 mode: once
 w32 1A34F5FC 05F5E0FF
 
 name: AoB Infinite SP
+author: xtatu
 mode: once
 aob 7FBEE8504BCC131D60000000801F0004540B2036 600000004BCC131D60000000801F0004540B2036
 
 name: No Move Enemy
+author: xtatu
 mode: once
 w32 002978E4 409D007C
 
 name: AoB No Move Enemy
+author: xtatu
 mode: once
 aob 2B800033419D007CA17F008038000000 2B800033409D007CA17F008038000000

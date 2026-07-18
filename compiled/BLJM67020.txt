@@ -1,6 +1,7 @@
 # Middle-Earth: Shadow of Mordor
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 00461030 C03E00D4
 w32 00461034 D03E00D8
@@ -15,38 +16,46 @@ w32 00461054 7CA50734
 w32 00461058 48000008
 
 name: Max And Infinite Health For Caragor
+author: FBML
 mode: once
 w32 0041B8FC C02400D4
 w32 0041B900 D02400D8
 
 name: Max And Infinite Focus
+author: FBML
 mode: once
 w32 0042C9FC 60000000
 
 name: Max And Infinite Elf-Shot
+author: FBML
 mode: once
 w32 0042CFA8 48000008
 
 name: Max And Infinite Mirian Coins After Gain Or Spend
+author: FBML
 mode: once
 w32 00761CA8 3BE0270F
 w32 0076266C 3BE0270F
 
 name: Hit Streak Always Charged
+author: FBML
 mode: once
 w32 0042F694 38600008
 w32 0042F698 B07F0082
 w32 0042F69C A09F0082
 
 name: Weapon Powers Are Always Charged
+author: FBML
 mode: once
 w32 00760314 60000000
 
 name: Max Ability Points On Gain
+author: FBML
 mode: once
 w32 004060E8 7C641B78
 
 name: Max Power Points On Gain And Unlock All Tiers
+author: FBML
 mode: once
 w32 004034A0 7C671B78
 w32 004034AC 7CC53378
@@ -54,93 +63,115 @@ w32 004034B0 90BE02F4
 w32 004034B8 7CE63B78
 
 name: AoB Max And Infinite Health
+author: FBML
 mode: once
 aob C03E00D880610074FC20081EE841002883830000D821001880A1001C839C001C7CA507342C05000040800008 C03E00D4D03E00D880610074FC20081EE841002883830000D821001880A1001C839C001C7CA5073448000008
 
 name: AoB Max And Infinite Health For Caragor
+author: FBML
 mode: once
 aob 41820014C02400D8 C02400D4D02400D8
 
 name: AoB Max And Infinite Focus
+author: FBML, dron_3
 mode: once
 aob 4186001863630000FC201090 6000000063630000FC201090
 
 name: AoB Max And Infinite Elf-Shot
+author: FBML
 mode: once
 aob 4181000860E8000060A40000 4800000860E8000060A40000
 
 name: AoB Max And Infinite Mirian Coins After Gain Or Spend
+author: FBML
 mode: once
 aob 7FFEF810A1070006 3BE0270FA1070006
 aob 7FE3B8147BFF002048000030 3BE0270F7BFF002048000030
 
 name: AoB Hit Streak Always Charged
+author: FBML
 mode: once
 aob A07F00827C6307347C041800 38600008B07F0082A09F0082
 
 name: AoB Weapon Powers Are Always Charged
+author: FBML
 mode: once
 aob 4182001080A40000 6000000080A40000
 
 name: AoB Max Ability Points On Gain
+author: FBML
 mode: once
 aob 7C8320102C04000041800034 7C641B782C04000041800034
 
 name: AoB Max Power Points On Gain And Unlock All Tiers
+author: FBML
 mode: once
 aob 80FE02F87C6718102C030000408100089061009C60C300007CC7E014 7C671B787C6718102C0300007CC5337890BE02F460C300007CE63B78
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00461600 C03E00D4
 w32 00461604 D03E00D8
 w32 00461608 48000008
 
 name: Infinite Focus
+author: dron_3
 mode: once
 w32 0042D034 60000000
 
 name: Max XP On Gain
+author: tekman
 mode: once
 w32 00406894 7C846814
 
 name: Infinite Skills Points On Use
+author: tekman
 mode: once
 w32 00762840 60000000
 
 name: Max Ranks On Gain
+author: tekman
 mode: once
 w32 00403AF0 7CC76814
 
 name: Infinite Arrows
+author: tekman
 mode: once
 w32 0042D5F4 60A40000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 7CA507342C05000040800008 C03E00D4D03E00D848000008
 
 name: AoB Infinite Focus
+author: FBML, dron_3
 mode: once
 aob 4186001863630000FC201090 6000000063630000FC201090
 
 name: AoB Max XP On Gain
+author: tekman
 mode: once
 aob 60000000809E02F063C300007C84E814 60000000809E02F063C300007C846814
 
 name: AoB Infinite Skills Points On Use
+author: tekman
 mode: once
 aob 4080000861050000B0A700044800000C 4080000861050000600000004800000C
 
 name: AoB Max Ranks On Gain
+author: tekman
 mode: once
 aob 408100089061009C60C300007CC7E014 408100089061009C60C300007CC76814
 
 name: AoB Infinite Arrows
+author: tekman
 mode: once
 aob 4182000860C4000080DF0018909F0030 4182000860A4000080DF0018909F0030
 
 name: Max And Infinite Health
+author: FBML
 mode: once
 w32 00464440 C03E00D4
 w32 00464444 D03E00D8
@@ -155,38 +186,46 @@ w32 00464464 7CA50734
 w32 00464468 48000008
 
 name: Max And Infinite Health For Caragor
+author: FBML
 mode: once
 w32 0041ED94 C02400D4
 w32 0041ED98 D02400D8
 
 name: Max And Infinite Focus
+author: FBML
 mode: once
 w32 0042FE94 60000000
 
 name: Max And Infinite Elf-Shot
+author: FBML
 mode: once
 w32 00430440 48000008
 
 name: Max And Infinite Mirian Coins After Gain Or Spend
+author: FBML
 mode: once
 w32 007667F4 3BE0270F
 w32 00765E30 3BE0270F
 
 name: Hit Streak Always Charged
+author: FBML
 mode: once
 w32 00432B2C 38600008
 w32 00432B30 B07F0082
 w32 00432B34 A09F0082
 
 name: Weapon Powers Are Always Charged
+author: FBML
 mode: once
 w32 0076449C 60000000
 
 name: Max Ability Points On Gain
+author: FBML
 mode: once
 w32 00409590 7C641B78
 
 name: Max Power Points On Gain And Unlock All Tiers
+author: FBML
 mode: once
 w32 00406948 7C671B78
 w32 00406954 7CC53378
@@ -194,6 +233,7 @@ w32 00406958 90BE02F4
 w32 00406960 7CE63B78
 
 name: AoB Max And Infinite Mirian Coins After Gain Or Spend
+author: FBML
 mode: once
 aob 7FE3B8147BFF002048000030 3BE0270F7BFF002048000030
 aob 7FFEF810A1070006 3BE0270FA1070006

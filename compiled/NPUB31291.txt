@@ -1,9 +1,11 @@
 # Sniper Elite V2
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00854560 8063016C
 
 name: Infinite Items
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005EF7F4 80630038

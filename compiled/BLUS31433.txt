@@ -1,6 +1,7 @@
 # Escape Dead Island
 
 name: Enable Code For All Codes
+author: bungholio
 mode: once
 w32 00D48CB0 F821FFF9
 w32 00D48CB4 7C0802A6
@@ -151,21 +152,26 @@ w32 00CFD884 6F6E0000
 w32 00129334 48D48CB2
 
 name: Current Ammo Never Decreases
+author: bungholio
 mode: once
 w32 00CF4530 00CFDC30
 
 name: Reserve Ammo Never Decreases
+author: bungholio
 mode: once
 w32 00CF4534 00CFDC78
 
 name: Stamina Never Decreases
+author: bungholio
 mode: once
 w32 00CF4538 00CFDCC0
 
 name: Player Health Never Decreases
+author: bungholio
 mode: once
 w32 00CF453C 00CFDD08
 
 name: Enemies Die From Any Damage
+author: bungholio
 mode: once
 w32 00CF4540 00CFDD58

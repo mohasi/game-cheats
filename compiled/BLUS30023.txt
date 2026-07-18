@@ -1,6 +1,7 @@
 # The Godfather: The Don's Edition
 
 name: Max And Infinite Money
+author: tekman
 mode: once
 w32 002EA884 3D203B9A
 w32 002EA888 6129C9FF
@@ -9,20 +10,24 @@ w32 002EB7C8 6129C9FF
 w32 002EC640 60000000
 
 name: Infinite Ammo And Never Need To Reload
+author: tekman
 mode: once
 w32 000A400C 39290000
 
 name: AoB Max And Infinite Money
+author: tekman
 mode: once
 aob 781F00207D3F4850792900207D2407B4 781F00203D203B9A6129C9FF7D2407B4
 aob 7BBE00207D29F214792900207D2407B4 7BBE00203D203B9A6129C9FF7D2407B4
 aob 91FA0024419E002C7C90B8507FC3F378 60000000419E002C7C90B8507FC3F378
 
 name: AoB Infinite Ammo And Never Need To Reload
+author: tekman
 mode: once
 aob 2FA300003929FFFF913F01EC419E0024 2FA3000039290000913F01EC419E0024
 
 name: Max And Infinite Money
+author: tekman
 mode: once
 w32 002EA850 3D203B9A
 w32 002EA854 6129C9FF
@@ -31,5 +36,6 @@ w32 002EB794 6129C9FF
 w32 002EC60C 60000000
 
 name: Infinite Ammo And Never Need To Reload
+author: tekman
 mode: once
 w32 000A3F04 39290000

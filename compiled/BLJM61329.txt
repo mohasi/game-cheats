@@ -1,15 +1,18 @@
 # LEGO Marvel Avengers
 
 name: Memory Lot + Infinite Pieces Of Lego On Gain
+author: jgduff1
 mode: once
 w32 37002FFC 00010267
 w32 37003004 00010267
 
 name: ASM Lot + Infinite Pieces Of Lego On Gain
+author: jgduff1
 mode: once
 w32 0125A840 FB3E0020
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 3442688C 35000000
 w32 34AC3E24 BA93E760
@@ -18,11 +21,13 @@ w32 3518EFB0 345CFA64
 w32 37110138 00000008
 
 name: ASM Infinite Health 1
+author: jgduff1
 mode: once
 w32 00D9FE5C 60000000
 w32 00DA0E90 60000000
 w32 00DA0E94 D03E0000
 
 name: ASM Infinite Health 2
+author: jgduff1
 mode: once
 w32 009700FC 60000000

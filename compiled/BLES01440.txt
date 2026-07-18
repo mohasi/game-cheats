@@ -1,10 +1,12 @@
 # Armored Core: V
 
 name: Max Money
+author: Medo
 mode: once
 w32 30CF7180 3B9AC9FF
 
 name: Max Money (Alt)
+author: Medo
 mode: once
 w32 001BD4F4 3C803B9A
 w32 001BD4F8 6084C9FF

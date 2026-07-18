@@ -1,25 +1,31 @@
 # Fallout: New Vegas: Ultimate Edition
 
 name: Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+author: dron_3
 mode: once
 w8 01099EC4 01
 
 name: No Collision
+author: dron_3
 mode: once
 w8 0113156D 01
 
 name: AoB Infinite Health + Oxygen + AP + Ammo + Carrying Weight
+author: dron_3
 mode: once
 aob 88849EC42C04000040820058 3BE000019BE49EC448000058
 
 name: Unlock FPS
+author: PSXPlace
 mode: once
 w8 0097504C 60
 
 name: Unlock FPS (RPCS3) [Tested]
+author: RPCS3, PSXPlace
 mode: once
 w32 0097504C 60000000
 
 name: Unlock FPS (PSXPlace) [Tested]
+author: RPCS3, PSXPlace
 mode: once
 w32 0097504C 60000000

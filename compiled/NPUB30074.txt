@@ -1,33 +1,41 @@
 # Wolfenstein 3D
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 00804488 00000008
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 0004632C 39290000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 00804484 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00045E18 60000000
 
 name: Memory Big Score On Gain
+author: jgduff1
 mode: once
 w32 00804478 000000C8
 
 name: ASM Big Score On Gain
+author: jgduff1
 mode: once
 w32 0004593C 913F000C
 
 name: Memory Infinite Lives
+author: jgduff1
 mode: once
 w32 00804480 00000005
 
 name: ASM Infinite Lives
+author: jgduff1
 mode: once
 w32 0001A940 39290000

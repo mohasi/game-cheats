@@ -1,46 +1,57 @@
 # Berserk Musou
 
 name: Memory 100x Combo Counter
+author: jgduff1
 mode: once
 w32 11DBC040 00000014
 
 name: ASM Combo Counter
+author: jgduff1
 mode: once
 w32 0033E8F8 90E300E0
 
 name: Memory Max Level On 1 Hit + Unlock All Items
+author: jgduff1
 mode: once
 w32 10A79A68 000004C4
 
 name: ASM Max Level On 1 Hit + Unlock All Items
+author: jgduff1
 mode: once
 w32 00279B14 919F0060
 
 name: Memory Full Fury Bar
+author: jgduff1
 mode: once
 w32 15127E50 43250000
 
 name: ASM Instant (x3) Fury Bar On 3 Hit (Full Gauge When You Press "O")
+author: jgduff1
 mode: once
 w32 00209F00 EC4F102A
 
 name: ASM Infinite Use (x3) Fury Bar
+author: jgduff1
 mode: once
 w32 00224F20 60000000
 w32 00224F34 60000000
 
 name: Memory Full Musou
+author: jgduff1
 mode: once
 w32 15127E34 03E803E8
 
 name: ASM Instant Max Musou On Gain Orbs
+author: jgduff1
 mode: once
 w32 0022A158 B1040B76
 
 name: Memory Max Money
+author: jgduff1
 mode: once
 w32 10A603BC 0000270F
 
 name: ASM Max + Infinite Money On Buy + Sell
+author: jgduff1
 mode: once
 w32 0016CE44 93DF36E4

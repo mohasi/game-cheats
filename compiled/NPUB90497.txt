@@ -1,10 +1,12 @@
 # Dragon Age II
 
 name: Infinite + No Waiting Time For Magic + Potions
+author: jgduff1
 mode: once
 w32 00116044 60000000
 
 name: Lot Of Exp On Gain
+author: jgduff1
 mode: once
 w32 00179D08 D2E4001C
 w32 0011B2DC D09C005C

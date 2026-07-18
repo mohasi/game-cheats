@@ -1,16 +1,19 @@
 # Marvel vs. Capcom 2 - New Age of Heroes
 
 name: P1 Infinite Health
+author: optantic
 mode: once
 w8 0064768D 90
 w8 006481D5 90
 w8 00648D1D 90
 
 name: P1 Infinite Super Meter
+author: optantic
 mode: once
 w8 00668562 05
 
 name: P2 + CPU No Super Meter
+author: optantic
 mode: once
 w8 00668561 00
 w8 00668563 00

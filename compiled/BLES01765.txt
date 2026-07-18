@@ -1,19 +1,23 @@
 # Dark Souls: Prepare to Die Edition
 
 name: Max Items on Discard + Deposit + Use + Pickup
+author: Medo
 mode: once
 w32 00B05208 60000000
 w32 00B05258 4000FFB4
 
 name: Max Souls
+author: Medo, Skiller
 mode: once
 w32 00B260F4 3D403B9B
 
 name: Max Humanity on Use + Gain
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 003F1CF4 38000063
 
 name: Damage Fully Refills Health
+author: bungholio
 mode: once
 w32 015D8F9C 3D20019E
 w32 015D8FA0 81295DA4
@@ -30,6 +34,7 @@ w32 015D9000 48407D32
 w32 00407D2C 495D8F9E
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 015D8F1C 3D20019E
 w32 015D8F20 81295DA4
@@ -45,6 +50,7 @@ w32 015D8F7C 4840EE0E
 w32 0040EE08 495D8F1E
 
 name: Enemies Can Not Grab You
+author: bungholio
 mode: once
 w32 015D9020 2F910000
 w32 015D9024 3C60019E

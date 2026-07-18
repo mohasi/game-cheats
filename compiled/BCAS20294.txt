@@ -1,25 +1,31 @@
 # Arcadias no Ikusahime
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 w32 00120E34 39290000
 
 name: Infinite Weapon Upgrades
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 w32 00183600 60000000
 
 name: Infinite Weapon Upgrade Materials
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 w32 00012CD4 60000000
 
 name: AoB Infinite Items
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 aob 3929FFFF2F890000912B0004409EFDD4 392900002F890000912B0004409EFDD4
 
 name: AoB Infinite Weapon Upgrades
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 aob 7D2902142F890063409D000839200063 600000002F890063409D000839200063
 
 name: AoB Infinite Weapon Upgrade Materials
+author: games24.blog.fc2.com/blog-entry-198.html
 mode: once
 aob 7C0500502F800000419C00B890090010 600000002F800000419C00B890090010

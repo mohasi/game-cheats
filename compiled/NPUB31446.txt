@@ -1,6 +1,7 @@
 # Sniper Elite III
 
 name: Infinite Ammo + Bottomless Clip
+author: flynhigh09
 mode: once
 w32 007890F4 60000000
 w32 00788ED8 60000000

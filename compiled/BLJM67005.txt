@@ -1,14 +1,17 @@
 # Fainaru Fantajī Sātīn
 
 name: Gil 999999999
+author: hyper2k
 mode: once
 w32 4446BE38 3B9AC9FF
 
 name: Material + Item 99
+author: CodeFreak
 mode: once
 w32 005867FC 2B800000
 
 name: All Characters CP 999999
+author: hyper2k
 mode: once
 w32 4447BA70 000F423F
 w32 4447D8F0 000F423F

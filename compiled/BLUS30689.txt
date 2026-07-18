@@ -1,5 +1,6 @@
 # NBA 2K11
 
 name: Skill Point 99999999 in Shop
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 04D26408 05F5E0FF

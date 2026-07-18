@@ -1,6 +1,7 @@
 # Flashback
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 113C1E8C 44C30000
 w32 116CA008 404F4000
@@ -13,21 +14,25 @@ w32 12CCC738 442F0000
 w32 163E86E0 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00057180 60000000
 w32 00057184 60000000
 
 name: Health Always Regenerates
+author: jgduff1
 mode: once
 w32 0005A97C FC2408AE
 w32 0005A980 60000000
 
 name: Memory Health Full Regain On Low Health
+author: jgduff1
 mode: once
 w32 163EDE20 00000064
 w32 17774814 00000064
 
 name: ASM Health Full Regain On Low Health
+author: jgduff1
 mode: once
 w32 00055A48 7C042814
 w32 00055A50 901D0000

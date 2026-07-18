@@ -1,42 +1,52 @@
 # Dynasty Warriors 7
 
 name: Max Money After Buying
+author: xtatu
 mode: once
 w32 0028E8B8 60000000
 w32 0028E8BC 90030C78
 
 name: Hit Kill Enemy + Recover Hit Hp
+author: xtatu
 mode: once
 w32 00F6F558 BF800000
 
 name: Infinite Musou
+author: xtatu
 mode: once
 w32 0008A640 409C0008
 
 name: Infinite Musou 2
+author: xtatu
 mode: once
 w32 0008A504 40980520
 
 name: 1000 HP Max
+author: xtatu
 mode: once
 w32 00289A34 409D0028
 
 name: 1400 Attack
+author: xtatu
 mode: once
 w32 00289670 409D0028
 
 name: 1400 Defense
+author: xtatu
 mode: once
 w32 00289780 409D0028
 
 name: Musou +3
+author: xtatu
 mode: once
 w32 00289094 409D000C
 
 name: 500 Speed
+author: xtatu
 mode: once
 w32 00285704 60000000
 
 name: Multiple Arrow Shot
+author: xtatu
 mode: once
 w32 00F72054 40800000

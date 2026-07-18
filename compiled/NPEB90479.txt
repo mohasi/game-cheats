@@ -1,74 +1,92 @@
 # Dynasty Warriors 7: Empires
 
 name: SP 99999 While Changing
+author: xtatu, jgduff1
 mode: once
 w32 002DA428 90030A50
 
 name: Food Gold 999
+author: xtatu
 mode: once
 w32 002DC7DC 38A003E7
 
 name: Fame Max
+author: xtatu
 mode: once
 w32 002D941C 60000000
 
 name: Military 9999
+author: xtatu
 mode: once
 w32 002D94E8 3860270F
 
 name: Merit 99999
+author: xtatu
 mode: once
 w32 002D9500 3860270F
 
 name: Max Food + Money On Buy + Gain Or After A Level Finish
+author: xtatu
 mode: once
 w32 002DC7DC 38A003E7
 
 name: Memory Max Food + Money On Buy + Gain Or After A Level Finish
+author: jgduff1
 mode: once
 w32 0108BE24 0000270F
 
 name: ASM Unknown Code 1
+author: bungholio
 mode: once
 w32 002DC7B0 60000000
 
 name: Memory Max Exp On Gain
+author: jgduff1
 mode: once
 w32 0104A9D4 0000270F
 
 name: ASM Max Exp On Gain
+author: jgduff1
 mode: once
 w32 002D9920 900F0038
 
 name: SP 99,999 While Changing
+author: xtatu, jgduff1
 mode: once
 w32 002DA428 90030A50
 
 name: ASM Unknown Code 2
+author: bungholio
 mode: once
 w32 002DA3EC 60000000
 
 name: Instant Max Musou On Gain
+author: jgduff1
 mode: once
 w32 0001B448 EC27002A
 
 name: SP 99,999 While Changing
+author: CodeUnique3
 mode: once
 w32 002D8EC8 90030A50
 
 name: Food Gold 999
+author: CodeUnique3
 mode: once
 w32 002DB27C 38A003E7
 
 name: Fame Max
+author: CodeUnique3
 mode: once
 w32 002D7EBC 60000000
 
 name: Military 9,999
+author: CodeUnique3
 mode: once
 w32 002D7F88 3860270F
 w32 002D7FA0 3860270F
 
 name: Player 9,999 KO In Battle
+author: CodeUnique3
 mode: once
 w32 00258A54 60000000

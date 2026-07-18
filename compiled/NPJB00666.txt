@@ -1,11 +1,13 @@
 # Godzilla
 
 name: Memory Sinister Level
+author: jgduff1
 mode: once
 w32 34097084 41C88005
 w32 34097088 41C88005
 
 name: ASM Sinister Level
+author: jgduff1
 mode: once
 w32 001AF200 60000000
 w32 001AF260 7CDC2D2E
@@ -13,25 +15,30 @@ w32 001AF2CC 60000000
 w32 001AF2D4 7C3C252E
 
 name: Temperature Never Decreases
+author: jgduff1
 mode: once
 w32 3477FD7C 42C80000
 
 name: Instant Max + Infinite Temperature
+author: jgduff1
 mode: once
 w32 0007DA6C EC23082A
 
 name: Memory Max Size
+author: jgduff1
 mode: once
 w32 34097074 426DE822
 w32 34097078 426DE822
 
 name: ASM Max Size
+author: jgduff1
 mode: once
 w32 001AF220 60000000
 w32 001AF2B4 60000000
 w32 001AF36C 60000000
 
 name: Memory Unknown Code
+author: jgduff1
 mode: once
 w32 3301A07C 00000601
 w32 3301A090 00000000
@@ -42,6 +49,7 @@ w32 3301A0C8 00000000
 w32 3382507C BC8883F3
 
 name: ASM Unknown Code
+author: jgduff1
 mode: once
 w32 000CB050 60000000
 w32 000CB0EC 60000000
@@ -63,10 +71,12 @@ w32 002D84F4 60000000
 w32 002D8500 60000000
 
 name: ASM Instant Max + Infinite Temperature
+author: jgduff1
 mode: once
 w32 0007DA6C EC23082A
 
 name: ASM Sinister Level
+author: jgduff1
 mode: once
 w32 001A8F9C 60000000
 w32 001A8FFC 7CDC2D2E
@@ -74,16 +84,19 @@ w32 001A9068 60000000
 w32 001A9070 7C3C252E
 
 name: ASM Instant Max + Infinite Temperature
+author: jgduff1
 mode: once
 w32 0007B6FC EC23082A
 
 name: ASM Max Size
+author: jgduff1
 mode: once
 w32 001A8FBC 60000000
 w32 001A9050 60000000
 w32 001A910C 60000000
 
 name: ASM Unknown Code
+author: jgduff1
 mode: once
 w32 000C89C8 60000000
 w32 000C8A64 60000000
@@ -105,6 +118,7 @@ w32 002D221C 60000000
 w32 002D2228 60000000
 
 name: ASM Sinister Level
+author: jgduff1
 mode: once
 w32 001AF1E0 60000000
 w32 001AF240 7CDC2D2E
@@ -112,16 +126,19 @@ w32 001AF2AC 60000000
 w32 001AF2B4 7C3C252E
 
 name: ASM Instant Max + Infinite Temperature
+author: jgduff1
 mode: once
 w32 0007DA8C EC23082A
 
 name: ASM Max Size
+author: jgduff1
 mode: once
 w32 001AF200 60000000
 w32 001AF294 60000000
 w32 001AF350 60000000
 
 name: ASM Unknown Code
+author: jgduff1
 mode: once
 w32 000CB070 60000000
 w32 000CB10C 60000000

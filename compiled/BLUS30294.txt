@@ -1,40 +1,49 @@
 # Marvel: Ultimate Alliance 2
 
 name: Heros Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002E83D0 60000000
 
 name: Heros Infinite Power
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002E840C 60000000
 
 name: Memory Max Level + Strike + Teamwork + Body + Focus + Hit Points + Stamina On 1 Kill
+author: jgduff1
 mode: once
 w32 313BB110 00000046
 w32 313BB4E0 000000A0
 
 name: ASM Max Level + Strike + Teamwork + Body + Focus + Hit Points + Stamina On 1 Kill
+author: jgduff1
 mode: once
 w32 0038783C 91490000
 w32 00387848 90430020
 
 name: Memory Infinite Power Points
+author: jgduff1
 mode: once
 w16 3138B394 003C
 
 name: ASM Infinite Power Points
+author: jgduff1
 mode: once
 w32 0021FA84 60000000
 
 name: Memory Lot + Infinite Ability Points On Change
+author: jgduff1
 mode: once
 w32 3138B398 0000014D
 
 name: ASM Lot + Infinite Ability Points On Change
+author: jgduff1
 mode: once
 w32 0021F390 90030008
 
 name: Infinite Health + Stamina For Player Controlled
+author: GuitarMan
 mode: once
 w32 00E761C0 78630020
 w32 00E761C4 FA0100D8
@@ -58,6 +67,7 @@ w32 001DA214 48E761C2
 w32 001BEA8C 48E761DA
 
 name: Invincibility For Player Controlled
+author: GuitarMan
 mode: once
 w32 00E76210 F8410028
 w32 00E76214 F8E1FFF4
@@ -79,6 +89,7 @@ w32 001DA224 48E76212
 w32 0021EA98 48E7622A
 
 name: Infinite Ability + Power Points
+author: GuitarMan
 mode: once
 w32 00E76270 FA01FFFC
 w32 00E76274 60700000

@@ -1,41 +1,50 @@
 # Need for Speed: Carbon
 
 name: Memory Infinite Bullet Time
+author: jgduff1
 mode: once
 w32 506B8198 3F800000
 
 name: ASM Infinite Bullet Time
+author: jgduff1
 mode: once
 w32 00504060 60000000
 w32 00504068 60000000
 w32 00504074 60000000
 
 name: Memory Lot + Infinite Money
+author: jgduff1
 mode: once
 w32 50B74AB8 000027D8
 
 name: ASM Lot + Infinite Money
+author: jgduff1
 mode: once
 w32 0013DF88 91630058
 
 name: Memory Infinite Nitro
+author: jgduff1
 mode: once
 w32 59C88C40 3F800000
 
 name: ASM Infinite Nitro
+author: jgduff1
 mode: once
 w32 00465208 60000000
 
 name: ASM Infinite Bullet Time
+author: jgduff1
 mode: once
 w32 005015B4 60000000
 w32 005015BC 60000000
 w32 005015C8 60000000
 
 name: ASM Lot + Infinite Money
+author: jgduff1
 mode: once
 w32 0013CDEC 91630058
 
 name: ASM Infinite Nitro
+author: jgduff1
 mode: once
 w32 00462CC0 60000000

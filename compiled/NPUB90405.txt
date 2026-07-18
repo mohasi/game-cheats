@@ -1,6 +1,7 @@
 # Medal of Honor
 
 name: Infinite HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010120 3DC00001
 w32 00010124 61CE869F
@@ -9,6 +10,7 @@ w32 0001012C 4E800020
 w32 000A0ABC 4BF6F665
 
 name: Infinite Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00EFE758 38800063
 w32 00EFE75C 90830348
@@ -16,6 +18,7 @@ w32 00EFE760 38600063
 w32 000A9BE8 90770330
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001DFEBC 38600063
 w32 001DFED0 90680290

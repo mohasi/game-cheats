@@ -1,85 +1,106 @@
 # Akiba's Trip: Undead &amp;amp; Undressed
 
 name: Max Gold in Change
+author: JorgeFFC
 mode: once
 w32 000DBC84 60000000
 
 name: Hero Shirt Immune to Normal Attack
+author: JorgeFFC
 mode: once
 w32 00107810 60000000
 
 name: Hero Bottoms Immune to Normal Attack
+author: JorgeFFC
 mode: once
 w32 00107A04 60000000
 
 name: Infinite Item Usage
+author: JorgeFFC
 mode: once
 w32 000E8A34 60000000
 
 name: Equipped Weapon has High Attack (900.000)
+author: JorgeFFC
 mode: once
 w32 000E6700 3C80000F
 
 name: 999 Hit Combo
+author: JorgeFFC
 mode: once
 w32 0012A3A4 388003E7
 
 name: Max Character Experience
+author: JorgeFFC
 mode: once
 w32 0061D40C 05F5E0FF
 
 name: Max Character Base Attack
+author: JorgeFFC
 mode: once
 w32 0061D408 000F423F
 
 name: Max Character Base Defense
+author: JorgeFFC
 mode: once
 w32 0061D404 000F423F
 
 name: AoB Max Gold in Change
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 4081000860830000606400003FE00061 6000000060830000606400003FE00061
 
 name: AoB Max Gold in Change
+author: JorgeFFC
 mode: once
 aob 4081000860830000606400003FE00063 6000000060830000606400003FE00063
 
 name: AoB Hero Shirt Immune Against Normal Attacks
+author: JorgeFFC
 mode: once
 aob 4802FD256000000038800001907E0990 4802FD25600000003880000160000000
 
 name: AoB Hero Bottoms Immune Against Normal Attacks
+author: JorgeFFC
 mode: once
 aob 38800002907E0994579CDFFE80DE0990 3880000260000000579CDFFE80DE0990
 
 name: AoB Exit Use Item Screen for Does Not Consume any Item
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 408100147C8438107C83312E38600001 600000007CE43B787C83312E38600001
 
 name: AoB Equipped Weapon High ATK (900.000+)
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 8081011C80A101203BC0000180C10124 3C80000F80A101203BC0000180C10124
 
 name: AoB Equipped Weapon High ATK (900.000+)
+author: JorgeFFC
 mode: once
 aob 808100B480A100B83BA0000180C100BC 3C80000F80A100B83BA0000180C100BC
 
 name: AoB 999 Hit-Combo
+author: JorgeFFC
 mode: once
 aob 38800001907F00003CA03F80909F0004 388003E7907F00003CA03F80909F0004
 
 name: AoB Transparent Clothes
+author: JorgeFFC
 mode: once
 aob 4082000C386000014800000838600000 60000000386000014800000838600000
 
 name: Memory Max Character Experience
+author: JorgeFFC
 mode: once
 w32 0061D40C 05F5E0FF
 
 name: Memory Max Character Base Attack
+author: JorgeFFC
 mode: once
 w32 0061D408 000F423F
 
 name: Memory Max Character Base Defense
+author: JorgeFFC
 mode: once
 w32 0061D404 000F423F

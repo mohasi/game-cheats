@@ -1,6 +1,7 @@
 # The Smurfs 2
 
 name: Memory Max Cornflower
+author: jgduff1
 mode: once
 w32 36F8BDF4 00000064
 w32 36F8BE74 00000003
@@ -8,15 +9,18 @@ w32 36F8C554 00000003
 w32 36F8C594 000003E7
 
 name: ASM Max Cornflower
+author: jgduff1
 mode: once
 w32 000CE704 7CE61814
 w32 000CF190 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 36F8B7AC 4479C000
 w32 36F8BF6C 4479C000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 001A3AAC D08302AC

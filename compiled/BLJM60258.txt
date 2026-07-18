@@ -1,5 +1,6 @@
 # Ken to Mahou to Gakuen Mono. 3
 
 name: Gold 99999999
+author: CodeUnique3
 mode: once
 w32 005F5D40 05F5E0FF

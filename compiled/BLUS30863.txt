@@ -1,9 +1,11 @@
 # Champion Jockey: G1 Jockey &amp;amp; Gallop Racer
 
 name: Max Riding Points When Decrease
+author: crapulecorp
 mode: once
 w32 00149408 923D6008
 
 name: AoB Max Riding Points When Decrease
+author: crapulecorp
 mode: once
 aob 907D60087C0803A6EBA10078 923D60087C0803A6EBA10078

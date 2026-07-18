@@ -1,51 +1,62 @@
 # Disney Castle of Illusion Starring Mickey Mouse
 
 name: Stars Never Decrease
+author: dron_3
 mode: once
 w32 001A0334 60000000
 w32 001A15F4 60000000
 
 name: Apples Never Decrease
+author: dron_3
 mode: once
 w32 001A2024 30660000
 
 name: 99 Lives On Gain + Lose
+author: dron_3
 mode: once
 w32 0012C33C 38A00063
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 001A1618 C05901E0
 w32 001A035C C05B01E0
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 001A107C 4BFFFF84
 
 name: Infinite Apples
+author: GuitarMan
 mode: once
 w32 001A1FDC 38C00064
 
 name: Infinite Lives
+author: GuitarMan
 mode: once
 w32 0019CE08 38A00063
 w32 0019CE0C 90A30008
 
 name: Max Score On Gain
+author: GuitarMan
 mode: once
 w32 0012C2A0 3C6005F5
 w32 0012C2A4 60000000
 w32 0012C2A8 6065E0FF
 
 name: Timer Played 00:00
+author: GuitarMan
 mode: once
 w32 00135538 FC210828
 
 name: Rapid Fire
+author: GuitarMan
 mode: once
 w32 001A2134 60000000
 
 name: Infinite Jumps R1 + X
+author: GuitarMan
 mode: once
 w32 00592340 3CA00090
 w32 00592344 9085FFFC
@@ -68,18 +79,22 @@ w32 000DE358 48592342
 w32 0019AF28 48592352
 
 name: AoB Stars Never Decrease
+author: dron_3
 mode: once
 aob EC2120282C030000 600000002C030000
 aob EC21D8282C030000 600000002C030000
 
 name: AoB Apples Never Decrease
+author: dron_3
 mode: once
 aob 3066FFFF907F01D4 30660000907F01D4
 
 name: AoB 99 Lives On Gain + Lose
+author: dron_3
 mode: once
 aob 80A6000030610078 38A0006330610078
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 000F8908 60000000

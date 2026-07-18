@@ -1,55 +1,68 @@
 # Resident Evil Code: Veronica X
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 32310A6C 40A00000
 
 name: Memory Infinite Continues
+author: jgduff1
 mode: once
 w32 32310A70 40400000
 
 name: ASM Infinite Life + Continues
+author: jgduff1
 mode: once
 w32 00219528 60000000
 
 name: Memory Infinite Grenades
+author: jgduff1
 mode: once
 w32 3339057C 40A00000
 
 name: ASM Infinite Grenades
+author: jgduff1
 mode: once
 w32 00527C40 60000000
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 3336BEE8 42B80000
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00527C40 60000000
 
 name: Memory Time Never Increases
+author: jgduff1
 mode: once
 w32 333698B0 00006176
 
 name: ASM Time Never Increases
+author: jgduff1
 mode: once
 w32 00310A5C 60000000
 w32 00310A60 60000000
 
 name: Memory Big Score On Gain
+author: jgduff1
 mode: once
 w32 32310A4C 447A0000
 
 name: ASM Big Score On Gain
+author: jgduff1
 mode: once
 w32 00219528 D30B0000
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 32310A70 40400000
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 0090F790 33360CB0
 w32 009F1F78 333606D0
@@ -60,6 +73,7 @@ w32 00A5E94C 00000002
 w32 00A5EA30 01010101
 
 name: Memory Unknown Code 3
+author: jgduff1
 mode: once
 w32 32428234 18803F53
 w32 32428238 999C3F19
@@ -80,47 +94,58 @@ w32 3337AEE8 3F7BBBBC
 w32 33BC6854 33360CB0
 
 name: ASM Infinite Ammo + Grenades
+author: jgduff1
 mode: once
 w32 00527C40 60000000
 
 name: Infinite Health
+author: tekman
 mode: once
 w32 00090864 90DD041C
 
 name: Max + Infinite Ammo
+author: tekman
 mode: once
 w32 001B3E0C 39800000
 w32 001B3E10 91840008
 
 name: AoB Infinite Health
+author: tekman
 mode: once
 aob 3063FFF62C033000907D041C40800010807D0088 3063FFF62C03300090DD041C40800010807D0088
 
 name: AoB Max + Infinite Ammo
+author: tekman
 mode: once
 aob 54E7001E54A5043E386000017CE6412E808400807CE4302E 54E7001E54A5043E3980000091840008808400807CE4302E
 
 name: Memory Time Never Increase (Combat Mode)
+author: jgduff1
 mode: once
 w32 00BC40B8 00003788
 
 name: ASM Time Never Increase (Combat Mode)
+author: jgduff1
 mode: once
 w32 001D02B8 30630000
 
 name: Memory Infinite Ammo + No Reload (Combat Mode)
+author: jgduff1
 mode: once
 w32 00BC3A98 00090004
 
 name: ASM Infinite Ammo + No Reload (Combat Mode)
+author: jgduff1
 mode: once
 w32 001B3E10 60000000
 
 name: Memory Infinite Health (Combat Mode)
+author: jgduff1
 mode: once
 w32 00BEED1C 000000A0
 
 name: ASM Infinite Health (Combat Mode)
+author: jgduff1
 mode: once
 w32 00063F00 60000000
 w32 00069684 60000000
@@ -159,110 +184,136 @@ w32 00174E04 60000000
 w32 001B6FD8 60000000
 
 name: Remove Door Animations
+author: Kapdap
 mode: once
 w32 001AFCCC 38600000
 
 name: Infinite Ammo And Never Need To Reload
+author: tekman
 mode: once
 w32 001B3DDC 30A50000
 
 name: Infinite Ink Ribbon
+author: tekman
 mode: once
 w32 001D9118 30630000
 
 name: Always 0 Save
+author: tekman
 mode: once
 w32 001D90F0 91E40090
 
 name: Infinite Health
+author: tekman
 mode: once
 w32 00174E0C 38602710
 w32 00174E10 9064041C
 w32 00174E14 48000044
 
 name: AoB Infinite Ammo And Never Need To Reload
+author: tekman
 mode: once
 aob 4800004C30A5FFFF7CA507342C050000 4800004C30A500007CA507342C050000
 
 name: AoB Infinite Ink Ribbon
+author: tekman
 mode: once
 aob 408200683063FFFF5465063E2C050000 40820068306300005465063E2C050000
 
 name: AoB Always 0 Save
+author: tekman
 mode: once
 aob 30630001906400903860001F4BFD37BD 3063000191E400903860001F4BFD37BD
 
 name: AoB Infinite Health
+author: tekman
 mode: once
 aob 80859BD88064041C2C03000040800044 80859BD8386027109064041C48000044
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 00173474 38602710
 w32 00173478 9064041C
 w32 0017347C 48000044
 
 name: Infinite Ammo
+author: Hiei-YYH
 mode: once
 w32 001B235C 30A50000
 
 name: Low Time
+author: Hiei-YYH
 mode: once
 w32 001CE498 38600000
 
 name: Save 0
+author: Hiei-YYH
 mode: once
 w32 001D72CC 38600000
 
 name: Infinite Ink Ribbons
+author: Hiei-YYH
 mode: once
 w32 001D72F8 30630000
 
 name: No Retries
+author: Hiei-YYH
 mode: once
 w32 0018F37C 38800000
 
 name: Infinite Escape Time
+author: Hiei-YYH
 mode: once
 w32 001ABDB8 30630000
 
 name: Remove Door Animations
+author: Kapdap
 mode: once
 w32 001AE25C 38600000
 
 name: Always Low Time
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3DB8 00000000
 
 name: Retry Always 0
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3DC0 00000000
 
 name: No Save Record
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3598 00000000
 
 name: Infinite Health
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00BDEA1E 00C8
 
 name: Unlock Everything
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB350C 00001FFF
 
 name: Unlock All Files
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3D84 00FFFFFF
 
 name: 1st Person View
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB3577 C2
 
 name: Normal View
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB3577 12
 
 name: Get Special Weapon in Item Box
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00BB3A68 00020BB5
 w32 00BB3A6C 000303E7
@@ -274,22 +325,27 @@ w32 00BB3A80 000B03E7
 w32 00BB3A84 000103E7
 
 name: Save Free Near Typewriter
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB357D 20
 
 name: Item Box Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB357D 04
 
 name: Security Box 1 Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB357D 0C
 
 name: Security Box 2 Anywhere
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 00BB357D 14
 
 name: Infinite Health + Never Poison
+author: GuitarMan
 mode: once
 w32 0086F0B0 8064041C
 w32 0086F0B4 386000C8
@@ -299,10 +355,12 @@ w32 0086F0C0 4817347A
 w32 00173474 4886F0B2
 
 name: Infinite Ammo
+author: GuitarMan
 mode: once
 w32 001B235C 38A003E7
 
 name: 1 Hit Kill
+author: GuitarMan
 mode: once
 w32 0086F0E8 38E0FFFF
 w32 0086F0EC 90FE041C
@@ -311,6 +369,7 @@ w32 0086F0F4 48128C12
 w32 00128C0C 4886F0EA
 
 name: Real Time Item Modifier
+author: GuitarMan
 mode: once
 w32 0086F100 3CE0013B
 w32 0086F104 9067F004
@@ -373,6 +432,7 @@ w32 0086F1E4 4819E0FA
 w32 0019E0F4 4886F102
 
 name: Access Chest From Anywhere And Modify Items In It
+author: GuitarMan
 mode: once
 w32 009381E0 89230075
 w32 009381E4 8964EBCF
@@ -447,6 +507,7 @@ w32 001CF45C 489381E2
 w32 001A2C58 48938216
 
 name: Save Anywhere (L2 + R2 = On, R1 + R2 = Exit Save Screen)
+author: GuitarMan
 mode: once
 w32 00938310 3CE000AE
 w32 00938314 A147EBCE
@@ -476,6 +537,7 @@ w32 00938370 481AD40A
 w32 001AD404 48938312
 
 name: Control Demoplay (L1 + R1 = On, L1 + L2 = Off)
+author: GuitarMan
 mode: once
 w32 00938380 3D2000AE
 w32 00938384 A169EBCE
@@ -501,6 +563,7 @@ w32 009383D0 4816DB02
 w32 0016DAFC 48938382
 
 name: Rapid Fire
+author: GuitarMan
 mode: once
 w32 00174E38 60000000
 w32 00174E50 60000000
@@ -510,6 +573,7 @@ w32 0018273C 60000000
 w32 00182754 60000000
 
 name: Invincible From Some Physical Attacks
+author: GuitarMan
 mode: once
 w32 00050DA8 60000000
 w32 000B8F94 60000000
@@ -521,10 +585,12 @@ w32 00105D30 60000000
 w32 00106AE8 60000000
 
 name: Zombies Never Grab
+author: GuitarMan
 mode: once
 w32 0008B4C8 60000000
 
 name: Claire Alternative Costume (Main Game)
+author: GuitarMan
 mode: once
 w32 0086F0C4 7CA4282E
 w32 0086F0C8 2C060000
@@ -537,5 +603,6 @@ w32 0086F0E0 481AF69E
 w32 001AF698 4886F0C6
 
 name: Lit Lighter Visual Effect Always On
+author: GuitarMan
 mode: once
 w32 00212F68 60000000

@@ -1,18 +1,22 @@
 # Batman: Arkham Asylum: Game of the Year Edition
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00731E88 38000080
 w32 00731E8C 900302A4
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob 800302A47C0007B4 38000080900302A4
 
 name: Debug Menu (R1 + Start)
+author: dron_3, Joey
 mode: once
 w32 0121DBAC 38600000
 
 name: Debug Menu (PSXPlace)
+author: dron_3, Joey
 mode: once
 w32 0121DBAC 38600000

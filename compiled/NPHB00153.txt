@@ -1,15 +1,18 @@
 # Need for Speed: Shift
 
 name: Memory Lot Money On 1 Race
+author: jgduff1
 mode: once
 w32 33DBF004 000036B1
 
 name: ASM Lot Money On 1 Race
+author: jgduff1
 mode: once
 w32 001F3318 7D315A14
 w32 001F331C 90430B04
 
 name: Memory Instant Max Level After 1 Race
+author: jgduff1
 mode: once
 w32 01436258 000007D1
 w32 017CBEE8 00000D8D

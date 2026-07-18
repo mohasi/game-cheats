@@ -1,45 +1,55 @@
 # Lost Planet: Extreme Condition
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 0041DCB0 60000000
 w32 0041DC94 60000000
 
 name: Rapid Fire
+author: Medo
 mode: once
 w32 0041DD60 60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 aob B01F1A08813F0000 60000000813F0000
 aob 7D690734B01F1A06 60000000B01F1A06
 
 name: AoB Rapid Fire
+author: Medo
 mode: once
 aob D01F1A107F83E378 600000007F83E378
 
 name: T-Eng 9999
+author: cagao123
 mode: once
 w32 001CBD58 60000000
 
 name: Pick Up 1 T-Eng For Max 9999
+author: cagao123
 mode: once
 w32 001CBC20 60000000
 
 name: Max T-Eng + Never Decreases
+author: cagao123
 mode: once
 w32 00603CDC 419D0008
 
 name: Infinite Ammo + Grenades
+author: cagao123
 mode: once
 w32 0041DCA8 409E000C
 w32 0041DC8C 38090000
 
 name: Faster Game Speed
+author: cagao123
 mode: once
 w32 00084B4C 409D0010
 
 name: Infinite Health + 1 Hit Kill
+author: cagao123
 mode: once
 w32 00F630F0 3E20447A
 w32 00F630F4 923F1304
@@ -53,6 +63,7 @@ w32 001B8904 48F630F3
 w32 001B8910 48F63103
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00F630EC 3E000118
 w32 00F630F0 9090F004
@@ -67,10 +78,12 @@ w32 0014623C 48F630EE
 w32 001D1780 48F630FA
 
 name: Infinite Health After 1 Hit
+author: cagao123
 mode: once
 w32 001B8904 C81F1304
 
 name: Invincibility
+author: cagao123
 mode: once
 w32 001C9630 4E800020
 w32 001CBD58 60000000
@@ -79,6 +92,7 @@ w32 003F8024 D01F1308
 w32 003F80A8 D01F1304
 
 name: Invincible 2 100%
+author: cagao123
 mode: once
 w32 001C9630 4E800020
 w32 00F63110 3E004586
@@ -88,6 +102,7 @@ w32 00F6311C 4E800020
 w32 003CC624 48F63113
 
 name: Infinite Health For Player + Robots
+author: cagao123
 mode: once
 w32 001C9630 4E800020
 w32 00F63120 3E004F00
@@ -98,6 +113,7 @@ w32 00F63130 4E800020
 w32 001BA17C 48F63123
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 00F62EB0 3FC0447A
 w32 00F62EB4 93DF0CE0
@@ -106,6 +122,7 @@ w32 00F62EBC 48148C82
 w32 00148C7C 48F62EB2
 
 name: 1 Hit Kills
+author: GuitarMan
 mode: once
 w32 00F62D54 3A000001
 w32 00F62D58 921F1308
@@ -113,10 +130,12 @@ w32 00F62D5C 481B48A6
 w32 001B48A0 48F62D57
 
 name: Energy Gun Fully Charged
+author: GuitarMan
 mode: once
 w32 0042F8D8 38000002
 
 name: Infinite Jumps
+author: GuitarMan
 mode: once
 w32 00F63134 89FF0368
 w32 00F63138 280F0010
@@ -128,15 +147,18 @@ w32 00F6314C 4B1ED085
 w32 00150180 48F63137
 
 name: Massive Shooting Distance
+author: bungholio
 mode: once
 w32 00575538 3C004F00
 w32 0057553C 901F0184
 
 name: Rapid Fire
+author: bungholio
 mode: once
 w32 0041DD1C 38000000
 
 name: Damage Fully Refills Health
+author: bungholio
 mode: once
 w32 00F63150 FC000890
 w32 00F63154 881F0E76
@@ -147,6 +169,7 @@ w32 00F63164 4E800020
 w32 001B89B8 48F63153
 
 name: Invincibility
+author: bungholio
 mode: once
 w32 00F63168 88030E76
 w32 00F6316C 2B800001
@@ -156,38 +179,47 @@ w32 00F63178 481D3206
 w32 001D3200 48F6316B
 
 name: AoB T-Eng 9999
+author: cagao123
 mode: once
 aob FC000890D01F1314480000A0 60000000D01F1314480000A0
 
 name: AoB Pick Up 1 T-Eng For Max 9999
+author: cagao123
 mode: once
 aob 409D0008D01F1318837E8138813B0000 60000000D01F1318837E8138813B0000
 
 name: AoB Max T-Eng + Never Decreases
+author: cagao123
 mode: once
 aob 7C004FAE8001FFE07F8B0000409D0008 7C004FAE8001FFE07F8B0000419D0008
 
 name: AoB Infinite Ammo + Grenades
+author: cagao123
 mode: once
 aob 881F0E762F800003419E000C380BFFFF 881F0E762F800003409E000C380BFFFF
 aob 2F800000409D0030A17F1A083809FFFF 2F800000409D0030A17F1A0838090000
 
 name: AoB Faster Game Speed
+author: cagao123
 mode: once
 aob C01E80B4C1A98DA8FF8C0000409D0010 C01E80B4C1A98DA8FF8C0000419D0010
 
 name: AoB Infinite Health After 1 Hit
+author: cagao123
 mode: once
 aob 419E0138C01F1304 419E0138C81F1304
 
 name: AoB Energy Gun Fully Charged
+author: GuitarMan
 mode: once
 aob FF8D0000409C015438000001981F1A22 FF8D0000409C015438000002981F1A22
 
 name: AoB Massive Shooting Distance
+author: bungholio
 mode: once
 aob 11805B2E1021032E10215B6A10000A8C7C00418EC00100D0EC006824D01F0184 11805B2E1021032E10215B6A10000A8C7C00418EC00100D03C004F00901F0184
 
 name: AoB Rapid Fire
+author: bungholio
 mode: once
 aob 5463063E2F830000409E0200813F1A842F890000419E005079290020A009001A 5463063E2F830000409E0200813F1A842F890000419E00507929002038000000

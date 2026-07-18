@@ -1,47 +1,58 @@
 # Gravity Crash
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 300388F4 00000002
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00062DF8 39290000
 w32 00062DFC 60000000
 
 name: Memory Max Orange Orbs
+author: jgduff1
 mode: once
 w32 38BB6300 00000063
 
 name: Memory Infinite Shield
+author: jgduff1
 mode: once
 w32 38CC1550 42700000
 
 name: Shield Never Decreases
+author: jgduff1
 mode: once
 w32 00032A68 60000000
 
 name: Shield Never Increases
+author: jgduff1
 mode: once
 w32 00032F9C 60000000
 
 name: Memory Infinite Fuel
+author: jgduff1
 mode: once
 w32 38CC1548 43480000
 
 name: ASM Infinite Fuel
+author: jgduff1
 mode: once
 w32 0001C0E0 60000000
 
 name: Memory Lot Of Points On Gain + 1 Life Per Shot
+author: jgduff1
 mode: once
 w32 300388F0 0000012C
 
 name: ASM Lot Of Points On Gain + 1 Life Per Shot
+author: jgduff1
 mode: once
 w32 00043E20 93E30240
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 38B012FC 38B01300
 w32 38B01308 38B012F0
@@ -49,6 +60,7 @@ w32 38CC152C 3DCCCCCD
 w32 38CC159C 38BC0150
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 001B82DC 39290000
 w32 001B82E0 60000000

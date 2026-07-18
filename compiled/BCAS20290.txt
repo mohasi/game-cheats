@@ -1,79 +1,96 @@
 # Dragon's Crown
 
 name: Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 w32 001D3924 60000000
 w32 0019FFB4 30A40000
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 w32 00029A44 60000000
 
 name: 99999999 Score
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 w32 004F783C 60000000
 
 name: Infinite MP
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 w32 000E91E4 60000000
 w32 003AC380 60000000
 
 name: Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 w32 0057DE90 7F84E378
 
 name: Max Gold On Gain
+author: Medo
 mode: once
 w32 004BCEA0 60000000
 
 name: AoB Infinite Ammo
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 aob 7CFF381060BF00002C07000041800014 6000000060BF00002C07000041800014
 aob 30A4FFFFB0A327D04E800020F821FF81 30A40000B0A327D04E800020F821FF81
 
 name: AoB Infinite Items
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 aob 7FC4F0102C9EFFFF2C1E00004080000C 600000002C9EFFFF2C1E00004080000C
 
 name: AoB 99999999 Score
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 aob 4081000860C400006086000090C3005C 6000000060C400006086000090C3005C
 
 name: AoB Infinite MP
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 aob 7D3B48102C090000D82101B0814101B4 600000002C090000D82101B0814101B4
 aob 7D3B48102C090000D82101B0814101B4 600000002C090000D82101B0814101B4
 
 name: AoB Infinite Skill Points
+author: games24.blog.fc2.com/blog-entry-186.html
 mode: once
 aob 7C9BE0102C0400004080000863A40000 7F84E3782C0400004080000863A40000
 
 name: AoB Max Gold on Gain
+author: Medo
 mode: once
 aob 4081000C3CC005F560C6E0FF60C50000606600003C60000A6067F238 600000003CC005F560C6E0FF60C50000606600003C60000A6067F238
 
 name: AoB Infinite Skill Points
+author: optantic
 mode: once
 aob 7FFF301430E7FFFF 7FFF301430E70000
 aob 7C7B1814A0B90024 7C7B1814B0990024
 
 name: AoB Item Use No Cooldown
+author: optantic
 mode: once
 aob 41800008609C0000939D04FC 41800008609C0000925D04FC
 
 name: AoB Elf Rapid Attack
+author: optantic
 mode: once
 aob 308400019083001463E30000 308400009083001463E30000
 aob 308400019083001463E30000 308400009083001463E30000
 aob 30C60001309F02E8 30C60000309F02E8
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 0053F300 83BD0010
 w32 0053F30C 48000018
 w32 0053F338 93A4000C
 
 name: Max Gold After Buying Something
+author: Hiei-YYH
 mode: once
 w32 0057744C 60000000
 w32 005AE7B4 60000000

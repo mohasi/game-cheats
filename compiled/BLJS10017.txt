@@ -1,19 +1,23 @@
 # Trusty Bell: Chopin no Yume Reprise
 
 name: Golby
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0083F938 05F5E0FF
 
 name: Infinite Golby
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 001E3D70 409C
 
 name: Party Class 6
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0083F930 00000006
 w32 0083F934 00000006
 
 name: All LV 99, EXP + HP + Status Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00840400 00000063
 w32 00840404 00000063
@@ -47,22 +51,27 @@ w32 00840470 00000063
 w32 00840474 00000063
 
 name: ATK
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001E83A0 48000180
 
 name: MAG
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 001E83AC 409D
 
 name: DEF
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 001E83B8 409D
 
 name: SPD
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 001E83C4 409D
 
 name: Change Equip Status Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001E836C 3BE02710
 w32 001E8370 3BA02710
@@ -73,6 +82,7 @@ w32 001E8518 4BFFFFD8
 w32 001E8530 4BFFFFD8
 
 name: Buy Sell Item 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0021A5B0 409D
 w16 0021A710 409C

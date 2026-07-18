@@ -1,50 +1,62 @@
 # Warhammer 40,000 - Kill Team
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00400BB0 60000000
 
 name: ASM Max Points + All Weapons + All Bonus On 1 Hit
+author: jgduff1
 mode: once
 w32 00260D48 937E00C8
 
 name: Memory Infinite Special Attack
+author: jgduff1
 mode: once
 w32 33CF8574 3F800000
 
 name: ASM Infinite Special Attack
+author: jgduff1
 mode: once
 w32 00267F98 60000000
 
 name: Memory Infinite Grenades On Gain
+author: jgduff1
 mode: once
 w32 35305D30 00000000
 
 name: ASM Infinite Grenades On Gain
+author: jgduff1
 mode: once
 w32 001AAFC4 92DC0070
 
 name: Memory Max Artifacts On Gain
+author: jgduff1
 mode: once
 w8 352A05E6 07
 w8 352A065E 07
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 00E8FD18 44A28000
 
 name: Memory Max Points + All Weapons + All Bonus On 1 Hit
+author: jgduff1
 mode: once
 w32 352A2298 00000546
 
 name: ASM Max Points + All Weapons + All Bonus On 1 Hit
+author: jgduff1
 mode: once
 w32 00260D68 937E00C8
 
 name: ASM Infinite Special Attack
+author: jgduff1
 mode: once
 w32 00267FB8 60000000
 
 name: ASM Infinite Grenades On Gain
+author: jgduff1
 mode: once
 w32 001AAFBC 92DC0070

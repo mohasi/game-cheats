@@ -1,13 +1,16 @@
 # Plants vs. Zombies
 
 name: Unlimited Balls
+author: CMb14
 mode: once
 w32 001B7354 60000000
 
 name: Max Sun On Gain
+author: dron_3
 mode: once
 w32 0017BD08 60000000
 
 name: Sun Never Decrease
+author: dron_3
 mode: once
 w32 00181524 60000000

@@ -1,15 +1,18 @@
 # Dragon's Lair II - Time Warp
 
 name: Memory Infinite Life
+author: jgduff1
 mode: once
 w32 001E87A8 00000005
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 000593B0 39290000
 w32 000593B8 60000000
 
 name: ASM Infinite Life
+author: jgduff1
 mode: once
 w32 00059388 39290000
 w32 00059390 60000000

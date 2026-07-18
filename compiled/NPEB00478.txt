@@ -1,33 +1,41 @@
 # Sega Classics - Sonic the Hedgehog
 
 name: Start With Max And Infinite Rings + 1 Life Per Enemy Hit + Infinite Health
+author: jgduff, jgduff1
 mode: once
 w8 35A91931 64
 
 name: Start With High Score
+author: jgduff, jgduff1
 mode: once
 w32 35A91938 FFFF0000
 
 name: Start With Max Life
+author: jgduff, jgduff1
 mode: once
 w8 35A91922 63
 
 name: Invincible
+author: jgduff, jgduff1
 mode: once
 w32 35A8EB40 00570000
 
 name: Memory Start With Max + Infinite Rings + 1 Life Per Enemy Hit + Infinite Health
+author: jgduff, jgduff1
 mode: once
 w8 35A91931 64
 
 name: Memory Start With High Score
+author: jgduff, jgduff1
 mode: once
 w32 35A91938 FFFF0000
 
 name: Memory Start With Max Life
+author: jgduff, jgduff1
 mode: once
 w8 35A91922 63
 
 name: Memory Invincible
+author: jgduff, jgduff1
 mode: once
 w32 35A8EB40 00570000

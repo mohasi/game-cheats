@@ -1,9 +1,11 @@
 # Naughty Bear: Gold Edition
 
 name: Max Score Multiplier
+author: jijibecali
 mode: once
 w32 30078B50 47C15C00
 
 name: Max Exp
+author: jijibecali
 mode: once
 w32 30078BC4 4E6E6B28

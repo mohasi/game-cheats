@@ -1,6 +1,7 @@
 # MotorStorm: Apocalypse
 
 name: Infinite Boost
+author: MrFire
 mode: once
 w32 000682C0 EC631828
 w32 000682C4 81D90018
@@ -9,6 +10,7 @@ w32 000682CC 4E800020
 w32 00052F90 48015330
 
 name: Infinite Boost
+author: MrFire
 mode: once
 w32 00010100 EC631828
 w32 00010104 81D90018

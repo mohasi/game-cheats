@@ -1,22 +1,27 @@
 # Eternal Sonata
 
 name: Max Atk (999)
+author: xilium
 mode: once
 w32 001E9370 409D0180
 
 name: Max Mag (999)
+author: xilium
 mode: once
 w32 001E937C 409D015C
 
 name: Max Def (999)
+author: xilium
 mode: once
 w32 001E9388 409D0138
 
 name: Max Spd (999)
+author: xilium
 mode: once
 w32 001E9394 409D0120
 
 name: Max All Stats
+author: xilium
 mode: once
 w32 001E933C 3BE02710
 w32 001E9340 3BA02710
@@ -24,6 +29,7 @@ w32 001E9344 3B802710
 w32 001E9348 3BC02710
 
 name: Quick LV Up Change Equip Before Battle Always
+author: Skiller
 mode: once
 w32 001E9018 38C0FFFF
 w32 001E90A4 90C30004
@@ -31,35 +37,43 @@ w32 001EC5FC 60000000
 w32 001EC898 60000000
 
 name: Max Money (99,999,999)
+author: xilium
 mode: once
 w32 001E4B28 409C0010
 
 name: Gain Item for Max
+author: xilium
 mode: once
 w32 0021BB10 409D0124
 w32 0021BC70 409D000C
 
 name: AoB Max Atk (999)
+author: xilium
 mode: once
 aob 419D018057A0043E2B8003E7419D015C 409D018057A0043E2B8003E7419D015C
 
 name: AoB Max Mag (999)
+author: xilium
 mode: once
 aob 419D015C5780043E2B8003E7419D0138 409D015C5780043E2B8003E7419D0138
 
 name: AoB Max Def (999)
+author: xilium
 mode: once
 aob 419D013857C0043E2B8003E7419D0120 409D013857C0043E2B8003E7419D0120
 
 name: AoB Max Spd (999)
+author: xilium
 mode: once
 aob 419D01208004000C7CA907B4C182CF38 409D01208004000C7CA907B4C182CF38
 
 name: AoB Max All Stats
+author: xilium
 mode: once
 aob 7D7F5B787D5D53787D1C43787CFE3B78 3BE027103BA027103B8027103BC02710
 
 name: AoB Quick LV Up Change Equip Before Battle Always
+author: Skiller
 mode: once
 aob 80C30004A3E30014 38C0FFFFA3E30014
 aob FC20309060000000 FC20309090C30004
@@ -67,51 +81,63 @@ aob 409D000C91690004 6000000091690004
 aob 7F804800409D0008913D0004 7F80480060000000913D0004
 
 name: AoB Max Money (99,999,999)
+author: xilium
 mode: once
 aob 2F030000906B0008409D0010912B00084E80002060000000 2F030000906B0008409C0010912B00084E80002060000000
 
 name: AoB Gain Item For Max
+author: xilium
 mode: once
 aob 419D01247FA6EB7838E0000078C90020 409D01247FA6EB7838E0000078C90020
 aob 409D000C380000639809000AA13F1028 409C000C380000639809000AA13F1028
 
 name: AoB Max Class + Money On Money Gain
+author: Skiller
 mode: once
 aob 800B00087C6302147F8348002F030000906B0008409D0010 38600006906B0000906B00042F030000906B0008409C0010
 
 name: Max Strength
+author: xilium
 mode: once
 w32 001E933C 3BE02710
 
 name: Max Magic
+author: xilium
 mode: once
 w32 001E9340 3BA02710
 
 name: Max Defense
+author: xilium
 mode: once
 w32 001E9344 3B802710
 
 name: Max Speed
+author: xilium
 mode: once
 w32 001E9348 3BC02710
 
 name: Max Strength
+author: Skiller
 mode: once
 w32 001E9ACC 3BE02710
 
 name: Max Magic
+author: Skiller
 mode: once
 w32 001E9AD0 3BA02710
 
 name: Max Defense
+author: Skiller
 mode: once
 w32 001E9AD4 3B802710
 
 name: Max Speed
+author: Skiller
 mode: once
 w32 001E9AD8 3BC02710
 
 name: AoB All 4 Stat Codes At The Same Time
+author: xillium
 mode: once
 aob 419D018057A0043E2B8003E7419D015C 409DFE804BFFFFD47D29521480090240
 aob 409DFEA44BFFFFD4380003E7B0040014 409DFEC84BFFFFE0380003E7B0040016

@@ -1,104 +1,128 @@
 # Star Ocean 5: Integrity and Faithlessness
 
 name: Max Items On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003982E8 60000000
 
 name: Max SP
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0039810C 60000000
 
 name: Max Damage
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003FC424 497423F0
 w32 003FC9B0 497423F0
 
 name: Reinforcements Never Decrease
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00449B6C 60850000
 
 name: Max Favorability On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A0878 FC2310AE
 
 name: Roll HP Will Not Decrease
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A5394 FFBDE828
 
 name: MP Never Decreases
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A456C FC4208EE
 
 name: Items Increase On Sell
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0047B210 60000000
 
 name: Max Items On Buy Or Sell
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003982E8 60000000
 
 name: Max Money On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00398164 7C843814
 
 name: Max Reserve Rush On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0039BACC FC21C8EE
 
 name: Reserve Rush Never Decreases While Guarding
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003EF5F0 FC200090
 
 name: Reserve Rush Max With Special Move
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0023F334 60000000
 
 name: Reserve Rush Never Decreases From Special Moves
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0023F334 FC210828
 
 name: Increased Experience For Rush
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00229AA0 60000000
 
 name: Increased Experience For Rush For Special Moves
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00229A38 60000000
 
 name: Can Clear Quests Without Required Materials
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00273948 4800000C
 w32 0020C1F0 4800000C
 
 name: Can Create Without Materials
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0044E8B0 48000040
 
 name: Items Never Decrease From Creation
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 00398270 4800001C
 w32 003982A4 60DE0000
 
 name: Max Defense On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A28B4 FC6518AE
 w32 003A28B8 FC8620AE
 
 name: No Limit For Defense
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A28B4 FC6518EE
 w32 003A28B8 FC86212E
 
 name: Max Attributes On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003A298C FC8520AE
 w32 003A2990 FC8620EE
 
 name: Can Do Quests Any Number Of Times
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 0039A3F8 48000050
 
 name: Ally Damage Always Max
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 w32 003FC9B0 497423F0
 w32 00DF4030 A36300A0
@@ -110,9 +134,11 @@ w32 00DF4044 483FC952
 w32 003FC94C 489F76E4
 
 name: AoB Max Items On Change
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 aob 4080000860DE00002C1D000040810060 6000000060DE00002C1D000040810060
 
 name: AoB Max SP
+author: games24.blog.fc2.com/blog-entry-333.html
 mode: once
 aob 408100087C83292E4E8000203CA00007 600000007C83292E4E8000203CA00007

@@ -1,42 +1,51 @@
 # Demon's Souls
 
 name: Souls 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E8048 3B9AC9FF
 
 name: HP 99999 + 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E7FDC 0001869F
 w32 301E7FE4 0001869F
 
 name: MP 99999 + 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E7FE8 0001869F
 w32 301E7FF0 0001869F
 
 name: Stamina 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E8000 0001869F
 
 name: Souls 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E8098 3B9AC9FF
 
 name: HP 99999 + 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E802C 0001869F
 w32 301E8034 0001869F
 
 name: MP 99999 + 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E8038 0001869F
 w32 301E8040 0001869F
 
 name: Stamina 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 301E8050 0001869F
 
 name: Invincible For Most Enemies
+author: Medo
 mode: once
 w32 0026E74C 3D400000
 w32 0026E750 614A0063
@@ -44,6 +53,7 @@ w32 002BF448 3D400000
 w32 002BF454 614A0063
 
 name: Infinite HP + MP + Max Stamina + Souls
+author: Medo
 mode: once
 w32 002D91FC 7F7CDB78
 w32 002D9200 3C000001
@@ -69,5 +79,6 @@ w32 002D9250 60000000
 w32 002D9250 60000000
 
 name: 99x Max Every Item
+author: hyper2k
 mode: once
 w32 00901F34 3B800063

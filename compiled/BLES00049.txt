@@ -1,25 +1,31 @@
 # Enchanted Arms
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C5430 2B090000
 
 name: CP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C1B40 60000000
 
 name: SP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0029750C 60000000
 
 name: Max Money On Buy Or Sell
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C5430 2B090000
 
 name: Max CP On Buy Or Exchange
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 002C1B40 60000000
 
 name: Max SP On Use
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0029750C 60000000

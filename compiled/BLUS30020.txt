@@ -1,10 +1,12 @@
 # Virtua Fighter 5
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 102242C4 0001869F
 
 name: All Item
+author: CodeFreak/PS3UserCheat, xtatu
 mode: once
 w32 10224308 FFFFFFFF
 w32 1022430C FFFFFFFF
@@ -23,18 +25,22 @@ w32 1022433C FFFFFFFF
 w32 10224340 FFFFFFFF
 
 name: 1P HP Max
+author: xtatu
 mode: once
 w32 103D1494 000000C9
 
 name: 2P HP Zero
+author: xtatu
 mode: once
 w32 103D63CC 00000000
 
 name: Score 9999999
+author: xtatu
 mode: once
 w32 00161044 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 10213E18 43490000
 w32 10213E20 43490000
@@ -42,6 +48,7 @@ w32 10213E28 43490000
 w32 103D1494 000000C9
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002F8BA8 B107000A
 w32 001744A8 60000000
@@ -50,5 +57,6 @@ w32 001744BC ECA5F028
 w32 0017441C 60000000
 
 name: ASM Enemies Never Attack
+author: jgduff1
 mode: once
 w32 00295134 60000000

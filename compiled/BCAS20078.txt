@@ -1,9 +1,11 @@
 # LittleBigPlanet (Game of the Year Edition)
 
 name: Unlimited Respawn
+author: dron_3
 mode: once
 w32 0006BBF8 39200000
 
 name: AoB Unlimited Respawn
+author: dron_3
 mode: once
 aob 813B000C3809FFFF7C004B78 392000003809FFFF7C004B78

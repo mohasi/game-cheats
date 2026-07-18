@@ -1,27 +1,33 @@
 # Lara Croft and the Guardian of Light
 
 name: Memory Max + Infinite Points On Gain
+author: jgduff1
 mode: once
 w32 33E3B0CC 000F423F
 
 name: ASM Max + Infinite Points On Gain
+author: jgduff1
 mode: once
 w32 004AC3D0 905D0000
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 0049FF24 60000000
 
 name: Infinite Health From Medkits
+author: jgduff1
 mode: once
 w32 002C211C 92830008
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 002CB4EC 7C034850
 w32 002CB4F4 901D0000
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00852CB0 2B800000
 w32 00852CB4 4082000C
@@ -31,15 +37,18 @@ w32 00852CC0 4BD0AF0C
 w32 0055DBD0 482F50E0
 
 name: Invincibility Against Melee Attacks
+author: Randy97Killa
 mode: once
 w32 003688F0 60000000
 
 name: Infinite Energy Ammo
+author: Randy97Killa
 mode: once
 w32 0049FFA8 3C00447A
 w32 0049FFAC 901C02E8
 
 name: Max Points On Gain (Test)
+author: Randy97Killa
 mode: once
 w32 004AC3C8 3C000098
 w32 004AC3CC 6000967F

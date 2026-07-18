@@ -1,6 +1,7 @@
 # METAL SLUG
 
 name: Infinite Lives + Bombs
+author: cagao123
 mode: once
 w32 009A9490 9A8A0001
 w32 0026F1B0 2B850120
@@ -11,13 +12,16 @@ w32 0026F1C0 489E9956
 w32 009E9950 4826F1B2
 
 name: Infinite Arms
+author: cagao123
 mode: once
 w32 009A95F4 B0AB0000
 
 name: Infinite Health For Tanks
+author: cagao123
 mode: once
 w32 009AAEFC B00905E6
 
 name: P1 Invincible
+author: cagao123
 mode: once
 w32 31019E84 00420000

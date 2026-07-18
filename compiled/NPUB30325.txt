@@ -1,13 +1,16 @@
 # Revenge of Shinobi, The
 
 name: Unlimited Life Energy
+author: CMbl4
 mode: once
 w8 31A7E7BB 08
 
 name: Memory Infinite Shuriken + Health + Life + No Clipping
+author: jgduff1
 mode: once
 w8 320FE7BF 5A
 
 name: Memory Infinite Shuriken + Health + Life + No Clipping
+author: jgduff1
 mode: once
 w32 0029777C 60000000

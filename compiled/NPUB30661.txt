@@ -1,63 +1,78 @@
 # Rayman Origins
 
 name: Max Lums On Gain
+author: Medo, Medo ported by crapulecorp
 mode: once
 w32 0024D4E8 38A003E7
 
 name: Freeze Level Time
+author: Medo, Medo ported by crapulecorp
 mode: once
 w32 00055ED8 60000000
 
 name: AoB Max Lums On Gain
+author: Medo, Medo ported by crapulecorp
 mode: once
 aob 7C8428147884002080A400007CA5F01490A40000 7C8428147884002080A4000038A003E790A40000
 
 name: AoB Freeze Level Time
+author: Medo, Medo ported by crapulecorp
 mode: once
 aob EC21102AC0440004EC611028FC2308AED03F1008 EC21102AC0440004EC611028FC2308AE60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 302BF95C 00000002
 w32 30500634 00000002
 w32 30FEF4C8 00000002
 
 name: ASM Infinite Health With Hearth
+author: jgduff1
 mode: once
 w32 0003FA40 60000000
 
 name: ASM Infinite Health Without Hearth
+author: jgduff1
 mode: once
 w32 0003FA4C 60000000
 
 name: Memory Lot Of Yellow Lums On Gain
+author: jgduff1
 mode: once
 w32 3030F3D0 00000024
 
 name: Memory Chrono Time Never Increase
+author: jgduff1
 mode: once
 w32 301A0CF8 41A4883E
 
 name: Max Lums On Gain
+author: Medo
 mode: once
 w32 0024E228 38A003E7
 
 name: Freeze Level Time
+author: Medo
 mode: once
 w32 00056758 60000000
 
 name: ASM Freeze Level Time
+author: Medo
 mode: once
 w32 00056828 60000000
 
 name: ASM Infinite Health With Hearth
+author: jgduff1
 mode: once
 w32 000403C8 60000000
 
 name: ASM Infinite Health Without Hearth
+author: jgduff1
 mode: once
 w32 000403D4 60000000
 
 name: ASM Lot Of Yellow Lums On Gain
+author: jgduff1
 mode: once
 w32 0024E2F8 38A0270F

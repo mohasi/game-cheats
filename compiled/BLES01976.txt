@@ -1,55 +1,67 @@
 # Minecraft: PlayStation 3 Edition
 
 name: God Mode
+author: Cyber
 mode: once
 w32 004480FC 60000000
 w32 0047F03C 60000000
 w32 00447D6C 60000000
 
 name: Infinite Food
+author: Cyber
 mode: once
 w32 003D4004 60000000
 w32 003D3E4C 60000000
 
 name: Infinite Arrows
+author: Cyber
 mode: once
 w32 003E8648 60000000
 
 name: Unlimited Resources
+author: Cyber
 mode: once
 w32 003FCFBC 60000000
 
 name: Memory Infinite Oxygen
+author: jgduff1
 mode: once
 w32 35696E38 012C0101
 
 name: ASM Infinite Oxygen
+author: jgduff1
 mode: once
 w32 004FD440 60000000
 
 name: Infinite Resources Infinite On Gain
+author: jgduff1
 mode: once
 w32 002B9EA4 90C30000
 
 name: Resources Never Decrease
+author: jgduff1
 mode: once
 w32 002B9E9C 30A50000
 w32 002E3FA8 60000000
 
 name: Infinite Food
+author: jgduff1
 mode: once
 w32 00265F2C 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 32FCE478 41A00000
 w32 35528EC8 41A00000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 004FD654 D1990008
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 321D09A0 3E4CCCCD
 w32 321D09F0 00000000

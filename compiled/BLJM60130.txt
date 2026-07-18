@@ -1,43 +1,53 @@
 # Street Fighter IV
 
 name: P1 Infinite Super Meter
+author: optantic
 mode: once
 w32 004A63FC 00000007
 w32 004A63B8 00000001
 
 name: P1 Infinite Ultra Meter
+author: optantic
 mode: once
 w32 004A6408 00000007
 w32 004A63BC 00000001
 
 name: 1 Hit Kill On P2
+author: optantic
 mode: once
 w32 004A6420 00002710
 
 name: P1 Defense Up
+author: optantic
 mode: once
 w32 004A6424 00002710
 
 name: P1 Always Perfect (CPU can not hit on final hit)
+author: optantic
 mode: once
 w32 004A63F8 00002710
 
 name: P2 No EX Moves
+author: optantic
 mode: once
 w32 004A6610 00000000
 
 name: P2 No Special Moves
+author: optantic
 mode: once
 w32 004A660C 00000000
 
 name: P2 No Super Moves
+author: optantic
 mode: once
 w32 004A6614 00000000
 
 name: P2 No Throw Escape
+author: optantic
 mode: once
 w32 004A6604 00000000
 
 name: P2 No Ultra Moves
+author: optantic
 mode: once
 w32 004A6618 00000000

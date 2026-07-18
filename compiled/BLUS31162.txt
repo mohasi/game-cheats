@@ -1,17 +1,21 @@
 # Battlefield 4
 
 name: Infinite Ammo + Grenades + No Reload
+author: dron_3
 mode: once
 w32 00795BE0 309F0000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0035A038 FFA0D890
 
 name: Infinite Ammo + Grenades + No Reload
+author: dron_3
 mode: once
 w32 007A23B8 309F0000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 0039E948 FFA0D890

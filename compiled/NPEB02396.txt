@@ -1,10 +1,12 @@
 # Aegis of Earth: Protonovus Assault
 
 name: Max Money
+author: Skiller
 mode: once
 w32 6009F8DC 0098967F
 
 name: Max Processing Plant
+author: Skiller
 mode: once
 w32 6014EB90 000000FF
 w32 6014EB94 000000FF
@@ -16,10 +18,12 @@ w32 6014EBA8 000000FF
 w32 6014EBAC 000000FF
 
 name: Lots of Population
+author: Skiller
 mode: once
 w32 6019FB10 000000FF
 
 name: 99 Storeroom Items
+author: SHAkA
 mode: once
 w32 6033E4EA 00000063
 w32 6033E4AE 00000063

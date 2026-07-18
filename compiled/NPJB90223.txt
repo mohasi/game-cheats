@@ -1,6 +1,7 @@
 # End of Eternity
 
 name: Buy + Sell Money Max
+author: bbs.duowan.com/thread-19052709-1-1.html
 mode: once
 w16 0059C468 4800
 w32 0059C4C8 917F03CC

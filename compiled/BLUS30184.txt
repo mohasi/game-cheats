@@ -1,18 +1,22 @@
 # Fracture
 
 name: No Reload, Infinite Ammo + Grenades
+author: dron_3
 mode: once
 w32 00479C40 39200063
 
 name: Infinite HP
+author: dron_3
 mode: once
 w32 00549A14 D1A3004C
 w32 00549A18 EC2D6824
 
 name: AoB No Reload, Infinite Ammo + Grenades
+author: dron_3
 mode: once
 aob 81290000913F00A0 39200063913F00A0
 
 name: AoB Infinite HP
+author: dron_3
 mode: once
 aob C003004CEC206824 D1A3004CEC2D6824

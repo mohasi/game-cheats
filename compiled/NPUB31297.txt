@@ -1,6 +1,7 @@
 # Wolfenstein: The New Order
 
 name: Max + Infinite Health + Armor, Infinite Ammo, Infinite Laser Cutter, Infinite Health + No Reload For Guardian Robot
+author: games24.blog.fc2.com? (Can't find exact link but they have taken down their own codes before)
 mode: once
 w32 00AEA0E4 38600001
 w32 00AEA93C 30C60000
@@ -20,15 +21,18 @@ w32 01982F20 4E800020
 w32 012CDB2C 486B53EC
 
 name: Infinite Ammo
+author: Eboot Hacker Program
 mode: once
 w32 00E507B4 388003E7
 w32 00E507D4 60000000
 
 name: Infinite Laser Cutter
+author: Eboot Hacker Program
 mode: once
 w32 00E62C88 60770000
 
 name: Infinite Health For Guardian Robot
+author: Eboot Hacker Program
 mode: once
 w32 01981B18 C0230008
 w32 01981B1C D023000C
@@ -36,11 +40,13 @@ w32 01981B20 4E800020
 w32 010A7D7C 488D9D9C
 
 name: Infinite Ammo For Guardian Robot
+author: Eboot Hacker Program
 mode: once
 w32 00AE9C54 38600001
 w32 00AEA4AC 30C60000
 
 name: Health Never Decreases
+author: bungholio
 mode: once
 w32 01728034 C3FD0004
 w32 01728038 FC1F1000
@@ -51,22 +57,27 @@ w32 01728064 4E800020
 w32 0096FDE4 48DB8251
 
 name: Plane Health Never Decreases
+author: bungholio
 mode: once
 w32 010A3A3C 60000000
 
 name: Ammo And Grenades Never Decrease
+author: bungholio
 mode: once
 w32 00E50828 60000000
 
 name: AoB Health Never Decreases
+author: bungholio
 mode: once
 aob 0000000000000000000000002C0000010009001E000000000000000001727ABC01727BF001C02974000000000000000000000000 C3FD0004FC1F1000480000202C0000010009001E000000000000000001727ABC01727BF001C02974419D0008D03D00044E800020
 aob EC23102838600000D03D0004 EC2310283860000048DB8251
 
 name: AoB Plane Health Never Decreases
+author: bungholio
 mode: once
 aob 38633918C0430000FC7F0828FC811028FC23F86EFC24106ED03F0000C03C0008EC21F828FC011000D03C0008 38633918C0430000FC7F0828FC811028FC23F86EFC24106ED03F0000C03C0008EC21F828FC01100060000000
 
 name: AoB Ammo And Grenades Never Decrease
+author: bungholio
 mode: once
 aob 4800001463C500007C04280040800008 4800001463C500007C04280060000000

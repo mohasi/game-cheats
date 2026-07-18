@@ -1,31 +1,38 @@
 # Mad Dog McCree
 
 name: Player 1 Ammo x12
+author: crapulecorp
 mode: once
 w8 001FDB33 0C
 
 name: Player 1 Lives x5
+author: crapulecorp, jgduff1
 mode: once
 w8 001FE0B3 05
 
 name: Player 2 Ammo x12
+author: crapulecorp
 mode: once
 w8 001FDB37 0C
 
 name: Memory Infinite Health
+author: crapulecorp, jgduff1
 mode: once
 w8 001FE0B3 05
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00041D90 38690000
 w32 00041D94 906A0000
 
 name: Memory Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w8 001FDB33 04
 
 name: ASM Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 0004F528 39290000
 w32 0004F530 7D35012E

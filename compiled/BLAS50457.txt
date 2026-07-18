@@ -1,19 +1,23 @@
 # Kidou Senshi Gundam UC
 
 name: Max UC Points After Mission
+author: Fullcodes
 mode: once
 w32 006005E0 912A0000
 
 name: Infinite UC Points Usage
+author: Fullcodes
 mode: once
 w32 0066971C 60000000
 
 name: Infinite Weapon Ammo Usage
+author: Fullcodes
 mode: once
 w32 00248278 D3FF0054
 w32 0024B2B8 D3FF0054
 
 name: Player Fuel Level Always Max
+author: Fullcodes
 mode: once
 w32 001B71F8 C1BF0480
 w32 001B7208 C01F0480

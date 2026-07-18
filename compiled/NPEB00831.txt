@@ -1,18 +1,22 @@
 # Hell Yeah! Wrath of the Dead Rabbit
 
 name: Memory Infinite Health + Blood
+author: jgduff1
 mode: once
 w32 36235514 000000F0
 
 name: ASM Infinite Health + Blood
+author: jgduff1
 mode: once
 w32 0017B81C 60000000
 
 name: Max + Infinite Cash On Gain
+author: jgduff1
 mode: once
 w32 003E3778 905F012C
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 35103194 00000032
 w32 35109E7C 00000000
@@ -21,12 +25,14 @@ w32 351B2B60 3E800000
 w32 351B2B74 3E800000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 0014C698 60000000
 w32 0014C8B0 60000000
 w32 0014C8B8 60000000
 
 name: Memory Unknown Code 2
+author: jgduff1
 mode: once
 w32 35103194 00000032
 w32 35109E7C 00000000

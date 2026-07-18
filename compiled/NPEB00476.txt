@@ -1,15 +1,18 @@
 # I Am Alive
 
 name: Memory Infinite Stamina
+author: jgduff1
 mode: once
 w32 389CC458 42A00000
 
 name: ASM Infinite Stamina
+author: jgduff1, FBML
 mode: once
 w32 003B35C0 60000000
 w32 003B370C 60000000
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 30739EC8 42C80000
 w32 336CDFD4 42C80000
@@ -21,29 +24,35 @@ w32 3889566C 00000000
 w32 38AFC080 0000001C
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0110E1B0 60000000
 w32 0110E1C8 60000000
 w32 0110E1B4 807F0014
 
 name: Memory Infinite Retries
+author: jgduff1
 mode: once
 w16 32133EF0 0003
 
 name: ASM Infinite Retries
+author: jgduff1
 mode: once
 w32 006F56BC 7CA3212E
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w16 30631152 0003
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 0048B4D4 30A50000
 w32 0048B4D8 60000000
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w32 3257CFC4 4276AAAB
 w32 32812E98 00000005
@@ -57,6 +66,7 @@ w32 33D9C074 00000000
 w32 33D9C2FC 00000000
 
 name: ASM Infinite Items
+author: jgduff1
 mode: once
 w32 00C4632C 909E0000
 w32 003B9B9C 60000000
@@ -71,6 +81,7 @@ w32 00AFCE28 60000000
 w32 00B03A58 60000000
 
 name: Infinite Health (%99.99)
+author: FBML
 mode: once
 w32 0041C428 60000000
 w32 0041E6F4 60000000
@@ -79,44 +90,53 @@ w32 0041E800 4800008C
 w32 0041EA88 C03F0080
 
 name: Infinite Stamina
+author: FBML
 mode: once
 w32 003B35BC C0230034
 w32 003B3708 C0230034
 
 name: Infinite Ammo No Reload
+author: FBML
 mode: once
 w32 0048B4D4 30A50000
 
 name: Freeze Retry Counter
+author: FBML
 mode: once
 w32 006F56BC 60000000
 
 name: Enable Pause + Start Menu (Cheats)
+author: FBML
 mode: once
 w32 00915B6C 60000000
 
 name: Max + Infinite Health
+author: FBML
 mode: once
 w32 003AFCD0 D0230080
 w32 003AFCD8 EF810824
 
 name: Max + Infinite Ammo In Clip
+author: FBML
 mode: once
 w32 004856D4 809F08FC
 w32 004856D8 909F0900
 w32 004856DC 4800002C
 
 name: Max Ammo In Inventory On Gain
+author: FBML
 mode: once
 w32 003BA874 809F002C
 w32 003BA878 909E0904
 
 name: Instant Max + Infinite Retries
+author: FBML
 mode: once
 w32 006F56A4 3BE00063
 w32 006F56A8 B3E30050
 
 name: AoB Infinite Health (%99.99)
+author: FBML
 mode: once
 aob EC21D02A807F008C2C030000 60000000807F008C2C030000
 aob 4082008CC3DF008063E30000 4800008CC3DF008063E30000
@@ -125,49 +145,60 @@ aob D03F00802C03000041820018 600000002C03000041820018
 aob D03F0084418200A48083005C 60000000418200A48083005C
 
 name: AoB Infinite Stamina
+author: FBML
 mode: once
 aob FC21106ED0230028386000014E800020C0630028 C0230034D0230028386000014E800020C0630028
 aob FC21106ED0230028386000014E800020C0830028 C0230034D0230028386000014E800020C0830028
 
 name: AoB Infinite Ammo No Reload
+author: FBML
 mode: once
 aob 30A5FFFF90BF090080BC005C 30A5000090BF090080BC005C
 
 name: AoB Freeze Retry Counter
+author: FBML
 mode: once
 aob 7FE3212EE80100907C0803A6 60000000E80100907C0803A6
 
 name: AoB Enable Pause + Start Menu (Cheats)
+author: FBML
 mode: once
 aob D804000038C6FFFF386300014BFFFE8C 6000000038C6FFFF386300014BFFFE8C
 
 name: AoB Max + Infinite Health
+author: FBML
 mode: once
 aob EF9DF02AE8410028EF9C0824 D0230080E8410028EF810824
 
 name: AoB Max + Infinite Ammo In Clip
+author: FBML
 mode: once
 aob 809F09002C0400004082002C 809F08FC909F09004800002C
 
 name: AoB Max Ammo In Inventory On Gain
+author: FBML
 mode: once
 aob 809E09047C8407B4 809F002C909E0904
 
 name: AoB Instant Max + Infinite Retries
+author: FBML
 mode: once
 aob 2C040000418200183880004E 3BE00063B3E300503880004E
 
 name: Infinite Stamina
+author: jgduff1, FBML
 mode: once
 w32 003B35C0 60000000
 w32 003B370C 60000000
 
 name: AoB Infinite Stamina
+author: FBML
 mode: once
 aob D0230028386000014E800020C0630028 60000000386000014E800020C0630028
 aob D0230028386000014E800020C0830028 60000000386000014E800020C0830028
 
 name: Unlock FPS (PSXPlace)
+author: Joey
 mode: once
 w32 0074BCD4 60000000
 w32 0074BBFC 60000000

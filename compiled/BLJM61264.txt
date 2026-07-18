@@ -1,15 +1,18 @@
 # Yoru no Nai Kuni
 
 name: Libra Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000C1ED0 38600000
 w32 0031C9B8 38600000
 
 name: Blood Time Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 00142784 38600000
 
 name: Skill Points Never Decrease
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 000110CC 60A40000
 w32 000110E8 60000000
@@ -17,24 +20,29 @@ w32 00011104 60000000
 w32 00011120 60000000
 
 name: Max Libra On Gain
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 003B12FC 48000008
 
 name: Libra Never Decreases
+author: games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 003B1324 60000000
 
 name: Max Blood After Gain
+author: games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 003B1490 48000008
 
 name: Max Blood On Use
+author: Hiei-YYH, games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 003B1490 48000008
 w32 003B14A0 3CA0000F
 w32 003B14A4 60A5423F
 
 name: Infinite HP + SP
+author: Hiei-YYH
 mode: once
 w32 0091F2C0 806300B0
 w32 0091F2C4 82030018
@@ -45,19 +53,23 @@ w32 0091F2D4 4E800020
 w32 00102F80 4881C341
 
 name: Chain Combo Never Ends
+author: Hiei-YYH
 mode: once
 w32 000F3F74 60000000
 
 name: Ability Change Item x999 On Use
+author: games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 0015AE38 48000008
 w32 00097AE0 48000008
 
 name: Summon Items x999 In Use
+author: games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w32 00144988 48000008
 
 name: Double Dash Movement Speed
+author: Hiei-YYH
 mode: once
 w32 00BE4000 38600000
 w32 00BE4004 EFC10828
@@ -78,6 +90,7 @@ w32 001174E0 48ACCB20
 w32 001176F0 48ACC910
 
 name: Force Skill 999
+author: games24.blog.fc2.com/blog-entry-292.html
 mode: once
 w16 00AFAE1A 03E7
 w16 00AFAE26 03E7
