@@ -1,0 +1,32 @@
+MIT License
+
+The cheat codes in this repository are derived from the Artemis PS3 cheat database
+(https://github.com/bucanero/ArtemisPS3, originally https://github.com/Dnawrkshp/ArtemisPS3),
+which is MIT licensed. Its copyright notice is reproduced here as that licence requires:
+
+Copyright (c) 2020 Daniel Gerendasy
+
+Each cheat is the work of the individual code creator credited in its `author:` line.
+
+Everything else in this repository - the tooling, the file format, the per-game structure and the
+community scoring data:
+
+Copyright (c) 2026 Mohammed Asif
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

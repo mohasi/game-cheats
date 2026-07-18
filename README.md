@@ -18,6 +18,8 @@ the `author:` lines.
 
 If you are a code creator and want your attribution corrected or your work removed, open an issue.
 
+Artemis is MIT licensed and this database stays MIT - see [LICENSE](LICENSE).
+
 ## Layout
 
 ```
