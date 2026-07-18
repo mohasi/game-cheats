@@ -5,9 +5,9 @@ mode: once
 w32 0019C740 3C804480
 
 name: 1 Hit X-Ray Max
-score BLUS30902 01.07: 17 0+ 2-
+score BLUS30902 01.07: 38 1+ 2-
 mode: once
-w32 0019C798 4082000C
+w32 0019C798 4082000C working-val=2C830000:1
 
 name: AoB 1 Hit X-Ray Max
 mode: once
