@@ -1,8 +1,9 @@
 # Naruto Shippuden: Ultimate Ninja Storm Revolution
 
 name: Infinite Substitution
+score NPUB31472 01.03: 75 1+ 0-
 mode: once
-w32 00AC5828 60000000
+w32 00AC5828 60000000 working-val=FBE10078:1
 
 name: Max And Infinite Ry�s On Gain + Buy + Sell
 mode: once

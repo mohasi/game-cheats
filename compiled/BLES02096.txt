@@ -22,9 +22,10 @@ w32 39D6C7A0 3B9AC9FF
 w32 39FC2A20 3B9AC9FF
 
 name: 99 Customization Points
+score BLES02096 01.08: 75 1+ 0-
 mode: once
-w32 39D29B30 00000063
-w32 39D7E01C 00000063
+w32 39D29B30 00000063 working-val=0000006A:1
+w32 39D7E01C 00000063 working-val=0000006A:1
 
 name: AoB Max Money
 mode: once
@@ -77,8 +78,9 @@ w32 003C75B4 3C607F7F
 w32 00559600 90A30020
 
 name: Infinite Attribute Points
+score BLES02096 01.08: 75 1+ 0-
 mode: once
-w32 003B7934 38607F7F
+w32 003B7934 38607F7F working-val=2C030000:1
 
 name: P1 Invincibility
 mode: once

@@ -28,8 +28,9 @@ mode: once
 w32 0177D578 60000000
 
 name: Max + Infinite Breath
+score BLES01882 01.04: 75 1+ 0-
 mode: once
-w32 0177881C C0090084
+w32 0177881C C0090084 working-val=6463C584:1
 
 name: Max + Infinite Player Ship Resistance
 mode: once
@@ -82,9 +83,10 @@ w32 01DF9AA0 D3FF00D8
 w32 01DF9AA4 C009FA90
 
 name: Max Money + Cargo + Resources + Ammo On Gain
+score BLES01882 01.04: 75 1+ 0-
 mode: once
-w32 01CF6CF0 60000000
-w32 01CF6D48 60000000
+w32 01CF6CF0 60000000 working-val=7FA3EB78:1
+w32 01CF6D48 60000000 working-val=7FA3EB78:1
 
 name: Infinite Money + Cargo + Resources + Ammo After Use
 mode: once
@@ -152,8 +154,9 @@ w32 014E4540 60000000
 w32 014E4544 7C0B0378
 
 name: Money 999999999 After Pickup + Steal
+score BLES01882 01.04: 75 1+ 0-
 mode: once
-w32 01D0BF08 60000000
+w32 01D0BF08 60000000 working-val=3D200216:1
 
 name: Items Do Not Decrease Gold
 mode: once
