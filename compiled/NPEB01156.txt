@@ -1,6 +1,7 @@
 # Batman: Arkham Asylum
 
 name: Infinite Health
+score NPUB30920 01.00: 25 0+ 1-
 author: dron_3 ported by jgduff
 mode: once
 w32 00731E88 38000080
