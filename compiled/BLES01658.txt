@@ -407,5 +407,6 @@ mode: once
 w32 000CE8E4 38600001
 
 name: Enemies Never Escape Grabs
+score BLUS30966 01.00: 75 1+ 0-
 mode: once
-w32 000CE8FC 38600000
+w32 000CE8FC 38600000 working-val=ECA11028:1
