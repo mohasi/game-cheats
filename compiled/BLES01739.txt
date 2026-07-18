@@ -67,8 +67,9 @@ w32 00C01DC4 7C6307B4
 w32 00C11B5C 7C6307B4
 
 name: 1 Hit Kills
+score BLES01739 01.01: 75 1+ 0-
 mode: once
-w32 0077E218 EFDDE828
+w32 0077E218 EFDDE828 working-val=FBE100C0:1
 
 name: Infinite Health
 mode: once
