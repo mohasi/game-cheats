@@ -9,8 +9,9 @@ mode: once
 w32 001AD1A4 60000000
 
 name: Unlimited Ammo (Plasma)
+score NPEB00226 01.00: 75 1+ 0-
 mode: once
-w32 001E6A78 38090000
+w32 001E6A78 38090000 working-val=3809FFFF:1
 
 name: Unlimited Shields
 mode: once
