@@ -1,6 +1,7 @@
 # Borderlands: The Pre-Sequel
 
 name: Infinite Health, Shield, Oxygen, Ammo, And Grenades
+author: dron_3
 mode: once
 w32 012D0990 C00A0058
 w32 012D0994 D00A006C

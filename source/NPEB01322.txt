@@ -1,18 +1,22 @@
 # Far Cry 3 - Blood Dragon
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 00C1F5E8 60000000
 
 name: Infinite Grenades
+author: DANNY G
 mode: once
 w32 0193AAC8 60000000
 
 name: Infinite Health Syringes
+author: DANNY G
 mode: once
 w32 00B82228 60000000
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 01017854 80630020
 w32 01017858 C0230014
@@ -22,15 +26,18 @@ w32 01017868 48163D3A
 w32 00163D34 49017856
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 0013CC14 60000000
 
 name: Infinite Ammo
+author: GuitarMan
 mode: once
 w32 01A387DC 38602710
 w32 01A387E0 907F00BC
 
 name: Infinite Grenades
+author: GuitarMan
 mode: once
 w32 019B3278 28040001
 w32 019B327C 4082001C
@@ -43,42 +50,51 @@ w32 019B329C 489F1122
 w32 009F111C 499B327A
 
 name: Can Use Healing Syringe Any Time + Infinite Syringes
+author: GuitarMan
 mode: once
 w32 0013ED50 4800000C
 w32 00A74734 907D0054
 w32 00B82220 30630000
 
 name: Max Money On Gain
+author: GuitarMan
 mode: once
 w32 00A76AFC 60000000
 
 name: Max Xp On Kill
+author: GuitarMan
 mode: once
 w32 00386A78 48000008
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00140940 60000000
 w32 00975454 60000000
 
 name: Infinite Health V2
+author: Randy97Killa
 mode: once
 w32 00164044 60000000
 
 name: No Hit Reaction From Fire
+author: Randy97Killa
 mode: once
 w32 0013C4E8 60000000
 
 name: Unlimited Ammo Usage (Inventory)
+author: NeoMagic
 mode: once
 w32 00A718F4 7C7F0000
 
 name: Cyber-Point Max On Gain (Instant Level 30)
+author: NeoMagic
 mode: once
 w32 00A76B04 3CC07FFF
 w32 00A76B14 90DA0058
 
 name: Max Data Console On Gain (Easy Trophies)
+author: NeoMagic
 mode: once
 w32 00BA6D58 3CE03B9A
 w32 00BA6D5C 60E7C9FF

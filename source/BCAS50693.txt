@@ -1,6 +1,7 @@
 # Hatsune Miku: Project Diva F 2nd
 
 name: Real Auto ATP
+author: puzzle
 mode: once
 w32 0043D794 60000000
 w32 0043D9A0 60000000
@@ -15,46 +16,57 @@ w32 00441378 480000B0
 w32 00441550 48000030
 
 name: Performance Gauge Always Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00402264 38C000FF
 
 name: Clear Percentage Gauge Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00403590 38801000
 
 name: Score Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00402438 7CC62014
 
 name: AoB Performance Gauge Always Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 aob 63C600007C6430107CDF292E7C6307B4 38C000FF7C6430107CDF292E7C6307B4
 
 name: AoB Clear Percentage Gauge Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 aob 7C9A182E7C7A282E7C06180040820070 388010007C7A282E7C06180040820070
 
 name: AoB Score Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 aob 7CDA292E312700017C8448963CE00002 7CC62014312700017C8448963CE00002
 
 name: Performance Gauge Always Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00401A4C 38C000FF
 
 name: Clear Percentage Gauge Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00402D78 38801000
 
 name: Score Maxed
+author: games24.blog.fc2.com/blog-category-10.html
 mode: once
 w32 00401C20 7CC62014
 
 name: Max DP
+author: JorgeFFC
 mode: once
 w32 0100C9A8 05F5E0FF
 
 name: AoB Real Auto ATP
+author: puzzle
 mode: once
 aob 4182000C7FC307344800001C83FF0000 600000007FC307344800001C83FF0000
 aob 41800014C024001848003B8160000000 60000000C024001848003B8160000000
@@ -69,6 +81,7 @@ aob 418600103C8000A5308481744800000C3C8000A530848154C0440008FC0110004181001CC044
 aob 30A481B438800001C0450008FC011000 4800003038800001C0450008FC011000
 
 name: Unlock FPS
+author: PSXPlace
 mode: once
 w16 006AF44E 0001
 w16 006AF46E 0001

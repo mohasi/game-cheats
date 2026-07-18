@@ -1,38 +1,47 @@
 # Tales of Berseria
 
 name: HP Will Not Decrease At Break Soul
+author: GuitarMan
 mode: once
 w32 0010C1B4 63E40000
 
 name: Max Money On Change
+author: GuitarMan
 mode: once
 w32 001C108C 60000000
 
 name: Max Items On Change
+author: GuitarMan
 mode: once
 w32 001B181C 60000000
 
 name: Instant Max Equipment Skill On Change
+author: GuitarMan
 mode: once
 w32 001D62A8 60000000
 
 name: Instant Max Cooking Skill On Change
+author: GuitarMan
 mode: once
 w32 00193448 60000000
 
 name: Cat Spirits Appear On Map
+author: GuitarMan
 mode: once
 w32 001C37F0 60000000
 
 name: EXP x2 per enemy unit
+author: Abc
 mode: once
 w32 0005A650 1FBD0002
 
 name: Max XP Sea Exploration
+author: Abc
 mode: once
 w32 001E2730 60000000
 
 name: HP Fully Refills On Change For You Or Allies
+author: bungholio
 mode: once
 w32 01895238 38A00005
 w32 0189523C 7CA903A6
@@ -50,6 +59,7 @@ w32 01895268 481D005A
 w32 001D0054 4989523A
 
 name: HP Fully Refills On Change For Only You
+author: bungholio
 mode: once
 w32 01895238 3CA001A9
 w32 0189523C 80A5C9F4
@@ -68,6 +78,7 @@ w32 0189526C 481D005A
 w32 001D0054 4989523A
 
 name: Enemies Die From Any Change To HP
+author: bungholio
 mode: once
 w32 018CEB60 38A00005
 w32 018CEB64 7CA903A6
@@ -85,6 +96,7 @@ w32 018CEB90 4E800020
 w32 001D0058 498CEB62
 
 name: Spirit Chain Fully Refills On Use For You And Allies
+author: bungholio
 mode: once
 w32 018C5BC0 39200006
 w32 018C5BC4 7D2903A6
@@ -102,6 +114,7 @@ w32 018C5BF0 481D014A
 w32 001D0144 498C5BC2
 
 name: Spirit Chain Fully Refills On Use For Only You
+author: bungholio
 mode: once
 w32 018C5BC0 3D2001A9
 w32 018C5BC4 8129C9F4
@@ -120,6 +133,7 @@ w32 018C5BF4 481D014A
 w32 001D0144 498C5BC2
 
 name: Spirit Chain Always Empty After Use For All Enemies
+author: bungholio
 mode: once
 w32 019270E0 FC24186E
 w32 019270E4 39200006
@@ -153,6 +167,7 @@ w32 01927114 481D0142
 w32 001D0140 499270E2
 
 name: Spirit Chain Always Empty For Your Allies
+author: bungholio
 mode: once
 w32 019270E0 FC24186E
 w32 019270E4 39200006
@@ -178,6 +193,7 @@ w32 01927130 481D0142
 w32 001D0140 499270E2
 
 name: Have At Least 1 Of Each Item That Does Not Have Customizable Parts
+author: bungholio
 mode: once
 w32 018B0EF0 7C03202E
 w32 018B0EF4 2B800000
@@ -189,6 +205,7 @@ w32 018B0F08 481B5326
 w32 001B5320 498B0EF2
 
 name: Button Dumper In 16 Bit Format
+author: bungholio
 mode: once
 w32 018DCBA0 907C0004
 w32 018DCBA4 3C8001E9
@@ -200,6 +217,7 @@ w32 018DCBB8 485C9276
 w32 005C9270 498DCBA2
 
 name: Press L3 + L2 To Instantly Kill All Enemies
+author: bungholio
 mode: once
 w32 018DCC44 F881FFF8
 w32 018DCC48 3C8001E9
@@ -229,29 +247,36 @@ aob 0000000000000000000000000000000000000000000000000000000000000000000000000000
 aob 600000002C03000041811058807B005880630074546307FE2C03000041820024 498DCC462C03000041811058807B005880630074546307FE2C03000041820024
 
 name: HP Will Not Decrease At Break Soul
+author: GuitarMan
 mode: once
 w32 0010C0BC 63E40000
 
 name: Max Money On Change
+author: GuitarMan
 mode: once
 w32 001C0F94 60000000
 
 name: Max Items On Change
+author: GuitarMan
 mode: once
 w32 001B1724 60000000
 
 name: Instant Max Techniques (Skills) On Change
+author: GuitarMan
 mode: once
 w32 001D5D14 60000000
 
 name: Instant Max Equip Skill On Change
+author: GuitarMan
 mode: once
 w32 001D61B0 60000000
 
 name: Instant Max Cooking Skill On Change
+author: GuitarMan
 mode: once
 w32 00193350 60000000
 
 name: Cat Spirits Appear On Map
+author: GuitarMan
 mode: once
 w32 001C36F8 60000000

@@ -1,35 +1,43 @@
 # Binary Domain
 
 name: Ghost Mode No Hit Player
+author: xtatu
 mode: once
 w32 0019F89C 41820220
 
 name: Damage 0 P1
+author: xtatu
 mode: once
 w32 001BA3DC 40820008
 
 name: AoB Damage 0 P1
+author: xtatu
 mode: once
 aob 41820008386000017C2004AC2C030000929B0000408204A0807F006C629B0000639A0000487267352C030000418200EC831F005C 40820008386000017C2004AC2C030000929B0000408204A0807F006C629B0000639A0000487267352C030000418200EC831F005C
 
 name: Damage 0 P1
+author: xtatu
 mode: once
 w32 001BA8BC 40820008
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 001CB87C 60000000
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 00A0611C 60000000
 w32 00A06164 60000000
 
 name: Infinite Shock Burst
+author: Medo
 mode: once
 w32 001CBBD4 60000000
 
 name: Infinite Credits
+author: Medo
 mode: once
 w32 000402F0 60000000
 w32 000402F4 60000000
@@ -40,37 +48,45 @@ w32 00B6638C 3DE07FFF
 w32 00B66390 91E40014
 
 name: AoB Infinite Health
+author: Medo
 mode: once
 aob FC22D86ED0230050 FC22D86E60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 aob 3063FFFFB07F0264 3063FFFF60000000
 aob 339CFFFFB39F0266 339CFFFF60000000
 
 name: AoB Infinite Shock Burst
+author: Medo
 mode: once
 aob 63C30000B0A40082 63C3000060000000
 
 name: AoB Infinite Credits
+author: Medo
 mode: once
 aob 7C7AC0283063000178630020 600000006000000060000000
 aob 4BDFEDE5606400006363000038A00000 60640000636300003DE07FFF91E40014
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 001CB39C 60000000
 
 name: Infinite Ammo + Bottomless Clip
+author: Medo
 mode: once
 w32 00A044EC 60000000
 w32 00A04534 60000000
 
 name: Infinite Shock Burst
+author: Medo
 mode: once
 w32 001CB6F4 60000000
 
 name: Infinite Credits
+author: Medo
 mode: once
 w32 00040260 60000000
 w32 0004026C 60000000
@@ -81,14 +97,17 @@ w32 00B6472C 3DE07FFF
 w32 00B64730 91E40014
 
 name: AoB Infinite Credits
+author: Medo
 mode: once
 aob 7C7AC0283063000178630020 600000006000000060000000
 aob 4BDFEEC5606400006363000038A00000 60640000636300003DE07FFF91E40014
 
 name: AoB Damage 0 P1
+author: xtatu
 mode: once
 aob 8084001C5484035A2C04000041820008 8084001C5484035A2C04000040820008
 
 name: Damage 0 P1
+author: xtatu
 mode: once
 w32 001BA39C 40820008

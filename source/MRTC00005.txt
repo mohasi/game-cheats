@@ -1,31 +1,38 @@
 # Sengoku Basara 3 Samurai Heroes
 
 name: Money 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AAD0 0098967F
 
 name: P1 Sengoku Boost Max While Increasing
+author: ChaosZage, Skiller
 mode: once
 w32 001748F0 60000000
 
 name: Money 99999 In Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1A9EC 0001869F
 
 name: Koku 99999 In Battle
+author: ChaosZage, Skiller
 mode: once
 w32 0009FFB0 60000000
 
 name: Hits 99999 In Battle
+author: ChaosZage, Skiller
 mode: once
 w32 000A3C6C 60000000
 
 name: K.O.9999 In Battle
+author: ChaosZage, Skiller
 mode: once
 w32 00587D34 60000000
 w32 00587D50 60000000
 
 name: All Characters LV Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B980 00000064
 w32 32C1BB90 00000064
@@ -45,6 +52,7 @@ w32 32C1D660 00000064
 w32 32C1D870 00000064
 
 name: All Characters EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B984 000F4240
 w32 32C1BB94 000F4240
@@ -64,6 +72,7 @@ w32 32C1D664 000F4240
 w32 32C1D874 000F4240
 
 name: All Resources
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AC88 00630063
 w32 32C1AC8C 00630063
@@ -115,6 +124,7 @@ w32 32C1AD40 FFFFFFFF
 w32 32C1AD44 07FFFFFF
 
 name: All Ending Completed 100%
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1BA1C 00000001
 w32 32C1BA20 00000001
@@ -198,6 +208,7 @@ w32 32C1D918 00000001
 w32 32C1D91C 00000001
 
 name: Unlock All Characters + Free Battle Mission
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1ADA4 FFFFFFFF
 w16 32C1ADAA FFFF
@@ -205,11 +216,13 @@ w16 32C1ADDA FFFF
 w8 32C1AE4F 06
 
 name: Unlock All Music
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AEA8 FFFFFFFF
 w32 32C1AEAC 7FFFFFFF
 
 name: Unlock All Drama Record
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B9D0 00000001
 w32 32C1B9D4 00000001
@@ -437,29 +450,35 @@ w32 32C1C0F0 00000001
 w32 32C1C0F4 00000001
 
 name: Unlock All Titles
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AE4C FFFFFFFF
 w32 32C1AE50 00FFFFFF
 
 name: Max Level After 2 Battles
+author: ChaosZage
 mode: once
 w32 0008F550 7F9C4A14
 
 name: 999 Materials After A Battle
+author: ChaosZage
 mode: once
 w32 0006CA90 409D0050
 
 name: Max Hit Combo
+author: Skiller
 mode: once
 w32 000A5254 60000000
 
 name: Max Money After Battle 99999
+author: Skiller
 mode: once
 w32 000AA70C 60000000
 w32 0037DB6C 60000000
 w32 00080088 7D3D4B78
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00D465A0 3E004F00
 w32 00D465A4 92030224
@@ -471,10 +490,12 @@ w32 00D465B8 4E800020
 w32 0016E16C 48BD8435
 
 name: Invincible From Melee Attacks
+author: Randy97Killa
 mode: once
 w32 0016E19C 8009026C
 
 name: Infinite Musou + Infinite Basara
+author: Randy97Killa
 mode: once
 w32 00DBBB18 80030240
 w32 00DBBB1C 9003023C
@@ -485,25 +506,31 @@ w32 00DBBB2C 4B3BA764
 w32 0017628C 48C4588C
 
 name: AoB Max Money After Stage Clear
+author: Skiller
 mode: once
 aob 7FBD02147FE4FB787F9D4800 7D3D4B787FE4FB787F9D4800
 
 name: AoB Max Hit Combo
+author: Skiller
 mode: once
 aob 913F03A4409D000C 913F03A4409D0004
 
 name: AoB Money After Battle 99999
+author: Skiller
 mode: once
 aob 800902DC7F80E800409D0008 800902DC7F80E80060000000
 
 name: AoB Gain 99999 Money After Battle
+author: Skiller
 mode: once
 aob 812902DC7F890040409D00E8 812902DC7F890040409D0004
 
 name: AoB Max Level After 2 Battles
+author: ChaosZage
 mode: once
 aob 7F9C02147FA4EB787F9C4800 7F9C4A147FA4EB787F9C4800
 
 name: AoB 999 Materials After A Battle
+author: ChaosZage
 mode: once
 aob 2F8003E7419D0050807A0000 2F8003E7409D0050807A0000

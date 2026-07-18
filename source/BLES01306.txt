@@ -1,20 +1,24 @@
 # The Adventures of Tintin: The Secret of the Unicorn
 
 name: Memory Infinite Health For Tintin
+author: jgduff1
 mode: once
 w32 40F9617C 00000003
 w32 418FA080 00000003
 
 name: Memory Infinite Health For Milou
+author: jgduff1
 mode: once
 w32 40F9BA68 00000003
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 014B7610 7C0E0050
 w32 014B7614 60000000
 
 name: Medkits Give Tintin Infinite Health
+author: jgduff1
 mode: once
 w32 014B7438 7C020214
 w32 014B743C 904B0140

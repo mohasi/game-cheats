@@ -1,9 +1,11 @@
 # Dai-3-Ji Super Robot Taisen Z: Jigoku-hen
 
 name: Max EXP On Gain
+author: Medo
 mode: once
 w32 002CA164 60000000
 
 name: AoB Max EXP On Gain
+author: Medo
 mode: once
 aob 7D2A4A14409D0008 7D2A4A1460000000

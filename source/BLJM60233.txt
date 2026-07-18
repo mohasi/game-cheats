@@ -1,10 +1,12 @@
 # Assassin's Creed II: Special Edition
 
 name: Money 99999999
+author: xtatu
 mode: once
 w32 00A4C164 60000000
 w32 00A55E2C 913F0010
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 00608F64 801F005C

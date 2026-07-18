@@ -1,6 +1,7 @@
 # X-Men: Destiny
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 104E1FC4 42C00000
 w32 114E07C4 42C00000
@@ -8,27 +9,33 @@ w32 114E13A8 00000064
 w32 11DB4E64 0000014D
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002D2E20 60000000
 
 name: Memory Lot Of Upgrade Points On Gain
+author: jgduff1
 mode: once
 w32 11E6CDA0 00000989
 
 name: ASM Lot Of Upgrade Points On Gain
+author: jgduff1
 mode: once
 w32 00244108 91430020
 
 name: ASM Lot Of Upgrade Points On Buy
+author: jgduff1
 mode: once
 w32 00244548 91830020
 
 name: Invincibility
+author: GuitarMan
 mode: once
 w32 000BD32C 38600001
 w32 000BD330 907D07CC
 
 name: 2 Hit Kill
+author: GuitarMan
 mode: once
 w32 012831C0 28030001
 w32 012831C4 40820010
@@ -39,25 +46,30 @@ w32 012831D4 480F405E
 w32 000F4058 492831C2
 
 name: Max Xp On Gain
+author: GuitarMan
 mode: once
 w32 00246A18 3C6005F5
 w32 00246A1C 6063E0FF
 w32 00246A20 907F0094
 
 name: Infinite Health
+author: GuitarMan
 mode: once
 w32 001DF6F4 D05D07C4
 
 name: Infinite M-Power
+author: GuitarMan
 mode: once
 w32 001DF7E4 D043000C
 
 name: Health Instantly Recovers
+author: GuitarMan
 mode: once
 w32 0008EF44 60000000
 w32 0008EF68 FC20F890
 
 name: 2 Hit Kill
+author: GuitarMan
 mode: once
 w32 012679A0 28030001
 w32 012679A4 40820010

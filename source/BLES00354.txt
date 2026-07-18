@@ -1,30 +1,36 @@
 # Call of Duty: World at War
 
 name: Infinite Health
+author: jgduff1
 mode: once
 w32 002667D4 7CD82050
 w32 002667D8 909F01C8
 
 name: Infinite Ammo + No Reload
+author: jgduff1
 mode: once
 w32 001153D0 396B0000
 w32 001153E4 60000000
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 00115F1C 60000000
 
 name: Infinite Grenade
+author: jgduff1
 mode: once
 w32 0011955C 39750000
 w32 00119570 917D000C
 
 name: HP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00E5F384 000000FF
 w32 00E5F388 000000FF
 
 name: All Ammo
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FB1F7C 000003E7
 w32 00FB1F80 000003E7
@@ -48,5 +54,6 @@ w32 00FB1FC4 000003E7
 w32 00FB1FC8 000003E7
 
 name: Grenade Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FB2424 00000063

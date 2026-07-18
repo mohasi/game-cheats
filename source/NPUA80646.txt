@@ -1,79 +1,98 @@
 # Ratchet - Deadlocked HD
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 002FA954 40820168
 
 name: AoB Infinite Health
+author: xtatu
 mode: once
 aob 41820168A0A304202C0500004082015CC0440000FC0110004CC01382 40820168A0A304202C0500004082015CC0440000FC0110004CC01382
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 010D7250 41200000
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 002FAA7C 60000000
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 00B2B7E8 000000BB
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 002D371C 7CA62810
 w32 002D3730 60000000
 
 name: Memory Lot Of Bolts On Gain
+author: jgduff1
 mode: once
 w32 009C32E8 000F5953
 
 name: ASM Many Bolts On Gain
+author: jgduff1
 mode: once
 w32 002B2424 904332E8
 
 name: ASM Many Bolts On Buy
+author: jgduff1
 mode: once
 w32 00626B3C 904532E8
 
 name: Memory Max Level On 1 Kill
+author: jgduff1
 mode: once
 w32 009C32F0 0000001D
 
 name: ASM Max Level On 1 Kill
+author: jgduff1
 mode: once
 w32 001E3910 90150008
 
 name: Memory Easy Max Level For Guns (1 Level Per Kill)
+author: jgduff1
 mode: once
 w32 00B2B830 00000063
 
 name: ASM Easy Max Level For Guns (1 Level Per Kill)
+author: jgduff1
 mode: once
 w32 002D3988 90460A34
 
 name: Memory Infinite Health (Non Ratchet)
+author: jgduff1
 mode: once
 w32 01108838 42C80000
 
 name: ASM Infinite Health (Non Ratchet)
+author: jgduff1
 mode: once
 w32 003525CC 60000000
 
 name: Memory Infinite Time (Hoverbike)
+author: jgduff1
 mode: once
 w32 449944A4 0186000A
 
 name: ASM Infinite Time (Hoverbike)
+author: jgduff1
 mode: once
 w32 0071CF04 60000000
 
 name: Memory Infinite Time (Rodator)
+author: jgduff1
 mode: once
 w32 449B558C 00000DED
 
 name: ASM Infinite Time (Rodator)
+author: jgduff1
 mode: once
 w32 0071CE94 60000000
 w32 0071CEA4 30840000

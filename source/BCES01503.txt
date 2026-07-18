@@ -1,22 +1,27 @@
 # The Ratchet &amp;amp; Clank Trilogy
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w8 0096BF8B 08
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 0007F558 30640000
 
 name: Memory Infinite Air
+author: jgduff1
 mode: once
 w32 0096BF80 00002710
 
 name: ASM Infinite Air
+author: jgduff1
 mode: once
 w32 000A2814 907F2710
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 0096C0D4 00000028
 w32 0096C0D8 00000014
@@ -29,22 +34,27 @@ w32 0096C108 00000032
 w32 0096C110 00000014
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 000AA2DC 60000000
 
 name: Memory 999,999 Bolts
+author: jgduff1
 mode: once
 w32 00969CA0 000F423F
 
 name: ASM Many Bolts On Gain
+author: jgduff1
 mode: once
 w32 0024075C 7CC64814
 
 name: Memory Lot + Infinite Bolt On Change
+author: jgduff1
 mode: once
 w32 00969CA0 00000032
 
 name: ASM Lot + Infinite Bolt On Change
+author: jgduff1
 mode: once
 w32 0016D758 7F9F1810
 w32 0016D764 905C9CA0
@@ -54,10 +64,12 @@ w32 0024075C 7CC62014
 w32 00240764 90439CA0
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 014816AC 00000014
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 000912FC 907F0000
 w32 000DC734 907F0000
@@ -80,10 +92,12 @@ w32 0097655C 907F0000
 w32 00A8BB5C 907F0000
 
 name: Memory Infinite Ammo All Guns
+author: jgduff1
 mode: once
 w32 014818A4 0000012C
 
 name: ASM Infinite Ammo All Guns
+author: jgduff1
 mode: once
 w32 000A1F74 7C86192E
 w32 0010646C 7C86512E
@@ -106,27 +120,33 @@ w32 009DA1FC 7C86812E
 w32 00A9C7D4 7C86812E
 
 name: Memory Levitator Not Decrease
+author: jgduff1
 mode: once
 w32 0147F790 42430000
 
 name: ASM Levitator Not Decrease
+author: jgduff1
 mode: once
 w32 001B1490 3C604A8C
 w32 00B68578 D0630000
 
 name: Memory Easy Bolt On Gain
+author: jgduff1
 mode: once
 w8 01329A93 FF
 
 name: ASM Easy Bolt On Gain
+author: jgduff1
 mode: once
 w32 00C13B00 7CE78814
 
 name: Memory Lot + Infinite Bolt On Change
+author: jgduff1
 mode: once
 w32 01329A90 0000F260
 
 name: ASM Lot + Infinite Bolt On Change
+author: jgduff1
 mode: once
 w32 00BFDA3C 7CBE2810
 w32 00BFDA40 90449A90
@@ -134,72 +154,89 @@ w32 00C13B00 7CE72014
 w32 00C13B08 90459A90
 
 name: Memory Raritarium x9999
+author: jgduff1
 mode: once
 w32 01329A94 000003E7
 
 name: ASM Raritarium x9999
+author: jgduff1
 mode: once
 w32 00015A70 3084270F
 
 name: Memory Crystal On Gain x9999
+author: jgduff1
 mode: once
 w32 01329AB0 00000000
 
 name: ASM Crystal On Gain x9999
+author: jgduff1
 mode: once
 w32 00D357A8 30A5270F
 
 name: Memory Lunar Stone On Gain x9999
+author: jgduff1
 mode: once
 w32 01329AB4 00000004
 
 name: ASM Lunar Stone On Gain x9999
+author: jgduff1
 mode: once
 w32 01063C44 3106270F
 
 name: Memory Infinite Ship Health
+author: jgduff1
 mode: once
 w32 015D4D78 00000064
 
 name: Memory Infinite Ship Shield
+author: jgduff1
 mode: once
 w32 0135444C 00000064
 
 name: ASM Infinite Ship Health Or Shield
+author: jgduff1
 mode: once
 w32 00BEC6B4 907E0000
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 01354384 0000000A
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00BED678 90830000
 
 name: Memory Big Clank Infinite Health
+author: jgduff1
 mode: once
 w32 01480A54 000004B0
 
 name: ASM Big Clank Infinite Health
+author: jgduff1
 mode: once
 w32 005E8F50 60000000
 w32 00636EE0 60000000
 
 name: Memory Big Clank Infinite Missiles
+author: jgduff1
 mode: once
 w32 0145C160 00000064
 
 name: ASM Big Clank Infinite Missiles
+author: jgduff1
 mode: once
 w32 005CB6A0 30840000
 w32 00619630 30840000
 
 name: Memory Big Clank Infinite Bombs
+author: jgduff1
 mode: once
 w32 0145C164 00000002
 
 name: ASM Big Clank Infinite Bombs
+author: jgduff1
 mode: once
 w32 00612720 30840000
 w32 0061273C 60000000
@@ -214,49 +251,61 @@ w32 006131F4 7DE5FE70
 w32 00613200 7DE5FE70
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 00DA5040 0000000A
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 001536D8 60000000
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 00DA52DC 0000001E
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 00182BF8 7C85212E
 
 name: Memory Infinite + Max Bolts
+author: jgduff1
 mode: once
 w32 00C1E4DC 05F5E0FF
 
 name: ASM Infinite + Max Bolts
+author: jgduff1
 mode: once
 w32 00288098 7CA83014
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 005026BC 40860008
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 41860008480000143C60005038632694C0430004 40860008480000143C60005038632694C0430004
 
 name: 1P Infinite Health
+author: xtatu
 mode: once
 w32 00026EAC 408100F8
 
 name: AoB 1P Infinite Health
+author: xtatu
 mode: once
 aob 418100F8C0AB0000FC802890FC602090FC011800 408100F8C0AB0000FC802890FC602090FC011800
 
 name: 1P Invincible Mode
+author: xtatu
 mode: once
 w32 000DD7B4 40820210
 
 name: AoB 1P Invincible Mode
+author: xtatu
 mode: once
 aob 418202103CE0000E3940001038E7D68039800020390000403BC00030 408202103CE0000E3940001038E7D68039800020390000403BC00030

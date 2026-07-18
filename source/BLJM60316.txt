@@ -1,31 +1,38 @@
 # Ryuu ga Gotoku: Of the End
 
 name: Cash 99999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 015214D8 05F5E0FF
 
 name: No Continues
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01521580 00000000
 
 name: Kills 999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01521584 000F423F
 
 name: Always 1st Save
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01521590 00000000
 
 name: Exp Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0153548C 002DAC62
 
 name: Snipe Gauge Always Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0153547C 457A0000
 w32 01535478 45FA0000
 
 name: Bullet 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 0151FCD8 0063
 w16 0151FCE0 0063

@@ -1,12 +1,14 @@
 # Far Cry Classic
 
 name: Memory Infinite Ammo
+author: jgduff1
 mode: once
 w32 10A3A0F8 000000C8
 w32 161A7668 000000C8
 w32 16297218 00000001
 
 name: ASM Infinite Ammo
+author: jgduff1
 mode: once
 w32 009B8080 7FE0F7AE
 w32 009B8078 38600000
@@ -14,6 +16,7 @@ w32 009B8030 3BA40000
 w32 009B8064 60000000
 
 name: Infinite Ammo
+author: jgduff1
 mode: once
 w32 158CFA44 00000064
 w32 16297214 00000064

@@ -1,49 +1,61 @@
 # The King of Fighters XII
 
 name: P1 HP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007832D4 000003E8
 
 name: P1 Power Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007832D8 00000064
 
 name: P1 Critical Counters Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007832DC 00000064
 
 name: P2 HP 0
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00783320 00000000
 
 name: Total Time 00:00:000
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007831F0 00000000
 
 name: Total Time 59:59:990
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007831F0 0036EE76
 
 name: P1 HP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B404C 000003E8
 
 name: P1 Power Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B4050 00000064
 
 name: P1 Critical Counters Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B4054 00000064
 
 name: P2 HP 0
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B4098 00000000
 
 name: Total Time 00:00:000
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B3F68 00000000
 
 name: Total Time 59:59:990
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007B3F68 0036EE76

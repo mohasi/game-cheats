@@ -1,41 +1,51 @@
 # The House of the Dead III
 
 name: Memory Infinite Lives
+author: jgduff1
 mode: once
 w32 00631494 00000009
 
 name: ASM Infinite Lives
+author: jgduff1
 mode: once
 w32 00151A00 39290000
 
 name: Memory Infinite Credits
+author: jgduff1
 mode: once
 w32 00631AE0 00000009
 
 name: ASM Infinite Credits
+author: jgduff1
 mode: once
 w32 0008F5F0 60000000
 
 name: Memory No Reload + Infinite Ammo
+author: jgduff1
 mode: once
 w32 006314E0 00000006
 
 name: ASM No Reload + Infinite Ammo
+author: jgduff1
 mode: once
 w32 00151DAC 39290000
 
 name: Memory Max Scores In 1 Kill
+author: jgduff1
 mode: once
 w32 0063149C 0098967F
 
 name: ASM Max Scores In 1 Kill
+author: jgduff1
 mode: once
 w32 0015070C 91230000
 
 name: Memory Scores Never Decrease
+author: jgduff1
 mode: once
 w32 0063149C 0098967F
 
 name: ASM Scores Never Decrease
+author: jgduff1
 mode: once
 w32 0015175C 60000000

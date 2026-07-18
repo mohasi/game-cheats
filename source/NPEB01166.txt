@@ -1,25 +1,31 @@
 # Retro City Rampage
 
 name: Max Score On Gain
+author: crapulecorp
 mode: once
 w32 000EDE3C F93F0148
 
 name: Max Money On Gain
+author: crapulecorp
 mode: once
 w32 000EC214 91690000
 
 name: Unlimited Ammo
+author: crapulecorp
 mode: once
 w32 000F42D0 39290000
 
 name: AoB Max Score On Gain
+author: crapulecorp
 mode: once
 aob 65294E72F81F014861299FFF7FA04840 65294E72F93F014861299FFF7FA04840
 
 name: AoB Max Money On Gain
+author: crapulecorp
 mode: once
 aob 7F805800900900004C9D002091690000 7F805800916900004C9D002091690000
 
 name: AoB Unlimited Ammo
+author: crapulecorp
 mode: once
 aob 8928000C3929FFFF9928000C4BF46D55 8928000C392900009928000C4BF46D55

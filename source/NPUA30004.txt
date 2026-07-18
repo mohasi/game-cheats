@@ -1,5 +1,6 @@
 # Heavy Weapon
 
 name: Infinite Lives
+author: optantic
 mode: once
 w32 001967E4 60000000

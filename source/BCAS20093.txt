@@ -1,20 +1,24 @@
 # Tales of Vesperia
 
 name: Gald
+author: JorgeFFC
 mode: once
 w32 00B82800 05F5E0FF
 
 name: Infinite Gald
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002DD3DC 480000AC
 
 name: Gald Always 999999999 When Buying Something
+author: tekman
 mode: once
 w32 002DD3A0 3DE03B9A
 w32 002DD3A4 61EFC9FF
 w32 002DD3A8 91E30030
 
 name: All Item 99
+author: JorgeFFC, Medo
 mode: once
 w32 00B84248 00000063
 w32 00B8280C 00000063
@@ -1855,60 +1859,73 @@ w32 00B846D0 00000063
 w32 00B846D4 00000063
 
 name: 98 Items On Buy Or Sell
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E02C4 3BE00062
 
 name: Infinite Item
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002DD8A4 60000000
 
 name: Items Always Drop
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 00208ED8 60000000
 
 name: 100x Exp Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002EB4E4 1F840064
 
 name: Quick Level Up (Instant 200)
+author: Medo
 mode: once
 w32 002E9578 7CA32B78
 w32 002E9584 60000000
 
 name: Skill Usage Times 9999
+author: JorgeFFC
 mode: once
 w32 002E9E24 7CA32B78
 
 name: Skill Equip Costs No CP
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E8B4C 386003E7
 w32 002E8B50 907D24FC
 w32 002E8B58 907D24F8
 
 name: Infinite HP
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E7B94 FC200090
 
 name: Infinite TP
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E92AC 7CA32B78
 
 name: OVL Level 8
+author: Medo
 mode: once
 w32 002E9790 7CA32B78
 
 name: OVL*2000
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 00250C28 3C600074
 w32 00250C2C C02396D0
 w32 00250C30 EFDE0072
 
 name: 1000x LP Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 00209670 7A240020
 w32 00209674 1C8403E8
 
 name: 9999 Enemies Defeated For Magic Brace
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E7CC0 3880270F
 w32 002E7CC4 90833F34
@@ -1920,50 +1937,61 @@ w32 002E7CD8 7C8307B4
 w32 002E7CDC 4E800020
 
 name: Fast Magic Casting
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 0022B4D4 60000000
 
 name: Max + Infinite Overlimit
+author: Medo
 mode: once
 w32 002DC214 3DC04448
 w32 002DC218 91DF3C58
 w32 002DC250 60000000
 
 name: Infinite Overlimit Mode
+author: Medo
 mode: once
 w32 002E7BA0 60000000
 
 name: Quick Weapon Skill Learner
+author: JorgeFFC
 mode: once
 w32 002EBC38 3860270F
 
 name: Instant Learn + Mastery of Arts
+author: JorgeFFC
 mode: once
 w32 002E8708 3860270F
 
 name: 100x Combo Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 001FAA04 38800064
 
 name: 100x Chain Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 001F1048 38800064
 
 name: Can Activate Something Without The Sword Star
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002523EC 38600000
 
 name: Master Cooking Master
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E7AC4 7C832214
 w32 002E7AC8 38600190
 w32 002E7ACC 9064000C
 
 name: Cooking Max
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E7B40 60000000
 
 name: Grade*2000
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 0028A554 C01F0088
 w32 0028A558 3C600074
@@ -1971,54 +1999,67 @@ w32 0028A55C C02396D0
 w32 0028A560 EC000072
 
 name: Grade Max
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002DC60C FC201890
 
 name: Unknown Difficulty Can Be Selected
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002C5E68 60000000
 
 name: Play Time 0
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002DD508 39400000
 
 name: Battle Time 0
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 001FE778 38600000
 
 name: Maximum TP 999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E9B30 7CA32B78
 
 name: Maximum HP 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002E9C08 7CA32B78
 
 name: Physical Attack 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ECF68 7CA32B78
 
 name: Magic Attack 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ECFB0 7CA32B78
 
 name: Physical Defense 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ECFF8 7CA32B78
 
 name: Magic Defense Force 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ED040 7CA32B78
 
 name: Agility 9999
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ED0D4 7CA32B78
 
 name: Luck 100
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002ED120 7CA32B78
 
 name: Yuri Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B87214 0000270F
 w32 00B87218 0000270F
@@ -2027,6 +2068,7 @@ w32 00B87220 0000270F
 w32 00B87228 0000270F
 
 name: Estelle Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B8B2AC 0000270F
 w32 00B8B2B0 0000270F
@@ -2035,6 +2077,7 @@ w32 00B8B2B8 0000270F
 w32 00B8B2C0 0000270F
 
 name: Repeede Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B9F5A4 0000270F
 w32 00B9F5A8 0000270F
@@ -2043,6 +2086,7 @@ w32 00B9F5B0 0000270F
 w32 00B9F5B8 0000270F
 
 name: Karol Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B8F344 0000270F
 w32 00B8F348 0000270F
@@ -2051,6 +2095,7 @@ w32 00B8F350 0000270F
 w32 00B8F358 0000270F
 
 name: Rita Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B933DC 0000270F
 w32 00B933E0 0000270F
@@ -2059,6 +2104,7 @@ w32 00B933E8 0000270F
 w32 00B933F0 0000270F
 
 name: Judith Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B9B50C 0000270F
 w32 00B9B510 0000270F
@@ -2067,6 +2113,7 @@ w32 00B9B518 0000270F
 w32 00B9B520 0000270F
 
 name: Raven Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00B97474 0000270F
 w32 00B97478 0000270F
@@ -2075,6 +2122,7 @@ w32 00B97480 0000270F
 w32 00B97488 0000270F
 
 name: Flynn Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00BA363C 0000270F
 w32 00BA3640 0000270F
@@ -2083,6 +2131,7 @@ w32 00BA3648 0000270F
 w32 00BA3650 0000270F
 
 name: Patty Max Stats Without Luck
+author: Himoshifu
 mode: once
 w32 00BA76D4 0000270F
 w32 00BA76D8 0000270F
@@ -2091,6 +2140,7 @@ w32 00BA76E0 0000270F
 w32 00BA76E8 0000270F
 
 name: Unlock Stuff (NOTE)
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 w32 002EBF14 7C0B5B78
 w32 002EBF18 7D63492E
@@ -2103,6 +2153,7 @@ w32 002DBAE4 3860000A
 w32 002DBAE8 60000000
 
 name: Infinite Health + 1 Hit Kills
+author: Hiei-YYH
 mode: once
 w32 00738E14 811C0048
 w32 00738E18 2F880001
@@ -2116,58 +2167,72 @@ w32 00738E30 482E9433
 w32 002E942C 48738E17
 
 name: AoB Infinite Gold
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 7F804800419D00AC2F8A0000419C00B0 7F804800480000AC2F8A0000419C00B0
 
 name: AoB 100x Exp Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob FBA100787C9C23787C7D1B784BFFC985 FBA100781F8400647C7D1B784BFFC985
 
 name: AoB Quick Level Up (Instant 200)
+author: Medo
 mode: once
 aob 60A5E0FF7C83237838800000F80100A04827FB7D60000000 60A5E0FF7CA32B7838800000F80100A06000000060000000
 
 name: AoB Infinite TP
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 388000007FA307B44827FE5560000000 388000007FA307B47CA32B7860000000
 
 name: AoB Fast Magic Casting
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 2F830000409D0024388000007FE3FB78 2F83000060000000388000007FE3FB78
 
 name: AoB Max + Infinite Overlimit
+author: Medo
 mode: once
 aob F80100A0C3FF3C58EFE1F82AD3FF3C58 F80100A0C3FF3C583DC0444891DF3C58
 aob FF9F6800409D0008D1BF3C58E80100A0 FF9F6800409D000860000000E80100A0
 
 name: AoB Infinite Overlimit Mode
+author: Medo
 mode: once
 aob C1A2F4C0FF816800D0234064419C001C C1A2F4C0FF81680060000000419C001C
 
 name: AoB Items Always Drop
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 4FDCF382419E001880130000540002D6 4FDCF3826000000080130000540002D6
 
 name: AoB 98 Items On Buy Or Sell
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob FBC100807CBF2B787C9D237891810098 FBC100803BE000627C9D237891810098
 
 name: AoB Quick Weapon Skill Learner
+author: JorgeFFC
 mode: once
 aob 786300204826CC2D600000007C7CE92E 786300204826CC2D3860270F7C7CE92E
 
 name: AoB Max + Infinite SP To Equip Skills
+author: Medo
 mode: once
 aob 7CA507B4482805B560000000E80100A0907D24F8 7CA507B4386003E7907D24FCE80100A0907D24F8
 
 name: AoB Instant Learn and Mastery of Arts
+author: JorgeFFC
 mode: once
 aob 7C632214806300084E800020908324D8 7C6322143860270F4E800020908324D8
 
 name: AoB 100x Combo Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 4BFFE70C388000017F03C37848048785 4BFFE70C388000647F03C37848048785
 
 name: AoB 100x Chain Multiplier
+author: mutuki1406.moraimon.com/code/etc/tov_ps3.html
 mode: once
 aob 419C0358388000017F83E37848052031 419C0358388000647F83E37848052031

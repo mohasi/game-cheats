@@ -1,10 +1,12 @@
 # Trine 2
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 00057848 38600001
 w32 0005784C 987B01A4
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 7C1918004081002C6343000048B8FF79 38600001987B01A46343000048B8FF79

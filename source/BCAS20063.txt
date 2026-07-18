@@ -1,14 +1,17 @@
 # Samurai Dou 3
 
 name: Gold 99999
+author: xtatu
 mode: once
 w32 30217594 0001869F
 
 name: Points Accumulated 10000
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 30217714 00002710
 
 name: Characters Unlocked
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 302177DC 01010101
 w32 302177E0 01010101
@@ -47,9 +50,11 @@ w32 30217860 01010101
 w32 30217864 01010101
 
 name: Infinite Time
+author: xtatu
 mode: once
 w32 0067E180 60000000
 
 name: Max Money
+author: xtatu
 mode: once
 w32 30217594 0001869F

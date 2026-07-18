@@ -1,18 +1,22 @@
 # Sega Rally
 
 name: Memory Always First
+author: jgduff1
 mode: once
 w32 10152504 00000005
 
 name: ASM Always First
+author: jgduff1
 mode: once
 w32 00158D4C 93CB000C
 
 name: Memory Infinite Time
+author: jgduff1
 mode: once
 w32 101526C4 00004290
 
 name: ASM Infinite Time
+author: jgduff1
 mode: once
 w32 0015679C 7C1D0214
 w32 001567A0 60000000

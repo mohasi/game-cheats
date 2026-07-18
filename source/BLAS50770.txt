@@ -1,48 +1,59 @@
 # Gundam Breaker 2
 
 name: Max GP
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 00072F39 C3F12E3B
 
 name: 0 Cost
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0036E579 6329604E
 
 name: 99 Module Slots
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 003C9B00 38A00063
 
 name: Max Ace Points
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0049188C 60000000
 
 name: Weapon Guage Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0037AEA5 20109060
 w32 0037AEA9 00000060
 w32 0037AEAD 000000D0
 
 name: Boost Guage Never Overheats
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0036E544 48000034
 
 name: Trans Am Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0037ADC0 60000000
 w32 0037ADC4 FC201890
 
 name: Option Arms Never Decrease
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 003CAFF5 390008D0
 
 name: EX Attack Never Decreases
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0045073D 84000448
 
 name: Max Awakening Guage
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 0046FADB 9C7C0430
 
 name: 999 Strengthening Materials
+author: kanae.2ch.net/test/read.cgi/gameurawaza/1395654864/
 mode: once
 w32 004886A5 00000030

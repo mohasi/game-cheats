@@ -1,6 +1,7 @@
 # Bionic Commando - Rearmed 2
 
 name: Infinite HP + One Hit Kill
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010120 7F9E1800
 w32 00010124 409E0048
@@ -26,6 +27,7 @@ w32 00010170 484425EC
 w32 00452758 4BBBD9C8
 
 name: Infinite Grenade
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00010180 7F9E1800
 w32 00010184 409E0020
@@ -41,12 +43,14 @@ w32 000101A8 484425B0
 w32 00452754 4BBBDA2C
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w32 11CF885C 40400000
 w32 128092B0 40400000
 w32 17B5D9F0 40400000
 
 name: ASM Unknown Code 1
+author: jgduff1
 mode: once
 w32 00452754 60000000
 w32 0045274C 80160000

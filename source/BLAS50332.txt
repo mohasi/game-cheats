@@ -1,54 +1,67 @@
 # Mortal Kombat
 
 name: Infinite X-Ray
+author: xtatu
 mode: once
 w32 0019C740 3C804480
 
 name: 1 Hit X-Ray Max
+author: xtatu
 mode: once
 w32 0019C798 4082000C
 
 name: AoB 1 Hit X-Ray Max
+author: xtatu
 mode: once
 aob 4182000C3C603F80907F0C143C600227806338902C0300004182000C3C603F80907F0C14E80100A0 4082000C3C603F80907F0C143C600227806338902C0300004182000C3C603F80907F0C14E80100A0
 
 name: Timer 90
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0198B444 0000005A
 
 name: Gold 999999999
+author: brunolee
 mode: once
 w32 01991174 3B9AC9FF
 
 name: P1 Health Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32A62650 3F800000
 
 name: P2 Health Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32AB8CD0 3F800000
 
 name: P1 Inflicts Less Damage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01984130 3EF00000
 
 name: P2 Inflicts Less Damage
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01984134 3EF00000
 
 name: P1 Super Meter Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01984190 3F800000
 
 name: P2 Super Meter Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 01984E1C 3F800000
 
 name: P2 Death
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32AB8CD0 00000000
 
 name: P1 NPC Fix Pre Ladder Screen
+author: brunolee
 mode: once
 w32 01983EE0 43484152
 w32 01983EE4 5F536861
@@ -58,6 +71,7 @@ w32 01983EF0 00000000
 w32 01983EF4 00000000
 
 name: P2 NPC Fix Pre Ladder Screen
+author: brunolee
 mode: once
 w32 01984B6C 43484152
 w32 01984B70 5F536861
@@ -67,19 +81,23 @@ w32 01984B7C 00000000
 w32 01984B80 00000000
 
 name: Gold 999999999
+author: opticky
 mode: once
 w32 01991224 0098967F
 
 name: Auto Fatality
+author: opticky
 mode: once
 w32 01983388 0000000A
 
 name: Infinite Health
+author: Hiei-YYH
 mode: once
 w32 0016F4A4 C3C47708
 w32 0016F4AC D3C478C0
 
 name: Infinite X-Ray
+author: Hiei-YYH
 mode: once
 w32 00174E64 3063357C
 w32 00174E68 3C803F80
@@ -87,6 +105,7 @@ w32 00174E6C 90830C14
 w32 00174E70 60000000
 
 name: Time Infinite, Hold R3 To Reduce To 0
+author: bungholio
 mode: once
 w32 014E2048 2B870154
 w32 014E204C 419E0080
@@ -105,6 +124,7 @@ w32 014E20D0 486DF1A2
 w32 006DF19C 494E204A
 
 name: Test Your Might + Strike Meters Never Decreases
+author: bungholio
 mode: once
 w32 0152D388 2B8300D8
 w32 0152D38C 419E000C
@@ -118,12 +138,14 @@ w32 0152D3A8 486DBDB2
 w32 006DBDA8 4952D38A
 
 name: Max Coins
+author: bungholio
 mode: once
 w32 001D76C8 3C607F7F
 w32 001D7FAC 3C607F7F
 w32 001D7868 3CC07F7F
 
 name: X-Ray Always Full For Players
+author: bungholio
 mode: once
 w32 0152D6D0 3C800197
 w32 0152D6D4 808440E0
@@ -141,6 +163,7 @@ w32 0152D700 4816F27A
 w32 0016F274 4952D6D2
 
 name: X-Ray Always Empty For AI
+author: bungholio
 mode: once
 w32 0152D828 3C800197
 w32 0152D82C 808440E0
@@ -159,6 +182,7 @@ w32 0152D85C 4816F27E
 w32 0016F278 4952D82A
 
 name: Button Toggled Damage Type Cycler
+author: bungholio
 mode: once
 w32 0152D3D4 3CE0027D
 w32 0152D3D8 88E7F016
@@ -215,14 +239,17 @@ w32 001A71A8 4952D3D6
 w32 001B1DC8 4952D422
 
 name: Auto Commando
+author: xtatu
 mode: once
 w32 0068B208 4E800020
 
 name: Disable Block
+author: xtatu
 mode: once
 w32 001AB670 4E800020
 
 name: Time Infinite, Hold R3 To Reduce To 0
+author: bungholio
 mode: once
 w32 014D21FC 3C800226
 w32 014D2200 A08437A6
@@ -236,6 +263,7 @@ w32 014D2230 4BFFFFE8
 w32 006DF19C 494D21FE
 
 name: Test Your Might Or Strike Meter Never Decreases
+author: bungholio
 mode: once
 w32 014D2254 FF820800
 w32 014D2258 409C0008

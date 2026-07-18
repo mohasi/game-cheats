@@ -1,134 +1,167 @@
 # Mobile Suit Gundam - Senki Record U.C. 0081
 
 name: AoB Max Money On Buy Or Sell
+author: Skiller
 mode: once
 aob 419D02CC8138000093E9283C 480002CC8138000093E9283C
 
 name: AoB Max Money On Load
+author: Jon888
 mode: once
 aob 409D00087C05037838806B25 600000007C05037838806B25
 
 name: AoB Max EXP On Gain
+author: Skiller
 mode: once
 aob 7F890000409D0050A01F0002 7F800000409D0004A01F0002
 
 name: AoB Change Game Save Area To 01.02 BLJS10050-FREEMISSIONDATA to BLJS10050-FREEMISSIONDAT2
+author: Skiller
 mode: once
 aob 424C4A5331303035302D465245454D495353494F4E44415441 424C4A5331303035302D465245454D495353494F4E44415432
 
 name: AoB Change Game Save Area To 01.02 BLJS10050-SCENARIODATA to BLJS10050-SCENARIODAT2
+author: Skiller
 mode: once
 aob 424C4A5331303035302D5343454E4152494F44415441 424C4A5331303035302D5343454E4152494F44415432
 
 name: AoB Change Game Save Area To 01.02 BLJS10050-SYSTEMDATA to BLJS10050-SYSTEMDAT2
+author: Skiller
 mode: once
 aob 424C4A5331303035302D53595354454D44415441 424C4A5331303035302D53595354454D44415432
 
 name: Power 9999999pt
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 31C8242C 0098967F
 
 name: Max Experience (Hero)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319E7FEC 05F5E0FF
 
 name: Combat 99 (Hero)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E7FFA 0063
 
 name: Firing 99 (Hero)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E7FFE 0063
 
 name: Defense 99 (Hero)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8002 0063
 
 name: Pilot 99 (Hero)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8006 0063
 
 name: Max Experience (P2)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319E8048 05F5E0FF
 
 name: Combat 99 (P2)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8056 0063
 
 name: Firing 99 (P2)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E805A 0063
 
 name: Defense 99 (P2)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E805E 0063
 
 name: Pilot 99 (P2)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8062 0063
 
 name: Max Experience (P3)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319E80A4 05F5E0FF
 
 name: Combat 99 (P3)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E80B2 0063
 
 name: Firing 99 (P3)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E80B6 0063
 
 name: Defense 99 (P3)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E80BA 0063
 
 name: Pilot 99 (P3)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E80BE 0063
 
 name: Max Experience (P4)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319E8100 05F5E0FF
 
 name: Combat 99 (P4)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E810E 0063
 
 name: Firing 99 (P4)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8112 0063
 
 name: Defense 99 (P4)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8116 0063
 
 name: Pilot 99 (P4)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E811A 0063
 
 name: Max Experience (P5)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319E815C 05F5E0FF
 
 name: Combat 99 (P5)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E816A 0063
 
 name: Firing 99 (P5)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E816E 0063
 
 name: Defense 99 (P5)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8172 0063
 
 name: Pilot 99 (P5)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8176 0063
 
 name: Fully Open-armed (Gun)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319ED6A1 63636363
 w32 319ED6A5 63636363
@@ -148,6 +181,7 @@ w32 319ED6D9 63636363
 w32 319ED6DD 63636363
 
 name: Fully Open-armed (Shield)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319ED71D 63636363
 w32 319ED721 63636363
@@ -161,6 +195,7 @@ w32 319ED73D 63636363
 w32 319ED741 63636363
 
 name: Fully Open-armed (Parts)
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 319ED8A2 63636363
 w32 319ED8A6 63636363
@@ -193,6 +228,7 @@ w32 319ED90E 63636363
 w32 319ED912 63636363
 
 name: Power 9999999pt
+author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w32 31C8FDAC 0098967F
 w32 31C8FDEC 0098967F

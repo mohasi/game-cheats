@@ -1,11 +1,13 @@
 # Worms - Ultimate Mayhem
 
 name: Memory Max + Infinite Items On Start
+author: jgduff1
 mode: once
 w8 35A57BD6 03
 w8 361C647C 03
 
 name: ASM Max + Infinite Items On Start
+author: jgduff1
 mode: once
 w32 0029A908 9883003D
 w32 0029A918 98830015

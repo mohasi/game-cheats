@@ -1,11 +1,13 @@
 # Utawarerumono futari no hakuoro
 
 name: Successful Defense
+author: abc from medaka.5ch.net/test/read.cgi/gameurawaza/1395654864/l50
 mode: once
 w32 00123ECC 60000000
 w32 00123EE4 60000000
 
 name: Critical Attacks
+author: abc from medaka.5ch.net/test/read.cgi/gameurawaza/1395654864/l50
 mode: once
 w32 00124120 60000000
 w32 00124150 60000000
@@ -13,12 +15,14 @@ w32 00124270 60000000
 w32 00124288 60000000
 
 name: Critical Skills
+author: abc from medaka.5ch.net/test/read.cgi/gameurawaza/1395654864/l50
 mode: once
 w32 001243AC 60000000
 w32 001244B4 60000000
 w32 001244D4 60000000
 
 name: Max Power On Change
+author: abc from medaka.5ch.net/test/read.cgi/gameurawaza/1395654864/l50
 mode: once
 w32 01164000 7CC62014
 w32 01164004 80830298

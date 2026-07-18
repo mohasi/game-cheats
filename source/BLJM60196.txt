@@ -1,6 +1,7 @@
 # Hokuto Musou
 
 name: All Characters Skill Points Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 34009008 0000270F
 w32 34009248 0000270F

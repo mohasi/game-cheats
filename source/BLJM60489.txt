@@ -1,5 +1,6 @@
 # Ryu ga Gotoku 5: Yume, Kanaeshi Mono
 
 name: Money 999999999
+author: vosman
 mode: once
 w32 014BEA18 7FFFFFFF

@@ -1,6 +1,7 @@
 # Toukiden 2
 
 name: Infinite Health
+author: Randy97Killa
 mode: once
 w32 00D300B0 2F840000
 w32 00D300B4 409E0004
@@ -13,11 +14,13 @@ w32 00D300CC 4E800020
 w32 00013C7C 48D1C435
 
 name: Infinite Stamina
+author: Randy97Killa
 mode: once
 w32 000F1F24 C03D0138
 w32 000F1F28 D03D0134
 
 name: Infinite Items
+author: Randy97Killa
 mode: once
 w32 0001D220 60000000
 w32 000E97C8 C03E0008

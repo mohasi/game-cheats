@@ -1,6 +1,7 @@
 # Dragon Age: Origins: Ultimate Edition
 
 name: Max Attributes 1st Player
+author: GuitarMan
 mode: once
 w32 01349B68 28080001
 w32 01349B6C 41820024
@@ -71,6 +72,7 @@ w32 0136CD4C 4BFDCEAC
 w32 0028E340 49349B6A
 
 name: P1 Resistance To Own Attacks Drain Energy
+author: GuitarMan
 mode: once
 w32 01220244 2803007A
 w32 01220248 40820008
@@ -80,6 +82,7 @@ w32 01220254 484EDB76
 w32 004EDB70 49220246
 
 name: 9999 Health For Player Selected
+author: GuitarMan
 mode: once
 w32 01220300 821F014C
 w32 01220304 8210001C
@@ -90,6 +93,7 @@ w32 01220314 4828DDAE
 w32 0028DDA8 49220302
 
 name: Cooldown 0
+author: GuitarMan
 mode: once
 w32 01220270 3C600170
 w32 01220274 90E34004
@@ -107,6 +111,7 @@ w32 000A7C3C 49220272
 w32 0028C9C4 4922028A
 
 name: Mana And Stamina Never Decrease
+author: GuitarMan
 mode: once
 w32 0136D9B0 EBE10088
 w32 0136D9B4 3E200170
@@ -131,11 +136,13 @@ w32 0028D804 4936D9C2
 w32 00288240 4936D9E2
 
 name: Infinite Potion Usage
+author: GuitarMan
 mode: once
 w32 002F0EE0 3BE07F7F
 w32 002F0EE4 93FE03B8
 
 name: Max Gold On Buy Or Sell
+author: GuitarMan
 mode: once
 w32 01220230 3CC005F5
 w32 01220234 60C6E0FF
@@ -145,6 +152,7 @@ w32 01220240 4817B7BA
 w32 0017B7B4 49220232
 
 name: Movement Speed Modifier (L3 = Decrease, R3 = Increase)
+author: GuitarMan
 mode: once
 w32 014131FC 3CE00170
 w32 01413200 93274024

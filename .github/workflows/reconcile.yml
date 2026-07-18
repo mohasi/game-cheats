@@ -1,9 +1,11 @@
-# keeps compiled/ up to date after any merge: re-materializes it from source (picking up merged
-# cheat contributions, preserving the existing tally) and folds any new votes into the tally.
+# keeps compiled/ up to date: re-materializes it from source (picking up merged cheat
+# contributions, preserving the existing tally) and folds any new votes into the tally.
 #
-# triggered AFTER validation finishes (workflow_run fires even when the merge was done by
-# GITHUB_TOKEN - a plain push:paths trigger would NOT, because GITHUB_TOKEN pushes don't start new
-# workflow runs). Hourly cron is a backstop; workflow_dispatch is the manual button.
+# runs on a timer, NOT per merged vote. votes/ is a drain queue, so one run folds every vote waiting
+# in it - firing once per vote PR just meant many runs doing tiny amounts of work, and each one
+# racing the next: a run checks out, validation merges another vote seconds later, and the push is
+# rejected as non-fast-forward. A timed run batches whatever has accumulated instead. Scores lag by
+# up to the interval, which is fine - they are advisory.
 #
 # only compiled/ is written here (the tally is machine-owned; source is never touched by CI).
 # no recursion: this pushes compiled/, and GITHUB_TOKEN pushes don't trigger workflows anyway.
@@ -13,11 +15,8 @@
 name: reconcile
 
 on:
-  workflow_run:
-    workflows: [validation]
-    types: [completed]
   schedule:
-    - cron: '17 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -34,6 +33,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ssh-key: ${{ secrets.RECONCILE_SSH_KEY }}   # push over SSH as the bypass-listed deploy key
+          fetch-depth: 0   # full history: the push-race retry below rebases, which a shallow clone can't always do
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -48,7 +48,20 @@ jobs:
           git add compiled votes
           if git diff --cached --quiet; then
             echo "nothing changed"
-          else
-            git commit -m "reconcile: refresh compiled tally"
-            git push
+            exit 0
           fi
+          git commit -m "reconcile: refresh compiled tally"
+          # validation can merge a vote PR while we work, moving the remote under us. rebase and
+          # retry rather than failing: our commit only rewrites compiled/ and deletes the votes we
+          # actually folded, so it replays cleanly on top of newly arrived votes (which the next
+          # run picks up).
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected - rebasing onto the new remote head (attempt $attempt)"
+            git pull --rebase --autostash || exit 1
+          done
+          echo "still could not push after 5 attempts"
+          exit 1

@@ -1,38 +1,47 @@
 # Akiba's Trip 2
 
 name: Max Gold On Change
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 000D52C8 60000000
 
 name: Items Do Not Decrease When Exiting The Item Use Screen
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 000E1C48 60000000
 w32 000E1C4C 7CE43B78
 
 name: Very High Weapon ATK
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 000DF7B0 3C80000F
 
 name: Max Character Experience
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 0061D40C 05F5E0FF
 
 name: Max Character Base Attack (Use After Max Level to keep the value)
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 0061D408 000F423F
 
 name: Max Character Base Defense (Use After Max Level to keep the value)
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 w32 0061D404 000F423F
 
 name: AoB Max Gold On Change
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 4081000860830000606400003FE00061 6000000060830000606400003FE00061
 
 name: AoB Items Do Not Decrease When Exiting The Item Use Screen
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 408100147C8438107C83312E38600001 600000007CE43B787C83312E38600001
 
 name: AoB Very High Weapon ATK
+author: games24.blog.fc2.com/blog-entry-213.html
 mode: once
 aob 8081011C80A101203BC0000180C10124 3C80000F80A101203BC0000180C10124

@@ -1,23 +1,28 @@
 # Dark Souls II
 
 name: Max Items On Gain
+author: Medo
 mode: once
 w32 00530724 48000008
 w32 0053072C 38000063
 
 name: Max Items On Use + Discard + Deposit
+author: Medo
 mode: once
 w32 0053A7F8 38000063
 
 name: Max Souls On Gain
+author: Medo
 mode: once
 w32 008669D8 419D0104
 
 name: Max Souls On Buy
+author: Medo
 mode: once
 w32 00866054 7D405378
 
 name: Infinite Health
+author: Medo
 mode: once
 w32 01C1AA94 901D0000
 w32 01C1AA98 3C60323F
@@ -29,45 +34,55 @@ w32 01C1AAAC 484BB6DB
 w32 004BB6D4 49C1AA97
 
 name: Status Immunity
+author: Medo
 mode: once
 w32 004878F4 60000000
 
 name: Infinite Stamina
+author: Medo
 mode: once
 w32 007CAEC0 60000000
 
 name: Infinite Magic
+author: Medo
 mode: once
 w32 005325B0 60000000
 
 name: Infinite Durability
+author: Medo
 mode: once
 w32 00530388 60000000
 w32 007F9F18 60000000
 
 name: Equip Load 0
+author: Medo
 mode: once
 w32 0084C324 EFFF0024
 
 name: Infinite Torch Time
+author: dron_3
 mode: once
 w32 0054761C 60000000
 
 name: Souls Do Not Disappear After Death
+author: dron_3
 mode: once
 w32 00665094 60000000
 
 name: Items Never Decrease
+author: games24
 mode: once
 w32 0053A7D0 60000000
 w32 0053A7F8 60000000
 
 name: Infinite Buff Time
+author: dron_3
 mode: once
 w32 005E6044 60000000
 w32 005E6050 60000000
 
 name: Target(Lock-on) Enemy to Kill It
+author: Medo
 mode: once
 w32 01C1AAB0 931F00AC
 w32 01C1AAB4 81F800F8
@@ -76,6 +91,7 @@ w32 01C1AABC 4E800020
 w32 00A315FC 49C1AB03
 
 name: Target(Lock-on) Enemy for 1 Hit Kill
+author: Medo
 mode: once
 w32 01C1AAB0 931F00AC
 w32 01C1AAB4 39E00001
@@ -84,36 +100,44 @@ w32 01C1AABC 4E800020
 w32 00A315FC 49C1AB03
 
 name: No Fall Damage
+author: Medo
 mode: once
 w32 004BB6D4 60000000
 
 name: Infinite Torch Duration
+author: Medo
 mode: once
 w32 0056CA34 60000000
 
 name: Souls Do Not Disappear After Death
+author: Medo
 mode: once
 w32 00699CC4 60000000
 
 name: Infinite Buff Duration
+author: Medo
 mode: once
 w32 0061434C 60000000
 w32 00614358 60000000
 
 name: Infinite HP
+author: Medo
 mode: once
 w32 005E4110 906900FC
 
 name: 1 Hit Kill Locked Target
+author: Medo
 mode: once
 w32 00B460AC 39200001
 w32 00B460B8 91230000
 
 name: Instant Kill Locked Target
+author: Medo
 mode: once
 w32 00B460AC 39200000
 w32 00B460B8 91230000
 
 name: Infinite Magic
+author: Medo
 mode: once
 w32 00557840 60000000

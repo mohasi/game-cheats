@@ -1,21 +1,26 @@
 # Naruto Shippuuden: Narutimate Storm 2
 
 name: 9,999,999 Ryo Once Win in Ultimate Adventure
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00ED8240 0098967F
 
 name: 999,999 SP Once Win
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00EED348 000F423F
 
 name: Play Time 999:59:59 in Ultimate Adventure
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00EED344 0036EE80
 
 name: Naruto HP Max in Ultimate Adventure
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00ED82EC 42C80000
 
 name: AoB 9,999,999 Ryo
+author: CodeFreak/PS3UserCheat
 mode: once
 aob 7C0022147F804800409D0008 7C0022144800000448000004

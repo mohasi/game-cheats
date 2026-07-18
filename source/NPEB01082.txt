@@ -1,38 +1,47 @@
 # Legasista
 
 name: Infinite Equips Durability (Invincibility)
+author: JorgeFFC
 mode: once
 w32 0008F1A8 60000000
 w32 0008F284 60000000
 
 name: Infinite HP
+author: JorgeFFC
 mode: once
 w32 0013CEF0 60000000
 
 name: Infinite MP
+author: JorgeFFC
 mode: once
 w32 00164194 60000000
 
 name: Max + Infinite Job Points(JP Points)
+author: JorgeFFC
 mode: once
 w32 0010D038 60000000
 
 name: Alto Attack Maxed(Constant Write for Always Max)
+author: JorgeFFC
 mode: once
 w16 39C3CFCA 03E7
 
 name: AoB Infinite Equips Durability(Invincibility)
+author: JorgeFFC
 mode: once
 aob 2C1A00004080FBB0E80102A07C0803A6 2C1A000060000000E80102A07C0803A6
 
 name: AoB Infinite HP
+author: JorgeFFC
 mode: once
 aob 2C0300004081018C7C7A181090770008 2C0300004081018C6000000090770008
 
 name: AoB Infinite MP
+author: JorgeFFC
 mode: once
 aob 80BB00443C6000337CBA281063E40000 80BB00443C6000336000000063E40000
 
 name: AoB Max + Infinite Job Points(JP Points)
+author: JorgeFFC
 mode: once
 aob 80E5018038A000017D27301038C00001 80E5018038A000016000000038C00001

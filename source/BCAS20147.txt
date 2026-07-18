@@ -1,6 +1,7 @@
 # Agarest Senki 2
 
 name: All Characters EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007D1B54 3B9AC9FF
 w32 007CBAD0 3B9AC9FF
@@ -8,6 +9,7 @@ w32 007DBC30 3B9AC9FF
 w32 007CDAFC 3B9AC9FF
 
 name: All Characters HP 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007D1B64 0001869F
 w32 007D1B8C 0001869F
@@ -23,6 +25,7 @@ w32 007CDB34 0001869F
 w32 007CDB3C 0001869F
 
 name: All Characters AP 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007D1B7C 0001869F
 w32 007D1B90 0001869F
@@ -38,6 +41,7 @@ w32 007CDB38 0001869F
 w32 007CDB58 0001869F
 
 name: All Characters Status Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007D1B68 0000270F
 w32 007D1B6C 0000270F
@@ -113,6 +117,7 @@ w32 007CDB74 000F423F
 w32 007CDB78 000F423F
 
 name: Possession Fri, PP, TP, Gold Max
+author: datetext.blog109.fc2.com/blog-entry-23.html
 mode: once
 w32 00051F58 60000000
 w32 00051FAC 60000000
@@ -120,11 +125,13 @@ w32 0006BA98 60000000
 w32 0006BB24 60000000
 
 name: AoB Incomplete Stats, PP, TP, Gold Max
+author: datetext.blog109.fc2.com/blog-entry-23.html
 mode: once
 aob 7F8358007F03500090687054409D0040 7F8358007F0350009068705460000000
 aob 7F8358007F03500090697050409D0028 7F8358007F0350009069705060000000
 
 name: AoB Infinite AP During Battle(All 4 Characters)
+author: datetext.blog109.fc2.com/blog-entry-23.html
 mode: once
 aob 7C9DE000408500543C607735939F0310 60000000600000003C607735939F0310
 aob 7C1A22147C004800901F02F040810008 7C1A221460000000901F02F060000000

@@ -4,6 +4,20 @@ Central cheat database for the simple-cheat-menu PS3 plugin. Consoles download t
 compiled cheat file from here and report back whether cheats worked, building a per-game
 reliability score over time.
 
+## Credits
+
+**The cheat codes here were not created by this project.** They come from the **Artemis PS3 cheat
+database**, and each code is the work of the individual creator who found and wrote it. Every cheat
+carries an `author:` line naming them, exactly as Artemis recorded it — 334 creators across 17,037
+cheats.
+
+Thanks to [bucanero](https://github.com/bucanero/ArtemisPS3) and
+[Dnawrkshp](https://github.com/Dnawrkshp/ArtemisPS3) for Artemis PS3, the
+[Project Artemis initiative](http://www.gamehacking.org/artemis), and every code creator listed in
+the `author:` lines.
+
+If you are a code creator and want your attribution corrected or your work removed, open an issue.
+
 ## Layout
 
 ```
@@ -67,7 +81,7 @@ The imported set (from Artemis) has been cleaned up:
   character names the spell-checker didn't recognise were deliberately left untouched.
 
 No cheat codes were changed by any of this - only names and duplicate entries. Identity is the
-code hash, so renaming a cheat never affects its votes or scores.
+code hash, so renaming a cheat never affects its votes, scores or author.
 
 ## How the feedback loop works
 

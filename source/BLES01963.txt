@@ -1,25 +1,31 @@
 # Rambo: The Video Game
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 001E3144 60000000
 
 name: Infinite Health
+author: DANNY G
 mode: once
 w32 0017A34C 60000000
 
 name: AoB Infinite Ammo
+author: DANNY G
 mode: once
 aob 909F001C2C0400004082004C38A0000838C00000 600000002C0400004082004C38A0000838C00000
 
 name: AoB Infinite Health
+author: DANNY G
 mode: once
 aob D03D0010C043000080640030FC011000FBC10138 60000000C043000080640030FC011000FBC10138
 
 name: Infinite Ammo
+author: DANNY G
 mode: once
 w32 001EB384 60000000
 
 name: Infinite Health
+author: DANNY G
 mode: once
 w32 0018201C 60000000

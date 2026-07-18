@@ -1,37 +1,45 @@
 # Assassin's Creed IV: Black Flag
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0177D59C A07C005C
 
 name: Infinite Oxygen Gauge
+author: games24.blog.fc2.com/blog-entry-207.html, games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 0176D904 D0830080
 
 name: Faster Reload (Can Not Use Dual Pistols)
+author: games24.blog.fc2.com/blog-entry-207.html, games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014C2710 60000000
 w32 014C2714 7C0B0378
 
 name: Items Do Not Decrease Gold
+author: games24.blog.fc2.com/blog-entry-207.html, games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 018A54A8 38800000
 
 name: Infinite Ship Health
+author: dron_3
 mode: once
 w32 01ACD564 EC0D0032
 w32 01ACD568 D1A300D8
 w32 01ACD56C 48000010
 
 name: Max + Infinite Health
+author: FBML
 mode: once
 w32 0177D578 60000000
 
 name: Max + Infinite Breath
+author: FBML
 mode: once
 w32 0177881C C0090084
 
 name: Max + Infinite Player Ship Resistance
+author: FBML
 mode: once
 w32 01ACD558 D1A300D8
 w32 01ACD568 C18300D8
@@ -39,6 +47,7 @@ w32 01ACD56C 48000010
 w32 01ACD9B4 EC000024
 
 name: Max + Infinite Player Ship Swivel Gun
+author: FBML
 mode: once
 w32 01F16B84 813D000C
 w32 01F16B88 38210090
@@ -48,6 +57,7 @@ w32 01F16B94 93E9003C
 w32 01F16B98 60000000
 
 name: Player Ship Is Never Wanted
+author: FBML
 mode: once
 w32 01E4D1B0 38000000
 w32 01E4D1B4 3BEB00B4
@@ -58,11 +68,13 @@ w32 01E4D1D0 901F0004
 w32 01E4D1D4 7C1E0378
 
 name: Max + Infinite Rowboat Health
+author: FBML
 mode: once
 w32 019A2390 FC000090
 w32 019A2394 FDA00090
 
 name: Max + Infinite Health For Allies
+author: FBML
 mode: once
 w32 0185300C A01F005C
 w32 01853010 B01F005A
@@ -70,28 +82,33 @@ w32 01885D68 A01F005C
 w32 01885D6C B01F005A
 
 name: Max + Infinite Health For Allies During Main Missions
+author: FBML
 mode: once
 w32 01885D04 48000010
 w32 01885D2C 48000008
 w32 01885D3C 48000008
 
 name: Max + Infinite Health For Ally Ships
+author: FBML
 mode: once
 w32 01DF9A94 C3FF00D4
 w32 01DF9AA0 D3FF00D8
 w32 01DF9AA4 C009FA90
 
 name: Max Money + Cargo + Resources + Ammo On Gain
+author: FBML
 mode: once
 w32 01CF6CF0 60000000
 w32 01CF6D48 60000000
 
 name: Infinite Money + Cargo + Resources + Ammo After Use
+author: FBML
 mode: once
 w32 01CECBD4 7C0007B4
 w32 01CF1320 7C090378
 
 name: Infinite Ammo In Clip For Firearms
+author: FBML
 mode: once
 w32 014B4134 8003000C
 w32 014B4138 90030008
@@ -99,16 +116,19 @@ w32 014B413C 60000000
 w32 014C2714 7C0B0378
 
 name: Max + Infinite Duration For Sleep Darts
+author: FBML
 mode: once
 w32 014A5990 C01F051C
 
 name: Instantly Counter Attack
+author: FBML
 mode: once
 w32 011AA628 60000000
 w32 012C3C18 4800001C
 w32 01890C78 60000000
 
 name: Predators Auto Fight Combo
+author: FBML
 mode: once
 w32 016DA390 60000000
 w32 017220E0 480005BC
@@ -117,58 +137,71 @@ w32 017221F4 48000298
 w32 017288A8 60000000
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 0179B980 A07C005C
 
 name: Infinite Health (Test)
+author: vosman
 mode: once
 w32 01789E34 B0BE005A
 w32 018E1340 B0BE005A
 
 name: Infinite Ship Health
+author: dron_3
 mode: once
 w32 01AE2BEC D1A300D8
 w32 01AE2BF0 48000010
 
 name: Infinite Oxygen Gauge
+author: games24.blog.fc2.com/blog-entry-207.html, games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 01789F14 D0830080
 
 name: Infinite Ammo
+author: dron_3, vosman
 mode: once
 w32 01D064E0 7C090378
 
 name: Ammo Increases
+author: jijibecali
 mode: once
 w32 01D064E0 7D3F0214
 
 name: Ship Swivel Gun Ammo Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 01F2C62C 3BE00005
 
 name: Faster Reload (Can Not Use Dual Pistols)
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014E4540 60000000
 w32 014E4544 7C0B0378
 
 name: Money 999999999 After Pickup + Steal
+author: bbs.duowan.com/thread-40379327-1-1.html
 mode: once
 w32 01D0BF08 60000000
 
 name: Items Do Not Decrease Gold
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 018C3A40 38800000
 
 name: Sleep Never Ends
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014C1F68 C19F051C
 
 name: Infinite Ship Health
+author: dron_3
 mode: once
 w32 01B17798 D1A300D0
 w32 01B1779C 48000010
 
 name: Unlock All Cheats With Saving Or During Mission
+author: dron_3
 mode: once
 w32 01FC5E68 38600000
 w32 01FC5F6C 38600001
@@ -176,18 +209,22 @@ w32 01070D48 38000001
 w32 01FC0D24 39200000
 
 name: Infinite Oxygen
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 0179D4B0 D0830080
 
 name: Gold Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 018D6870 38800000
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 017AD2C0 A07C005C
 
 name: Fast Reload
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014F184C 60000000
 w32 014F1850 7C0B0378
@@ -195,37 +232,45 @@ w32 014F1854 91630008
 w32 014F1858 4800005C
 
 name: Infinite Ammo
+author: dron_3, vosman
 mode: once
 w32 01CF1320 7C090378
 
 name: Infinite Ship Health
+author: dron_3
 mode: once
 w32 01B054F0 EC0D0032
 w32 01B054F4 D1A300D8
 w32 01B054F8 48000010
 
 name: Infinite Oxygen Gauge
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 0176DC8C D0830080
 
 name: Faster Reload (Can Not Use Dual Pistols)
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014C2A98 60000000
 w32 014C2A9C 7C0B0378
 
 name: Items Do Not Decrease Gold
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 018A5830 38800000
 
 name: Sleep Never Ends
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014A5CA4 C19F051C
 
 name: Faster Reload (Can Not Use Dual Pistols)
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 014F184C 60000000
 w32 014F1850 7C0B0378
 
 name: Items Do Not Decrease Gold
+author: games24.blog.fc2.com/blog-entry-218.html
 mode: once
 w32 018D6870 38800000

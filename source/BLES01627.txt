@@ -1,6 +1,7 @@
 # Disney Epic Mickey 2: The Power of Two
 
 name: Max Erase And Create Dye
+author: jijibecali
 mode: once
 w32 319987BC 41F00000
 w32 319987E4 41F00000

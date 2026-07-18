@@ -1,21 +1,26 @@
 # Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze
 
 name: Infinite Shurikens
+author: dron_3
 mode: once
 w32 0035CFD0 60A60000
 
 name: Invincibility
+author: dron_3
 mode: once
 w32 005C78C0 48000014
 
 name: XP Max x99 (Beat 2 enemies for max)
+author: tekman
 mode: once
 w32 0035D88C 3085EA60
 
 name: AoB Infinite Shurikens
+author: dron_3
 mode: once
 aob 7CC42810887F0088 60A60000887F0088
 
 name: AoB Invincibility
+author: dron_3
 mode: once
 aob 80A5006488C5001C2C06000041820014 80A5006488C5001C2C06000048000014

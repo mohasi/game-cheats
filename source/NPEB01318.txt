@@ -1,9 +1,11 @@
 # Serious Sam 3 - BFE
 
 name: Immortal
+author: Rambo9000
 mode: once
 aob 4BBA396D6000000080630000 4BBA396D6000000060000000
 
 name: Unlimited Bullets
+author: Rambo9000
 mode: once
 aob 4B9EE4E16000000080630000 4B9EE4E16000000090630000

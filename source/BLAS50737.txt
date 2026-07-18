@@ -1,37 +1,46 @@
 # Risen 3: Titan Lords
 
 name: ASM Infinite Ammo + Items + Gold
+author: jgduff1
 mode: once
 w32 004E3880 901E0024
 
 name: ASM Infinite Lot Of Health + Glory Points
+author: jgduff1
 mode: once
 w32 005A3344 901A0000
 
 name: Memory Infinite Ammo + Items + Gold
+author: jgduff1
 mode: once
 w32 4686F0EC 00000063
 
 name: ASM Infinite Ammo + Items + Gold
+author: jgduff1
 mode: once
 w32 004E3820 901E0024
 
 name: Memory Infinite Items
+author: jgduff1
 mode: once
 w32 4686F09C 00000063
 
 name: Memory Infinite Lot Of Health + Glory Points
+author: jgduff1
 mode: once
 w32 400017D0 00000067
 
 name: ASM Infinite Lot Of Health + Glory Points
+author: jgduff1
 mode: once
 w32 005A32E4 901A0000
 
 name: Memory Infinite Gold
+author: jgduff1
 mode: once
 w32 477F1724 00000118
 
 name: Memory Infinite Lot Of Glory Point
+author: jgduff1
 mode: once
 w32 400017D4 0000035C

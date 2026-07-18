@@ -1,36 +1,44 @@
 # Silent Hill: HD Edition
 
 name: Pick Up 999
+author: xtatu
 mode: once
 w32 00132448 38A00000
 w32 001B59D0 38A00000
 
 name: Infinite Health
+author: xtatu
 mode: once
 w32 002824D0 41800014
 w32 0001FC84 4082083C
 
 name: Reload 65535
+author: xtatu
 mode: once
 w32 001328B4 38A0FFFF
 w32 001328CC 38A0FFFF
 
 name: Enemy Caught
+author: xtatu
 mode: once
 w32 000D7028 41820050
 
 name: Infinite Reload
+author: xtatu
 mode: once
 w32 0006E3E0 38800000
 
 name: AoB Infinite Reload
+author: xtatu
 mode: once
 aob 38800001480B52D1600000003860000138800004987E053C989E04997C1BE000 38800000480B52D1600000003860000138800004987E053C989E04997C1BE000
 
 name: Pick Up 999
+author: xtatu
 mode: once
 w32 001C0938 38800000
 
 name: No Damager
+author: xtatu
 mode: once
 w32 0013620C 3CA0BF80

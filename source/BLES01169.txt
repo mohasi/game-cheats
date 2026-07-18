@@ -1,19 +1,23 @@
 # Transformers: Dark of the Moon
 
 name: Infinite Health
+author: dron_3
 mode: once
 w32 00980768 C0640340
 w32 0098076C D064033C
 w32 00980774 EC431828
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 0007A804 60000000
 
 name: AoB Infinite Health
+author: dron_3
 mode: once
 aob C044033CC06403408063001CEC421828 C0640340D064033C8063001CEC431828
 
 name: AoB Infinite Ammo
+author: dron_3
 mode: once
 aob 907F02984800001C807F029C 600000004800001C807F029C

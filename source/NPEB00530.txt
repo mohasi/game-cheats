@@ -1,11 +1,13 @@
 # Sega Classics - Comix Zone
 
 name: Memory Unlimited Life Energy
+author: CMbl4, jgduff1
 mode: once
 w16 35C6ACE4 04FF
 w16 35C6ACF8 04FF
 
 name: ASM Unlimited Life Energy
+author: jgduff1
 mode: once
 w32 00042070 60000000
 w32 000420B0 60000000

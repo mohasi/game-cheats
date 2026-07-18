@@ -1,59 +1,73 @@
 # Sangokushi 12 with Power-Up Kit
 
 name: Max Military Provisions
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 009833D8 48000024
 
 name: Years Do Not Progress
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 004CA3A4 30840000
 
 name: Secret Strategies Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 0027700C 7C641B78
 w32 002A6F58 60000000
 
 name: Max Helm
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 000B6A9C 60000000
 
 name: Helm Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 000D4B74 60000000
 
 name: Combat Time Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 000B68FC 60000000
 
 name: Can See Everything
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 w32 000C9F68 38800003
 
 name: AoB Max Military Provisions
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 418100242C1D00004181000C633D0000 480000242C1D00004181000C633D0000
 
 name: AoB Years Do Not Progress
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 308400012C847FFFFBE10088FBC10080 308400002C847FFFFBE10088FBC10080
 
 name: AoB Secret Strategies Do Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 7C8418102C0400004181000C38800000 7C641B782C0400004181000C38800000
 aob 7F43D0102C1A00004181000C3B400000 600000002C1A00004181000C3B400000
 
 name: AoB Max Helm
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 408100083B8000789384000033BD0001 600000003B8000789384000033BD0001
 
 name: AoB Helm Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 7C8428102C0400004080000838800000 600000002C0400004080000838800000
 
 name: AoB Combat Time Does Not Decrease
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 3063FF9C63DA0000907B00C8483DB82D 6000000063DA0000907B00C8483DB82D
 
 name: AoB Can See Everything
+author: games24.blog.fc2.com/blog-entry-199.html
 mode: once
 aob 63E40000307D029C989D00A930BD02A0 38800003307D029C989D00A930BD02A0

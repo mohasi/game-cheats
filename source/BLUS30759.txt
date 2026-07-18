@@ -1,30 +1,37 @@
 # Rune Factory: Tides of Destiny
 
 name: Max Dragon Shrine Donations
+author: ChaosZage, kaede132
 mode: once
 w32 00135954 40810010
 
 name: Max Money When Buying + Selling
+author: ChaosZage, kaede132
 mode: once
 w32 00135990 40810010
 
 name: Max RP 9999 On Level Up
+author: ChaosZage
 mode: once
 w32 003B6F68 38A0270F
 
 name: Max HP 9999 On Level Up
+author: ChaosZage
 mode: once
 w32 003B6EFC 3880270F
 
 name: AoB Max Dragon Shrine Donations
+author: ChaosZage, kaede132
 mode: once
 aob 4181001038A00000418400086065000090A40008 4081001038A00000418400086065000090A40008
 
 name: AoB Max Money When Buying Or Selling
+author: ChaosZage, kaede132
 mode: once
 aob 4181001038A00000418400086065000090A40004 4081001038A00000418400086065000090A40004
 
 name: Infinite HP + Infinite RP + Max Attack Damage
+author: Randy97Killa
 mode: once
 w32 0070F780 2F830000
 w32 0070F784 419E001C

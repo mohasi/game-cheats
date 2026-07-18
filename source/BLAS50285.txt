@@ -5,6 +5,7 @@ mode: once
 w32 001AE9F0 4081002C
 
 name: Recover 9999 HP After Battle
+author: Hiei-YYH
 mode: once
 w32 001CC2E8 60000000
 w32 001CC2EC 3800270F
@@ -14,6 +15,7 @@ mode: once
 w32 001CFED8 60000000
 
 name: Quick Level Up
+author: Hiei-YYH
 mode: once
 w32 001CC228 38000001
 w32 001CC22C 900B0024
@@ -24,10 +26,12 @@ w32 001C0A88 48000008
 w32 001BFAD4 48000008
 
 name: Max Arte + Skill Usage Count
+author: Medo
 mode: once
 w32 001CB088 48000028
 
 name: Max Gald
+author: ChaosZage
 mode: once
 w32 001A87A4 60000000
 
@@ -37,6 +41,7 @@ w32 001CAB90 60000000
 w32 001CACF4 60000000
 
 name: Max Grade
+author: Medo
 mode: once
 w32 001D60A0 60000000
 
@@ -53,6 +58,7 @@ mode: once
 w32 001BDC18 60000000
 
 name: Max Eleth Mixer Slots
+author: ChaosZage
 mode: once
 w32 001C6BBC 60000000
 
@@ -65,11 +71,13 @@ mode: once
 w32 001C880C 60000000
 
 name: Eleth Mixer EXP
+author: Hiei-YYH
 mode: once
 w32 001C7884 60000000
 w32 001C77D4 4800001C
 
 name: Eleth Mixer Break
+author: Hiei-YYH
 mode: once
 w32 00068E88 39202710
 w32 00068E8C 38000000
@@ -84,20 +92,24 @@ w32 00456EF0 9009BBB4
 w32 00456EF4 60000000
 
 name: Money
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00962D20 0098967F
 w32 00962D24 0098967F
 w32 00962D38 0098967F
 
 name: Infinite Money
+author: ChaosZage
 mode: once
 w32 001A85E4 60000000
 
 name: Battle 9999
+author: CodeFreak/PS3UserCheat
 mode: once
 w16 00962D44 270F
 
 name: Battle Win
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00962D0C 0001869F
 
@@ -128,15 +140,18 @@ w32 001C06A4 48000008
 w32 001BF6F0 48000008
 
 name: Skill Usage Times 9999
+author: Medo
 mode: once
 w32 001CAC80 48000028
 
 name: Arles Pot EXP
+author: Hiei-YYH
 mode: once
 w32 001C74A0 60000000
 w32 001C73F0 4800001C
 
 name: Arles Pot Slot 16
+author: ChaosZage
 mode: once
 w32 001C67D8 60000000
 
@@ -165,23 +180,28 @@ mode: once
 w32 001BD824 60000000
 
 name: Move Speed Fast
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007DF6FC 3FE00000
 
 name: Normal Movement Speed
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007DF6FC 3F800000
 
 name: Max Gald On Gain + Use
+author: ChaosZage, Hiei-YYH
 mode: once
 w32 001A5368 916976D4
 w32 001A536C 60000000
 
 name: Max Energy Consumption
+author: ChaosZage, Hiei-YYH
 mode: once
 w32 001C3480 912AB9DC
 
 name: 1 Exp Level Up
+author: Hiei-YYH
 mode: once
 w32 001C8BF4 38000001
 w32 001C8BF8 900B0024
@@ -191,15 +211,18 @@ mode: once
 w32 001CCDD0 3FA00660
 
 name: Recover HP (Check Menu)
+author: Hiei-YYH
 mode: once
 w32 001C8CB4 60000000
 w32 001C8CB8 3800270F
 
 name: Max HP
+author: Hiei-YYH
 mode: once
 w32 001C8A08 60000000
 
 name: Infinite HP
+author: Hiei-YYH
 mode: once
 w32 005F4A00 811FB7B0
 w32 005F4A04 911FB7AC
@@ -207,6 +230,7 @@ w32 005F4A08 4E800020
 w32 00056C84 4859DD7D
 
 name: SP Max
+author: Hiei-YYH
 mode: once
 w32 001CC8A4 60000000
 
@@ -215,6 +239,7 @@ mode: once
 w32 001CC5BC 3F200002
 
 name: Arles Break
+author: Hiei-YYH
 mode: once
 w32 00068DD4 39202710
 w32 00068DD8 38000000
@@ -233,6 +258,7 @@ mode: once
 w32 001AB7B8 4081002C
 
 name: Max Item On Usage
+author: Hiei-YYH
 mode: once
 w32 001A6838 3800000F
 
@@ -242,6 +268,7 @@ w32 001C755C 60000000
 w32 001C76C0 60000000
 
 name: Infinite CC
+author: Hiei-YYH
 mode: once
 w32 00024338 7D204B78
 
@@ -258,6 +285,7 @@ mode: once
 w32 001BA5D4 60000000
 
 name: Max Eleth Pot Points
+author: Hiei-YYH
 mode: once
 w32 001C41A0 4800001C
 w32 001C4250 60000000
@@ -267,6 +295,7 @@ mode: once
 w32 001C3448 60000000
 
 name: Eleth Pot Slot 16
+author: ChaosZage
 mode: once
 w32 001C3588 60000000
 
@@ -275,11 +304,13 @@ mode: once
 w32 001C51D8 60000000
 
 name: Max Eleth Burst Gauge
+author: Hiei-YYH
 mode: once
 w32 00043660 38000009
 w32 004520C4 38000009
 
 name: Full Eleth Gauge
+author: Hiei-YYH
 mode: once
 w32 005F4A0C 3B802710
 w32 005F4A10 9389BBB4
@@ -292,18 +323,22 @@ w32 001BD454 48000008
 w32 001BC4A0 48000008
 
 name: Max Grade
+author: Medo
 mode: once
 w32 001D2A58 60000000
 
 name: Max Arte Count On Use
+author: Medo
 mode: once
 w32 001C7A54 48000028
 
 name: 999 Hits
+author: Hiei-YYH
 mode: once
 w32 0006C14C 396003E7
 
 name: Max All Stats, Max Hit Count, Max Grade Shop Categories, Etc
+author: Medo
 mode: once
 w32 001BC77C 48000048
 w32 001BC928 48000048
@@ -343,6 +378,7 @@ w32 00244C9C 60000000
 w32 00244CDC 60000000
 
 name: AoB Max Gald On Gain + Use
+author: ChaosZage, Hiei-YYH
 mode: once
 aob 614A967F901C04A47F805000419D0054 614A967F901C04A47F80500048000054
 aob 7F805800900976D4 7F805800916976D4
@@ -353,10 +389,12 @@ mode: once
 aob 7C9D2378FBC1009079690020 3FA00660FBC1009079690020
 
 name: AoB SP Max
+author: Hiei-YYH
 mode: once
 aob 409DFDB07D69412E4BFFFDA8 600000007D69412E4BFFFDA8
 
 name: AoB Max Item On Usage
+author: Hiei-YYH
 mode: once
 aob 7C002A147C0B49AE4E800020 3800000F7C0B49AE4E800020
 
@@ -373,14 +411,17 @@ mode: once
 aob 4C9D00203800270FB0040004 600000003800270FB0040004
 
 name: AoB Infinite CC
+author: Hiei-YYH
 mode: once
 aob 7C04485038600001 7D204B7838600001
 
 name: AoB Max Energy Consumption
+author: ChaosZage, Hiei-YYH
 mode: once
 aob 6129967F900AB9DC 6129967F912AB9DC
 
 name: AoB Max Eleth Pot Points
+author: Hiei-YYH
 mode: once
 aob 419D001CB089ABFAE801 4800001CB089ABFAE801
 aob 409D0114D1890058A01F00507C 60000000D1890058A01F00507C
@@ -390,23 +431,28 @@ mode: once
 aob 7D6007347C8B22147C0052142F80270F419D001CB089ABFAE8010090 7D6007347C8B22147C0052142F800000419D001CB089ABFAE8010090
 
 name: AoB Max Eleth Burst Gauge
+author: Hiei-YYH
 mode: once
 aob 54009B7E900A01041C002710 38000009900A01041C002710
 aob 7C0A30507FBD521490050104 380000097FBD521490050104
 
 name: AoB Max Grade
+author: Medo
 mode: once
 aob 2F80270F409D000C 2F80270F60000000
 
 name: AoB Max Arte Count Upon Use
+author: Medo
 mode: once
 aob 2B89270FB00B000A419D0028 2B89270FB00B000A48000028
 
 name: AoB 999 Hits
+author: Hiei-YYH
 mode: once
 aob 396000017D2007342F8003E6409D000839600000881F 396003E77D2007342F8003E6409D000839600000881F
 
 name: AoB Max All Stats, Max Hit Count, Max Grade Shop Categories, Max Dualize Stats
+author: Medo
 mode: once
 aob 2F8003E7419D0048 2F8003E748000048
 aob 2F8003E7419D0048 2F8003E748000048

@@ -1,85 +1,106 @@
 # Sengoku Basara 4
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 0005B188 60000000
 
 name: Giga Basara
+author: xtatu
 mode: once
 w32 000EDF20 60000000
 
 name: Basarawaza
+author: xtatu
 mode: once
 w32 000EE98C 60000000
 
 name: Max Money
+author: games24.blog.fc2.com/blog-date-201401.html
 mode: once
 w32 0040E52C 60000000
 
 name: 9,999 Kills
+author: games24.blog.fc2.com/blog-date-201401.html
 mode: once
 w32 00080614 28040000
 
 name: Enemies Do Not Move
+author: xtatu
 mode: once
 w32 0012A8D8 409E001C
 
 name: Invincible
+author: puzzle
 mode: once
 w32 0005BD68 807A0004
 
 name: Strengthening Inro Max After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 0040E684 60000000
 
 name: Isao 99999 After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00065FD0 60000000
 
 name: Max After Grinding Wheel Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00066014 60000000
 
 name: Max After Combat Ball Steel
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 00066050 60000000
 
 name: Fortune Gavel Max After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 w32 000660D4 60000000
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-date-201401.html
 mode: once
 aob 408100103BE0000160C7000090A40000 600000003BE0000160C7000090A40000
 
 name: AoB 9,999 Kills
+author: games24.blog.fc2.com/blog-date-201401.html
 mode: once
 aob 2804270F40800008609D0000809C025C 2804000040800008609D0000809C025C
 
 name: AoB Enemies Do Not Move
+author: xtatu
 mode: once
 aob 419E001C2C0400014082001463E30000388000004BFC32A5 409E001C2C0400014082001463E30000388000004BFC32A5
 
 name: AoB Invincible
+author: puzzle
 mode: once
 aob 7CA318382C0300004182006063C3000030C1007063E40000 807A00042C0300004182006063C3000030C1007063E40000
 
 name: AoB Strengthening Inro Max After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 aob 408100103860000160E8000090A40000 600000003860000160E8000090A40000
 
 name: AoB Isao 99999 After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 aob 408100107CC320287CA3212D4082FFF8 600000007CC320287CA3212D4082FFF8
 
 name: AoB Max After Grinding Wheel Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 aob 408100107C8628287C66292D4082FFF8 600000007CC320287CA3212D4082FFF8
 
 name: AoB Max After Combat Ball Steel
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 aob 40810014386003E77C8628287C66292D 60000000386003E77C8628287C66292D
 
 name: AoB Fortune Gavel Max After Battle
+author: shimasoku.com/namalog/read2/gameurawaza/1395654864/
 mode: once
 aob 40810014386003E77C8628287C66292D 60000000386003E77C8628287C66292D

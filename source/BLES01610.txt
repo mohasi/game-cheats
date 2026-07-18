@@ -1,34 +1,41 @@
 # Worms Collection
 
 name: Memory Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w8 3520F621 03
 
 name: ASM Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w32 0006914C 9BFD000A
 w32 00069148 39290000
 
 name: Memory Unknown Code 1
+author: jgduff1
 mode: once
 w16 352105FA 004F
 w16 352105FE 004F
 w16 35A6DCAA 004F
 
 name: Memory Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w8 332DE2FF 04
 
 name: ASM Max + Infinite Items On Use
+author: jgduff1
 mode: once
 w32 00066530 39290000
 w32 00066534 7E8B292E
 
 name: Memory Infinite Health
+author: jgduff1
 mode: once
 w32 3481EC8C 00000064
 
 name: ASM Infinite Health
+author: jgduff1
 mode: once
 w32 00017014 7D204850
 w32 00017024 900B0004
@@ -37,11 +44,13 @@ w32 000799B4 60000000
 w32 000799B8 60000000
 
 name: Memory Max + Infinite Items On Start
+author: jgduff1
 mode: once
 w8 35A57BD6 03
 w8 361C647C 03
 
 name: ASM Max + Infinite Items On Start
+author: jgduff1
 mode: once
 w32 0029A908 9883003D
 w32 0029A918 98830015

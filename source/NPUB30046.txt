@@ -1,28 +1,34 @@
 # Burn Zombie Burn!
 
 name: Infinite Lives
+author: jgduff
 mode: once
 w32 000912E4 396B0000
 w32 000912FC 60000000
 
 name: Infinite Health
+author: jgduff
 mode: once
 w32 00090E24 60000000
 w32 00090E2C 60000000
 
 name: Infinite Guns
+author: jgduff
 mode: once
 w32 0013479C 60000000
 
 name: Invincible After Die One Time
+author: jgduff
 mode: once
 w32 000D6DEC 60000000
 
 name: Infinite Special Weapon
+author: jgduff
 mode: once
 w32 00135A38 60000000
 w32 00135A40 60000000
 
 name: Max Score On Gain
+author: jgduff
 mode: once
 w32 00311108 7D655A14

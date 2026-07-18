@@ -1,66 +1,81 @@
 # Evil Within, The
 
 name: AoB Infinite Medikits, Items, Ammo + No Reload
+author: dc3, tekman
 mode: once
 aob 63E300007C852014909F00084BFFCCB5809F0008 63E300007C852014600000004BFFCCB5809F0008
 
 name: AoB Will Not Be Bitten By Shigyo (Creature in the water in Chapter 11)
+author: dc3
 mode: once
 aob 480000302C0300004182000C3B80000148000020 480000142C0300004182000C3B80000148000020
 
 name: AoB Will Not Hit The Line (Trap when meeting Ruvik in Chapter 9)
+author: dc3
 mode: once
 aob 408100A0887F03212C0300004182001063E30000 480000A0887F03212C0300004182001063E30000
 
 name: AoB Will Not Hit The Scan Light In Chapter 15
+author: dc3
 mode: once
 aob 41860008480000083BA00001EC22A82A38801FFF 4186000C480000083BA00001EC22A82A38801FFF
 
 name: AoB Will Not Be Killed Instantly By Ruvik (Chapter 4 + Chapter 9)
+author: dc3
 mode: once
 aob 418000084800001038600003907B1BF4480005F8 418000144800001038600003907B1BF4480005F8
 
 name: Infinite Medikits, Items, Ammo, No Reload
+author: tekman
 mode: once
 w32 004A322C 60000000
 
 name: God Mode
+author: dron_3
 mode: once
 w32 00413260 38600001
 
 name: Infinite Ammo
+author: dron_3
 mode: once
 w32 004A3208 48000050
 
 name: Max Upgrade Points On Spend
+author: dron_3
 mode: once
 w32 004778C4 80830004
 w32 004778C8 80840170
 
 name: Max Items On Spend (if > 1)
+author: dron_3
 mode: once
 w32 0049C618 809F0004
 w32 0049C620 80840170
 
 name: Max Items On Gain
+author: dron_3
 mode: once
 w32 0049D0F0 80840004
 w32 0049D0F4 80840170
 
 name: Max Brain Upgrade Points + Syringe + Medical Kit + Parts On Gain
+author: Ammar-A1
 mode: once
 w32 0049FF34 911F0008
 
 name: Max Brain Upgrade Points + Syringe + Medical Kit + Parts On Use
+author: Ammar-A1
 mode: once
 w32 0049FF94 911F0008
 w32 0049FFC4 60000000
 
 name: Infinite Sprint Stamina
+author: FBML
 mode: once
 w32 00431754 60000000
 
 name: Max Health
+author: Cyb3r, flynhigh09
 mode: once
 w32 014E8B60 2C100000
 w32 014E8B64 41820008
@@ -69,6 +84,7 @@ w32 014E8B6C 4B0580B0
 w32 00540C18 48FA7F48
 
 name: Max Health + 1 Hit Kills (Not Bosses)
+author: Cyb3r, flynhigh09
 mode: once
 w32 014E8B60 2C100000
 w32 014E8B64 41820018
@@ -81,39 +97,48 @@ w32 014E8B7C 4B0580A0
 w32 00540C18 48FA7F48
 
 name: Enemies Do Not See You (Messes Up Cutscenes)
+author: FBML
 mode: once
 w32 003FFDA8 60000000
 w32 003FFDB8 60000000
 w32 003FFDE4 60000000
 
 name: AoB God Mode
+author: dron_3
 mode: once
 aob 686300014E800020F821FF717C0802A6F80100A0FBA10078 386000014E800020F821FF717C0802A6F80100A0FBA10078
 
 name: AoB Infinite Ammo
+author: Cyb3r, flynhigh09
 mode: once
 aob 4082005080630004 4800005080630004
 
 name: AoB Max Upgrade Points On spend
+author: Cyb3r, flynhigh09
 mode: once
 aob 7C9DF0107C8407B4 8083000480840170
 
 name: AoB Max Items On Spend (if > 1)
+author: Cyb3r, flynhigh09
 mode: once
 aob 7C86281063E300007C8407B4 809F000463E3000080840170
 
 name: AoB Max Items On Gain
+author: Cyb3r, flynhigh09
 mode: once
 aob 63030000808400087C8407B4 630300008084000480840170
 
 name: AoB Max Brain Upgrade Points + Syringe + Medical Kit + Parts On Gain
+author: Ammar-A1
 mode: once
 aob 909F00084BFFFFAD809F00082C040000 911F00084BFFFFAD809F00082C040000
 
 name: AoB Max Brain Upgrade Points + Syringe + Medical Kit + Parts On Use
+author: Ammar-A1
 mode: once
 aob 909F00084082003063E300004BFFFF45 911F00084082003063E300004BFFFF45
 
 name: AoB Infinite Sprint Stamina
+author: FBMLB 00010000 04000000
 mode: once
 aob C0380C683B200001EC21D82AD0380C68 C0380C683B200001EC21D82A60000000

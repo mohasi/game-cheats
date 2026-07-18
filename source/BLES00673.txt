@@ -1,14 +1,17 @@
 # Colin McRae: DiRT 2
 
 name: Memory Infinite XP
+author: jgduff1
 mode: once
 w32 7DE84E50 000F423F
 w32 80717C8C 000F423F
 
 name: ASM Infinite XP
+author: jgduff1
 mode: once
 w32 00616640 60000000
 
 name: ASM Lot Of XP On One Race
+author: jgduff1
 mode: once
 w32 00616620 90430000

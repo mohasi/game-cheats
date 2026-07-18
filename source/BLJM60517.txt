@@ -1,26 +1,32 @@
 # Dark Souls with Artorias of the Abyss Edition
 
 name: Soul 999999999
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 00B21024 3C003B9A
 w32 00B21028 6000C9FF
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 00B00498 38000063
 
 name: Humanity 99
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 003F1654 38000063
 
 name: Infinite Stamina
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 0045BB24 901F0028
 
 name: Level 0
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 009CD2A8 39200000
 
 name: Level 9999
+author: games24.blog.fc2.com/blog-entry-150.html
 mode: once
 w32 009CD2A8 3920270F

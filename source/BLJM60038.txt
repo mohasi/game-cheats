@@ -1,28 +1,34 @@
 # Agarest Senki
 
 name: Gold 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D60484 3B9AC9FF
 
 name: EP 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D60490 3B9AC9FF
 
 name: TP 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D60488 3B9AC9FF
 
 name: PP 999999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D6048C 3B9AC9FF
 
 name: 1P + 2P + 3P Exp Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D1D0B4 3B9AC9FF
 w32 14D032D8 3B9AC9FF
 w32 14D15614 3B9AC9FF
 
 name: 1P + 2P + 3P HP 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D1D0C0 0001869F
 w32 14D1D0CC 0001869F
@@ -38,6 +44,7 @@ w32 14D15650 0001869F
 w32 18F74AF0 0001869F
 
 name: 1P + 2P + 3P SP 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D1D0C8 000003E7
 w32 18F72998 000003E7
@@ -47,6 +54,7 @@ w32 14D15628 000003E7
 w32 18F74AF8 000003E7
 
 name: 1P + 2P + 3P AP 999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D1D0F4 000003E7
 w32 18F72994 000003E7
@@ -56,6 +64,7 @@ w32 14D15654 000003E7
 w32 18F74AF4 000003E7
 
 name: 1P + 2P + 3P Abilities Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 14D1D0D4 0000270F
 w32 14D1D0D8 0000270F

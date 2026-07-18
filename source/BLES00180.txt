@@ -1,5 +1,6 @@
 # The Golden Compass
 
 name: Infinite Power
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 52FFDDB4 00000006

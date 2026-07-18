@@ -1,5 +1,6 @@
 # Initial D: Extreme Stage
 
 name: 9,999,999 Points
+author: CodeUnique3
 mode: once
 w32 32EEB2C0 0098967F

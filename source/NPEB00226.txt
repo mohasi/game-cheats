@@ -1,57 +1,71 @@
 # Earthworm Jim HD
 
 name: Unlimited Lives
+author: crapulecorp
 mode: once
 w32 001C8C60 39290000
 
 name: Unlimited Ammo (Normal Gun)
+author: crapulecorp
 mode: once
 w32 001AD1A4 60000000
 
 name: Unlimited Ammo (Plasma)
+author: crapulecorp
 mode: once
 w32 001E6A78 38090000
 
 name: Unlimited Shields
+author: crapulecorp
 mode: once
 w32 001D872C 39290000
 
 name: AoB Unlimited Lives
+author: crapulecorp
 mode: once
 aob 813D03443929FFFFEB8100707D2048F8 813D034439290000EB8100707D2048F8
 
 name: AoB Unlimited Ammo (Normal Gun)
+author: crapulecorp
 mode: once
 aob 409D002C912300044199002088030011 409D002C600000004199002088030011
 
 name: AoB Unlimited Ammo (Plasma)
+author: crapulecorp
 mode: once
 aob 397803483809FFFF2F800000419C05F8 39780348380900002F800000419C05F8
 
 name: AoB Unlimited Shields
+author: crapulecorp
 mode: once
 aob 812301203929FFFF91230120419EFF70 812301203929000091230120419EFF70
 
 name: Infinite Lives
+author: optantic
 mode: once
 w32 001C8C10 60000000
 
 name: Infinite Bullets
+author: optantic, crapulecorp
 mode: once
 w32 001AD13C 60000000
 
 name: Unlimited Lives
+author: crapulecorp
 mode: once
 w32 001C8BF8 39290000
 
 name: Unlimited Ammo (Normal Gun)
+author: optantic, crapulecorp
 mode: once
 w32 001AD13C 60000000
 
 name: Unlimited Ammo (Plasma)
+author: crapulecorp
 mode: once
 w32 001E6A10 38090000
 
 name: Unlimited Shields
+author: crapulecorp
 mode: once
 w32 001D86C4 39290000

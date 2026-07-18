@@ -1,6 +1,7 @@
 # Metal Slug 2
 
 name: P1 Invincibility L1 To Activate
+author: GuitarMan
 mode: once
 w32 002C1CBC 2805EAD0
 w32 002C1CC0 40820050
@@ -28,10 +29,12 @@ w32 002C1D14 4804AEB2
 w32 0004AEAC 482C1CBE
 
 name: Infinite Timer
+author: GuitarMan
 mode: once
 w32 00AF1D6C 39006400
 
 name: P1 Infinite Arms + Bombs + Rapid Fire
+author: GuitarMan
 mode: once
 w32 002C1D24 2805C340
 w32 002C1D28 4082002C
@@ -50,6 +53,7 @@ w32 002C1D58 4804ADC6
 w32 0004ADC0 482C1D26
 
 name: P1 Infinite Lives
+author: GuitarMan
 mode: once
 w32 002C1D70 28051270
 w32 002C1D74 40820020

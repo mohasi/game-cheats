@@ -1,9 +1,11 @@
 # Assassin's Creed: Ezio Saga
 
 name: Infinite HP
+author: xtatu
 mode: once
 w32 00996D6C 60000000
 
 name: Infinite Cash + Throwing Knives + Bullets
+author: xtatu
 mode: once
 w32 00E27DBC 60000000

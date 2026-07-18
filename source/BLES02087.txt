@@ -1,94 +1,117 @@
 # Ar nosurge: Ode to an Unborn Star
 
 name: Delta 999,999 Exp
+author: hohowan
 mode: once
 w32 00ABCEA4 000F423F
 
 name: Delta 10 AP + Turn Number
+author: hohowan
 mode: once
 w32 00ABD084 0000000A
 
 name: Delta 999 Attack Power
+author: hohowan
 mode: once
 w32 00ABD088 000003E7
 
 name: Delta 100 Defense Power
+author: hohowan
 mode: once
 w32 00ABD08C 00000064
 
 name: Delta 999 Burst Effect
+author: hohowan
 mode: once
 w32 00ABD094 000003E7
 
 name: Cass 999,999 Exp
+author: hohowan
 mode: once
 w32 00ABD07C 000F423F
 
 name: Cass 9,999 HP + Endurance
+author: hohowan
 mode: once
 w32 00ABCEC0 0000270F
 
 name: Cass 100 Defense Power
+author: hohowan
 mode: once
 w32 00ABCEC4 00000064
 
 name: Cass 100 Power Effect
+author: hohowan
 mode: once
 w32 00ABCEC8 00000064
 
 name: Cass 999 Fill Speed
+author: hohowan
 mode: once
 w32 00ABCECC 000003E7
 
 name: Cass 999 Barrier Regen
+author: hohowan
 mode: once
 w32 00ABCED0 000003E7
 
 name: Ion 999,999 Exp
+author: hohowan
 mode: once
 w32 00ABCF90 000F423F
 
 name: Ion 9,999 HP + Endurance
+author: hohowan
 mode: once
 w32 00ABCFAC 0000270F
 
 name: Ion 100 Defense Power
+author: hohowan
 mode: once
 w32 00ABCFB0 00000064
 
 name: Ion 100 Power Effect
+author: hohowan
 mode: once
 w32 00ABCFB4 00000064
 
 name: Ion 999 Fill Speed
+author: hohowan
 mode: once
 w32 00ABCFB8 000003E7
 
 name: Ion 999 Barrier Regen
+author: hohowan
 mode: once
 w32 00ABCFBC 000003E7
 
 name: Earthes Exp
+author: hohowan
 mode: once
 w32 00ABD168 000F423F
 
 name: Earthes 10 AP + Turn Number
+author: hohowan
 mode: once
 w32 00ABD170 0000000A
 
 name: Earthes 999 Attack Power
+author: hohowan
 mode: once
 w32 00ABD174 000003E7
 
 name: Earthes 100 Defense Power
+author: hohowan
 mode: once
 w32 00ABD178 00000064
 
 name: Earthes 999 Burst Effect
+author: hohowan
 mode: once
 w32 00ABD180 000003E7
 
 name: Have 99 Of All Food Items
+author: hohowan
 mode: once
 w8 00ABCBB8 63
 w32 00ABCBBB 63636363
@@ -104,6 +127,7 @@ w8 00ABCC25 63
 w8 00ABCC3E 63
 
 name: Have 99 Of All Plugin Items
+author: hohowan
 mode: once
 w32 00ABCC6C 63636363
 w32 00ABCC70 63636363
@@ -125,959 +149,1198 @@ w32 00ABCCAC 63636363
 w32 00ABCCB0 63636363
 
 name: 99 Future Food
+author: hohowan
 mode: once
 w8 00ABCBB8 63
 
 name: 99 Sukiyucky
+author: hohowan
 mode: once
 w8 00ABCBBB 63
 
 name: 99 Eggstreme Tart
+author: hohowan
 mode: once
 w8 00ABCBBC 63
 
 name: 99 Chicken & Egg! Bowl
+author: hohowan
 mode: once
 w8 00ABCBBD 63
 
 name: 99 Irritating Ice
+author: hohowan
 mode: once
 w8 00ABCBBE 63
 
 name: 99 One Hit KO Parfait
+author: hohowan
 mode: once
 w8 00ABCBC0 63
 
 name: 99 Woobly Glace
+author: hohowan
 mode: once
 w8 00ABCBC1 63
 
 name: 99 Akiko Sarumi
+author: hohowan
 mode: once
 w8 00ABCBC2 63
 
 name: 99 Fruit Ponta
+author: hohowan
 mode: once
 w8 00ABCBC3 63
 
 name: 99 Expanding Happy Soda
+author: hohowan
 mode: once
 w8 00ABCBC6 63
 
 name: 99 Obstinate Bibimbap
+author: hohowan
 mode: once
 w8 00ABCBC8 63
 
 name: 99 Nyurocky
+author: hohowan
 mode: once
 w8 00ABCBC9 63
 
 name: 99 Catty Lunch
+author: hohowan
 mode: once
 w8 00ABCBCD 63
 
 name: 99 Coffe Rice
+author: hohowan
 mode: once
 w8 00ABCBD2 63
 
 name: 99 Pepotato
+author: hohowan
 mode: once
 w8 00ABCBD9 63
 
 name: 99 Rocky
+author: hohowan
 mode: once
 w8 00ABCBDA 63
 
 name: 99 Sham Flour
+author: hohowan
 mode: once
 w8 00ABCBDB 63
 
 name: 99 Ponta Kalimantan
+author: hohowan
 mode: once
 w8 00ABCBDC 63
 
 name: 99 Sweet Stick
+author: hohowan
 mode: once
 w8 00ABCBDD 63
 
 name: 99 Salty Frost
+author: hohowan
 mode: once
 w8 00ABCBDE 63
 
 name: 99 Floral Milk
+author: hohowan
 mode: once
 w8 00ABCBDF 63
 
 name: 99 Ice Crystal
+author: hohowan
 mode: once
 w8 00ABCBE0 63
 
 name: 99 Obonne Cake
+author: hohowan
 mode: once
 w8 00ABCBE1 63
 
 name: 99 Meat
+author: hohowan
 mode: once
 w8 00ABCBE2 63
 
 name: 99 Garlicue
+author: hohowan
 mode: once
 w8 00ABCBE3 63
 
 name: 99 Golden Pepper
+author: hohowan
 mode: once
 w8 00ABCBE4 63
 
 name: 99 Twister Lunch
+author: hohowan
 mode: once
 w8 00ABCC25 63
 
 name: 99 Sharly Meat
+author: hohowan
 mode: once
 w8 00ABCC3E 63
 
 name: 99 Merciless Detergent
+author: hohowan
 mode: once
 w8 00ABCBE5 63
 
 name: 99 Flap Chunpost
+author: hohowan
 mode: once
 w8 00ABCBE6 63
 
 name: 99 Empress Garment
+author: hohowan
 mode: once
 w8 00ABCBE7 63
 
 name: 99 Chunpi
+author: hohowan
 mode: once
 w8 00ABCBE8 63
 
 name: 99 Nyaroki
+author: hohowan
 mode: once
 w8 00ABCBE9 63
 
 name: 99 Chirping Clock
+author: hohowan
 mode: once
 w8 00ABCBEA 63
 
 name: 99 Chunpi Costume
+author: hohowan
 mode: once
 w8 00ABCBEB 63
 
 name: 99 Arbitrator's Law Book
+author: hohowan
 mode: once
 w8 00ABCBEC 63
 
 name: 99 Weak Magnetic Stud
+author: hohowan
 mode: once
 w8 00ABCBED 63
 
 name: 99 Sandals of Happiness
+author: hohowan
 mode: once
 w8 00ABCBEE 63
 
 name: 99 Super Rare Bronze Statue
+author: hohowan
 mode: once
 w8 00ABCBEF 63
 
 name: 99 "That" Bronze Statue
+author: hohowan
 mode: once
 w8 00ABCBF0 63
 
 name: 99 Unembarassing Panties
+author: hohowan
 mode: once
 w8 00ABCBF1 63
 
 name: 99 Robot Bear
+author: hohowan
 mode: once
 w8 00ABCBF2 63
 
 name: 99 Red Cow of Promise
+author: hohowan
 mode: once
 w8 00ABCBF3 63
 
 name: 99 Couple Bowl
+author: hohowan
 mode: once
 w8 00ABCBF4 63
 
 name: 99 Bear
+author: hohowan
 mode: once
 w8 00ABCBF5 63
 
 name: 99 Bezeliel Toothbrush
+author: hohowan
 mode: once
 w8 00ABCBF6 63
 
 name: 99 Cannon de Kanon
+author: hohowan
 mode: once
 w8 00ABCBF7 63
 
 name: 99 Tokikagura's Magatama
+author: hohowan
 mode: once
 w8 00ABCBF8 63
 
 name: 99 Tentouki's Mirror
+author: hohowan
 mode: once
 w8 00ABCBF9 63
 
 name: 99 Superalloy Avatar
+author: hohowan
 mode: once
 w8 00ABCBFA 63
 
 name: 99 Great-Grandson Hand
+author: hohowan
 mode: once
 w8 00ABCBFB 63
 
 name: 99 Ripple Cream
+author: hohowan
 mode: once
 w8 00ABCBFC 63
 
 name: 99 Hammer Charge
+author: hohowan
 mode: once
 w8 00ABCBFD 63
 
 name: 99 Rupianes Crystal
+author: hohowan
 mode: once
 w8 00ABCBFE 63
 
 name: 99 Smart Belt
+author: hohowan
 mode: once
 w8 00ABCBFF 63
 
 name: 99 Infinity Glass
+author: hohowan
 mode: once
 w8 00ABCC00 63
 
 name: 99 Dianthus Necklace
+author: hohowan
 mode: once
 w8 00ABCC01 63
 
 name: 99 Genelotic Ticket
+author: hohowan
 mode: once
 w8 00ABCC02 63
 
 name: 99 Tenryo Nyuroki
+author: hohowan
 mode: once
 w8 00ABCC03 63
 
 name: 99 G.Falkes Mask
+author: hohowan
 mode: once
 w8 00ABCC04 63
 
 name: 99 Manaf Crystal Ball
+author: hohowan
 mode: once
 w8 00ABCC05 63
 
 name: 99 Felionyuroki
+author: hohowan
 mode: once
 w8 00ABCC06 63
 
 name: 99 Quatanyuroki
+author: hohowan
 mode: once
 w8 00ABCC07 63
 
 name: 99 Pheynyuroki
+author: hohowan
 mode: once
 w8 00ABCC08 63
 
 name: 99 Pikari Ore
+author: hohowan
 mode: once
 w8 00ABCC09 63
 
 name: 99 Formium Material
+author: hohowan
 mode: once
 w8 00ABCC0A 63
 
 name: 99 Jewelry Beads
+author: hohowan
 mode: once
 w8 00ABCC0B 63
 
 name: 99 Conductorium
+author: hohowan
 mode: once
 w8 00ABCC0C 63
 
 name: 99 Luxury Balm
+author: hohowan
 mode: once
 w8 00ABCC0D 63
 
 name: 99 Quantavia Fabric
+author: hohowan
 mode: once
 w8 00ABCC0E 63
 
 name: 99 Zenpretelecard
+author: hohowan
 mode: once
 w8 00ABCC0F 63
 
 name: 99 Monthly Teen Jewel
+author: hohowan
 mode: once
 w8 00ABCC10 63
 
 name: 99 Passion Pulp
+author: hohowan
 mode: once
 w8 00ABCC11 63
 
 name: 99 Honokano Nyuroki
+author: hohowan
 mode: once
 w8 00ABCC17 63
 
 name: 99 Felion Garland
+author: hohowan
 mode: once
 w8 00ABCC2C 63
 
 name: 99 Weakness Sign
+author: hohowan
 mode: once
 w8 00ABCC31 63
 
 name: 99 TC21 58-Electrode Tube
+author: hohowan
 mode: once
 w8 00ABCC60 63
 
 name: 99 Power Splitter
+author: hohowan
 mode: once
 w8 00ABCC61 63
 
 name: 99 Flat Resin Board
+author: hohowan
 mode: once
 w8 00ABCC62 63
 
 name: 99 Power Sonic 100
+author: hohowan
 mode: once
 w8 00ABCC63 63
 
 name: 99 Power Sonic 500
+author: hohowan
 mode: once
 w8 00ABCC64 63
 
 name: 99 Anti-Friction Gear
+author: hohowan
 mode: once
 w8 00ABCC65 63
 
 name: 99 Disk Ram
+author: hohowan
 mode: once
 w8 00ABCC66 63
 
 name: 99 Burst Hardening Gel
+author: hohowan
 mode: once
 w8 00ABCC67 63
 
 name: 99 DDW Density Sensor
+author: hohowan
 mode: once
 w8 00ABCC68 63
 
 name: 99 Legendary Screw
+author: hohowan
 mode: once
 w8 00ABCC69 63
 
 name: 99 Portable Cycloton
+author: hohowan
 mode: once
 w8 00ABCC6A 63
 
 name: 99 Marugame Brand Wire
+author: hohowan
 mode: once
 w8 00ABCC6B 63
 
 name: 99 Placenta Special
+author: hohowan
 mode: once
 w8 00ABCC12 63
 
 name: 99 Lucky Outs
+author: hohowan
 mode: once
 w8 00ABCC13 63
 
 name: 99 Furonaga's Ambition
+author: hohowan
 mode: once
 w8 00ABCC14 63
 
 name: 99 Allyl Tear
+author: hohowan
 mode: once
 w8 00ABCC15 63
 
 name: 99 Silent Green
+author: hohowan
 mode: once
 w8 00ABCC16 63
 
 name: 99 Bezeliel Crystal
+author: hohowan
 mode: once
 w8 00ABCC18 63
 
 name: 99 Honokano Dumplings
+author: hohowan
 mode: once
 w8 00ABCC19 63
 
 name: 99 Distilline
+author: hohowan
 mode: once
 w8 00ABCC1A 63
 
 name: 99 Tattorian Z
+author: hohowan
 mode: once
 w8 00ABCC1B 63
 
 name: 99 Thick Hotspring Powder
+author: hohowan
 mode: once
 w8 00ABCC1C 63
 
 name: 99 Star Emperor Gria
+author: hohowan
 mode: once
 w8 00ABCC1D 63
 
 name: 99 Freeze-Dried Powder
+author: hohowan
 mode: once
 w8 00ABCC1E 63
 
 name: 99 Tatoriano ZZ
+author: hohowan
 mode: once
 w8 00ABCC1F 63
 
 name: 99 Basmoothie
+author: hohowan
 mode: once
 w8 00ABCC20 63
 
 name: 99 Phage Predator Team
+author: hohowan
 mode: once
 w8 00ABCC21 63
 
 name: 99 Sharly Beans
+author: hohowan
 mode: once
 w8 00ABCC22 63
 
 name: 99 Genius Red Soup
+author: hohowan
 mode: once
 w8 00ABCC23 63
 
 name: 99 Stealth Relief Drink
+author: hohowan
 mode: once
 w8 00ABCC24 63
 
 name: 99 The Joy of Wounding
+author: hohowan
 mode: once
 w8 00ABCC26 63
 
 name: 99 Singing Miracle of Love
+author: hohowan
 mode: once
 w8 00ABCC27 63
 
 name: 99 Supreme Children's Energy Source
+author: hohowan
 mode: once
 w8 00ABCC28 63
 
 name: 99 Creeping Sham Flour
+author: hohowan
 mode: once
 w8 00ABCC29 63
 
 name: 99 Harmonian Aroma
+author: hohowan
 mode: once
 w8 00ABCC2A 63
 
 name: 99 HUG me Honey!
+author: hohowan
 mode: once
 w8 00ABCC2B 63
 
 name: 99 Synapse Grass Seeds
+author: hohowan
 mode: once
 w8 00ABCC2D 63
 
 name: 99 Felie's Elixir
+author: hohowan
 mode: once
 w8 00ABCC2E 63
 
 name: 99 Snow of Amnesia
+author: hohowan
 mode: once
 w8 00ABCC2F 63
 
 name: 99 Amber Imprison
+author: hohowan
 mode: once
 w8 00ABCC30 63
 
 name: 99 Lotus Tear
+author: hohowan
 mode: once
 w8 00ABCC32 63
 
 name: 99 Honokano Spring Powder
+author: hohowan
 mode: once
 w8 00ABCC33 63
 
 name: 99 Ribden Dioxide
+author: hohowan
 mode: once
 w8 00ABCC34 63
 
 name: 99 Particle Consolidation Spray
+author: hohowan
 mode: once
 w8 00ABCC35 63
 
 name: 99 Song Stone Crystal
+author: hohowan
 mode: once
 w8 00ABCC36 63
 
 name: 99 Time Grass
+author: hohowan
 mode: once
 w8 00ABCC37 63
 
 name: 99 Multicolor Flower
+author: hohowan
 mode: once
 w8 00ABCC38 63
 
 name: 99 Pita-Ban
+author: hohowan
 mode: once
 w8 00ABCC39 63
 
 name: 99 Yellow Supplement
+author: hohowan
 mode: once
 w8 00ABCC3A 63
 
 name: 99 Green Supplement
+author: hohowan
 mode: once
 w8 00ABCC3B 63
 
 name: 99 Red Supplement
+author: hohowan
 mode: once
 w8 00ABCC3C 63
 
 name: 99 Let's Fight V
+author: hohowan
 mode: once
 w8 00ABCC3D 63
 
 name: 99 Re-Bye-Bye Mask
+author: hohowan
 mode: once
 w8 00ABCC3F 63
 
 name: 99 Handmade Muffler
+author: hohowan
 mode: once
 w8 00ABCC40 63
 
 name: 99 Pepen @ Mark
+author: hohowan
 mode: once
 w8 00ABCC41 63
 
 name: 99 Ra Ziela
+author: hohowan
 mode: once
 w8 00ABCC42 63
 
 name: 99 Quantum Satellite Spinner
+author: hohowan
 mode: once
 w8 00ABCC43 63
 
 name: 99 Wave Dimension Converter
+author: hohowan
 mode: once
 w8 00ABCC44 63
 
 name: 99 Decoherence Lottery
+author: hohowan
 mode: once
 w8 00ABCC45 63
 
 name: 99 IAQL Ionization Umbrella
+author: hohowan
 mode: once
 w8 00ABCC46 63
 
 name: 99 Superconductor Dendrobium
+author: hohowan
 mode: once
 w8 00ABCC47 63
 
 name: 99 Intrinsic Tube
+author: hohowan
 mode: once
 w8 00ABCC48 63
 
 name: 99 Unopenable Nyurokey
+author: hohowan
 mode: once
 w8 00ABCC49 63
 
 name: 99 Charming Chatter
+author: hohowan
 mode: once
 w8 00ABCC4A 63
 
 name: 99 Geno-Wave Gear
+author: hohowan
 mode: once
 w8 00ABCC4B 63
 
 name: 99 Satellite Launcher
+author: hohowan
 mode: once
 w8 00ABCC4C 63
 
 name: 99 Ai & Sho Oracle
+author: hohowan
 mode: once
 w8 00ABCC4D 63
 
 name: 99 Memory Unlocker
+author: hohowan
 mode: once
 w8 00ABCC4E 63
 
 name: 99 Genetically Modified Wire
+author: hohowan
 mode: once
 w8 00ABCC4F 63
 
 name: 99 Mr. Registrar
+author: hohowan
 mode: once
 w8 00ABCC50 63
 
 name: 99 Helicalusion
+author: hohowan
 mode: once
 w8 00ABCC51 63
 
 name: 99 Shocking Cart
+author: hohowan
 mode: once
 w8 00ABCC52 63
 
 name: 99 Trinity Burner
+author: hohowan
 mode: once
 w8 00ABCC53 63
 
 name: 99 Michine Gun
+author: hohowan
 mode: once
 w8 00ABCC54 63
 
 name: 99 Resetta Stone
+author: hohowan
 mode: once
 w8 00ABCC55 63
 
 name: 99 HD Compiler
+author: hohowan
 mode: once
 w8 00ABCC56 63
 
 name: 99 One of a Millionth Soreil
+author: hohowan
 mode: once
 w8 00ABCC57 63
 
 name: 99 Pendulum of Rupiah
+author: hohowan
 mode: once
 w8 00ABCC58 63
 
 name: 99 S2 Missile Fireworks
+author: hohowan
 mode: once
 w8 00ABCC59 63
 
 name: 99 Gravitation Drive Communicator
+author: hohowan
 mode: once
 w8 00ABCC5A 63
 
 name: 99 Primnotron
+author: hohowan
 mode: once
 w8 00ABCC5B 63
 
 name: 99 Ar noSurge Tube LE
+author: hohowan
 mode: once
 w8 00ABCC5C 63
 
 name: 99 Uukun Puppet
+author: hohowan
 mode: once
 w8 00ABCC5D 63
 
 name: 99 Ra-Ciel Factor
+author: hohowan
 mode: once
 w8 00ABCC5E 63
 
 name: 99 Reincarnation
+author: hohowan
 mode: once
 w8 00ABCC5F 63
 
 name: 99 Cream Cathoda
+author: hohowan
 mode: once
 w8 00ABCC6C 63
 
 name: 99 Wrinkle Emperor Pipe
+author: hohowan
 mode: once
 w8 00ABCC6D 63
 
 name: 99 Lyrical Hitman
+author: hohowan
 mode: once
 w8 00ABCC6E 63
 
 name: 99 Sham Croquette Device
+author: hohowan
 mode: once
 w8 00ABCC6F 63
 
 name: 99 Heavenly Bird Dance
+author: hohowan
 mode: once
 w8 00ABCC70 63
 
 name: 99 Chunpiece
+author: hohowan
 mode: once
 w8 00ABCC71 63
 
 name: 99 Glass Change Pack
+author: hohowan
 mode: once
 w8 00ABCC72 63
 
 name: 99 Woodpecker Chun
+author: hohowan
 mode: once
 w8 00ABCC73 63
 
 name: 99 Celebrity Device
+author: hohowan
 mode: once
 w8 00ABCC74 63
 
 name: 99 Pile Drive Device
+author: hohowan
 mode: once
 w8 00ABCC75 63
 
 name: 99 Radium Device
+author: hohowan
 mode: once
 w8 00ABCC76 63
 
 name: 99 Seven Spice Device
+author: hohowan
 mode: once
 w8 00ABCC77 63
 
 name: 99 Nitro Booster Device
+author: hohowan
 mode: once
 w8 00ABCC78 63
 
 name: 99 Excalibur Device
+author: hohowan
 mode: once
 w8 00ABCC79 63
 
 name: 99 Motoko Aino's Love Theory
+author: hohowan
 mode: once
 w8 00ABCC7A 63
 
 name: 99 DIY Device
+author: hohowan
 mode: once
 w8 00ABCC7B 63
 
 name: 99 Super Painful Cathode
+author: hohowan
 mode: once
 w8 00ABCC7C 63
 
 name: 99 Brain Synapsis
+author: hohowan
 mode: once
 w8 00ABCC7D 63
 
 name: 99 Entanglement Device
+author: hohowan
 mode: once
 w8 00ABCC7E 63
 
 name: 99 Colonia Cathode
+author: hohowan
 mode: once
 w8 00ABCC7F 63
 
 name: 99 Machorino
+author: hohowan
 mode: once
 w8 00ABCC80 63
 
 name: 99 Linking Mysterious Ice
+author: hohowan
 mode: once
 w8 00ABCC81 63
 
 name: 99 Loving Liposome
+author: hohowan
 mode: once
 w8 00ABCC82 63
 
 name: 99 Genonuman Bun
+author: hohowan
 mode: once
 w8 00ABCC83 63
 
 name: 99 Felionia RNA
+author: hohowan
 mode: once
 w8 00ABCC84 63
 
 name: 99 Cielnotronica
+author: hohowan
 mode: once
 w8 00ABCC85 63
 
 name: 99 Sandalbird
+author: hohowan
 mode: once
 w8 00ABCC86 63
 
 name: 99 Moisturizer
+author: hohowan
 mode: once
 w8 00ABCC87 63
 
 name: 99 MeasuRNA
+author: hohowan
 mode: once
 w8 00ABCC88 63
 
 name: 99 Cuticlear
+author: hohowan
 mode: once
 w8 00ABCC89 63
 
 name: 99 Giga Protein
+author: hohowan
 mode: once
 w8 00ABCC8A 63
 
 name: 99 Cell Protecta
+author: hohowan
 mode: once
 w8 00ABCC8B 63
 
 name: 99 Neregracos Scale
+author: hohowan
 mode: once
 w8 00ABCC8C 63
 
 name: 99 Mollusc Body
+author: hohowan
 mode: once
 w8 00ABCC8D 63
 
 name: 99 Zombiliambskin
+author: hohowan
 mode: once
 w8 00ABCC8E 63
 
 name: 99 Petier Cooler
+author: hohowan
 mode: once
 w8 00ABCC8F 63
 
 name: 99 EMURNA
+author: hohowan
 mode: once
 w8 00ABCC90 63
 
 name: 99 Iron Mask Super Transformer
+author: hohowan
 mode: once
 w8 00ABCC91 63
 
 name: 99 Amoeva RNA
+author: hohowan
 mode: once
 w8 00ABCC92 63
 
 name: 99 Ectoplasman
+author: hohowan
 mode: once
 w8 00ABCC93 63
 
 name: 99 Jelly Type Class
+author: hohowan
 mode: once
 w8 00ABCC94 63
 
 name: 99 Silent Picture Scrool
+author: hohowan
 mode: once
 w8 00ABCC95 63
 
 name: 99 Underwater Ring-Toss Class
+author: hohowan
 mode: once
 w8 00ABCC96 63
 
 name: 99 Aquarium Light
+author: hohowan
 mode: once
 w8 00ABCC97 63
 
 name: 99 Nay's Charm
+author: hohowan
 mode: once
 w8 00ABCC98 63
 
 name: 99 Carefree Class
+author: hohowan
 mode: once
 w8 00ABCC99 63
 
 name: 99 Melancholy of the Genom King
+author: hohowan
 mode: once
 w8 00ABCC9A 63
 
 name: 99 Arbitrator's Memorization Note
+author: hohowan
 mode: once
 w8 00ABCC9B 63
 
 name: 99 Classy Dance Class
+author: hohowan
 mode: once
 w8 00ABCC9C 63
 
 name: 99 Spherial Class
+author: hohowan
 mode: once
 w8 00ABCC9D 63
 
 name: 99 Natural Herb Class
+author: hohowan
 mode: once
 w8 00ABCC9E 63
 
 name: 99 Organic Brain
+author: hohowan
 mode: once
 w8 00ABCC9F 63
 
 name: 99 Gigabolt Neuron
+author: hohowan
 mode: once
 w8 00ABCCA0 63
 
 name: 99 Peace Marclass
+author: hohowan
 mode: once
 w8 00ABCCA1 63
 
 name: 99 Heaven Sense Class
+author: hohowan
 mode: once
 w8 00ABCCA2 63
 
 name: 99 Memory Leap
+author: hohowan
 mode: once
 w8 00ABCCA3 63
 
 name: 99 Tube of Strong Interaction
+author: hohowan
 mode: once
 w8 00ABCCA4 63
 
 name: 99 Chikichiki Ponpon
+author: hohowan
 mode: once
 w8 00ABCCA5 63
 
 name: 99 Loverator Class
+author: hohowan
 mode: once
 w8 00ABCCA6 63
 
 name: 99 DHW Drone
+author: hohowan
 mode: once
 w8 00ABCCA7 63
 
 name: 99 Simple Cathode
+author: hohowan
 mode: once
 w8 00ABCCA8 63
 
 name: 99 Powered Plug Device
+author: hohowan
 mode: once
 w8 00ABCCA9 63
 
 name: 99 Hydro Flask Device
+author: hohowan
 mode: once
 w8 00ABCCAA 63
 
 name: 99 Bezeliation Device
+author: hohowan
 mode: once
 w8 00ABCCAB 63
 
 name: 99 Pure High Tech RNA
+author: hohowan
 mode: once
 w8 00ABCCAC 63
 
 name: 99 Bioroid RNA
+author: hohowan
 mode: once
 w8 00ABCCAD 63
 
 name: 99 Antiparticle Burst RNA
+author: hohowan
 mode: once
 w8 00ABCCAE 63
 
 name: 99 Hymmnes RNA
+author: hohowan
 mode: once
 w8 00ABCCAF 63
 
 name: 99 Inception Class
+author: hohowan
 mode: once
 w8 00ABCCB0 63
 
 name: 99 Advanced Class
+author: hohowan
 mode: once
 w8 00ABCCB1 63
 
 name: 99 Placentia Class
+author: hohowan
 mode: once
 w8 00ABCCB2 63
 
 name: 99 Surge Link Class
+author: hohowan
 mode: once
 w8 00ABCCB3 63
 
 name: Max Money (CT)
+author: JorgeFFC
 mode: once
 w32 00B0B82C 3B9AC9FF
 
 name: Max Dive Points
+author: JorgeFFC
 mode: once
 w32 00B13EC8 3B9AC9FF
 w32 00B13ECC 3B9AC9FF
 
 name: Max Money on Buy
+author: JorgeFFC
 mode: once
 w32 002CF908 40810008
 
 name: Max Items On Change
+author: JorgeFFC
 mode: once
 w32 002C9370 40810014
 
 name: Overpower Burst Charge (Max Power of Song Special)
+author: JorgeFFC
 mode: once
 w32 0006E960 40810008
 
 name: Infinite Strikes In Battles (All Attacks)
+author: JorgeFFC
 mode: once
 w32 0006BF94 30630000
 w32 0006BFA4 30630000
@@ -1085,17 +1348,21 @@ w32 0006BFB4 30630000
 w32 0006BFC4 30630000
 
 name: AoB Max Money on Buy
+author: JorgeFFC
 mode: once
 aob 80A3B82C7C0520004181000860A4000038A00000 80A3B82C7C0520004081000860A4000038A00000
 
 name: AoB Max Items On Change
+author: JorgeFFC
 mode: once
 aob 2C050063418100142C05000040800008 2C050063408100142C05000040800008
 
 name: AoB Overpower Burst Charge (Max Power of Song Special)
+author: JorgeFFC
 mode: once
 aob 7CC620147C0628004181000860C50000 7CC620147C0628004081000860C50000
 
 name: AoB Infinite Strikes In Battles (All Attacks)
+author: JorgeFFC
 mode: once
 aob 807E00103063FFFF907E001048000030807E00183063FFFF907E001848000020807E00283063FFFF907E002848000010807E00203063FFFF 807E001030630000907E001048000030807E001830630000907E001848000020807E002830630000907E002848000010807E002030630000

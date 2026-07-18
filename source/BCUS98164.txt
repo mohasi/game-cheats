@@ -1,15 +1,18 @@
 # Heavy Rain - Crime Scene
 
 name: Enable Debug Menu And Playable Demo Mode (L3)
+author: bungholio
 mode: once
 w32 00547B6C 38600001
 
 name: Enable Debug Menu (L3)
+author: bungholio
 mode: once
 w32 000C7F98 38000001
 w32 000C7FA0 98090000
 
 name: Disable AutoNext Auto-Continue
+author: bungholio
 mode: once
 w32 002BDA60 EDAD6828
 w32 002BDA68 EC000028
@@ -20,13 +23,16 @@ mode: once
 w32 002751F8 4E800020
 
 name: AoB Enable Debug Menu And Playable Demo Mode (L3)
+author: bungholio
 mode: once
 aob 6000000038000001EB21007898780000 3860000138000001EB21007898780000
 
 name: AoB Enable Debug Menu (L3)
+author: bungholio
 mode: once
 aob 812280E4FFE00890880900002F800000419E0258 812280E4FFE00890386000012F80000098780000
 
 name: AoB Disable AutoNext Auto-Continue
+author: bungholio
 mode: once
 aob C1BF0078812B0000C0090020EDAD0028FF8DF800D1BF00784FDCF382409EFE3CC01F0074 EDAD6828812B0000EC000028EDAD0028FF8DF800D1BF00784FDCF382409EFE3CD01F0074

@@ -1,6 +1,7 @@
 # Gundam Musou 2
 
 name: Unlock All Pilots
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007E2D88 FFFFFFFF
 w32 007E2D8C FFFFFFFF
@@ -100,6 +101,7 @@ w32 007E3C38 FFFFFFFF
 w32 007E3C3C FFFFFFFF
 
 name: All Pilot Levels Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w8 007E2D93 31
 w8 007E2DE3 31
@@ -151,6 +153,7 @@ w8 007E3BF3 31
 w8 007E3C43 31
 
 name: All Pilot Points Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 007E2D94 00074C20
 w32 007E2DE4 00074C20
@@ -202,6 +205,7 @@ w32 007E3BF4 00074C20
 w32 007E3C44 00074C20
 
 name: Unlock Skills
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 008237D0 FFFFFFFF
 w32 008237D4 FFFFFFFF

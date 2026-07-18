@@ -1,11 +1,13 @@
 # Dragon Ball Z: Budokai HD Collection
 
 name: Enable Code
+author: Medo
 mode: once
 w32 00010064 00229000
 w32 0001006C 00229000
 
 name: Infinite Health P1
+author: GuitarMan
 mode: once
 w32 00238600 63900000
 w32 00238604 3A10FBD8
@@ -22,6 +24,7 @@ w32 0023862C 480A9E4A
 w32 000A9E44 48238602
 
 name: Infinite Ki P1
+author: GuitarMan
 mode: once
 w32 00238640 63900000
 w32 00238644 3A10FBD8
@@ -37,6 +40,7 @@ w32 00238668 480A9E8A
 w32 000A9E84 48238642
 
 name: Invincibility P1
+author: GuitarMan
 mode: once
 w32 002386A0 3CC0007C
 w32 002386A4 A0C6189E
@@ -56,50 +60,61 @@ w32 000A7288 482386A2
 w32 000A82F8 482386C2
 
 name: Max And Infinite Zenies In Shop
+author: tekman
 mode: once
 w32 00138368 3DE000F0
 w32 0013837C 91FC0098
 
 name: Max And Infinite Zenies On Gain
+author: tekman
 mode: once
 w32 00149EF0 3DE000F0
 w32 00149F04 7DE3212E
 
 name: Quick Level Up
+author: tekman
 mode: once
 w32 001E59E4 91A61200
 
 name: AoB Max And Infinite Zenies In Shop
+author: tekman
 mode: once
 aob 80C400707F8518143C6051EB7B9C00206063851F90DC0098 3DE000F07F8518143C6051EB7B9C00206063851E91FC0098
 
 name: AoB Max And Infinite Zenies On Gain
+author: tekman
 mode: once
 aob 609E00003C8000023CA000536084AEE838C000007FC3212E 3DE000F03C8000023CA000536084AEE838C000007DE3212E
 
 name: AoB Quick Level Up
+author: tekman
 mode: once
 aob 4200FFE89066120048003CA560000000 4200FFE891A6120048003CA560000000
 
 name: Eboot Enable Code
+author: Medo
 mode: once
 w32 00010064 0030A000
 w32 0001006C 0030A000
 
 name: Max Money
+author: GuitarMan
 mode: once
 w32 001340BC 917D0070
 
 name: Z Points Never Decreases
+author: GuitarMan
 mode: once
 w32 001EB59C 30840000
 
 name: Unlock All Characters
+author: GuitarMan
 mode: once
 w32 00173344 60000000
 w32 0017238C 60000000
 
 name: Unlock All Capsules
+author: GuitarMan
 mode: once
 w32 0013003C 39000001
 w32 001CAE64 3BE00001
@@ -107,18 +122,22 @@ w32 001CC3DC 38C00001
 w32 001CCA18 3BE00001
 
 name: Can Perform Special Skills Without Ki
+author: GuitarMan
 mode: once
 w32 000E82C4 38600001
 
 name: Can Always Do Things Without The Required Amounts Of Ki Energy
+author: bungholio
 mode: once
 w32 000E4610 48000008
 
 name: Maximum Capsules
+author: GuitarMan
 mode: once
 w32 0012CB68 30630009
 
 name: Infinite Time Item Battle
+author: GuitarMan
 mode: once
 w32 002C38C0 A0FF13A4
 w32 002C38C4 2C070000
@@ -134,6 +153,7 @@ w32 002C38E8 480E9DE6
 w32 000E9DE0 482C38C2
 
 name: Infinite Health P1
+author: GuitarMan
 mode: once
 w32 002C37FC C05E17D8
 w32 002C3800 D05E17C0
@@ -142,6 +162,7 @@ w32 002C3808 480C4902
 w32 000C48FC 482C37FE
 
 name: Infinite Ki P1
+author: GuitarMan
 mode: once
 w32 002C3818 C03E17D8
 w32 002C381C D03E17D4
@@ -150,6 +171,7 @@ w32 002C3824 480C4916
 w32 000C4910 482C381A
 
 name: Invincibility P1
+author: GuitarMan
 mode: once
 w32 002C3860 A20313A4
 w32 002C3864 28100000
@@ -166,18 +188,22 @@ w32 000CD230 482C3862
 w32 000D0234 48000044
 
 name: Can Go Past The 20 Z Point Limit
+author: GuitarMan
 mode: once
 w32 001EB4EC 48000054
 
 name: Unlimited Z Points
+author: GuitarMan
 mode: once
 w32 001EB3D0 60000000
 
 name: Can Exit The Z Points Screen Without Using All Z Points
+author: bungholio
 mode: once
 w32 001EB354 480000B0
 
 name: Have 99,999 Experience Points And All 20 Points Full After A Battle (Dragon Universe)
+author: GuitarMan
 mode: once
 w32 0031964C 3A000014
 w32 00319650 92070000
@@ -191,14 +217,17 @@ w32 0031966C 481ECFB2
 w32 001ECFAC 4831964E
 
 name: Skip Transformations And Go To Highest Transformation
+author: GuitarMan
 mode: once
 w32 000E0104 38600005
 
 name: Transformation Timer Never Decreases
+author: bungholio
 mode: once
 w32 000E37FC 60000000
 
 name: Character Appearance Modifier (L2 + < or > at the character select screen)
+author: bungholio
 mode: once
 w32 003196DC A344000C
 w32 003196E0 3C600091
@@ -306,6 +335,7 @@ w32 00171F34 60000000
 w32 00171FFC 48000094
 
 name: AIs Always Lose Stand-Offs
+author: bungholio
 mode: once
 w32 0031986C A0BF13A4
 w32 00319870 2B850001
@@ -318,6 +348,7 @@ w32 00319888 4E800020
 w32 000DB430 4831986F
 
 name: Disable Blocking For AI (Guard 2 in Training)
+author: bungholio
 mode: once
 w32 00319900 A3DF13A4
 w32 00319904 2B9E0001
@@ -355,6 +386,7 @@ w32 000DC9BC 3BC00000
 w32 000DCD1C 3BC00000
 
 name: Disable Various AI Sidestepping
+author: bungholio
 mode: once
 w32 0031995C A09F13A4
 w32 00319960 2B840001
@@ -396,13 +428,16 @@ w32 000D8BE8 4831998B
 w32 000DCCCC 483199B7
 
 name: Enemies Never Do Air Roll Recoveries
+author: bungholio
 mode: once
 w32 000D7B78 4E800020
 
 name: Players Always Automatically Escape Grabs
+author: bungholio
 mode: once
 w32 000CE8E4 38600001
 
 name: Enemies Never Escape Grabs
+author: bungholio
 mode: once
 w32 000CE8FC 38600000

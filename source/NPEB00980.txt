@@ -1,14 +1,17 @@
 # Capcom Arcade Cabinet
 
 name: Unlimited Lives
+author: CMbl4
 mode: once
 w32 00EF068C 60000000
 
 name: Unlimited Rotation
+author: CMbl4
 mode: once
 w32 00EC4638 60000000
 
 name: Unlimited Energy
+author: CMbl4
 mode: once
 w32 00EC2E54 60000000
 w32 00EC4F78 60000000
@@ -23,22 +26,27 @@ w32 00EFA110 60000000
 w32 00EFC188 60000000
 
 name: Stop Timer
+author: CMbl4
 mode: once
 w32 013801D0 60000000
 w32 0138056C 60000000
 
 name: Unlimited Life Energy
+author: CMbl4
 mode: once
 w32 012E3B8C 60000000
 
 name: Stop Timer
+author: CMbl4
 mode: once
 w32 00E64A74 60000000
 
 name: Unlimited Lives
+author: CMbl4
 mode: once
 w32 00ECD440 60000000
 
 name: Unlimited Armor
+author: CMbl4
 mode: once
 w32 00ED43A4 60000000

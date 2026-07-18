@@ -1,55 +1,68 @@
 # Macross 30: Ginga o Tsunagu Utagoe
 
 name: Infinite Bullets
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 002C04F4 60000000
 
 name: Infinite Booster
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 00255D00 3BBD0000
 
 name: Max Money
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004D4820 2F9D0000
 
 name: 99 Items On Gain
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004DD3B0 38000063
 
 name: Infinite Anti-Gauge
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 0023BD5C 2F890000
 
 name: Infinite SP Gauge
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 0024B1F8 30000000
 
 name: Items Do Not Reduce
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004DE5C8 60000000
 
 name: No Maximum TP On Planes
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 0045BBCC 60000000
 
 name: Max Additional Equipment
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004668BC 392000FF
 
 name: Infinite SP
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 0024B1F8 30000000
 w32 002335B0 2F800000
 
 name: Infinite Items
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004D45C8 60000000
 
 name: Strengthening Equipment
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w32 004668BC 392000FF
 
 name: All Items In Item Box
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 w16 32B6FF52 0000
 w16 32B70318 0001
@@ -69,37 +82,46 @@ w16 32B715FA 03E7
 w16 32B719C0 03E7
 
 name: AoB Infinite Bullets
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7C0B00502F800000419C00AC900A0270 600000002F800000419C00AC900A0270
 
 name: AoB Infinite Booster
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7FBD02142F9D0707419D007038600001 3BBD00002F9D0707419D007038600001
 
 name: AoB Max Money
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7F9D480093BF005C409D0020913F005C 2F9D000093BF005C409D0020913F005C
 
 name: AoB 99 Items On Gain
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7C1C021480A21AC83B800000901E0004 3800006380A21AC83B800000901E0004
 
 name: AoB Infinite Anti-Gauge
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7F890000912B0004409DF124900B0004 2F890000912B0004409DF124900B0004
 
 name: AoB Infinite SP Gauge
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7C1F00502F800000901E4490409C000C 300000002F800000901E4490409C000C
 
 name: AoB Items Do Not Reduce
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 7C1D0050900A00044BFFFEC42F840000 60000000900A00044BFFFEC42F840000
 
 name: AoB No Maximum TP On Planes
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 419D0A3489390000392900015520063E 6000000089390000392900015520063E
 
 name: AoB Strengthening Equipment
+author: games24.blog.fc2.com/blog-entry-130.html
 mode: once
 aob 392900015520063E993E00007F805840 392000FF5520063E993E00007F805840

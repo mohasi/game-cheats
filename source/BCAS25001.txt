@@ -1,14 +1,17 @@
 # Final Fantasy XIII
 
 name: Gil
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 44588858 3B9AC9FF
 
 name: Crystarum LV10
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 4458886C 0000000A
 
 name: CP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 4458FB50 000F423F
 w32 44590A90 000F423F
@@ -30,165 +33,205 @@ w32 4459EF50 000F423F
 w32 4459FE90 000F423F
 
 name: HP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0058C71C 48000000
 
 name: Status
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0058C71C 92370018
 w32 0058C720 9237001C
 
 name: Item 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005AD154 3B800000
 w32 005AD424 38C00063
 
 name: Item x 8
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005AD2B0 549B1838
 
 name: Weapon EXP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0041D70C 93830014
 
 name: Max Gil
+author: hyper2k
 mode: once
 w32 4458CD98 3B9AC9FF
 
 name: Hope CP
+author: hyper2k
 mode: once
 w32 4459E850 000F423F
 
 name: Hope HP
+author: hyper2k
 mode: once
 w32 4459E988 000F423F
 
 name: Hope STR
+author: hyper2k
 mode: once
 w32 4459E998 000F423F
 
 name: Hope MAG
+author: hyper2k
 mode: once
 w32 4459E99C 000F423F
 
 name: Lightning CP
+author: hyper2k
 mode: once
 w32 445A06D0 000F423F
 
 name: Lightning HP
+author: hyper2k
 mode: once
 w32 445A0808 000F423F
 
 name: Lightning STR
+author: hyper2k
 mode: once
 w32 445A0818 000F423F
 
 name: Lightning MAG
+author: hyper2k
 mode: once
 w32 445A081C 000F423F
 
 name: Snow CP
+author: hyper2k
 mode: once
 w32 445A3490 000F423F
 
 name: Snow HP
+author: hyper2k
 mode: once
 w32 445A35C8 000F423F
 
 name: Snow STR
+author: hyper2k
 mode: once
 w32 445A35D8 000F423F
 
 name: Snow MAG
+author: hyper2k
 mode: once
 w32 445A35DC 000F423F
 
 name: Vanille CP
+author: hyper2k
 mode: once
 w32 445A43D0 000F423F
 
 name: Vanille HP
+author: hyper2k
 mode: once
 w32 445A4508 000F423F
 
 name: Vanille STR
+author: hyper2k
 mode: once
 w32 445A4518 000F423F
 
 name: Vanille MAG
+author: hyper2k
 mode: once
 w32 445A451C 000F423F
 
 name: Sazh CP
+author: hyper2k
 mode: once
 w32 445A5050 000F423F
 
 name: Sazh HP
+author: hyper2k
 mode: once
 w32 445A5188 000F423F
 
 name: Sazh STR
+author: hyper2k
 mode: once
 w32 445A5198 000F423F
 
 name: Sazh MAG
+author: hyper2k
 mode: once
 w32 445A519C 000F423F
 
 name: Fang CP
+author: hyper2k
 mode: once
 w32 4459C9D0 000F423F
 
 name: Fang HP
+author: hyper2k
 mode: once
 w32 4459CB08 000F423F
 
 name: Fang STR
+author: hyper2k
 mode: once
 w32 4459CB18 000F423F
 
 name: Fang MAG
+author: hyper2k
 mode: once
 w32 4459CB1C 000F423F
 
 name: Gil 99999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 44591228 3B9AC9FF
 
 name: LV 10 Crystarum LV10
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 4459123C 0000000A
 
 name: CP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005A22D8 60000000
 
 name: Infinite CP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0059219C 3C00000F
 
 name: Use CP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005921A0 6000423F
 
 name: Status Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005898A0 92370018
 w32 005898A4 9237001C
 
 name: Item Buy Sell 99
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005AA2D8 3B800000
 w32 005AA5A8 38C00063
 
 name: Infinite Item
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00591440 60000000
 
 name: Item Drop X 8
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 005AA434 549B1838
 
 name: Weapon EXP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0041CA60 93830014

@@ -1,6 +1,7 @@
 # Afro Samurai
 
 name: Infinite Health + Full Power (L3 = Restore Power)
+author: GuitarMan
 mode: once
 w32 007C2130 C0230030
 w32 007C2134 D0230000
@@ -16,6 +17,7 @@ w32 007C2158 485E6D8E
 w32 005E6D88 487C2132
 
 name: Invincibility Against Physical Attacks
+author: GuitarMan
 mode: once
 w32 007C20B0 913FFF24
 w32 007C20B4 806B07AC
@@ -30,5 +32,6 @@ w32 0028D820 487C20B2
 w32 00237644 487C20BE
 
 name: 1 Hit Kill Enemies
+author: GuitarMan
 mode: once
 w32 002230C4 419C0008

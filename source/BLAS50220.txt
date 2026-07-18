@@ -1,35 +1,43 @@
 # Sengoku Basara 3
 
 name: Money 9999999
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AAD0 0098967F
 
 name: P1 Infinite SP
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001748A0 60000000
 
 name: P1 Sengoku Boost Max While Increasing
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 001748F0 60000000
 
 name: Money 99999 In Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1A9EC 0001869F
 
 name: Koku 99999 In Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 0009FFB0 60000000
 
 name: Hits 99999 In Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 000A3C6C 60000000
 
 name: K.O.9999 In Battle
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 00587D34 60000000
 w32 00587D50 60000000
 
 name: All Characters LV Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B980 00000064
 w32 32C1BB90 00000064
@@ -49,6 +57,7 @@ w32 32C1D660 00000064
 w32 32C1D870 00000064
 
 name: All Characters EXP Max
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B984 000F4240
 w32 32C1BB94 000F4240
@@ -68,6 +77,7 @@ w32 32C1D664 000F4240
 w32 32C1D874 000F4240
 
 name: All Resources
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AC88 00630063
 w32 32C1AC8C 00630063
@@ -119,6 +129,7 @@ w32 32C1AD40 FFFFFFFF
 w32 32C1AD44 07FFFFFF
 
 name: All Ending Completed 100%
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1BA1C 00000001
 w32 32C1BA20 00000001
@@ -202,6 +213,7 @@ w32 32C1D918 00000001
 w32 32C1D91C 00000001
 
 name: Unlock All Characters + Free Battle Mission
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1ADA4 FFFFFFFF
 w16 32C1ADAA FFFF
@@ -209,11 +221,13 @@ w16 32C1ADDA FFFF
 w8 32C1AE4F 06
 
 name: Unlock All Music
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AEA8 FFFFFFFF
 w32 32C1AEAC 7FFFFFFF
 
 name: Unlock All Drama Record
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1B9D0 00000001
 w32 32C1B9D4 00000001
@@ -441,14 +455,17 @@ w32 32C1C0F0 00000001
 w32 32C1C0F4 00000001
 
 name: Unlock All Titles
+author: CodeFreak/PS3UserCheat
 mode: once
 w32 32C1AE4C FFFFFFFF
 w32 32C1AE50 00FFFFFF
 
 name: Hit Anywhere
+author: xtatu
 mode: once
 w32 000689E8 60000000
 
 name: AoB Hit Anywhere
+author: xtatu
 mode: once
 aob 419EFF309AFB0025813F009C7F63DB787F04C378C0090010D01B00B4813F009CC0090014D01B00BC481A0495600000009AFA0026813C0028 600000009AFB0025813F009C7F63DB787F04C378C0090010D01B00B4813F009CC0090014D01B00BC481A0495600000009AFA0026813C0028
