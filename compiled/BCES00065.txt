@@ -11,6 +11,7 @@ mode: once
 w32 00616AA8 60000000
 
 name: +1 Ammo Per Weapon Use
+score BCES00065 01.01: 25 0+ 1-
 author: dron_3, sesiom316
 mode: once
 w32 00616AA8 39290001
