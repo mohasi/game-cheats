@@ -19,9 +19,10 @@ mode: once
 w32 003E8648 60000000
 
 name: Unlimited Resources
+score BLES01976 01.84: 75 1+ 0-
 author: Cyber
 mode: once
-w32 003FCFBC 60000000
+w32 003FCFBC 60000000 working-val=307F0004:1
 
 name: Memory Infinite Oxygen
 author: jgduff1

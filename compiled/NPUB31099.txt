@@ -12,9 +12,10 @@ mode: once
 w32 001A2024 30660000
 
 name: 99 Lives On Gain + Lose
+score NPUB31099 01.00: 75 1+ 0-
 author: dron_3
 mode: once
-w32 0012C33C 38A00063
+w32 0012C33C 38A00063 working-val=80A60000:1
 
 name: Infinite Health
 author: GuitarMan
