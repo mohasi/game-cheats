@@ -1,7 +1,8 @@
 # Sniper Elite III
 
 name: Infinite Ammo + Bottomless Clip
+score BLES01981 01.04: 50 1+ 1-
 author: flynhigh09
 mode: once
-w32 007890F4 60000000
-w32 00788ED8 60000000
+w32 007890F4 60000000 working-val=2F800000:1
+w32 00788ED8 60000000 working-val=FC000050:1
