@@ -1,6 +1,7 @@
 # Plants vs. Zombies
 
 name: Unlimited Balls
+score NPUA30059 01.01: 25 0+ 1-
 author: CMb14
 mode: once
 w32 001B7354 60000000

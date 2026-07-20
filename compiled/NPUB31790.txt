@@ -102,6 +102,7 @@ mode: once
 w32 00365EBC 90D700B8
 
 name: Memory Infinite Health
+score BLUS31584 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 32FD9870 42FE0000
