@@ -1,6 +1,7 @@
 # Naruto Shippuden: Ultimate Ninja Storm Revolution
 
 name: Infinite Substitution
+score BLES02014 01.03: 25 0+ 1-
 score NPUB31472 01.03: 50 1+ 1-
 author: tekman
 mode: once
