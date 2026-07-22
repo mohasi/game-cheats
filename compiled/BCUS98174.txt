@@ -11,9 +11,10 @@ w32 00E8BC80 923F0044
 w32 00E8BC84 4B93F2D0
 
 name: Infinite Everything (Ammo, Items, Skills, Parts)
+score BCUS98174 01.11: 50 1+ 1-
 author: Medo ported by Randy97Killa, Improved by illusion
 mode: once
-w32 0003495C 60000000
+w32 0003495C 60000000 working-val=7F7FD22E:1
 
 name: Max tools level
 author: illusion
@@ -22,9 +23,10 @@ w32 00082960 38000005
 w32 00082788 60000000
 
 name: Infinite Ammo + Bottomless Clip (No Reload)
+score BCUS98174 01.11: 50 1+ 1-
 author: Medo ported by Randy97Killa
 mode: once
-w32 006B1D94 60000000
+w32 006B1D94 60000000 working-val=B13C057C:1
 
 name: Infinite Flamethrower
 author: Medo ported by Randy97Killa
@@ -66,6 +68,7 @@ w32 002F78CC A60A5C9F
 w32 002F78D0 F7FA3EB7
 
 name: 60 FPS
+score BCUS98174 01.11: 25 0+ 1-
 author: PSXPlace
 mode: once
 w32 00039D08 38A00000
