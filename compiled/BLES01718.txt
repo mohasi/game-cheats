@@ -9,6 +9,7 @@ w32 001FE17C 7CF91814 working-val=82B70084:1
 
 name: Infinite Bullet Usage
 score BLUS31140 01.19: 50 1+ 1-
+score NPUB31055 01.19: 25 0+ 1-
 author: CodeUnique3
 mode: once
 w32 012276A8 0000001E working-val=00000000:1
