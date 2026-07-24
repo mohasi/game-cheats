@@ -16,6 +16,7 @@ w32 000C1868 9A1B0F2B
 w32 000C60D8 3C600100
 
 name: 1 Hit Kills v1
+score BLES01047 01.03: 25 0+ 1-
 author: cagao123
 mode: once
 w32 0140FD58 7F83F040
