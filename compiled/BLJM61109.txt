@@ -8,6 +8,7 @@ w32 00048618 7C651B78 working-val=C041009C:1
 w32 001FE17C 7CF91814 working-val=82B70084:1
 
 name: Infinite Bullet Usage
+score BLES01717 01.19: 25 0+ 1-
 score BLUS31140 01.19: 50 1+ 1-
 score NPUB31055 01.19: 25 0+ 1-
 author: CodeUnique3
