@@ -41,6 +41,7 @@ mode: once
 w16 023B6C8C 0007
 
 name: Memory Have All Items + Infinite Items
+score NPEB01882 01.01: 75 1+ 0-
 author: jgduff1
 mode: once
 w16 023B6D22 0001
