@@ -185,6 +185,7 @@ mode: once
 aob 408100843063FFFF2C030000907F08D4 408100843063FFFF2C03000090FF08D4
 
 name: Krauser Arm Always Red
+score NPUB30312 01.00: 25 0+ 1-
 author: cagao123, GuitarMan
 mode: once
 w32 001F3F3C 921F08D4
@@ -222,9 +223,10 @@ w32 0065517C 60000000
 w32 00655184 60000000
 
 name: Infinite Ammo
+score NPUB30312 01.00: 50 1+ 1-
 author: GuitarMan
 mode: once
-w32 0060CCE8 6084967F
+w32 0060CCE8 6084967F working-val=3084FFFF:1
 
 name: Mercenaries Time Freezes
 author: GuitarMan
@@ -244,6 +246,7 @@ mode: once
 w32 00356840 4E800020
 
 name: 1 Hit Kill
+score NPUB30312 01.00: 25 0+ 1-
 author: GuitarMan
 mode: once
 w32 00303A00 4E800020
