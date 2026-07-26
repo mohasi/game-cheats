@@ -1,10 +1,11 @@
 # LEGO Batman 2: DC Super Heroes
 
 name: 9,223,372,036,854,725,800 Money
+score NPUB30807 01.01: 75 1+ 0-
 author: eltyran84
 mode: once
-w32 34B7DEC8 7FFFFFFF
-w32 34B7DECC FFFFFFF8
+w32 34B7DEC8 7FFFFFFF working-val=00000000:1
+w32 34B7DECC FFFFFFF8 working-val=00000000:1
 
 name: 500,000 For Every Mission
 author: eltyran84
@@ -34,6 +35,7 @@ mode: once
 w32 001FB278 60000000
 
 name: AoB Max Studs On Gain
+score NPUB30807 01.01: 50 1+ 1-
 author: dron_3, solidsnake
 mode: once
 aob 4081000860A4000054C5063E2C050000418200203CA0 6000000060A4000054C5063E2C050000418200203CA0

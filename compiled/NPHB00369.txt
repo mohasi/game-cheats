@@ -45,6 +45,7 @@ mode: once
 w32 00D1A358 60000000
 
 name: 99 Lives On Gain + Lose
+score BLUS30612 01.00: 25 0+ 1-
 author: dron_3
 mode: once
 w32 00D433D0 60000000
