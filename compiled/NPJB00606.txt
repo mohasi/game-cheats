@@ -1,11 +1,11 @@
 # Naruto Shippuden: Ultimate Ninja Storm Revolution
 
 name: Infinite Substitution
-score BLES02014 01.03: 25 0+ 1-
+score BLES02014 01.03: 50 1+ 1-
 score NPUB31472 01.03: 50 1+ 1-
 author: tekman
 mode: once
-w32 00AC5828 60000000 working-val=FBE10078:1
+w32 00AC5828 60000000 working-val=FBE10078:2
 
 name: Max And Infinite Ry�s On Gain + Buy + Sell
 author: tekman

@@ -6,6 +6,7 @@ mode: once
 w32 00C0FBC4 60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+score BLUS30531 01.01: 25 0+ 1-
 author: Medo
 mode: once
 aob 90830760609E00004082004480BF0000 60000000609E00004082004480BF0000
