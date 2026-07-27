@@ -89,6 +89,7 @@ mode: once
 w32 0066B728 3C00447A
 
 name: Rapid Fire
+score BLUS30127 01.08: 25 0+ 1-
 author: xtatu
 mode: once
 w32 0066C4B4 3D2042C8
