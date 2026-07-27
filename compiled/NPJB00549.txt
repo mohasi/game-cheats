@@ -25,6 +25,7 @@ mode: once
 w32 003FCFBC 60000000 working-val=307F0004:1
 
 name: Memory Infinite Oxygen
+score NPUB31419 01.84: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 35696E38 012C0101
