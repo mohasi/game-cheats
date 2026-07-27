@@ -2,6 +2,7 @@
 
 name: Unlimited Respawn
 score NPEA00324 01.33: 25 0+ 1-
+score NPUA80662 01.33: 25 0+ 1-
 author: dron_3
 mode: once
 w32 0006E340 39600000

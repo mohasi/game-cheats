@@ -7,10 +7,11 @@ w32 010EEC2C 000003E8
 w32 010EEC28 000003E8
 
 name: Infinite Bullet Usage
+score NPUB31055 01.19: 75 1+ 0-
 author: CodeUnique3
 mode: once
-w32 012276A8 0000001E
-w32 012276B4 0000001E
+w32 012276A8 0000001E working-val=00000000:1
+w32 012276B4 0000001E working-val=00000000:1
 
 name: Max Total Bullet 999
 author: CodeUnique3
