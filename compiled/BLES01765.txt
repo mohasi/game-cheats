@@ -7,9 +7,10 @@ w32 00B05208 60000000
 w32 00B05258 4000FFB4
 
 name: Max Souls
+score BLES01765 01.09: 50 1+ 1-
 author: Medo, Skiller
 mode: once
-w32 00B260F4 3D403B9B
+w32 00B260F4 3D403B9B working-val=60000000:1
 
 name: Max Humanity on Use + Gain
 author: games24.blog.fc2.com/blog-entry-150.html
