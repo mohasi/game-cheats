@@ -12,9 +12,10 @@ mode: once
 w32 0003EF18 60000000
 
 name: Infinite Mid-Air Jumps
+score BCES00791 01.01: 75 1+ 0-
 author: Wulf2k
 mode: once
-w32 00081384 60000000
+w32 00081384 60000000 working-val=800B0000:1
 
 name: Infinite Magic
 author: Wulf2k
@@ -46,9 +47,10 @@ w32 0008B46C 901F0000
 w32 0008B4C8 901D0000
 
 name: ASM Max + Infinite Magic
+score BCES00791 01.01: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 00075690 60000000
+w32 00075690 60000000 working-val=4BFF6DA1:1
 
 name: ASM Max + Infinite Orbs On Gain
 author: jgduff1
@@ -108,9 +110,10 @@ mode: once
 w32 0003E750 60000000
 
 name: Infinite Mid-Air Jumps
+score BCES00791 01.01: 75 1+ 0-
 author: Wulf2k
 mode: once
-w32 00080B14 60000000
+w32 00080B14 60000000 working-val=64000080:1
 
 name: Infinite Magic
 author: Wulf2k
@@ -150,9 +153,10 @@ mode: once
 w32 0003EE74 60000000
 
 name: Infinite Mid-Air Jumps
+score BCES00791 01.01: 75 1+ 0-
 author: Wulf2k
 mode: once
-w32 000812DC 60000000
+w32 000812DC 60000000 working-val=81230014:1
 
 name: Infinite Magic
 author: Wulf2k
@@ -351,11 +355,12 @@ w32 000E3714 60000000
 w32 000E6804 60000000
 
 name: ASM Max + Infinite Magic
+score BCES00791 01.01: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0008CD50 60000000
-w32 0008CD80 60000000
-w32 0008CD88 60000000
+w32 0008CD50 60000000 working-val=419E004C:1
+w32 0008CD80 60000000 working-val=808296FC:1
+w32 0008CD88 60000000 working-val=60000000:1
 
 name: ASM Max + Infinite Orbs
 author: jgduff1
