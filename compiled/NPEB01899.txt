@@ -52,6 +52,7 @@ mode: once
 w32 00265F2C 60000000
 
 name: Memory Infinite Health
+score NPUB31419 01.86: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 32FCE478 41A00000
