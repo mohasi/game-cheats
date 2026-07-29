@@ -156,6 +156,7 @@ mode: once
 w32 00F9520C 39600000
 
 name: Unlimited Ammo With Bigger Clip
+score BLJM61019 02.24: 25 0+ 1-
 author: dron_3
 mode: once
 w32 00F2C910 3BA07FFF
