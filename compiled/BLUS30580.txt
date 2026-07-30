@@ -12,11 +12,13 @@ mode: once
 w32 3401BEFC 0000251D
 
 name: ASM Lot Of Cash On 1 Race
+score NPUB30539 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 000434B8 9043257C
 
 name: Memory Lot Of XP On 1 Race
+score NPUB30539 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 01951540 0000034F
+w32 01951540 0000034F working-val=30001D10:1
