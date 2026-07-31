@@ -1,6 +1,7 @@
 # The Tomb Raider Trilogy
 
 name: Infinite Health
+score BLES01195 01.01: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00199594 3D20461C
@@ -41,6 +42,7 @@ w32 0014CA40 3BC00000
 w32 0014CA68 93CB0000
 
 name: Infinite Health
+score BLES01195 01.01: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00229E70 3C00461C
@@ -111,6 +113,7 @@ w32 00088F6C 48359568
 w32 00286324 4815C1E5
 
 name: Infinite Health
+score BLES01195 01.01: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 004A0444 60000000
