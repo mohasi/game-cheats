@@ -1,6 +1,7 @@
 # MotorStorm: Apocalypse
 
 name: Infinite Boost
+score BCES00484 01.06: 25 0+ 1-
 author: MrFire
 mode: once
 w32 000682C0 EC631828
