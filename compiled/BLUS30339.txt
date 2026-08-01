@@ -66,11 +66,12 @@ mode: once
 w32 0015B778 907B0488
 
 name: Max Experience after pause (use after Besieged Village)
+score BLUS30339 01.03: 75 1+ 0-
 author: dron_3
 mode: once
-w32 0015FDD8 3C607FFF
-w32 0015FDDC 6063FFFF
-w32 0015FDE0 9064002C
+w32 0015FDD8 3C607FFF working-val=38600000:1
+w32 0015FDDC 6063FFFF working-val=2C050002:1
+w32 0015FDE0 9064002C working-val=40820008:1
 
 name: Infinite Daggers (use after Besieged Village)
 author: dron_3
@@ -155,6 +156,7 @@ mode: once
 aob 41810008480000183C80461CFC40089060844000 60000000600000003C8042C6FC40089060844000
 
 name: Invincibility
+score BLUS30339 01.03: 25 0+ 1-
 author: GuitarMan
 mode: once
 w32 00D598E0 3E000142
