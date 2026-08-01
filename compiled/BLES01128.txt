@@ -84,6 +84,7 @@ w32 00EFE338 00000000
 
 name: 1,000 Hit Kill Ammo
 score BLES01128 01.02: 25 0+ 1-
+score NPUB30702 01.08: 25 0+ 1-
 author: xtatu
 mode: once
 w32 0066B728 3C00447A
