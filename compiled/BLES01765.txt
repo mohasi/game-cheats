@@ -35,6 +35,7 @@ w32 015D9000 48407D32
 w32 00407D2C 495D8F9E
 
 name: Invincibility
+score BLES01765 01.09: 25 0+ 1-
 author: bungholio
 mode: once
 w32 015D8F1C 3D20019E
