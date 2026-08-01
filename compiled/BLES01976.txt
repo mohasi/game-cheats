@@ -20,6 +20,7 @@ w32 003E8648 60000000
 
 name: Unlimited Resources
 score BLES01976 01.84: 75 1+ 0-
+score NPUB31419 01.84: 25 0+ 1-
 author: Cyber
 mode: once
 w32 003FCFBC 60000000 working-val=307F0004:1
@@ -52,6 +53,7 @@ mode: once
 w32 00265F2C 60000000
 
 name: Memory Infinite Health
+score NPUB31419 01.84: 25 0+ 1-
 score NPUB31419 01.86: 25 0+ 1-
 author: jgduff1
 mode: once
