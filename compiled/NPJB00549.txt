@@ -8,10 +8,11 @@ w32 0047F03C 60000000
 w32 00447D6C 60000000
 
 name: Infinite Food
+score NPUB31419 01.84: 75 1+ 0-
 author: Cyber
 mode: once
-w32 003D4004 60000000
-w32 003D3E4C 60000000
+w32 003D4004 60000000 working-val=38C00007:1
+w32 003D3E4C 60000000 working-val=909E0018:1
 
 name: Infinite Arrows
 author: Cyber
@@ -61,7 +62,7 @@ w32 32FCE478 41A00000
 w32 35528EC8 41A00000
 
 name: ASM Infinite Health
-score NPUB31419 01.84: 25 0+ 1-
+score NPUB31419 01.84: 17 0+ 2-
 author: jgduff1
 mode: once
 w32 004FD654 D1990008
