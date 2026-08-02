@@ -11,9 +11,10 @@ mode: once
 w32 00C4F950 4182029C
 
 name: Max And Infinite Health
+score BLUS31026 01.00: 75 1+ 0-
 author: FBML
 mode: once
-w32 00C2CC3C FC200890
+w32 00C2CC3C FC200890 working-val=FC20F890:1
 
 name: Max And Infinite Stamina
 author: FBML
