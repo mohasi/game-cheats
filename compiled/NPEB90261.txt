@@ -1,6 +1,7 @@
 # Castlevania: Lords of Shadow
 
 name: Invincible
+score BLUS30339 01.03: 25 0+ 1-
 author: cagao123
 mode: once
 w32 0140FC70 3E00FFFF
@@ -27,6 +28,7 @@ w32 0140FD68 481ED6D6
 w32 001ED6D0 4940FD5A
 
 name: 1 Hit Kills v2
+score BLUS30339 01.03: 25 0+ 1-
 author: cagao123
 mode: once
 w32 0140FD58 7F83F040
