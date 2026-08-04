@@ -19,9 +19,10 @@ mode: once
 w32 00642614 39290000
 
 name: 10000 Fragments On Gain
+score BLES01780 01.03: 75 1+ 0-
 author: Hiei-YYH
 mode: once
-w32 00612C8C 38002710
+w32 00612C8C 38002710 working-val=A0090000:1
 
 name: Bullet Time Mode (R3 = On, L3 = Off)
 author: Hiei-YYH
