@@ -288,6 +288,7 @@ w32 00DA76D4 4818B092
 w32 0018B08C 48DA76B2
 
 name: 1 Hit Kill
+score BLES01644 01.01: 25 0+ 1-
 score BLUS30999 01.01: 75 1+ 0-
 author: GuitarMan
 mode: once
