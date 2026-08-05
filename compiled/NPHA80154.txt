@@ -267,6 +267,7 @@ w32 00128FC8 38600001
 w32 00162DE4 38600001
 
 name: All 6 Karmic Boosts Are Active At The Same Time
+score BCUS98125 01.04: 25 0+ 1-
 author: bungholio
 mode: once
 w32 00125000 38600001
