@@ -46,12 +46,13 @@ mode: once
 w32 301E8050 0001869F
 
 name: Invincible For Most Enemies
+score BLES00932 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 0026E74C 3D400000
-w32 0026E750 614A0063
-w32 002BF448 3D400000
-w32 002BF454 614A0063
+w32 0026E74C 3D400000 working-val=3D400001:1
+w32 0026E750 614A0063 working-val=614A869F:1
+w32 002BF448 3D400000 working-val=3D400001:1
+w32 002BF454 614A0063 working-val=614A869F:1
 
 name: Infinite HP + MP + Max Stamina + Souls
 author: Medo
