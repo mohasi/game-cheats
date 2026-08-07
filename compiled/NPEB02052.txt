@@ -96,9 +96,10 @@ mode: once
 w32 00317020 48000008
 
 name: Bonds Max When Increased
+score NPUB31505 01.00: 75 1+ 0-
 author: bungholio
 mode: once
-w32 003193C0 38C003E7
+w32 003193C0 38C003E7 working-val=4D990020:1
 
 name: Triple Attack Musou Bar Full After 1 Kill
 author: bungholio
