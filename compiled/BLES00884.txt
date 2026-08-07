@@ -7,6 +7,7 @@ mode: once
 w32 45BE0EEC 0000C350 working-val=3FF0BDF0:1
 
 name: ASM Lot Of Money On Gain
+score BLES00884 01.04: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 0074F1FC 9118002C
