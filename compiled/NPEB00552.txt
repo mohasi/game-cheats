@@ -102,11 +102,13 @@ mode: once
 w32 00661370 60000000
 
 name: Two Thrones Unlock FPS (PSXPlace)
+score BLES01092 01.00: 75 1+ 0-
 author: Joey
 mode: once
-w32 0009381C 60000000
+w32 0009381C 60000000 working-val=792B0020:1
 
 name: Warrior Within Unlock FPS (PSXPlace)
+score BLES01092 01.00: 50 1+ 1-
 author: Joey
 mode: once
-w32 00824E10 60000000
+w32 00824E10 60000000 working-val=3800FFFF:1
