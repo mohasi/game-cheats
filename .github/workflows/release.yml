@@ -1,0 +1,51 @@
+# publishes compiled/ as a single zip attached to a dated release.
+#
+# runs weekly so there is always a recent download that does not require cloning the repo.
+# the tag is the date of the run, so re-running on the same day replaces that day's release
+# rather than piling up duplicates.
+
+name: release
+
+on:
+  schedule:
+    - cron: '0 3 * * 6'   # saturdays 03:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history: the notes diff compiled/ against the previous release's tag
+      - name: pick the date
+        run: echo "releaseDate=$(date -u +%Y-%m-%d)" >> "$GITHUB_ENV"
+      - name: zip compiled
+        run: zip -r -q "game-cheats-$releaseDate.zip" compiled
+      - name: count games changed since the previous release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # one file in compiled/ is one game, so counting changed files counts changed games.
+          # skip today's own tag, which a re-run would otherwise compare against itself.
+          previousTag=$(gh release list --limit 20 --json tagName --jq ".[].tagName | select(. != \"$releaseDate\")" | head -1)
+          if [ -z "$previousTag" ]; then
+            echo "notes=First release." >> "$GITHUB_ENV"
+            exit 0
+          fi
+          updated=$(git diff --diff-filter=AM --name-only "$previousTag" HEAD -- compiled | wc -l)
+          echo "notes=$updated games updated since $previousTag." >> "$GITHUB_ENV"
+      - name: publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # a re-run on the same day reuses the tag, so clear the old release first
+          gh release delete "$releaseDate" --yes --cleanup-tag || true
+          gh release create "$releaseDate" "game-cheats-$releaseDate.zip" --title "$releaseDate" --notes "$notes"
