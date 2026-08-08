@@ -28,7 +28,7 @@ jobs:
       - name: pick the date
         run: echo "releaseDate=$(date -u +%Y-%m-%d)" >> "$GITHUB_ENV"
       - name: zip compiled
-        run: zip -r -q "game-cheats-$releaseDate.zip" compiled
+        run: zip -j -q "game-cheats-$releaseDate.zip" compiled/*   # -j: files sit at the root of the zip, no compiled/ folder
       - name: count games changed since the previous release
         env:
           GH_TOKEN: ${{ github.token }}
