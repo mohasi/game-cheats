@@ -97,6 +97,7 @@ w32 00A4B744 C0230014
 w32 00A4B750 D0230010
 
 name: Drinking Game Freeze Timer
+score BLUS31176 01.04: 25 0+ 1-
 author: dron_3
 mode: once
 w32 009182FC 60000000

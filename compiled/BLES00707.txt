@@ -1,11 +1,12 @@
 # WET
 
 name: Enemies Do Not Shoot Or Throw Grenades
+score BLES00707 01.00: 75 1+ 0-
 author: xtatu
 mode: once
-w32 012FDB6C 42C80000
-w32 012FDB7C 42C80000
-w32 012FDA80 42C80000
+w32 012FDB6C 42C80000 working-val=3E99999A:1
+w32 012FDB7C 42C80000 working-val=3E99999A:1
+w32 012FDA80 42C80000 working-val=3E99999A:1
 
 name: No Move Enemy Hit
 author: xtatu

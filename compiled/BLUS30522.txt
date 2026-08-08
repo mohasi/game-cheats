@@ -87,9 +87,10 @@ mode: once
 w32 01991224 0098967F
 
 name: Auto Fatality
+score BLES01132 01.05: 75 1+ 0-
 author: opticky
 mode: once
-w32 01983388 0000000A
+w32 01983388 0000000A working-val=00000004:1
 
 name: Infinite Health
 author: Hiei-YYH
