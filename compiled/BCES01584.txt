@@ -23,15 +23,16 @@ mode: once
 aob 880B2DB02F800000419E01B8 880B2DB038000001980B2DB0
 
 name: Infinite Everything (Ammo, Items, Skills, Parts)
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
-w32 0003C9E0 60000000
+w32 0003C9E0 60000000 working-val=7F84E378:1
 
 name: Infinite Ammo + Bottomless Clip (No Reload)
-score BCES01584 01.11: 25 0+ 1-
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
-w32 00686348 60000000
+w32 00686348 60000000 working-val=60000000:1
 
 name: No Damage
 author: dron_3
@@ -43,7 +44,7 @@ w32 004A07AC 38A00000
 w32 004A07B0 3AE00000
 
 name: Max Money
-score BCES01584 01.11: 75 1+ 0-
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
 w32 002E50F4 3CA03B9A working-val=D0010094:1
@@ -51,24 +52,27 @@ w32 002E50F8 60A5C9FF working-val=C00100E0:1
 w32 002E5100 90A90160 working-val=C00100E8:1
 
 name: Infinite Flamethrower
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
-w32 0068A1D4 60000000
-w32 006877E0 60000000
+w32 0068A1D4 60000000 working-val=FAE104E0:1
+w32 006877E0 60000000 working-val=419E0028:1
 
 name: Infinite Health
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
-w32 00E59D4C 3A20008C
-w32 00E59D50 923F0030
-w32 00E59D54 923F0038
-w32 00E59D58 923F0044
-w32 007A6EF4 48E59D4F
+w32 00E59D4C 3A20008C working-val=913D0000:1
+w32 00E59D50 923F0030 working-val=79630020:1
+w32 00E59D54 923F0038 working-val=EB810080:1
+w32 00E59D58 923F0044 working-val=EBA10088:1
+w32 007A6EF4 48E59D4F working-val=60000000:1
 
 name: Infinite Oxygen
+score BCES01584 01.11: 50 1+ 1-
 author: Medo
 mode: once
-w32 00531BE4 60000000
+w32 00531BE4 60000000 working-val=2F830000:1
 
 name: Enemies Ignore Everything
 author: bungholio
