@@ -11,9 +11,10 @@ mode: once
 w32 01483F10 38000063
 
 name: Infinite Health
+score BLUS30855 01.06: 50 1+ 1-
 author: jgduff1
 mode: once
-w32 009A5BE8 905F0058
+w32 009A5BE8 905F0058 working-val=41820018:1
 
 name: AoB Max Money On Gain
 author: ciao1102
