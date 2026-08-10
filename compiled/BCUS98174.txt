@@ -11,7 +11,7 @@ w32 00E8BC80 923F0044
 w32 00E8BC84 4B93F2D0
 
 name: Infinite Everything (Ammo, Items, Skills, Parts)
-score BCUS98174 01.11: 50 1+ 1-
+score BCUS98174 01.11: 38 1+ 2-
 author: Medo ported by Randy97Killa, Improved by illusion
 mode: once
 w32 0003495C 60000000 working-val=7F7FD22E:1
@@ -23,10 +23,10 @@ w32 00082960 38000005
 w32 00082788 60000000
 
 name: Infinite Ammo + Bottomless Clip (No Reload)
-score BCUS98174 01.11: 50 1+ 1-
+score BCUS98174 01.11: 50 2+ 2-
 author: Medo ported by Randy97Killa
 mode: once
-w32 006B1D94 60000000 working-val=B13C057C:1
+w32 006B1D94 60000000 working-val=B13C057C:2
 
 name: Infinite Flamethrower
 author: Medo ported by Randy97Killa
