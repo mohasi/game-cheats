@@ -55,6 +55,7 @@ mode: once
 aob FC22D86ED0230050 FC22D86E60000000
 
 name: AoB Infinite Ammo + Bottomless Clip
+score BLUS30729 01.01: 75 1+ 0-
 score NPEB00915 01.02: 75 1+ 0-
 score NPUB30745 01.02: 75 1+ 0-
 author: Medo
