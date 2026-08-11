@@ -19,6 +19,7 @@ mode: once
 w32 483A1348 00000064 working-val=BB9AFFF7:1
 
 name: ASM Unknown Code 1
+score BLES00884 01.04: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 00BB27D0 60000064
+w32 00BB27D0 60000064 working-val=60000001:1
