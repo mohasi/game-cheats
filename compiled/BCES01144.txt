@@ -382,6 +382,7 @@ w32 0018946C 486F7312
 w32 00318618 486F737E
 
 name: Hold L2 + X To Fly
+score BCUS98125 01.04: 25 0+ 1-
 author: bungholio
 mode: once
 w32 00466A48 486F738A
