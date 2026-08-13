@@ -185,19 +185,22 @@ w32 0018CD2C 60000000
 w32 0018CD84 4186006C
 
 name: Infinite Health
+score BLES01644 01.01: 75 1+ 0-
 author: dron_3
 mode: once
-w32 001969C0 48000008
+w32 001969C0 48000008 working-val=41860008:1
 
 name: Infinite Void Power
+score BLES01644 01.01: 75 1+ 0-
 author: dron_3
 mode: once
-w32 010E3D74 42C80000
+w32 010E3D74 42C80000 working-val=00000000:1
 
 name: Infinite Chaos Power
+score BLES01644 01.01: 75 1+ 0-
 author: dron_3
 mode: once
-w32 010E3DA0 42C80000
+w32 010E3DA0 42C80000 working-val=00000000:1
 
 name: Infinite Shadow Dagger Power
 author: dron_3
