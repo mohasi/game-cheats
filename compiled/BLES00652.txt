@@ -1,6 +1,7 @@
 # Midnight Club: Los Angeles: Complete Edition
 
 name: Freeze Race Timer
+score NPUB30471 01.00: 25 0+ 1-
 author: vosman
 mode: once
 w32 00226960 39600000
