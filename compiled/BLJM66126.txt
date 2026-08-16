@@ -35,6 +35,7 @@ mode: once
 w32 003B439C 386003E7
 
 name: AoB Infinite Ammo
+score NPUB31301 01.16: 50 1+ 1-
 author: dron_3
 mode: once
 aob 806700047C632814 80670004386003E7
@@ -73,6 +74,7 @@ mode: once
 w32 003A05C4 60000000
 
 name: Infinite Ammo??
+score NPUB31301 01.16: 25 0+ 1-
 author: ZombiKillah
 mode: once
 w32 003AC05C 38C00000
@@ -122,6 +124,7 @@ w32 003A05DC C0230000
 w32 003A05E4 4800003C
 
 name: ZombiKillah Mod v2.0
+score NPUB31301 01.16: 25 0+ 1-
 author: ZombiKillah
 mode: once
 w32 003AC05C 38C00000
