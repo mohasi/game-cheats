@@ -1,6 +1,7 @@
 # Initial D: Extreme Stage
 
 name: 9,999,999 Points
+score BLJM60055 01.01: 75 1+ 0-
 author: CodeUnique3
 mode: once
-w32 32EEB2C0 0098967F
+w32 32EEB2C0 0098967F working-val=24FFFFFF:1
