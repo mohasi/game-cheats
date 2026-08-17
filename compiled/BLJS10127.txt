@@ -23,6 +23,7 @@ mode: once
 w32 00421E88 EC000032
 
 name: 999,999,999 Points After Buying Something
+score BLUS30613 01.02: 25 0+ 1-
 author: FBML
 mode: once
 w32 00571BA0 3C803B9A
