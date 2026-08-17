@@ -22,6 +22,7 @@ mode: once
 w32 0068D8D8 388003E7
 
 name: Ammo Does Not Decrease No Reload
+score BLUS31420 01.07: 25 0+ 1-
 author: ciao1102
 mode: once
 w32 007895C8 7CA42B78
