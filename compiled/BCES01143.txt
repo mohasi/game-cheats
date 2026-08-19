@@ -203,6 +203,7 @@ mode: once
 w32 0014AF0C C1A91F40
 
 name: Zooming For A Sniper Shot Gives You Max Electricity
+score BCUS98125 01.04: 25 0+ 1-
 author: bungholio
 mode: once
 w32 0014BF80 C0031F40

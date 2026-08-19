@@ -14,11 +14,12 @@ w32 00088DF4 38C0270F
 w32 00088DF8 B0C50058
 
 name: Infinite Health
+score NPUA80358 01.08: 75 1+ 0-
 author: dron_3
 mode: once
-w32 003C03E4 C05F0060
-w32 003C03EC D05F005C
-w32 003C03F0 EC421024
+w32 003C03E4 C05F0060 working-val=C05F005C:1
+w32 003C03EC D05F005C working-val=C03F0060:1
+w32 003C03F0 EC421024 working-val=EC420824:1
 
 name: Infinite Stamina
 author: dron_3
@@ -58,11 +59,13 @@ mode: once
 w32 0007550C 38A07F7F
 
 name: Infinite HP
+score NPUA80358 01.08: 25 0+ 1-
 author: vosman
 mode: once
 w32 00396DA4 C05F0060
 
 name: Infinite Grenades
+score NPUA80358 01.08: 25 0+ 1-
 author: vosman
 mode: once
 w32 0007502C 38C07F7F
