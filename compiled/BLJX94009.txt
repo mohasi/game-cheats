@@ -1,10 +1,11 @@
 # Metal Gear Rising: Revengeance
 
 name: Infinite BP (99,999,999)
+score BLUS31045 01.04: 75 1+ 0-
 author: Medo
 mode: once
-w32 006BDA38 3C6005F5
-w32 006BDA3C 6063E0FF
+w32 006BDA38 3C6005F5 working-val=80440004:1
+w32 006BDA3C 6063E0FF working-val=7CA903A6:1
 
 name: Max BP on Gain
 author: CodeUnique3
@@ -72,6 +73,7 @@ mode: once
 w32 004A51B4 38800000
 
 name: AoB Infinite BP (99,999,999)
+score BLUS31045 01.04: 75 1+ 0-
 author: Medo
 mode: once
 aob 907F00F8807E00EC907F00FC 3C6005F56063E0FF907F00FC
