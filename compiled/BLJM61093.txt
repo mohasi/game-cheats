@@ -1638,6 +1638,7 @@ mode: once
 w8 0205A83D 63
 
 name: Memory Tiida Base Avoidance
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A83E 63
