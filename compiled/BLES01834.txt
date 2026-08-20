@@ -101,9 +101,10 @@ mode: once
 w32 00628CAC 39200064
 
 name: Infinite Skill Points
+score BLES01780 01.03: 75 1+ 0-
 author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
-w32 007395DC 60000000
+w32 007395DC 60000000 working-val=D0210070:1
 
 name: AoB Infinite Skill Points
 author: games24.blog.fc2.com/blog-entry-169.html
