@@ -66,6 +66,7 @@ mode: once
 w32 00611504 7C1D0378
 
 name: Infinite Ammo In Clip
+score BLES01780 01.03: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00642614 39200064
@@ -117,6 +118,7 @@ mode: once
 w32 00611504 7C1D0378
 
 name: No Reload
+score BLES01780 01.03: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-169.html
 mode: once
 w32 00642614 39200064
