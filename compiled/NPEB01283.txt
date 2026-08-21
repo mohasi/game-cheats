@@ -76,10 +76,11 @@ mode: once
 w32 00F31C98 38E00063
 
 name: Infinite Health (Disable Invincibility)
+score NPUB31154 01.27: 75 1+ 0-
 author: dron_3
 mode: once
-w32 010C89B0 3C605000
-w32 010C89B4 907F00C0
+w32 010C89B0 3C605000 working-val=607E0000:1
+w32 010C89B4 907F00C0 working-val=57C313BA:1
 
 name: Invincibility (Disable Infinite Health)
 author: dron_3
