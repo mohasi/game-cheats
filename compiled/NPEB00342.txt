@@ -223,7 +223,7 @@ w32 0065517C 60000000
 w32 00655184 60000000
 
 name: Infinite Ammo
-score NPUB30312 01.00: 50 1+ 1-
+score NPUB30312 01.00: 38 1+ 2-
 author: GuitarMan
 mode: once
 w32 0060CCE8 6084967F working-val=3084FFFF:1
