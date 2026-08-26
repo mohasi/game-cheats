@@ -16,10 +16,11 @@ mode: once
 w32 110D2034 000000C8
 
 name: ASM Gretchen Infinite Health
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 001E660C 7D204850
-w32 001E6614 60000000
+w32 001E660C 7D204850 working-val=7D244850:1
+w32 001E6614 60000000 working-val=91230008:1
 
 name: Memory Lot Of Orbs When Gain
 author: jgduff1
@@ -48,9 +49,10 @@ mode: once
 w32 1103AD20 00000064
 
 name: Instant Max Berserker
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 001E5E84 91230014
+w32 001E5E84 91230014 working-val=90830014:1
 
 name: Infinite Berserker
 author: jgduff1
