@@ -39,9 +39,10 @@ mode: once
 w32 1589C6A4 00000000
 
 name: ASM No Waiting Time For Magic
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 00195090 EC0DF828
+w32 00195090 EC0DF828 working-val=EC00F828:1
 
 name: Memory Instant Max + Infinite Berserker
 author: jgduff1
