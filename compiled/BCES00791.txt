@@ -86,11 +86,13 @@ mode: once
 w32 0053AB08 447A0000
 
 name: Max Red Orbs
+score BCES00791 01.01: 25 0+ 1-
 author: Wulf2k
 mode: once
 w32 0053AB0C 7F7F7F7F
 
 name: No Damage Received
+score BCES00791 01.01: 25 0+ 1-
 author: Wulf2k
 mode: once
 w32 00539C04 00000000
@@ -240,6 +242,7 @@ mode: once
 w32 00074DCC 60000000
 
 name: ASM Max + Infinite Orbs On Gain
+score BCES00791 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00076B78 904901D0
@@ -294,6 +297,7 @@ w32 0008A86C EC06082A
 w32 0008A8A0 60000000
 
 name: Infinite Orbs
+score BCES00791 01.01: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 307E2CFC 000F423F
