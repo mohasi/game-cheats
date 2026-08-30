@@ -1,10 +1,11 @@
 # Batman: Arkham Asylum: Game of the Year Edition
 
 name: Infinite Health
+score NPUB30920 01.00: 50 1+ 1-
 author: dron_3
 mode: once
-w32 00731E88 38000080
-w32 00731E8C 900302A4
+w32 00731E88 38000080 working-val=913F0004:1
+w32 00731E8C 900302A4 working-val=2F800000:1
 
 name: AoB Infinite Health
 author: dron_3
