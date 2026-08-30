@@ -18,10 +18,11 @@ mode: once
 w32 00115F1C 60000000
 
 name: Infinite Grenade
+score BLES00357 01.07: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0011955C 39750000
-w32 00119570 917D000C
+w32 0011955C 39750000 working-val=935F0010:1
+w32 00119570 917D000C working-val=2C030002:1
 
 name: HP Max
 author: CodeFreak/PS3UserCheat
@@ -30,6 +31,7 @@ w32 00E5F384 000000FF
 w32 00E5F388 000000FF
 
 name: All Ammo
+score BLES00357 01.07: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 00FB1F7C 000003E7
