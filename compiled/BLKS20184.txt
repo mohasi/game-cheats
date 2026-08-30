@@ -57,6 +57,7 @@ w32 0017DB58 38802710
 w32 0017DB7C 90890000
 
 name: 10 Hits = 1000 Hits
+score BLES00713 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00EFAF20 A3DD0004
