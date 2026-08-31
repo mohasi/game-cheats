@@ -67,10 +67,11 @@ w32 30BEA6AC 0000003C
 w32 31ACF2D4 0000003C
 
 name: ASM Infinite Ammo
+score BLUS30528 01.01: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0038DC80 60000000
-w32 004DE494 7C003850
+w32 0038DC80 60000000 working-val=419EFBC0:1
+w32 004DE494 7C003850 working-val=7C9E0040:1
 
 name: Memory No Reload + Infinite Grenade
 author: jgduff1
