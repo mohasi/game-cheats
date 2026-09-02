@@ -16,7 +16,7 @@ mode: once
 w32 110D2034 000000C8
 
 name: ASM Gretchen Infinite Health
-score BLES01001 01.00: 75 1+ 0-
+score BLES01001 01.00: 50 1+ 1-
 author: jgduff1
 mode: once
 w32 001E660C 7D204850 working-val=7D244850:1
@@ -28,6 +28,7 @@ mode: once
 w32 1589D058 00000647
 
 name: ASM Lot Of Orbs When Gain
+score BLES01001 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 001E6B84 7F822214
