@@ -35,9 +35,10 @@ w32 001E6B84 7F822214
 w32 001E6B88 915D0008
 
 name: Memory No Waiting Time For Magic
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 1589C6A4 00000000
+w32 1589C6A4 00000000 working-val=00000000:1
 
 name: ASM No Waiting Time For Magic
 score BLES01001 01.00: 75 1+ 0-
