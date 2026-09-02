@@ -86,10 +86,10 @@ mode: once
 w32 0053AB08 447A0000
 
 name: Max Red Orbs
-score BCES00791 01.01: 25 0+ 1-
+score BCES00791 01.01: 50 1+ 1-
 author: Wulf2k
 mode: once
-w32 0053AB0C 7F7F7F7F
+w32 0053AB0C 7F7F7F7F working-val=76C55C1F:1
 
 name: No Damage Received
 score BCES00791 01.01: 25 0+ 1-
@@ -196,9 +196,10 @@ mode: once
 w32 000755EC 60000000
 
 name: ASM Max + Infinite Orbs On Gain
+score BCES00791 01.01: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 00077324 904901D0
+w32 00077324 904901D0 working-val=FC00F890:1
 
 name: ASM Max + Infinite Lames Of Chaos
 author: jgduff1
