@@ -19,7 +19,7 @@ mode: once
 w32 00642614 39290000
 
 name: 10000 Fragments On Gain
-score BLES01780 01.03: 83 2+ 0-
+score BLES01780 01.03: 62 2+ 1-
 author: Hiei-YYH
 mode: once
 w32 00612C8C 38002710 working-val=A0090000:2
