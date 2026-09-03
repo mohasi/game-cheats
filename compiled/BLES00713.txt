@@ -13,10 +13,11 @@ mode: once
 w32 3086EE44 4F000000
 
 name: Max Magic
+score BLUS30405 01.04: 75 1+ 0-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 30884C74 447A0000
-w32 30884C78 447A0000
+w32 30884C74 447A0000 working-val=2AFB36F8:1
+w32 30884C78 447A0000 working-val=2AFB36F8:1
 
 name: Max Souls While Absorbing
 author: CodeFreak/PS3UserCheat
