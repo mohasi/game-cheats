@@ -28,11 +28,11 @@ mode: once
 w32 1589D058 00000647
 
 name: ASM Lot Of Orbs When Gain
-score BLES01001 01.00: 25 0+ 1-
+score BLES01001 01.00: 50 1+ 1-
 author: jgduff1
 mode: once
-w32 001E6B84 7F822214
-w32 001E6B88 915D0008
+w32 001E6B84 7F822214 working-val=7F9C2214:1
+w32 001E6B88 915D0008 working-val=939D0008:1
 
 name: Memory No Waiting Time For Magic
 score BLES01001 01.00: 75 1+ 0-
