@@ -1,6 +1,7 @@
 # Call of Duty 4: Modern Warfare
 
 name: HP Max (Will be red)
+score NPUB30588 01.40: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 107C1124 00007FFF
