@@ -1,9 +1,10 @@
 # Splatterhouse
 
 name: Infinite Health
+score BLES01120 01.00: 75 1+ 0-
 author: DANNY G
 mode: once
-w32 00018304 60000000
+w32 00018304 60000000 working-val=60000000:1
 
 name: AoB Infinite Health
 author: DANNY G
