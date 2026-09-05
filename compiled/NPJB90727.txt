@@ -157,9 +157,10 @@ w32 00E72B60 48571AA2
 w32 00571A9C 48E72B42
 
 name: 4x Movement Speed Modifier
+score BLES02035 01.03: 75 1+ 0-
 author: cheatdb
 mode: once
-w32 000809E4 40800000
+w32 000809E4 40800000 working-val=3F800000:1
 
 name: Fill In For Various Codes, This Has High Damage And Attack Speed
 author: cheatdb
