@@ -1638,12 +1638,13 @@ mode: once
 w8 0205A83D 63
 
 name: Memory Tiida Base Avoidance
-score BLES01880 01.00: 25 0+ 1-
+score BLES01880 01.00: 17 0+ 2-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A83E 63
 
 name: Memory Tiida Base Hit
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A83F 63
@@ -1654,31 +1655,37 @@ mode: once
 w32 0205A848 3B9AC9FF
 
 name: Memory Tiida Adjusted Current MP
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w32 0205A84C 3B9AC9FF
 
 name: Memory Tiida Adjusted Maximum HP
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w32 0205A850 3B9AC9FF
 
 name: Memory Tiida Adjusted Maximum MP
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w32 0205A854 3B9AC9FF
 
 name: Memory Tiida Adjusted Attack Power
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A85B 63
 
 name: Memory Tiida Adjusted Physical Defense
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A85C 63
 
 name: Memory Tiida Adjusted Magic Power
+score BLES01880 01.00: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-228.html
 mode: once
 w8 0205A85D 63
