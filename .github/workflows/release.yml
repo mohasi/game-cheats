@@ -29,23 +29,33 @@ jobs:
         run: echo "releaseDate=$(date -u +%Y-%m-%d)" >> "$GITHUB_ENV"
       - name: zip compiled
         run: zip -j -q "game-cheats-$releaseDate.zip" compiled/*   # -j: files sit at the root of the zip, no compiled/ folder
-      - name: count games changed since the previous release
+      - name: list the games changed since the previous release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # one file in compiled/ is one game, so counting changed files counts changed games.
           # skip today's own tag, which a re-run would otherwise compare against itself.
           previousTag=$(gh release list --limit 20 --json tagName --jq ".[].tagName | select(. != \"$releaseDate\")" | head -1)
           if [ -z "$previousTag" ]; then
-            echo "notes=First release." >> "$GITHUB_ENV"
+            echo "First release." > notes.md
             exit 0
           fi
-          updated=$(git diff --diff-filter=AM --name-only "$previousTag" HEAD -- compiled | wc -l)
-          echo "notes=$updated games updated since $previousTag." >> "$GITHUB_ENV"
+          # a file whose only changed lines are score lines is a vote tally refresh, not a cheat change.
+          # the first line of a compiled file is "# <game title>", and regional releases of one game
+          # share that title, so listing by name collapses the ten title ids of one game into one entry.
+          for file in $(git diff --diff-filter=AM --name-only "$previousTag" HEAD -- compiled); do
+            if git diff -U0 "$previousTag" HEAD -- "$file" | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -qvE '^[+-]score '; then
+              head -1 "$file" | sed 's/^# //'
+            fi
+          done | sort -u > games.txt
+          count=$(wc -l < games.txt)
+          { echo "$count games updated since $previousTag."; echo; head -200 games.txt | sed 's/^/- /'; } > notes.md
+          if [ "$count" -gt 200 ]; then
+            echo "...and $((count - 200)) more." >> notes.md
+          fi
       - name: publish
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           # a re-run on the same day reuses the tag, so clear the old release first
           gh release delete "$releaseDate" --yes --cleanup-tag || true
-          gh release create "$releaseDate" "game-cheats-$releaseDate.zip" --title "$releaseDate" --notes "$notes"
+          gh release create "$releaseDate" "game-cheats-$releaseDate.zip" --title "$releaseDate" --notes-file notes.md
