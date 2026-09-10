@@ -58,15 +58,17 @@ mode: once
 w32 000DC6E8 419D008C
 
 name: Multi Hit 1P [01.03]
+score BLUS31002 01.03: 75 1+ 0-
 author: xtatu
 mode: once
-w32 000D58DC 409EFFEC
+w32 000D58DC 409EFFEC working-val=90DD002C:1
 
 name: Player 1 Invincible And Can Hit From Anywhere
+score BLUS31002 01.03: 75 1+ 0-
 author: xtatu
 mode: once
-w32 000C2FD4 70800010
-w32 000C217C 4BFFFEAC
+w32 000C2FD4 70800010 working-val=EBA100A8:1
+w32 000C217C 4BFFFEAC working-val=4200FEAC:1
 
 name: Disable Block
 author: xtatu
