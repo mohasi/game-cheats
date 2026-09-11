@@ -16,6 +16,7 @@ mode: once
 aob 7C8428147884002080A400007CA5F01490A40000 7C8428147884002080A4000038A003E790A40000
 
 name: AoB Freeze Level Time
+score NPUB30661 01.00: 25 0+ 1-
 author: Medo, Medo ported by crapulecorp
 mode: once
 aob EC21102AC0440004EC611028FC2308AED03F1008 EC21102AC0440004EC611028FC2308AE60000000
@@ -68,9 +69,10 @@ mode: once
 w32 000403C8 60000000
 
 name: ASM Infinite Health Without Hearth
+score NPUB30661 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 000403D4 60000000
+w32 000403D4 60000000 working-val=3084B190:1
 
 name: ASM Lot Of Yellow Lums On Gain
 author: jgduff1
