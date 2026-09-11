@@ -1,11 +1,12 @@
 # Killer is Dead
 
 name: Unlock FPS (PSXPlace) [Tested]
+score NPUB31188 01.00: 75 1+ 0-
 author: FlexBy / Joey85
 mode: once
-w32 009913B8 60000000
-w32 00991418 60000000
-w32 0099141C 60000000
+w32 009913B8 60000000 working-val=62D90000:1
+w32 00991418 60000000 working-val=4182002C:1
+w32 0099141C 60000000 working-val=3C60019B:1
 
 name: Infinite Moon Crystal, Level Up
 author: games24.blog.fc2.com/blog-entry-187.html
@@ -33,11 +34,13 @@ mode: once
 aob 7FDE07B463C30000E80100907C0803A6 3BC0270F63C30000E80100907C0803A6
 
 name: AoB Max Cash
+score NPUB31188 01.00: 75 1+ 0-
 author: games24.blog.fc2.com/blog-entry-187.html
 mode: once
 aob 7BA4002260A5E0FC57A6003E2C1F0000 3880000260A5E0FC57A6003E2C1F0000
 
 name: AoB Max Moon Crystal Ore + Health Lvl + Blood Lvl on Gain
+score NPUB31188 01.00: 75 1+ 0-
 author: dron_3
 mode: once
 aob 606400003CC0018F3061007038A00001 3880270F3CC0018F3061007038A00001
