@@ -126,6 +126,7 @@ mode: once
 w32 005E4110 906900FC
 
 name: 1 Hit Kill Locked Target
+score BLES01959 01.10: 25 0+ 1-
 author: Medo
 mode: once
 w32 00B460AC 39200001
