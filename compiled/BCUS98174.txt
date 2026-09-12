@@ -23,10 +23,10 @@ w32 00082960 38000005
 w32 00082788 60000000
 
 name: Infinite Ammo + Bottomless Clip (No Reload)
-score BCUS98174 01.11: 50 2+ 2-
+score BCUS98174 01.11: 58 3+ 2-
 author: Medo ported by Randy97Killa
 mode: once
-w32 006B1D94 60000000 working-val=B13C057C:2
+w32 006B1D94 60000000 working-val=B13C057C:3
 
 name: Infinite Flamethrower
 author: Medo ported by Randy97Killa
