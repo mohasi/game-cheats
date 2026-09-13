@@ -81,6 +81,7 @@ w32 002D9250 60000000
 w32 002D9250 60000000
 
 name: 99x Max Every Item
+score BLUS30443 01.00: 25 0+ 1-
 author: hyper2k
 mode: once
 w32 00901F34 3B800063
