@@ -6,9 +6,10 @@ mode: once
 w32 111876A4 00000032
 
 name: ASM Heinrich Fast Regeneration
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 001E5E30 7C8B4A14
+w32 001E5E30 7C8B4A14 working-val=7C844A14:1
 
 name: Memory Gretchen Infinite Health
 author: jgduff1
@@ -58,6 +59,7 @@ mode: once
 w32 001E5E84 91230014 working-val=90830014:1
 
 name: Infinite Berserker
+score BLES01001 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 001E62C0 60000000
+w32 001E62C0 60000000 working-val=90830014:1
