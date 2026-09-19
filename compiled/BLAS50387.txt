@@ -1,13 +1,13 @@
 # Dark Souls
 
 name: Max Souls
-score BLUS30782 01.09: 75 1+ 0-
+score BLUS30782 01.09: 50 1+ 1-
 author: Medo, Skiller
 mode: once
 w32 00AF0FC4 3D403E80 working-val=4E800020:1
 
 name: Damage (Player + Enemy)
-score BLUS30782 01.09: 75 1+ 0-
+score BLUS30782 01.09: 50 1+ 1-
 author: Medo
 mode: once
 w32 0199C790 60000000 working-val=00BD0FE8:1
@@ -89,7 +89,7 @@ mode: once
 w32 00AF14E4 3D403E80
 
 name: Reduce all Damage Taken To 0
-score BLUS30782 01.09: 75 1+ 0-
+score BLUS30782 01.09: 50 1+ 1-
 author: Medo
 mode: once
 w32 0199C790 60000000 working-val=00BD0FE8:1
