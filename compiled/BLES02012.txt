@@ -12,17 +12,19 @@ mode: once
 w32 006AEC80 607F0000
 
 name: Infinite Health
+score BLUS31420 01.07: 25 0+ 1-
 author: dron_3
 mode: once
 w32 004D21D0 D0430010
 
 name: Have 999 Bullets When You Reload
+score BLUS31420 01.07: 25 0+ 1-
 author: ciao1102
 mode: once
 w32 0068D8D8 388003E7
 
 name: Ammo Does Not Decrease No Reload
-score BLUS31420 01.07: 25 0+ 1-
+score BLUS31420 01.07: 17 0+ 2-
 author: ciao1102
 mode: once
 w32 007895C8 7CA42B78
