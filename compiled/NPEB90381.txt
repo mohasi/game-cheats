@@ -61,6 +61,7 @@ w32 0167E46C 002E0054
 w32 0167E470 00580054
 
 name: AoB Infinite Health, Fill Unlimited Gauge - Hold L2, Fill Burst Gauge - Hold R2, Max Rank
+score BLUS30721 01.02: 75 1+ 0-
 author: dron_3
 mode: once
 aob 807F04C8809F02DC7C03200040820110 48CE9754809F02DC7C03200040820110
