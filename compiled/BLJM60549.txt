@@ -2,6 +2,7 @@
 
 name: Infinite Health
 score BLUS31140 01.19: 50 1+ 1-
+score BLUS31141 01.19: 25 0+ 1-
 author: CodeUnique3
 mode: once
 w32 00048618 7C651B78 working-val=C041009C:1
