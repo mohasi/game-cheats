@@ -16,9 +16,10 @@ mode: once
 w32 000BEDCC 3C807FFF
 
 name: Rapid Bombs
+score NPEB01890 01.01: 75 1+ 0-
 author: dron_3
 mode: once
-w32 000C32E0 60000000
+w32 000C32E0 60000000 working-val=3063FFFF:1
 
 name: AoB Infinite Bombs
 author: dron_3
