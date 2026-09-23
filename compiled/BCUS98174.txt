@@ -11,7 +11,7 @@ w32 00E8BC80 923F0044
 w32 00E8BC84 4B93F2D0
 
 name: Infinite Everything (Ammo, Items, Skills, Parts)
-score BCUS98174 01.11: 38 1+ 2-
+score BCUS98174 01.11: 30 1+ 3-
 author: Medo ported by Randy97Killa, Improved by illusion
 mode: once
 w32 0003495C 60000000 working-val=7F7FD22E:1

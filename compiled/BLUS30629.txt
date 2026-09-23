@@ -7,6 +7,7 @@ w32 006A7248 38A003E7
 w32 006A4E94 38A003E7
 
 name: 9999 Silver Eagles on Pickup + Spend
+score BLUS30629 01.06: 25 0+ 1-
 author: Blaster99
 mode: once
 w32 0088D244 3880270F
@@ -42,6 +43,7 @@ w32 006A8238 38A003E7
 w32 006A5E84 38A003E7
 
 name: 9999 Silver Eagles on Pickup + Spend
+score BLUS30629 01.06: 25 0+ 1-
 author: Blaster99
 mode: once
 w32 0088E244 3880270F

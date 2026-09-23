@@ -217,7 +217,7 @@ mode: once
 w32 0102FC94 C03F0034
 
 name: Max Money After Tossing A Dollar In A Strip Club
-score BLJM61019 02.24: 75 1+ 0-
+score BLJM61019 02.24: 50 1+ 1-
 author: dron_3
 mode: once
 w32 0169133C 2C0800B8 working-val=7C831B78:1
