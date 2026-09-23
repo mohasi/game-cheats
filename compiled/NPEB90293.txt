@@ -56,9 +56,10 @@ w32 3819C774 3F800000
 w32 3819DC38 BC888873
 
 name: ASM No Waiting Time For Use Devices
+score BLES00949 01.02: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 008D2E98 D0490000
+w32 008D2E98 D0490000 working-val=D3E90000:1
 
 name: Memory Infinite Nitro
 author: jgduff1
