@@ -1,10 +1,11 @@
 # Watch Dogs
 
 name: Infinite Ammo + Infinite Items + Bottomless Clip
+score BLUS31176 01.04: 75 1+ 0-
 author: Medo
 mode: once
-w32 001D356C 60000000
-w32 001E3C28 60000000
+w32 001D356C 60000000 working-val=80610080:1
+w32 001E3C28 60000000 working-val=4943037D:1
 
 name: Max Money + Skill Points on Spend
 author: Medo
