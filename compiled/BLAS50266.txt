@@ -28,9 +28,10 @@ w32 391C3FA0 00006342
 w32 3A2AE664 00006342
 
 name: ASM Max Wanted Rang On 1 Race
+score BLES00949 01.02: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0019DE6C 905F001C
+w32 0019DE6C 905F001C working-val=901F001C:1
 
 name: Memory Infinite Devices
 author: jgduff1
