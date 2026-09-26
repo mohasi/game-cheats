@@ -232,9 +232,10 @@ w32 009145A4 38800063
 w32 009145AC 60000000
 
 name: Rune 99
+score NPUB30888 01.04: 75 1+ 0-
 author: games24.blog.fc2.com/blog-entry-152.html
 mode: once
-w32 00915030 38800063
+w32 00915030 38800063 working-val=3CA0015D:1
 
 name: AoB Infinite Ammo
 author: games24.blog.fc2.com/blog-entry-152.html
@@ -653,6 +654,7 @@ mode: once
 aob 40800008607A000063C30000 48000008607A000063C30000
 
 name: AoB Infinite Sokolov's Health Elixir And Piero's Spiritual Remedy On Use
+score NPUB30888 01.04: 25 0+ 1-
 author: FBML
 mode: once
 aob 3084FFFF90610074 6000000090610074
