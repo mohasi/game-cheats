@@ -24,6 +24,7 @@ mode: once
 w32 00EED018 38E00063
 
 name: Infinite Special Ability
+score BLUS31156 01.27: 25 0+ 1-
 author: dron_3
 mode: once
 w32 0101D2A4 C03F0034
