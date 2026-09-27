@@ -81,6 +81,7 @@ w32 15D95B38 42CC0000
 w32 15EFB2A4 00000064
 
 name: Car Health Never Decreases
+score NPEB00632 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 003113E4 60000000

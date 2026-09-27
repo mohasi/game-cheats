@@ -79,10 +79,11 @@ w32 009FEC5C 7CA42B78
 
 name: 99999 Money
 score BLES01137 01.00: 25 0+ 1-
+score NPUB30825 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 00A807B4 3C600001
-w32 00A807B8 6063869F
+w32 00A807B4 3C600001 working-val=809D0000:1
+w32 00A807B8 6063869F working-val=63A30000:1
 
 name: Max Money On Buy + Sell
 author: Medo
