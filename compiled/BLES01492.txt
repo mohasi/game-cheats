@@ -30,6 +30,7 @@ mode: once
 w32 001E7F60 60000000
 
 name: Heavy Combat Arts Never Decrease
+score BLUS30876 01.01: 25 0+ 1-
 author: bungholio
 mode: once
 w32 001E7F34 60000000
