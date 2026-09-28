@@ -107,6 +107,7 @@ mode: once
 w32 0066C2E4 3D2042C8
 
 name: Unlock FPS
+score BLES00229 01.08: 25 0+ 1-
 author: PSXPlace
 mode: once
 w8 00F18830 00
