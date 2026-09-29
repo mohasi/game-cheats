@@ -736,6 +736,7 @@ mode: once
 aob FF806800D0030010 FF80680060000000
 
 name: AoB Health Never Decreases
+score NPUB30389 02.00: 75 1+ 0-
 author: bungholio
 mode: once
 aob 7F64DB784BFFFBD5 7F64DB7860000000
