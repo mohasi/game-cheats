@@ -1,9 +1,10 @@
 # Assassin's Creed III
 
 name: Money 999999999 After Pickup + Steal
+score BLES01668 02.00: 75 1+ 0-
 author: vosman
 mode: once
-w32 016A8F78 60000000
+w32 016A8F78 60000000 working-val=F8810FD0:1
 
 name: Infinite Ammo
 author: vosman
@@ -16,6 +17,7 @@ mode: once
 w32 011D6F14 B0BE005A
 
 name: AoB Money 999999999 After Pickup + Steal
+score BLES01668 02.00: 25 0+ 1-
 author: vosman
 mode: once
 aob 409D000C907F000C48000008909F000C38210080486A4B0C 60000000907F000C48000008909F000C38210080486A4B0C
