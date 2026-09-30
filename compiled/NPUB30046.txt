@@ -29,6 +29,7 @@ w32 00135A38 60000000
 w32 00135A40 60000000
 
 name: Max Score On Gain
+score NPUB30046 01.03: 75 1+ 0-
 author: jgduff
 mode: once
-w32 00311108 7D655A14
+w32 00311108 7D655A14 working-val=7D695A14:1
