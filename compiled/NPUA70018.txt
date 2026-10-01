@@ -31,6 +31,7 @@ mode: once
 w32 004D7BA8 C17E8010
 
 name: Unlimited Health
+score BCUS98120 01.60: 25 0+ 1-
 author: bungholio
 mode: once
 w32 0010C2A8 3D807F80
@@ -84,6 +85,7 @@ mode: once
 aob 7CEC48507CE80734B0FF03182C080000 7CEC48507CE80734600000002C080000
 
 name: AoB Infinite Reserve Ammo
+score BCUS98120 01.60: 25 0+ 1-
 author: hyper2k
 mode: once
 aob A07D03167F9F1850B39D031648000034 A07D03167F9F18506000000048000034
@@ -94,6 +96,7 @@ mode: once
 aob 40990008987F0009 38600003987F0009
 
 name: AoB Unlimited Health
+score BCUS98120 01.60: 25 0+ 1-
 author: bungholio
 mode: once
 aob 2F880000419E001C48477A0D 3D807F80918300E038600000
