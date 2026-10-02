@@ -40,10 +40,11 @@ mode: once
 w32 0053AE78 60000000
 
 name: Enemies Ignore Everything
+score BCUS98174 01.11: 75 1+ 0-
 author: bungholio ported by Randy97Killa
 mode: once
-w32 000CD6BC 48000010
-w32 000CD6D4 48000010
+w32 000CD6BC 48000010 working-val=419E0010:1
+w32 000CD6D4 48000010 working-val=419E0010:1
 
 name: Enemies Never Grab Nor Melee
 author: bungholio ported by Randy97Killa
