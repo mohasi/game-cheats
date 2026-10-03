@@ -23,6 +23,7 @@ w32 00FD31B4 0000000A
 w32 00FD31B8 0000000A
 
 name: 250 Gold Bricks
+score NPUB30807 01.01: 25 0+ 1-
 author: eltyran84
 mode: once
 w8 00E63910 FA
