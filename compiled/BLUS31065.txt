@@ -132,9 +132,10 @@ mode: once
 w32 00700A24 60000000
 
 name: 1 MRE Fully Restores A Survivor
+score NPEB01215 01.00: 50 1+ 1-
 author: bungholio
 mode: once
-w32 00171A34 60000000
+w32 00171A34 60000000 working-val=81690024:1
 
 name: AoB Zombie No Attack
 author: xtatu
@@ -157,6 +158,7 @@ mode: once
 aob 3809FFFF901A0B58 3809FFFF60000000
 
 name: AoB Health Never Decreases
+score NPEB01215 01.00: 25 0+ 1-
 author: bungholio
 mode: once
 aob FC00602ED01E36944BFFFE9C C01E3698D01E36944BFFFE9C
@@ -198,6 +200,7 @@ mode: once
 aob 4800000490830788 4800000460000000
 
 name: AoB 1 MRE Fully Restores A Survivor
+score NPEB01215 01.00: 25 0+ 1-
 author: bungholio
 mode: once
 aob 907F000C409D0008 907F000C60000000

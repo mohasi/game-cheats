@@ -6,6 +6,7 @@ mode: once
 w32 006589BC 60000000
 
 name: Ammo In Clip Never Decreases
+score BLES00963 01.01: 25 0+ 1-
 author: bungholio
 mode: once
 w32 004FD0B0 48000008
