@@ -49,9 +49,10 @@ mode: once
 w32 000D84CC 60000000
 
 name: Invincibility
+score NPEA00252 01.00: 75 1+ 0-
 author: bungholio
 mode: once
-w32 00127CB0 4E800020
+w32 00127CB0 4E800020 working-val=4E800020:1
 
 name: Health Never Decreases
 author: bungholio
@@ -527,6 +528,7 @@ mode: once
 w32 00350FD8 4870F0C2
 
 name: Toggle Between Arc Lightning And Overload Burst With L1 + L2
+score NPEA00252 01.00: 25 0+ 1-
 author: bungholio
 mode: once
 w32 0012555C 4870F0EE
