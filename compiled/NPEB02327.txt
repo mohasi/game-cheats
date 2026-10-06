@@ -13,6 +13,7 @@ mode: once
 w32 6019467C 000003E7
 
 name: ASM Lot + Infinite Resources On Buy
+score NPEB02327 01.02: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 032C9F80 93C30000
