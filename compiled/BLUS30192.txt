@@ -1,18 +1,21 @@
 # Call of Duty: World at War
 
 name: Infinite Health
+score BLES00357 01.07: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 002667D4 7CD82050
 w32 002667D8 909F01C8
 
 name: Infinite Ammo + No Reload
+score BLES00357 01.07: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 001153D0 396B0000
 w32 001153E4 60000000
 
 name: Infinite Ammo
+score BLES00357 01.07: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00115F1C 60000000
