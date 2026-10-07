@@ -30,9 +30,10 @@ mode: once
 w32 0101D2A4 C03F0034
 
 name: No Wanted Level
+score BLES01807 01.27: 75 1+ 0-
 author: dron_3
 mode: once
-w32 00F47AFC 39600000
+w32 00F47AFC 39600000 working-val=7F7F00CE:1
 
 name: Crashproof Player Vehicle Engine
 author: dron_3

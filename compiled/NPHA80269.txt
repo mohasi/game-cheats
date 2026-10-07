@@ -1,13 +1,15 @@
 # Gran Turismo 6
 
 name: Memory Unknown Code 1
+score NPEA00502 01.22: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 425EA02C 004C4B40
-w32 425F0034 004C4B41
+w32 425EA02C 004C4B40 working-val=F26AC578:1
+w32 425F0034 004C4B41 working-val=29AD3BA6:1
 
 name: ASM Unknown Code 1
+score NPEA00502 01.22: 50 1+ 1-
 author: jgduff1
 mode: once
-w32 00A1BA44 FBE90000
-w32 00A1B7BC E8490000
+w32 00A1BA44 FBE90000 working-val=F8690000:1
+w32 00A1B7BC E8490000 working-val=E8890000:1
