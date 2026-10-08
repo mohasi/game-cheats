@@ -33,9 +33,10 @@ w32 32474900 0000000F
 w32 34EC8824 0000000F
 
 name: ASM Lot Infinite Lums On Gallery Menu
+score NPEB01356 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0010C678 901A0148
+w32 0010C678 901A0148 working-val=909A0148:1
 
 name: Memory Unlock All Hero Gallery Menu
 author: jgduff1
@@ -44,9 +45,10 @@ w32 32474900 0000000F
 w32 34EC8824 0000000F
 
 name: ASM Unlock All Hero Gallery Menu
+score NPEB01356 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0010C678 901A0148
+w32 0010C678 901A0148 working-val=909A0148:1
 
 name: Memory Unknown Code 1
 author: jgduff1
@@ -71,9 +73,10 @@ w32 32474900 0000000F
 w32 34EC8824 0000000F
 
 name: ASM Lot Infinite Lums On Gallery Menu
+score NPEB01356 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0010C678 901A0148
+w32 0010C678 901A0148 working-val=909A0148:1
 
 name: Memory Unlock All Hero Gallery Menu
 author: jgduff1
@@ -82,6 +85,7 @@ w32 32474900 0000000F
 w32 34EC8824 0000000F
 
 name: ASM Unlock All Hero Gallery Menu
+score NPEB01356 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0010C678 901A0148
+w32 0010C678 901A0148 working-val=909A0148:1

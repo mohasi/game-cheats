@@ -37,11 +37,12 @@ w32 00241A9C 4822207B
 w32 002220B8 48241A8B
 
 name: 1P Can Hit Anywhere + 2P Can Not Hit 1P At All
+score BLJM60513 01.05: 75 1+ 0-
 author: xtatu
 mode: once
-w32 001EF614 60000000
-w32 001EF414 60000000
-w32 001EF304 60000000
+w32 001EF614 60000000 working-val=90A100F8:1
+w32 001EF414 60000000 working-val=D02100F0:1
+w32 001EF304 60000000 working-val=38800078:1
 
 name: 1P Can Throw Anywhere + 2P Can Not Throw 1P At All
 author: xtatu
