@@ -1,10 +1,11 @@
 # Tekken Tag Tournament 2
 
 name: Max Money On Buy (May Give Max On Gain)
+score BLES01702 01.03: 75 1+ 0-
 author: Medo
 mode: once
-w32 00658B14 409D004C
-w32 00658B60 3C007FFF
+w32 00658B14 409D004C working-val=813A0000:1
+w32 00658B60 3C007FFF working-val=11625A8C:1
 
 name: Max Combot Money On Buy
 author: Medo
@@ -40,10 +41,11 @@ w32 000D6998 7F95B800
 w32 000D699C 409DFD04
 
 name: 1P Invincible + Hitanywhere Tag Mode
+score BLES01702 01.03: 75 1+ 0-
 author: xtatu
 mode: once
-w32 000C1670 70800010
-w32 000C1818 4BFFFEAC
+w32 000C1670 70800010 working-val=4826DEF1:1
+w32 000C1818 4BFFFEAC working-val=7C6B1B78:1
 
 name: CPU Do Not Attack [01.01]
 author: xtatu
@@ -58,10 +60,11 @@ mode: once
 w32 000DC6E8 419D008C
 
 name: Multi Hit 1P [01.03]
+score BLES01702 01.03: 75 1+ 0-
 score BLUS31002 01.03: 75 1+ 0-
 author: xtatu
 mode: once
-w32 000D58DC 409EFFEC working-val=90DD002C:1
+w32 000D58DC 409EFFEC working-val=90DD002C:2
 
 name: Player 1 Invincible And Can Hit From Anywhere
 score BLUS31002 01.03: 75 1+ 0-

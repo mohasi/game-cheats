@@ -7,9 +7,10 @@ w32 0019C740 3C804480
 
 name: 1 Hit X-Ray Max
 score BLUS30902 01.07: 50 2+ 2-
+score NPUB30668 01.07: 75 1+ 0-
 author: xtatu
 mode: once
-w32 0019C798 4082000C working-val=2C830000:2
+w32 0019C798 4082000C working-val=2C830000:2,80E70010:1
 
 name: AoB 1 Hit X-Ray Max
 author: xtatu
