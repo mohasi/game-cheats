@@ -6,9 +6,10 @@ mode: once
 w32 004E3880 901E0024
 
 name: ASM Infinite Lot Of Health + Glory Points
+score BLUS31432 01.00: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 005A3344 901A0000
+w32 005A3344 901A0000 working-val=FBC10120:1
 
 name: Memory Infinite Ammo + Items + Gold
 author: jgduff1
