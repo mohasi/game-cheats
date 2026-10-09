@@ -87,14 +87,16 @@ w32 009C4DC8 907C00BC
 w32 009C4DCC 48000030
 
 name: Infinite Character Upgrade Points
+score BLES01618 01.00: 75 1+ 0-
 author: Hiei-YYH
 mode: once
-w32 00AEA8E0 7C7A1B78
+w32 00AEA8E0 7C7A1B78 working-val=EB810080:1
 
 name: Infinite Tech Upgrade Points
+score BLES01618 01.00: 75 1+ 0-
 author: Hiei-YYH
 mode: once
-w32 00AF259C 7C791B78
+w32 00AF259C 7C791B78 working-val=78630020:1
 
 name: Remove Upgrade Available on Screen
 author: Hiei-YYH
