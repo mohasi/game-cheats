@@ -128,9 +128,10 @@ w32 006DB1F0 483E6C6E
 w32 003E6C68 486DB1D2
 
 name: Unlimited Trickster Dash For Dante
+score BLES01228 01.00: 75 1+ 0-
 author: GuitarMan
 mode: once
-w32 00309E50 99FF4100
+w32 00309E50 99FF4100 working-val=99FF4100:1
 
 name: Unlimited Sky Star, Air Trick, Trick Up, & Trick Down For Dante + Vergil
 author: GuitarMan
