@@ -1,6 +1,7 @@
 # Diablo III
 
 name: Infinite HP, Spirit, Fast Level Up
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CA170C 2C1D0628
@@ -17,6 +18,7 @@ w32 00CA1734 4B7C4F44
 w32 00466674 4883B098
 
 name: Infinite HP (Player Only)
+score BLUS31221 01.04: 25 0+ 1-
 score NPEB01804 01.04: 75 1+ 0-
 author: Hiei-YYH
 mode: once
@@ -33,6 +35,7 @@ w32 00CC2EB4 4E800020 working-val=4A692194:1
 w32 003B2618 48910891 working-val=2C030000:1
 
 name: Infinite HP (Player + Partner)
+score BLUS31221 01.04: 25 0+ 1-
 score NPEB01804 01.00: 75 1+ 0-
 author: Hiei-YYH
 mode: once
@@ -43,6 +46,7 @@ w32 00CC2EB4 4E800020 working-val=61726163:1
 w32 003B2618 48910891 working-val=FBA10118:1
 
 name: Infinite Ability Gauge
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CC2EF0 7C63E82E
@@ -66,6 +70,7 @@ w32 00CC2F34 4E800020
 w32 004563A0 48874CE1
 
 name: Max Gold + Items On Gain Or Sell
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CC2F38 2C1E03E8
@@ -77,12 +82,14 @@ w32 00CC2F4C 4E800020
 w32 003B43A0 48916D39
 
 name: Can Buy Without Gold
+score BLUS31221 01.04: 25 0+ 1-
 score NPEB01804 01.04: 75 1+ 0-
 author: Hiei-YYH
 mode: once
 w32 003B172C 3BE00000 working-val=78840020:1
 
 name: 99 Items (need at least 2 items)
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CA77C0 3B000000
@@ -100,6 +107,7 @@ w32 00CA77EC 4B7BF1E0
 w32 004669C8 48840DF8
 
 name: Multiple Cheats
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CD3AE4 93C30008
@@ -166,6 +174,7 @@ mode: once
 w32 00CD3B00 60000000
 
 name: Disable Dexterity
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CD3B0C 60000000
@@ -233,6 +242,7 @@ mode: once
 w32 00CD3BBC 60000000
 
 name: 99 Items (need at least 2 items)
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC308 3B000000
@@ -250,6 +260,7 @@ w32 00CDC334 4B78B940
 w32 00467C70 48874698
 
 name: Multiple Cheats (See Info Below)
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC2C0 8B030007
@@ -313,6 +324,7 @@ mode: once
 w32 00CDCF38 60000000
 
 name: Disable Dexterity
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDCF44 60000000
@@ -358,6 +370,7 @@ mode: once
 w32 00CDCFAC 60000000
 
 name: Disable Arcane Power
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDCFB8 60000000
@@ -388,6 +401,7 @@ mode: once
 w32 00CDCFF4 60000000
 
 name: Infinite HP (Player Only)
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00734C70 38600001
@@ -401,6 +415,7 @@ w32 00CDC2EC 4E800020
 w32 003C38B0 48918A31
 
 name: Infinite HP (Player + Partner)
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC2E0 3C804F1C
@@ -410,6 +425,7 @@ w32 00CDC2EC 4E800020
 w32 003C38B0 48918A31
 
 name: Infinite Ability Gauge
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC328 7C63E82E
@@ -433,6 +449,7 @@ w32 00CDC36C 4E800020
 w32 00467648 48874CE1
 
 name: Max Gold + Items On Gain Or Sell
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC370 2C1E03E8
@@ -444,6 +461,7 @@ w32 00CDC384 4E800020
 w32 003C5638 48916D39
 
 name: Max Stats And No Skill Cooldown Time
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC3F0 38841000
@@ -487,6 +505,7 @@ w32 00CDC484 4B78AA70
 w32 00466EF0 48875500
 
 name: Infinite Weapon Durability
+score BLUS31221 01.04: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00CDC488 38051000
