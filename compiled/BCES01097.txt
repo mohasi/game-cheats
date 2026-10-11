@@ -46,9 +46,10 @@ mode: once
 w32 0003D858 480005F0
 
 name: Disable Bloom
+score BCES01097 01.00: 75 1+ 0-
 author: PSXPlace
 mode: once
-w32 0020AB50 38000000
+w32 0020AB50 38000000 working-val=807F0000:1
 
 name: Disable Motion Blur
 author: PSXPlace
