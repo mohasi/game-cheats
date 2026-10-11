@@ -21,6 +21,7 @@ mode: once
 w16 003863FE 03E7
 
 name: Memory Max Bottles
+score BCES00982 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w16 00384ED6 0014
@@ -62,6 +63,7 @@ w32 356897C8 00000028
 w32 357F7B08 00000028
 
 name: ASM Infinite Health
+score BCES00982 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 0010E1B0 60000000

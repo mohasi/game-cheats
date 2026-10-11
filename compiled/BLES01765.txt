@@ -8,7 +8,7 @@ w32 00B05208 60000000
 w32 00B05258 4000FFB4
 
 name: Max Souls
-score BLES01765 01.09: 62 2+ 1-
+score BLES01765 01.09: 50 2+ 2-
 author: Medo, Skiller
 mode: once
 w32 00B260F4 3D403B9B working-val=60000000:2
