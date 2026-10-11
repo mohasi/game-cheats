@@ -1,11 +1,12 @@
 # Tekken Tag Tournament 2
 
 name: Max Money On Buy (May Give Max On Gain)
+score BLES01702 01.01: 75 1+ 0-
 score BLES01702 01.03: 62 2+ 1-
 author: Medo
 mode: once
-w32 00658B14 409D004C working-val=813A0000:2
-w32 00658B60 3C007FFF working-val=11625A8C:2
+w32 00658B14 409D004C working-val=409D0008:1,813A0000:2
+w32 00658B60 3C007FFF working-val=11625A8C:2,990B0006:1
 
 name: Max Combot Money On Buy
 score BLES01702 01.03: 75 1+ 0-
