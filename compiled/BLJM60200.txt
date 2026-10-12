@@ -201,10 +201,10 @@ mode: once
 w32 000755EC 60000000
 
 name: ASM Max + Infinite Orbs On Gain
-score BCES00791 01.01: 75 1+ 0-
+score BCES00791 01.01: 83 2+ 0-
 author: jgduff1
 mode: once
-w32 00077324 904901D0 working-val=FC00F890:1
+w32 00077324 904901D0 working-val=FC00F890:2
 
 name: ASM Max + Infinite Lames Of Chaos
 author: jgduff1
