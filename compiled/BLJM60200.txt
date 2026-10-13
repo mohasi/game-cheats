@@ -87,7 +87,7 @@ mode: once
 w32 0053AB08 447A0000
 
 name: Max Red Orbs
-score BCES00791 01.01: 50 1+ 1-
+score BCES00791 01.01: 38 1+ 2-
 score BCUS98229 01.01: 25 0+ 1-
 author: Wulf2k
 mode: once
@@ -305,10 +305,10 @@ w32 0008A86C EC06082A
 w32 0008A8A0 60000000
 
 name: Infinite Orbs
-score BCES00791 01.01: 25 0+ 1-
+score BCES00791 01.01: 50 1+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 307E2CFC 000F423F
+w32 307E2CFC 000F423F working-val=00000000:1
 
 name: Infinite Magic
 author: CodeFreak/PS3UserCheat

@@ -58,6 +58,7 @@ mode: once
 w32 007FA440 60000000
 
 name: 100 Accuracy, 0 Retries
+score BLUS31444 01.04: 25 0+ 1-
 author: dron_3, ported by x_com
 mode: once
 w32 007FA524 39200000
