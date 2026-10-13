@@ -18,7 +18,7 @@ mode: once
 w32 004D21D0 D0430010
 
 name: Have 999 Bullets When You Reload
-score BLUS31420 01.07: 25 0+ 1-
+score BLUS31420 01.07: 17 0+ 2-
 author: ciao1102
 mode: once
 w32 0068D8D8 388003E7
