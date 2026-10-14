@@ -6,9 +6,10 @@ mode: once
 w32 00464DC4 83BC0004
 
 name: Max XP After Battle
+score NPEB01125 01.02: 75 1+ 0-
 author: dron_3
 mode: once
-w32 003F7450 38842710
+w32 003F7450 38842710 working-val=7C84F014:1
 
 name: Upgrade Points Do Not Decrease
 author: dron_3
