@@ -1,7 +1,7 @@
 # Sniper Elite V2
 
 name: Infinite Ammo
-score NPEB01009 01.00: 25 0+ 1-
+score NPEB01009 01.00: 17 0+ 2-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 00854560 8063016C
