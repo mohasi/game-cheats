@@ -14,9 +14,10 @@ w32 0107B8F0 38603FA0
 w32 0107B8F4 B07F00B4
 
 name: Infinite Ammo
+score BLUS31156 01.07: 50 1+ 1-
 author: dron_3
 mode: once
-w32 00EE1620 3BA003E7
+w32 00EE1620 3BA003E7 working-val=78840020:1
 
 name: No Reload
 author: dron_3
@@ -165,10 +166,11 @@ mode: once
 w32 00F2C910 3BA07FFF
 
 name: Real God Mode
+score BLUS31156 01.07: 75 1+ 0-
 author: dron_3
 mode: once
-w32 010CF260 38607FFF
-w32 010CF264 B07F00B4
+w32 010CF260 38607FFF working-val=C05D0004:1
+w32 010CF264 B07F00B4 working-val=EC220072:1
 
 name: Infinite Special Ability
 author: dron_3
@@ -176,10 +178,11 @@ mode: once
 w32 0106CF2C C03F0034
 
 name: Infinite Ammo
+score BLUS31156 01.07: 75 1+ 0-
 author: dron_3
 mode: once
-w32 00EE1574 907E0010
-w32 00EECF6C B0BE0052
+w32 00EE1574 907E0010 working-val=41810118:1
+w32 00EECF6C B0BE0052 working-val=382100D0:1
 
 name: No Wanted Level
 author: dron_3
@@ -279,9 +282,10 @@ mode: once
 w32 0107A80C C03F0034
 
 name: No Wanted Level
+score BLUS31156 01.07: 75 1+ 0-
 author: dron_3
 mode: once
-w32 00FA0BAC 39600000
+w32 00FA0BAC 39600000 working-val=3BA00030:1
 
 name: Infinite Ammo
 author: dron_3
