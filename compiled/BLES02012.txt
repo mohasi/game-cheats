@@ -24,10 +24,11 @@ mode: once
 w32 0068D8D8 388003E7
 
 name: Ammo Does Not Decrease No Reload
+score BLES02012 01.07: 75 1+ 0-
 score BLUS31420 01.07: 17 0+ 2-
 author: ciao1102
 mode: once
-w32 007895C8 7CA42B78
+w32 007895C8 7CA42B78 working-val=3FE00274:1
 
 name: Grenade, Bait, Knife, Molotov Do Not Decrease
 author: ciao1102
