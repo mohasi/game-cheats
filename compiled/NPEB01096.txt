@@ -91,6 +91,7 @@ mode: once
 w32 00A740F8 38802710
 
 name: Max Skill Points On Use
+score NPEB01096 01.05: 25 0+ 1-
 author: Medo
 mode: once
 w32 0038CA1C 38A00063
