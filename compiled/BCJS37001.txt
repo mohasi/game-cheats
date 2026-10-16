@@ -1,9 +1,10 @@
 # God of War III
 
 name: Infinite Magic
+score BCES00510 01.00: 75 1+ 0-
 author: xtatu
 mode: once
-w32 0009654C 60000000
+w32 0009654C 60000000 working-val=60000000:1
 
 name: Max Orbs
 author: CodeFreak/PS3UserCheat
