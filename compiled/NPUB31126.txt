@@ -1,10 +1,11 @@
 # DuckTales - Remastered
 
 name: 99 Lives On Lose
+score NPUB31126 01.01: 75 1+ 0-
 author: dron_3
 mode: once
-w32 0019A728 38600064
-w32 001AADF0 38600064
+w32 0019A728 38600064 working-val=30630354:1
+w32 001AADF0 38600064 working-val=EBE100B8:1
 
 name: Invincibility
 author: dron_3
