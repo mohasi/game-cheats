@@ -42,7 +42,7 @@ mode: once
 w32 000A18BC 60000000
 
 name: Improved Accuracy
-score BLES01031 01.13: 50 1+ 1-
+score BLES01031 01.13: 38 1+ 2-
 score BLES01032 01.13: 25 0+ 1-
 author: Peoples00
 mode: once
