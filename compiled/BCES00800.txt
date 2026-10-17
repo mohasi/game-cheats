@@ -94,13 +94,13 @@ mode: once
 w32 0053AB0C 7F7F7F7F working-val=76C55C1F:1
 
 name: No Damage Received
-score BCES00791 01.01: 25 0+ 1-
+score BCES00791 01.01: 50 1+ 1-
 author: Wulf2k
 mode: once
-w32 00539C04 00000000
-w32 00539C10 00000000
-w32 00539C1C 00000000
-w32 00539C28 00000000
+w32 00539C04 00000000 working-val=004C3CB0:1
+w32 00539C10 00000000 working-val=004C3CE0:1
+w32 00539C1C 00000000 working-val=004C3D00:1
+w32 00539C28 00000000 working-val=004C3D20:1
 
 name: Combos Do Not Time Out
 author: Wulf2k
