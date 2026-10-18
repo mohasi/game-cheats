@@ -53,9 +53,10 @@ mode: once
 w32 032CA950 93030000
 
 name: Memory Infinite Health
+score NPEB02327 01.02: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 6045E688 42C80000
+w32 6045E688 42C80000 working-val=00000000:1
 
 name: ASM Infinite Health
 author: jgduff1
