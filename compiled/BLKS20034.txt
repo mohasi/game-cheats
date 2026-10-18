@@ -2,6 +2,7 @@
 
 name: Cash
 score BLES00177 01.00: 75 1+ 0-
+score BLES00177 01.30: 75 1+ 0-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 513D71B0 05F5E0FF working-val=00000000:1
+w32 513D71B0 05F5E0FF working-val=00000000:2
