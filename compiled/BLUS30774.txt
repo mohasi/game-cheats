@@ -36,6 +36,7 @@ mode: once
 w16 003ABFFE 0000
 
 name: Money 99999999
+score BLES01326 01.00: 75 1+ 0-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 3969F0F8 05F5E0FF
+w32 3969F0F8 05F5E0FF working-val=00000000:1
