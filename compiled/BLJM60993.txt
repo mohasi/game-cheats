@@ -6,10 +6,11 @@ mode: once
 w32 00AF0C6C 3D403E80
 
 name: Reduce all Damage taken to 0
+score BLJM60993 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 0199C790 60000000
-w32 0199C79C 60000000
+w32 0199C790 60000000 working-val=00000000:1
+w32 0199C79C 60000000 working-val=00000000:1
 
 name: Max Equipment Load
 author: Medo
@@ -28,9 +29,10 @@ w32 00AD3710 60000000
 w32 00AD3760 409DFFB4
 
 name: Infinite Magic + Miracles + Pyromancy Slot 1
+score BLJM60993 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 00ADBF5C 30A90004
+w32 00ADBF5C 30A90004 working-val=392100C0:1
 
 name: Infinite Magic + Miracles + Pyromancy Slot 2
 author: Medo
