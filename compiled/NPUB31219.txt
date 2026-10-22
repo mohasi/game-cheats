@@ -34,10 +34,11 @@ mode: once
 w32 00261184 7CA32B78
 
 name: Ammo Never Decreases And No Reload
+score BLUS31184 01.02: 75 1+ 0-
 author: FBML
 mode: once
-w32 00288E98 4082002C
-w32 0028E348 4800002C
+w32 00288E98 4082002C working-val=4182002C:1
+w32 0028E348 4800002C working-val=4082002C:1
 
 name: Infinite Ammo In Inventory After Reloading
 author: FBML
@@ -56,6 +57,7 @@ w32 00275DF8 60000000
 w32 00275E20 60000000
 
 name: AoB Invincibility
+score BLUS31184 01.02: 75 1+ 0-
 author: FBML
 mode: once
 aob 4182001463A3000063C400004BFFD885 4800001463A3000063C400004BFFD885
