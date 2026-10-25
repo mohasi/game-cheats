@@ -1,6 +1,7 @@
 # LEGO Marvel Super Heroes
 
 name: Max Studs On Gain
+score NPUB31236 01.03: 25 0+ 1-
 author: dron_3
 mode: once
 w32 00C78D0C 60000000
