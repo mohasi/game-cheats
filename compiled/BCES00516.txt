@@ -62,10 +62,11 @@ mode: once
 w32 00094FE0 60000000
 
 name: Unlimited Rage Of Sparta
+score BCAS25003 01.03: 75 1+ 0-
 author: bungholio
 mode: once
-w32 0009C528 60000000
-w32 0009F618 60000000
+w32 0009C528 60000000 working-val=D19F01B8:1
+w32 0009F618 60000000 working-val=D01F01B8:1
 
 name: Unlimited Item Meter
 author: bungholio
