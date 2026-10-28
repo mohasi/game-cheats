@@ -48,11 +48,12 @@ mode: once
 w32 00A3F858 38600001
 
 name: 1,000 Combo
+score BLUS30828 01.02: 75 1+ 0-
 author: GuitarMan
 mode: once
-w32 00ADBDDC 386003E8
-w32 00ADBDE8 60000000
-w32 00ADBD18 392003E8
+w32 00ADBDDC 386003E8 working-val=4828F199:1
+w32 00ADBDE8 60000000 working-val=807F0060:1
+w32 00ADBD18 392003E8 working-val=48000020:1
 
 name: Can Upgrade Tech Upgrade
 author: GuitarMan
