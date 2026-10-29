@@ -77,6 +77,7 @@ w32 009DA144 60000000
 w32 009D9B9C 380003E7
 
 name: 9,999 Ammo Never Need To Reload
+score BLUS30491 01.01: 25 0+ 1-
 author: Randy97Killa
 mode: once
 w32 009D4C50 38002710
