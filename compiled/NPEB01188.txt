@@ -21,6 +21,7 @@ mode: once
 w32 01D67524 000006A4
 
 name: ASM Infinite Health
+score NPEB01188 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00038410 60000000
