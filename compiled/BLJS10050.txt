@@ -6,6 +6,7 @@ mode: once
 aob 419D02CC8138000093E9283C 480002CC8138000093E9283C
 
 name: AoB Max Money On Load
+score BLJS10050 01.02: 75 1+ 0-
 author: Jon888
 mode: once
 aob 409D00087C05037838806B25 600000007C05037838806B25
@@ -126,6 +127,7 @@ mode: once
 w16 319E8112 0063
 
 name: Defense 99 (P4)
+score BLJS10050 01.02: 25 0+ 1-
 author: kankabiyori.blog74.fc2.com/blog-entry-749.html
 mode: once
 w16 319E8116 0063

@@ -113,14 +113,16 @@ aob 4182067C4186056C419A0394419E01FC2C030001 4800067C4186056C419A0394419E01FC2C0
 aob 607F00002C1F00664182003C63A3000063E40000 3BE000222C1F00664182003C63A3000063E40000
 
 name: Infinite Ammo + Items
+score BLUS30855 01.06: 75 1+ 0-
 author: vosman
 mode: once
-w32 00BD20CC 60000000
+w32 00BD20CC 60000000 working-val=38A00070:1
 
 name: Infinite Ammo + No Reload + Grenade
+score BLUS30855 01.06: 75 1+ 0-
 author: vosman
 mode: once
-w32 00B7F0C0 60000000
+w32 00B7F0C0 60000000 working-val=8305A1A8:1
 
 name: Zombie And Dog No Attack
 author: xtatu
@@ -128,6 +130,7 @@ mode: once
 w32 007E6F70 4182000C
 
 name: Any Damage Kills
+score BLES01465 01.06: 25 0+ 1-
 author: bungholio
 mode: once
 w32 014043CC A0830F0E
