@@ -11,9 +11,10 @@ mode: once
 w8 0129C3B8 03
 
 name: 0 Time Used
+score NPUB30428 01.00: 75 1+ 0-
 author: optantic
 mode: once
-w32 0005DFCC 60000000
+w32 0005DFCC 60000000 working-val=9065082C:1
 
 name: 0 Death
 author: optantic
