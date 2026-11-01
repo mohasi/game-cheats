@@ -1,6 +1,7 @@
 # MotorStorm: Pacific Rift
 
 name: Infinite Boost
+score BCES00129 01.03: 25 0+ 1-
 author: dron_3
 mode: once
 w32 0003F8B4 4E800020
@@ -8,6 +9,7 @@ w32 0003F8B0 D0240030
 w32 0003F8AC EC210828
 
 name: Infinite Boost
+score BCES00129 01.03: 25 0+ 1-
 author: dron_3
 mode: once
 w32 0003F8AC EC210828
