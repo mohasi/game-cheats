@@ -130,6 +130,7 @@ mode: once
 w32 003AC05C 38C00000
 
 name: Memory Extinction Always Have 9,999 Teeth
+score NPUB31301 01.16: 75 1+ 0-
 author: bungholio
 mode: once
 w8 017AF4EB 0F

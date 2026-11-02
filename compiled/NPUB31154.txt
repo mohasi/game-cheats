@@ -310,6 +310,7 @@ w32 010DCB00 38603FA0
 w32 010DCB04 B07F00B4
 
 name: Infinite Special Ability
+score BLUS31156 01.27: 25 0+ 1-
 author: dron_3
 mode: once
 w32 0107B1EC C03F0034
