@@ -11,6 +11,7 @@ mode: once
 w32 4264000C 00000001
 
 name: A-SPEC EXP Max
+score BCES00569 01.04: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 42645CFC 05F5E0FF
