@@ -1,9 +1,10 @@
 # Final Fantasy XIII-2
 
 name: 999,999 Damage
+score BCAS20224 01.06: 75 1+ 0-
 author: xtatu
 mode: once
-w32 0008C17C 41810078
+w32 0008C17C 41810078 working-val=40810078:1
 
 name: AoB Infinite CP
 author: vosman
