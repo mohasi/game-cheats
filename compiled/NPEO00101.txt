@@ -1,6 +1,7 @@
 # Gran Turismo 5
 
 name: Money Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 42640004 3B9AC9FF
@@ -12,6 +13,7 @@ w32 4264000C 00000001
 
 name: A-SPEC EXP Max
 score BCES00569 01.04: 25 0+ 1-
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 42645CFC 05F5E0FF
@@ -22,6 +24,7 @@ mode: once
 w32 42645D04 05F5E0FF
 
 name: Money Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 424FE004 3B9AC9FF
@@ -32,6 +35,7 @@ mode: once
 w32 424FE00C 00000001
 
 name: A-SPEC EXP Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 42503CFC 05F5E0FF
@@ -47,6 +51,7 @@ mode: once
 w32 00B548EC 3C807FFF
 
 name: Money Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 426B8004 3B9AC9FF
@@ -57,6 +62,7 @@ mode: once
 w32 426B800C 00000001
 
 name: A-SPEC EXP Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 426BDCFC 05F5E0FF
@@ -67,6 +73,7 @@ mode: once
 w32 426BDD04 05F5E0FF
 
 name: Money Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 4257A004 3B9AC9FF
@@ -77,6 +84,7 @@ mode: once
 w32 4257A00C 00000001
 
 name: A-SPEC EXP Max
+score BCES00569 02.17: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 4257FCFC 05F5E0FF
