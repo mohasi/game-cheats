@@ -82,10 +82,11 @@ mode: once
 w32 0022A680 90BC0250
 
 name: ASM Infinite Magic
+score NPEB02037 01.03: 75 1+ 0-
 author: jgduff1
 mode: once
-w32 0020C740 60000000
-w32 0020C744 60000000
+w32 0020C740 60000000 working-val=484BB15D:1
+w32 0020C744 60000000 working-val=60000000:1
 
 name: ASM Max + Infinite Coin
 author: jgduff1
