@@ -76,6 +76,7 @@ w32 000CF34C 3C0005F5
 w32 000CF350 6000E0FF
 
 name: Dev Menu
+score BCUS98123 01.00: 25 0+ 1-
 author: dron_3, HdHereidme
 mode: once
 w32 00794C84 38000001

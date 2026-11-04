@@ -1,6 +1,7 @@
 # Ridge Racer 7
 
 name: ASM Instant + Infinite Nitro
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 002BF4F0 EC05002A
@@ -12,6 +13,7 @@ w32 00041014 93A60004
 w32 000410BC 93A60000
 
 name: ASM Lot + Infinite CR On One Race
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00040F68 90DF242C
@@ -21,6 +23,7 @@ w32 00044F3C 92632428
 w32 00044F40 9043242C
 
 name: ASM Instant + Infinite Nitro
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 002BB970 EC05002A
@@ -41,11 +44,13 @@ w32 00044C74 92632428
 w32 00044C78 9043242C
 
 name: FP 999999900
+score BCES00009 01.01: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 1042E0B4 3B9AC99C
 
 name: CR 999999900
+score BCES00009 01.01: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 1042E0B0 3B9AC99C
@@ -56,6 +61,7 @@ mode: once
 w16 10431F46 C350
 
 name: 100 Million CR
+score BCES00009 01.01: 25 0+ 1-
 author: superjupi
 mode: once
 w32 10431F40 05F5E100
@@ -92,6 +98,7 @@ w8 10442ECC 64
 w8 10442ED0 64
 
 name: Memory Instant + Infinite Nitro
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 5668ACA8 42C80000
@@ -110,11 +117,13 @@ mode: once
 w32 10431F64 00000036
 
 name: Memory Lot + Infinite CR On One Race
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 10431F60 00000009
 
 name: Memory Lap Time 00:00:0XX
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 106B9590 000004B8
@@ -125,16 +134,19 @@ mode: once
 w32 10431F64 00000036
 
 name: 9999999 FP (Unlock All Races)
+score BCES00009 01.01: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 1042E0D4 0098967F
 
 name: 999999999 CR
+score BCES00009 01.01: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 1042E0D0 3B9AC9FF
 
 name: ASM Instant + Infinite Nitro
+score BCES00009 01.01: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 002A7FB8 EC05002A
@@ -155,11 +167,13 @@ w32 00044C3C 92632428
 w32 00044C40 9043242C
 
 name: 16,763,480 CR
+score BCES00009 01.01: 25 0+ 1-
 author: superjupi
 mode: once
 w8 1042E0B1 FF
 
 name: 11,775 Fame Points
+score BCES00009 01.01: 25 0+ 1-
 author: superjupi
 mode: once
 w8 1042E0B7 FF
