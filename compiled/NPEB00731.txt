@@ -20,6 +20,7 @@ mode: once
 w32 0120E818 000003E7
 
 name: Infinite Ammo for All
+score BLUS30377 01.11: 25 0+ 1-
 score BLUS30377 01.14: 38 1+ 2-
 author: CodeFreak/PS3UserCheat
 mode: once

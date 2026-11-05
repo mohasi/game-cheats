@@ -17,9 +17,10 @@ mode: once
 w32 00C9C3A0 0098967F
 
 name: Max Vouchers Or Tickets For Exchange In Palace Desk
+score NPEB02047 01.00: 75 1+ 0-
 author: games24.blog.fc2.com/blog-entry-220.html
 mode: once
-w32 00C9E478 000003E7
+w32 00C9E478 000003E7 working-val=00000028:1
 
 name: Max Vouchers On Use
 author: JorgeFFC
@@ -32,16 +33,19 @@ mode: once
 w32 001B3B60 40810008
 
 name: Infinite Item Usage During Battle
+score NPEB02047 01.00: 25 0+ 1-
 author: JorgeFFC
 mode: once
 w32 001D45B8 30630000
 
 name: Max Assist On Change
+score NPEB02047 01.00: 75 1+ 0-
 author: JorgeFFC
 mode: once
-w32 000FF800 41810008
+w32 000FF800 41810008 working-val=40810008:1
 
 name: No Limit Store Stock
+score NPEB02047 01.00: 25 0+ 1-
 author: JorgeFFC
 mode: once
 w32 001B8834 60000000
