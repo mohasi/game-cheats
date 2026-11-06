@@ -48,6 +48,7 @@ mode: once
 w32 42503D04 05F5E0FF
 
 name: Win A Race To Reach Lv 40
+score BCES00569 02.17: 25 0+ 1-
 author: vosman
 mode: once
 w32 00B548EC 3C807FFF

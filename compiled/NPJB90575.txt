@@ -17,10 +17,11 @@ mode: once
 w32 009069C4 42C80000
 
 name: Physical Strength Soon Recovery
+score BLJM60553 01.02: 75 1+ 0-
 author: hnop.blog11.fc2.com/blog-entry-616.html
 mode: once
-w32 00344740 A13E00E4
-w32 00344748 B13E00E6
+w32 00344740 A13E00E4 working-val=54E507BC:1
+w32 00344748 B13E00E6 working-val=40860084:1
 
 name: Fighting Spirit Gauge Immediately Recovery
 author: hnop.blog11.fc2.com/blog-entry-616.html
