@@ -1,9 +1,10 @@
 # Fainaru Fantajī Sātīn
 
 name: Gil 999999999
+score BLJM67005 01.01: 75 1+ 0-
 author: hyper2k
 mode: once
-w32 4446BE38 3B9AC9FF
+w32 4446BE38 3B9AC9FF working-val=5F616300:1
 
 name: Material + Item 99
 author: CodeFreak

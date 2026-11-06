@@ -1,9 +1,10 @@
 # Dark Souls - Path of the Dragon
 
 name: Max Souls + Infinite Souls
+score BLJM60993 01.00: 75 1+ 0-
 author: Medo, Skiller
 mode: once
-w32 00AF0C6C 3D403E80
+w32 00AF0C6C 3D403E80 working-val=78840020:1
 
 name: Reduce all Damage taken to 0
 score BLJM60993 01.00: 75 1+ 0-
@@ -13,14 +14,16 @@ w32 0199C790 60000000 working-val=00000000:1
 w32 0199C79C 60000000 working-val=00000000:1
 
 name: Max Equipment Load
+score BLJM60993 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 0199C71C 49499000
+w32 0199C71C 49499000 working-val=00000000:1
 
 name: Max Stats, Defense, Resistance
+score BLJM60993 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 0199C76C 49000000
+w32 0199C76C 49000000 working-val=00000000:1
 
 name: Max Items on Use + Discard + Buy + Deposit in Storage
 author: Medo
