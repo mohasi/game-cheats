@@ -12,6 +12,7 @@ mode: once
 w32 00B24BE4 05F5E0FF
 
 name: 180 Challenges Completed
+score BLUS30499 01.00: 75 1+ 0-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 00B2DDA0 000000B4
+w32 00B2DDA0 000000B4 working-val=00000000:1
