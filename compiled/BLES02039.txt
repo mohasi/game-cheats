@@ -1,6 +1,7 @@
 # Battlefield Hardline
 
 name: Immortal
+score BLUS31440 01.08: 25 0+ 1-
 author: rambooo
 mode: once
 aob FC20F89039000020FC60E09038A000A0 FFC0E89039000020FC60E09038A000A0

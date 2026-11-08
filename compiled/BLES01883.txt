@@ -98,6 +98,7 @@ w32 01DF9AA4 C009FA90
 
 name: Max Money + Cargo + Resources + Ammo On Gain
 score BLES01882 01.04: 75 1+ 0-
+score BLUS31193 01.04: 25 0+ 1-
 author: FBML
 mode: once
 w32 01CF6CF0 60000000 working-val=7FA3EB78:1

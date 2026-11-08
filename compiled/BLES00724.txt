@@ -19,6 +19,7 @@ w8 00B8F89B 04
 w8 00B8FA33 04
 
 name: ASM Cranes x60 On Gain
+score BLES00724 01.00: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00066BB0 3929003C
