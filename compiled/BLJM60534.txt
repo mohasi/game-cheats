@@ -7,6 +7,7 @@ w32 010EEC2C 000003E8
 w32 010EEC28 000003E8
 
 name: Infinite Bullet Usage
+score BLES01717 01.19: 25 0+ 1-
 score BLUS31141 01.19: 25 0+ 1-
 score NPUB31054 01.19: 75 1+ 0-
 score NPUB31055 01.19: 75 1+ 0-

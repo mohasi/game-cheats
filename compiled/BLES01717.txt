@@ -1,12 +1,13 @@
 # Call of Duty: Black Ops II
 
 name: Infinite Health
+score BLES01717 01.19: 75 1+ 0-
 score BLUS31140 01.19: 50 1+ 1-
 score BLUS31141 01.19: 25 0+ 1-
 author: CodeUnique3
 mode: once
-w32 00048618 7C651B78 working-val=C041009C:1
-w32 001FE17C 7CF91814 working-val=82B70084:1
+w32 00048618 7C651B78 working-val=C041009C:1,D8210080:1
+w32 001FE17C 7CF91814 working-val=33810070:1,82B70084:1
 
 name: Infinite Bullet Usage
 score BLES01717 01.19: 25 0+ 1-

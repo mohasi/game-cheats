@@ -22,6 +22,7 @@ mode: once
 w32 007F0498 60000000
 
 name: Infinite Armor
+score BLUS30687 01.05: 25 0+ 1-
 author: FBML
 mode: once
 w32 0013D724 48000024

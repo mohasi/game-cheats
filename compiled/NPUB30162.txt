@@ -142,6 +142,7 @@ mode: once
 aob 901C0694419D02E4 901C0694480002E4
 
 name: AoB Lose A Life For 9 Lives
+score NPUB30162 01.03: 25 0+ 1-
 author: bungholio
 mode: once
 aob 817D00003809FFFF 817D000038000009
