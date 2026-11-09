@@ -115,6 +115,7 @@ mode: once
 aob 4082005080630004 4800005080630004
 
 name: AoB Max Upgrade Points On spend
+score BLUS31374 01.05: 75 1+ 0-
 author: Cyb3r, flynhigh09
 mode: once
 aob 7C9DF0107C8407B4 8083000480840170

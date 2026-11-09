@@ -6,6 +6,7 @@ mode: once
 w32 008B9604 39290000
 
 name: AoB Intuition Points Never Decrease
+score NPEB00850 01.00: 75 1+ 0-
 author: crapulecorp
 mode: once
 aob 3929FFFF9803000891230028 392900009803000891230028

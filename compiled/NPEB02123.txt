@@ -21,6 +21,7 @@ mode: once
 w32 00533368 60000000
 
 name: 999,999,999 Money
+score BLUS31507 01.08: 25 0+ 1-
 author: eltyran94
 mode: once
 w32 39D6C7A0 3B9AC9FF
