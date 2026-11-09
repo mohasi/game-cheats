@@ -29,9 +29,10 @@ w32 01ACD568 D1A300D8
 w32 01ACD56C 48000010
 
 name: Max + Infinite Health
+score BLUS31193 01.04: 75 1+ 0-
 author: FBML
 mode: once
-w32 0177D578 60000000
+w32 0177D578 60000000 working-val=6463CDF3:1
 
 name: Max + Infinite Breath
 score BLES01882 01.04: 75 1+ 0-
@@ -145,10 +146,11 @@ mode: once
 w32 0179B980 A07C005C
 
 name: Infinite Health (Test)
+score BLUS31193 01.04: 50 1+ 1-
 author: vosman
 mode: once
-w32 01789E34 B0BE005A
-w32 018E1340 B0BE005A
+w32 01789E34 B0BE005A working-val=91210208:1
+w32 018E1340 B0BE005A working-val=3D2002A7:1
 
 name: Infinite Ship Health
 author: dron_3
@@ -205,12 +207,13 @@ w32 01B17798 D1A300D0
 w32 01B1779C 48000010
 
 name: Unlock All Cheats With Saving Or During Mission
+score BLUS31193 01.04: 75 1+ 0-
 author: dron_3
 mode: once
-w32 01FC5E68 38600000
-w32 01FC5F6C 38600001
-w32 01070D48 38000001
-w32 01FC0D24 39200000
+w32 01FC5E68 38600000 working-val=38600001:1
+w32 01FC5F6C 38600001 working-val=7C6307B4:1
+w32 01070D48 38000001 working-val=801F0000:1
+w32 01FC0D24 39200000 working-val=39200001:1
 
 name: Infinite Oxygen
 author: games24.blog.fc2.com/blog-entry-218.html
