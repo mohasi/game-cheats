@@ -43,6 +43,7 @@ w32 00954C50 4082000C
 
 name: 1000x Attack Power + Magic
 score BLES01794 01.02: 75 1+ 0-
+score NPEB01268 01.02: 25 0+ 1-
 author: xtatu
 mode: once
 w32 00969B50 447A0000 working-val=79030020:1
@@ -59,6 +60,7 @@ mode: once
 w32 00954390 4082000C
 
 name: 1000x Attack Power + Magic
+score NPEB01268 01.02: 75 1+ 0-
 author: xtatu
 mode: once
-w32 00969290 447A0000
+w32 00969290 447A0000 working-val=79030020:1
