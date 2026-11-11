@@ -62,10 +62,11 @@ w32 32FCE478 41A00000
 w32 35528EC8 41A00000
 
 name: ASM Infinite Health
+score BLUS31426 01.00: 75 1+ 0-
 score NPUB31419 01.84: 17 0+ 2-
 author: jgduff1
 mode: once
-w32 004FD654 D1990008
+w32 004FD654 D1990008 working-val=80A10088:1
 
 name: Memory Unknown Code 1
 author: jgduff1
