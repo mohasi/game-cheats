@@ -2,9 +2,10 @@
 
 name: Infinite Health
 score BLES01794 01.02: 75 1+ 0-
+score NPEB01268 01.02: 75 1+ 0-
 author: xtatu
 mode: once
-w32 00956BC0 40820010 working-val=D8610188:1
+w32 00956BC0 40820010 working-val=907F5768:1,D8610188:1
 
 name: Invincible 1P
 author: xtatu
@@ -13,9 +14,10 @@ w32 00954AD0 4082000C
 
 name: Attack Power + Magic (1000X)
 score BLES01794 01.02: 75 1+ 0-
+score NPEB01268 01.02: 75 1+ 0-
 author: xtatu
 mode: once
-w32 009699D0 447A0000 working-val=78630020:1
+w32 009699D0 447A0000 working-val=30C10134:1,78630020:1
 
 name: AoB 1 Kill Level Max + 1 Quest Level Max + 1,000,000,000 Discipline + Max Gold + Max RC
 author: Medo
@@ -46,9 +48,10 @@ mode: once
 w32 00969B50 447A0000 working-val=79030020:1
 
 name: Infinite Health
+score NPEB01268 01.02: 75 1+ 0-
 author: xtatu
 mode: once
-w32 00956480 40820010
+w32 00956480 40820010 working-val=C9410188:1
 
 name: Invincible 1P
 author: xtatu
