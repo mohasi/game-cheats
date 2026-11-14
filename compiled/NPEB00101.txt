@@ -1,6 +1,7 @@
 # Call of Duty Classic
 
 name: Health (Godmode)
+score NPEB00101 01.00: 25 0+ 1-
 author: SHAkA
 mode: once
 w32 023864C0 60000000
