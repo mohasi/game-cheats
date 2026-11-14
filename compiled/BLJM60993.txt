@@ -32,10 +32,10 @@ w32 00AD3710 60000000
 w32 00AD3760 409DFFB4
 
 name: Infinite Magic + Miracles + Pyromancy Slot 1
-score BLJM60993 01.00: 75 1+ 0-
+score BLJM60993 01.00: 83 2+ 0-
 author: Medo
 mode: once
-w32 00ADBF5C 30A90004 working-val=392100C0:1
+w32 00ADBF5C 30A90004 working-val=392100C0:2
 
 name: Infinite Magic + Miracles + Pyromancy Slot 2
 author: Medo
