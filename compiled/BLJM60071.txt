@@ -1,6 +1,7 @@
 # Battlefield: Bad Company
 
 name: Infinite Ammo + No Reload + No Waiting Time For Health Syringe
+score BLES00261 01.20: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 00C0C224 60000000

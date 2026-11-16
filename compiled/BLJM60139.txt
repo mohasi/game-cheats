@@ -1,9 +1,10 @@
 # Musou Orochi Z
 
 name: Total EXP 99999
+score BLJM60139 02.00: 75 1+ 0-
 author: CodeFreak/PS3UserCheat
 mode: once
-w32 00653CB8 0001869F
+w32 00653CB8 0001869F working-val=00000000:1
 
 name: K.O.9999 in Quest
 author: CodeFreak/PS3UserCheat

@@ -32,6 +32,7 @@ mode: once
 aob 901D01DC901D01CC 913D01DC901D01CC
 
 name: AoB God Mode
+score BLUS30307 01.03: 75 1+ 0-
 author: dron_3
 mode: once
 aob 901D01CC901D01BC 901D01CC913D01BC
