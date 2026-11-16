@@ -17,10 +17,11 @@ mode: once
 w32 0003495C 60000000 working-val=7F7FD22E:1
 
 name: Max tools level
+score BCUS98174 01.11: 75 1+ 0-
 author: illusion
 mode: once
-w32 00082960 38000005
-w32 00082788 60000000
+w32 00082960 38000005 working-val=38000000:1
+w32 00082788 60000000 working-val=916A0008:1
 
 name: Infinite Ammo + Bottomless Clip (No Reload)
 score BCUS98174 01.11: 58 3+ 2-
