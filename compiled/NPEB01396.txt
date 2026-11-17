@@ -185,10 +185,10 @@ w32 014E4540 60000000
 w32 014E4544 7C0B0378
 
 name: Money 999999999 After Pickup + Steal
-score BLES01882 01.04: 75 1+ 0-
+score BLES01882 01.04: 83 2+ 0-
 author: bbs.duowan.com/thread-40379327-1-1.html
 mode: once
-w32 01D0BF08 60000000 working-val=3D200216:1
+w32 01D0BF08 60000000 working-val=3D200216:2
 
 name: Items Do Not Decrease Gold
 author: games24.blog.fc2.com/blog-entry-218.html

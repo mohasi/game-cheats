@@ -6,9 +6,10 @@ mode: once
 w32 009A5B58 60000000
 
 name: Infinite Money
+score BLES01384 01.04: 75 1+ 0-
 author: Jericho417, xtatu
 mode: once
-w32 01037128 60000000
+w32 01037128 60000000 working-val=419DFFA0:1
 
 name: AoB Infinite Health
 author: Jericho417, xtatu
