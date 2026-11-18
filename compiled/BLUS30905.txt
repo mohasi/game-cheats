@@ -57,9 +57,10 @@ mode: once
 w32 01037700 3880FFFF
 
 name: Max Moral
+score BLES01384 01.04: 75 1+ 0-
 author: ciao1102
 mode: once
-w32 01484718 38000063
+w32 01484718 38000063 working-val=85491238:1
 
 name: Infinite Health
 author: jgduff1

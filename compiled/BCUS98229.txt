@@ -23,7 +23,7 @@ mode: once
 w32 000726B0 38600001
 
 name: ASM Max + Infinite Health
-score BCUS98229 01.03: 75 1+ 0-
+score BCUS98229 01.03: 50 1+ 1-
 author: jgduff1
 mode: once
 w32 00060058 60000000 working-val=807F018C:1
@@ -89,6 +89,7 @@ w32 0053AB08 447A0000
 
 name: Max Red Orbs
 score BCES00791 01.01: 38 1+ 2-
+score BCUS98229 01.00: 25 0+ 1-
 score BCUS98229 01.01: 25 0+ 1-
 author: Wulf2k
 mode: once
