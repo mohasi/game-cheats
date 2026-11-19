@@ -41,6 +41,7 @@ w32 33D0777C 00110066
 
 name: ASM Reserve Ammo + Ammo In Clip Never Decrease
 score BLES01128 01.02: 75 1+ 0-
+score NPUB30702 01.06: 25 0+ 1-
 author: jgduff1
 mode: once
 w32 0066BFD4 380B0000 working-val=380BFFFF:1
