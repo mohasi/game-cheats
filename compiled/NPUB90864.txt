@@ -32,6 +32,7 @@ mode: once
 w32 00272FC4 418101C0
 
 name: Invincible Mode 3
+score BLES01465 01.06: 25 0+ 1-
 author: xtatu
 mode: once
 w32 00828EA8 418206C0
@@ -106,6 +107,7 @@ mode: once
 w32 007E6F70 4182000C
 
 name: AoB Counter Anything Anywhere
+score BLES01465 01.06: 75 1+ 0-
 author: puzzle
 mode: once
 aob 607F00002C1F0066418200E02C1F00457FFE07B4 3BE000352C1F0066418200E02C1F00457FFE07B4

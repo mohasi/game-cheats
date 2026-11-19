@@ -59,10 +59,11 @@ mode: once
 w32 0021E794 7D244B78
 
 name: Have All Items + Infinite All Items
+score BLES01815 01.00: 50 1+ 1-
 author: Medo
 mode: once
-w32 0048C588 38600063
-w32 0048C5E0 68800063
+w32 0048C588 38600063 working-val=60000000:1
+w32 0048C5E0 68800063 working-val=68800001:1
 
 name: Max + Infinite Overdrive
 author: Medo
@@ -208,10 +209,11 @@ mode: once
 w32 00207270 60000000
 
 name: All Items
+score BLES01815 01.00: 50 1+ 1-
 author: Medo
 mode: once
-w32 0048C588 38600063
-w32 0048C5E0 68800063
+w32 0048C588 38600063 working-val=60000000:1
+w32 0048C5E0 68800063 working-val=68800001:1
 
 name: Max Overdrive
 author: Medo

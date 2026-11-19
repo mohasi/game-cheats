@@ -47,6 +47,7 @@ w32 00094F1C 60000000
 w32 00095040 60000000
 
 name: All Hits Give You 9,999 Red Orbs
+score BCES00510 01.03: 25 0+ 1-
 author: bungholio
 mode: once
 w32 000950D4 60000000
