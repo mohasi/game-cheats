@@ -28,9 +28,10 @@ mode: once
 w32 009A7724 60000000
 
 name: Infinite Cash + Throwing Knives + Bullets
+score BLES01384 01.04: 75 1+ 0-
 author: Jericho417, xtatu
 mode: once
-w32 010347D4 60000000
+w32 010347D4 60000000 working-val=7F805840:1
 
 name: Max Money On Gain
 author: ciao1102
@@ -38,9 +39,10 @@ mode: once
 w32 01036F70 3880FFFF
 
 name: Max Moral
+score BLES01384 01.04: 75 1+ 0-
 author: ciao1102
 mode: once
-w32 01483F10 38000063
+w32 01483F10 38000063 working-val=38000063:1
 
 name: AoB Max Money On Gain
 author: ciao1102
@@ -74,6 +76,7 @@ mode: once
 w32 009A6394 60000000
 
 name: Infinite Cash, Throwing Knives, Bullets
+score BLES01384 01.04: 75 1+ 0-
 author: Jericho417, xtatu
 mode: once
-w32 0103795C 60000000
+w32 0103795C 60000000 working-val=939F0038:1
