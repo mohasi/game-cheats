@@ -69,6 +69,7 @@ mode: once
 w32 0036EDFC 48000020
 
 name: 9,999 Cameras Destroyed and Intel Picked Up On Change
+score BLUS30750 01.03: 25 0+ 1-
 author: bungholio
 mode: once
 w32 00775434 3920270F

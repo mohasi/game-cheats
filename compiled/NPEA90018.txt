@@ -1,6 +1,7 @@
 # Uncharted: Drake's Fortune
 
 name: Body Armor Mode
+score BCUS98103 01.10: 25 0+ 1-
 author: CodeFreak/PS3UserCheat
 mode: once
 w32 34A257C4 3F800000
@@ -68,6 +69,7 @@ w32 00081DC8 38000001
 w32 00081DCC 980902F8
 
 name: AoB Dev Menu
+score BCUS98103 01.10: 25 0+ 1-
 author: dron_3, HdHereidme
 mode: once
 aob 880902F82F800000419EFF48 880902F838000001980902F8
