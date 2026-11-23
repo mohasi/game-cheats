@@ -27,6 +27,7 @@ w32 00127290 386003E8
 w32 001272A4 60000000
 
 name: Infinite Ammo
+score BLUS30557 01.10: 25 0+ 1-
 author: Hiei-YYH
 mode: once
 w32 00451EA8 339C0000
@@ -55,9 +56,10 @@ w32 0012A318 386003E8
 w32 0012A32C 60000000
 
 name: Infinite Ammo
+score BLUS30557 01.10: 50 1+ 1-
 author: Hiei-YYH
 mode: once
-w32 00471EA8 339C0000
+w32 00471EA8 339C0000 working-val=339CFFFF:1
 
 name: Infinite Bullet-Time
 author: Hiei-YYH
