@@ -1,6 +1,7 @@
 # Lollipop Chainsaw
 
 name: Invincible Mode
+score BLUS30917 01.00: 25 0+ 1-
 author: xtatu
 mode: once
 w32 00099620 00000000

@@ -112,7 +112,7 @@ mode: once
 w32 005192A0 38A00000
 
 name: 0 Alerts
-score BLES02102 01.11: 25 0+ 1-
+score BLES02102 01.11: 17 0+ 2-
 author: dron_3
 mode: once
 w32 0051A3C4 38A00000
