@@ -1,6 +1,7 @@
 # Call of Duty: World at War
 
 name: Infinite Health
+score BLES00354 01.07: 25 0+ 1-
 score BLES00357 01.07: 25 0+ 1-
 author: jgduff1
 mode: once
@@ -21,6 +22,7 @@ mode: once
 w32 00115F1C 60000000
 
 name: Infinite Grenade
+score BLES00354 01.07: 25 0+ 1-
 score BLES00357 01.07: 75 1+ 0-
 author: jgduff1
 mode: once
