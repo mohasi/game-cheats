@@ -169,6 +169,7 @@ mode: once
 w32 01D064E0 7C090378
 
 name: Ammo Increases
+score BLES01884 01.04: 25 0+ 1-
 author: jijibecali
 mode: once
 w32 01D064E0 7D3F0214
