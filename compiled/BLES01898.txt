@@ -16,6 +16,7 @@ mode: once
 w32 00A92494 60000000
 
 name: AoB Infinite Ammo
+score NPUB31245 01.02: 25 0+ 1-
 author: games24.blog.fc2.com/blog-entry-193.html
 mode: once
 aob 3929FFFF912300044E80002038630234 39290000912300044E80002038630234

@@ -11,9 +11,10 @@ mode: once
 w32 0006D440 419DFAF4
 
 name: Infinite HP Player 1
+score NPEB01363 01.00: 75 1+ 0-
 author: Medo
 mode: once
-w32 00DCD3BC 43700000
+w32 00DCD3BC 43700000 working-val=00000000:1
 
 name: Player 1 - 1 Hit Kill
 author: Medo
@@ -27,10 +28,11 @@ mode: once
 w32 00E2AECC 43700000
 
 name: Player 2 - 1 Hit Kill
+score NPEB01363 01.00: 50 1+ 1-
 author: Medo
 mode: once
-w32 00DCD3BC 00000000
-w32 00DCD3C8 00000000
+w32 00DCD3BC 00000000 working-val=43700000:1
+w32 00DCD3C8 00000000 working-val=00000000:1
 
 name: Hit Anywhere
 author: xtatu
