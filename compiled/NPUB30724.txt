@@ -66,9 +66,10 @@ w32 008201A0 4186012C
 w32 008201B0 409A01CC
 
 name: 1000x Hit Range
+score BLES00599 01.01: 75 1+ 0-
 author: xtatu
 mode: once
-w32 00016DC0 3FA0447A
+w32 00016DC0 3FA0447A working-val=3FA03F80:1
 
 name: Normal 1x Hit Range
 author: xtatu
@@ -76,9 +77,10 @@ mode: once
 w32 00016DC0 3FA03F80
 
 name: 1000x Hit Range Modifier
+score BLES00599 01.01: 75 1+ 0-
 author: xtatu
 mode: once
-w32 00016DC0 3FA0447A
+w32 00016DC0 3FA0447A working-val=3FA03F80:1
 
 name: No Hit Work Affinity
 author: xtatu
