@@ -13,7 +13,7 @@ mode: once
 w32 0081A6DC FFE0F090 working-val=CBE100C8:1
 
 name: AoB Infinite Ammo + Grenades
-score BLUS31069 01.01: 75 1+ 0-
+score BLUS31069 01.01: 50 1+ 1-
 author: dron_3, games24.blog.fc2.com/blog-entry-144.html
 mode: once
 aob 30A5FFFF2C0500004080000838A000002C05000090BF0108 30A500002C0500004080000838A000002C05000090BF0108
